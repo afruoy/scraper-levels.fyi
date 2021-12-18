@@ -15,5 +15,5 @@ Basic web-scraping :
 
 * Navigating with [selenium-based webdriver](https://en.wikipedia.org/wiki/Selenium_(software))
 * Scraping with 
-    * [BeautofulSoup4](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser) 
+    * [BeautifulSoup4](https://en.wikipedia.org/wiki/Beautiful\_/Soup\_/(HTML\_/parser) 
     * [Requests-html](https://docs.python-requests.org/projects/requests-html/en/latest/)
