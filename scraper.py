@@ -56,11 +56,11 @@ for category in [k for k,v in category_jobs.items() if v][::-1]:
     print(category)
     category_rows = []
     curr_url = url_top + "?track=" + category
-    resp = session.get(curr_url)
-    resp.html.render()
     
     nbr_clicks_to_make = 0
     while nbr_clicks_to_make == 0:
+        resp = session.get(curr_url)
+        resp.html.render()
         n_total_rows = int(resp.html.find(".pagination-info")[0].full_text.split('of ')[1].split(' ')[0])
         nbr_clicks_to_make = (n_total_rows // 10) + (n_total_rows % 10 != 0)
         print(nbr_clicks_to_make)
