@@ -1,9 +1,19 @@
-## Scraper for levels.fyi website
+# Scraper for levels.fyi website
 
 ### Goal?
 
-#### recover all the database (for all the jobs proposed in the dropdown menu in [top url](https://www.levels.fyi/comp.html)
+Recover the complete compensation database for all the job types proposed in the dropdown menu at this url [https://www.levels.fyi/comp.html](https://www.levels.fyi/comp.html).
 
 
+### Difficulties?
+
+The tables are stored dynamically.
 
 ### How?
+
+Basic web-scraping : 
+
+* Navigating with [selenium-based webdriver](https://en.wikipedia.org/wiki/Selenium_(software))
+* Scraping with 
+    * [BeautofulSoup4](https://en.wikipedia.org/wiki/Beautiful_Soup_(HTML_parser) 
+    * [Requests-html](https://docs.python-requests.org/projects/requests-html/en/latest/)
