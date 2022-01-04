@@ -6,7 +6,7 @@
 
 - Try to mimic as much as possible the database as it is stored at the *levels.fyi* servers (sample [here](https://docs.google.com/spreadsheets/d/1brSr6NvdgkEGd7Lo1a_qlTVqLSUg1ENNxY3xDTtGFnI/edit#gid=0)).
 
-- Keep the csv files up-to-date twice a day.
+- Keep the csv files up-to-date 3 times a day.
 
 ### Why?
 
