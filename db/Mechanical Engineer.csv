@@ -1,0 +1,754 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Medtronic,United States,CA,Irvine,22/01/03,L2,General,0.0,0.0,92.0,85.0,0.0,7.0,0.0
+Mechanical Engineer,NASA JPL,United States,CA,Pasadena,22/01/02,L3,Systems,5.0,5.0,138.0,137.0,0.0,1.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Los Angeles,22/01/02,T3,Aerospace,2.0,2.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,TX,Dallas,22/01/01,L1,Product Design,2.0,2.0,79.0,75.0,4.0,0.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Los Angeles,21/12/31,l3,General,5.0,13.0,180.0,163.0,0.0,17.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,FL,Melbourne,21/12/31,T1,Aerodynamics,0.0,1.0,70.0,70.0,0.0,0.0,0.0
+Mechanical Engineer,NASA,United States,CA,Los Angeles,21/12/31,L2,General,0.0,2.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,CA,El Segundo,21/12/31,L1,Product Design,0.0,0.0,96.0,88.0,0.0,8.0,0.0
+Mechanical Engineer,HPE,United States,WA,Vancouver,21/12/30,V,Consumer electronics,6.0,6.0,109.0,98.0,5.0,6.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Salt Lake City,21/12/29,T2,General,1.0,1.0,78.0,78.0,0.0,0.0,0.0
+Mechanical Engineer,Google,Taiwan,TP,Taipei,21/12/29,L5,Technology,4.0,11.0,167.0,108.0,44.0,15.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/12/27,65,Microsoft,1.0,14.0,321.0,196.0,75.0,50.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/12/26,P1,Supplier Quality,0.0,0.0,130.0,105.0,18.0,8.0,0.0
+Mechanical Engineer,Ocado Group,United Kingdom,EN,Welwyn Garden City,21/12/25,E2,General,0.0,8.0,65.0,60.0,1.0,4.0,0.0
+Mechanical Engineer,Deloitte,Canada,BC,Vancouver,21/12/25,Consultant,Sap mm,0.0,3.0,73.0,66.0,0.0,6.0,0.0
+Mechanical Engineer,Carvana,United States,MO,Kansas City,21/12/24,L1,Automation,3.0,3.0,56.0,55.0,1.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/12/23,P4,General,5.0,18.0,145.0,135.0,0.0,10.0,0.0
+Mechanical Engineer,Amazon,United States,TX,Austin,21/12/23,L6,Material Handling Engineer,0.0,8.0,188.0,140.0,30.0,18.0,0.0
+Mechanical Engineer,Boeing,United States,UT,Salt Lake City,21/12/22,L2,Hardware,0.0,2.0,95.0,93.0,0.0,2.0,0.0
+Mechanical Engineer,BAE Systems,United States,PA,York,21/12/22,L2,Hardware,2.0,2.0,72.0,72.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/12/22,L3,General,1.0,4.0,180.0,140.0,40.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/12/22,P3,Battery Engineering,0.0,3.0,184.0,140.0,44.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,21/12/22,M5,System engineer,9.0,13.0,238.0,181.0,11.0,45.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,21/12/21,SG5,Powertrain,1.0,1.0,81.0,77.0,0.0,4.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,NJ,Moorestown,21/12/21,L2,Design/Cad,0.0,0.0,91.0,85.0,0.0,6.0,0.0
+Mechanical Engineer,ASML,United States,CA,San Diego,21/12/20,JG 6,Source,3.0,3.0,97.0,87.0,0.0,10.0,0.0
+Mechanical Engineer,Toyota USA,United States,CA,San Diego,21/12/19,2,Quality,0.0,2.0,105.0,95.0,0.0,10.0,0.0
+Mechanical Engineer,Thermo Fisher Scientific,United States,TX,Austin,21/12/18,Band 4,Process Development,1.0,1.0,72.0,68.0,0.0,4.0,0.0
+Mechanical Engineer,Startup,United States,CA,San Jose,21/12/17,L3,General,1.0,3.0,150.0,150.0,0.0,0.0,0.0
+Mechanical Engineer,Intel,United States,NM,Rio Rancho,21/12/17,Grade 6,Fab,3.0,3.0,106.0,89.0,5.0,12.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/12/17,1,Design,1.0,2.0,84.0,82.0,0.0,2.0,0.0
+Mechanical Engineer,Blue Origin,United States,FL,Cape Canaveral,21/12/16,L3,Sensors,0.0,10.0,145.0,145.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Kennewick,21/12/15,L6,Infrastructure,3.0,10.0,230.0,155.0,75.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/12/15,Senior Engineer,Design,1.0,3.0,130.0,110.0,15.0,5.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,VA,Dulles,21/12/15,T3,Space Systems,7.0,7.0,108.0,108.0,0.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,San Francisco,21/12/15,E3 Senior,Hardware,1.0,3.0,156.0,135.0,8.0,14.0,0.0
+Mechanical Engineer,Facebook,United States,CA,San Jose,21/12/15,IC3,mechanical design,0.0,1.0,162.0,125.0,23.0,15.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Los Angeles,21/12/15,L1,manufacturing,1.0,1.0,101.0,80.0,21.0,0.0,0.0
+Mechanical Engineer,Procter & Gamble,United States,MO,St. Louis,21/12/14,B1,Manufacturing,3.0,3.0,110.0,100.0,10.0,0.0,0.0
+Mechanical Engineer,Keysight,United States,CA,Santa Rosa,21/12/13,Entry,New Product Integration,0.0,0.0,93.0,83.0,0.0,10.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/12/12,L5,Mechanims,0.0,6.0,197.0,145.0,34.0,18.0,0.0
+Mechanical Engineer,Google,Taiwan,TP,Taipei,21/12/12,L4,Product Design,1.0,10.0,131.0,83.0,30.0,18.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Sterling,21/12/12,L5,Critical Projects Implementation (CPI),1.0,6.0,169.0,130.0,21.0,18.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,21/12/12,L6,General,6.0,9.0,375.0,180.0,195.0,0.0,0.0
+Mechanical Engineer,Collins Aerospace,United States,CT,Hartford,21/12/11,P4,Jet Engines,3.0,8.0,111.0,109.0,0.0,2.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/12/10,CC02,Powertrain,7.0,7.0,110.0,102.0,0.0,8.0,0.0
+Mechanical Engineer,Amazon,United States,TX,Dallas,21/12/10,L5,Project,0.0,6.0,132.0,97.0,21.0,13.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Redondo Beach,21/12/10,E2,Mechanical Engineer,0.0,1.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/12/09,L3,777,10.0,10.0,120.0,118.0,0.0,2.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,21/12/09,GSR7,Powertrain,5.0,5.0,110.0,103.0,0.0,7.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,VA,Dulles,21/12/08,P1,Mechanical Analysis,1.0,2.0,90.0,90.0,0.0,0.0,0.0
+Mechanical Engineer,Halliburton,United States,TX,Houston,21/12/08,Principle,design,5.0,10.0,180.0,140.0,30.0,10.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Seattle,21/12/08,IC5,Mechanical engineering,2.0,7.0,310.0,180.0,100.0,30.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Herndon,21/12/08,L4,Data Center,0.0,2.0,149.0,120.0,17.0,12.0,8.0
+Mechanical Engineer,ASUS,Taiwan,TP,Taipei,21/12/08,Senior Engineer,NB,5.0,5.0,33.0,27.0,0.0,6.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/12/07,ICT5,General,2.0,7.0,450.0,195.0,230.0,25.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,CO,Colorado Springs,21/12/04,L1,New College Grad,0.0,0.0,78.0,76.0,0.0,2.0,0.0
+Mechanical Engineer,BD,United States,UT,Sandy,21/12/03,L2,R&D,3.0,3.0,79.0,76.0,0.0,3.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Herndon,21/12/02,L4,Datacenter Lifecycle Support,0.0,2.0,142.0,110.0,19.0,14.0,1.7
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/12/02,L1,Fluids,0.0,0.0,91.0,91.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/12/02,L6,Hardware,3.0,5.0,255.0,155.0,100.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/12/01,ICT2,Product Design,0.0,0.0,168.0,120.0,13.0,35.0,0.0
+Mechanical Engineer,Boeing,United States,LA,New Orleans,21/11/29,L2,mechanical aerospace,2.0,4.0,87.0,84.0,1.0,2.0,0.0
+Mechanical Engineer,GE,United States,WI,Waukesha,21/11/28,LPB,General,10.0,10.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,21/11/28,L2,Mechanical Design,0.0,3.0,130.0,115.0,4.0,12.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/11/25,SG24,Group Leader,7.0,7.0,110.0,105.0,0.0,5.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/11/24,L5,Satellites,0.0,2.0,187.0,133.0,33.0,21.0,0.0
+Mechanical Engineer,Ford Motor Company,United States,MI,Dearborn,21/11/23,GSR7,"ADAS, DAT",0.0,0.0,93.0,90.0,0.0,3.0,0.0
+Mechanical Engineer,AMD,Canada,ON,Toronto,21/11/23,L1,Thermal,0.0,1.0,70.0,60.0,5.0,5.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Irvine,21/11/20,Riv-6,Mechanical Design,1.0,11.0,195.0,160.0,35.0,0.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,IL,Chicago,21/11/20,Associate Engineer,Process Engineering,0.0,1.0,78.0,78.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/11/20,L5,Infrastructure design,0.0,4.0,153.0,100.0,25.0,28.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/11/17,ICT2,General,0.0,1.0,133.0,120.0,13.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/11/17,L1,Commercial,0.0,1.0,84.0,84.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/11/17,Engineer,General,0.0,0.0,130.0,120.0,10.0,0.0,20.0
+Mechanical Engineer,Boeing,United States,AZ,Mesa,21/11/16,L3,PLM Tools,3.0,3.0,99.0,95.0,0.0,4.0,0.0
+Mechanical Engineer,Eaton,United States,MN,Minneapolis,21/11/16,L3,General,5.0,8.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/11/16,P3,Materials Engineering,1.0,1.0,185.0,140.0,45.0,0.0,0.0
+Mechanical Engineer,ASML,United States,CT,Wilton,21/11/15,Job Grade 8,Analysis,2.0,2.0,142.0,121.0,0.0,21.0,5.6
+Mechanical Engineer,Facebook,United States,WA,Vancouver,21/11/15,IC6,AR,0.0,17.0,340.0,196.0,106.0,38.0,0.0
+Mechanical Engineer,iRobot,United States,MA,Bedford,21/11/13,Sr. Mechanical Engineer,Mechanical Design,4.0,9.0,135.0,128.0,0.0,7.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/11/13,P2,Battery,2.0,4.0,322.0,112.0,200.0,10.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/11/12,L2,Structures,2.0,2.0,91.0,87.0,4.0,0.0,0.0
+Mechanical Engineer,Anduril Industries,United States,CA,Irvine,21/11/12,L1,Test engineering,0.0,1.0,161.0,120.0,38.0,3.0,0.0
+Mechanical Engineer,Amazon,United States,MA,Boston,21/11/11,L4,Amazon Robotics,0.0,3.0,138.0,108.0,18.0,12.0,0.0
+Mechanical Engineer,Chevron,United States,TX,Midland,21/11/11,21,General,4.0,4.0,131.0,117.0,0.0,14.0,0.0
+Mechanical Engineer,Keysight,United States,CO,Colorado Springs,21/11/11,L2,Design,0.0,0.0,84.0,84.0,0.0,0.0,0.0
+Mechanical Engineer,Honeywell,United States,MD,Owings Mills,21/11/10,L3,Machine Design,4.0,10.0,99.0,99.0,0.0,0.0,0.0
+Mechanical Engineer,HCL Technologies,United States,TX,Houston,21/11/08,E1,Design,0.0,3.0,68.0,68.0,0.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/11/08,P5,Opto-Mechanical,15.0,17.0,157.0,157.0,0.0,0.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Irvine,21/11/07,2,PLM,1.0,4.0,113.0,100.0,13.0,0.0,0.0
+Mechanical Engineer,Seagate,United States,MN,Shakopee,21/11/06,L2,Research,0.0,1.0,116.0,105.0,0.0,11.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Spring,21/11/06,CL23,Engineering,1.0,1.0,102.0,102.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/11/06,ICT4,General,2.0,7.0,327.0,167.0,130.0,30.0,0.0
+Mechanical Engineer,Caterpillar,United States,IL,Peoria,21/11/06,SG25,General,15.0,15.0,168.0,140.0,0.0,28.0,0.0
+Mechanical Engineer,Akamai,United States,MA,Boston,21/11/05,3,Heat transfer,5.0,5.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,CA,Los Angeles,21/11/04,L3,General,4.0,6.0,109.0,105.0,0.0,4.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/11/04,2,"Hydraulics, Mechanical Design",2.0,6.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Applied Materials,Taiwan,KH,Tainan,21/11/03,E1,Manufacturing,1.0,4.0,35.0,28.0,0.0,7.0,0.0
+Mechanical Engineer,General Motors,United States,MI,Warren,21/11/02,5A,CAE,1.0,1.0,88.0,80.0,0.0,8.0,0.0
+Mechanical Engineer,Michelin,Canada,NS,New Glasgow,21/11/02,N,Quality,0.0,0.0,52.0,50.0,0.0,2.0,0.0
+Mechanical Engineer,Stellantis,United States,MI,Auburn Hills,21/11/01,Mid Level Professional,Powertrain,5.0,6.0,104.0,96.0,0.0,8.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/11/01,P1,General,0.0,1.0,126.0,106.0,15.0,5.0,8.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/10/30,L4,Measurement,9.0,10.0,140.0,135.0,0.0,5.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Seattle,21/10/28,62,Surface,4.0,4.0,198.0,162.0,19.0,17.0,0.0
+Mechanical Engineer,General Atomics,United States,CA,San Diego,21/10/28,L4,Aerospace,3.0,10.0,124.0,118.0,0.0,6.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CO,Denver,21/10/27,L2,General,1.0,3.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,Singapore,SG,Singapore,21/10/27,ICT3,General,0.0,8.0,86.0,70.0,17.0,0.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Redondo Beach,21/10/26,L4,Research and Development,5.0,10.0,165.0,155.0,0.0,10.0,0.0
+Mechanical Engineer,Honeywell,United States,CA,Torrance,21/10/26,1,General,1.0,1.0,80.0,79.0,0.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/26,ICT3,Manufacturing,5.0,5.0,160.0,120.0,30.0,10.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,21/10/26,IC5,Engineering,0.0,5.0,226.0,170.0,30.0,26.0,0.0
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,21/10/26,ICT3,manufacturing,3.0,8.0,230.0,133.0,80.0,17.0,0.0
+Mechanical Engineer,Snap,United States,CA,Los Angeles,21/10/25,L6,Mechanical,0.0,13.0,533.0,250.0,233.0,50.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/25,ICT5,System Lead,8.0,12.0,390.0,210.0,140.0,40.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,21/10/25,L6,Research,0.0,13.0,463.0,230.0,188.0,45.0,0.0
+Mechanical Engineer,Intel,United States,AZ,Chandler,21/10/25,Grade 6,Packaging,8.0,8.0,119.0,105.0,6.0,8.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,21/10/25,CL25,Reliability,5.0,5.0,126.0,126.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/10/24,L3,System Test,6.0,6.0,111.0,107.0,0.0,4.0,0.0
+Mechanical Engineer,Blue Origin,United States,FL,Cape Canaveral,21/10/24,L1,Fluids,1.0,1.0,90.0,80.0,0.0,10.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,21/10/24,Lead,General,1.0,1.0,170.0,100.0,70.0,0.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,21/10/23,l3,Thermal,1.0,5.0,140.0,140.0,0.0,0.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,21/10/22,E1,Machining,2.0,2.0,108.0,83.0,20.0,5.0,0.0
+Mechanical Engineer,NASA JPL,United States,CA,Los Angeles,21/10/22,L3,Dynamics,5.0,5.0,136.0,135.0,0.0,1.0,0.0
+Mechanical Engineer,General Motors,United States,MI,Milford,21/10/22,L4,AV,3.0,3.0,93.0,85.0,0.0,8.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/21,ICT4,PDE,0.0,6.0,222.0,165.0,40.0,17.0,0.0
+Mechanical Engineer,AECOM,United States,CA,San Francisco,21/10/21,L2,Industrial,2.0,2.0,93.0,93.0,0.0,0.0,0.0
+Mechanical Engineer,Corning Incorporated,United States,TX,Fort Worth,21/10/20,C,Mechanical Engineer,6.0,20.0,122.0,115.0,0.0,7.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Herndon,21/10/20,L4,Datacenter Lifecycle Support,0.0,2.0,129.0,110.0,19.0,0.0,6.8
+Mechanical Engineer,Facebook,United States,CA,Sunnyvale,21/10/19,IC4,PD,0.0,5.0,237.0,164.0,56.0,16.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,CA,Irvine,21/10/19,Engineer 1,Product Development,0.0,2.0,100.0,93.0,0.0,7.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,21/10/17,GSR8,Research,4.0,4.0,131.0,126.0,0.0,5.0,0.0
+Mechanical Engineer,ASML,Taiwan,TP,Taipei,21/10/16,JG6,CS,3.0,6.0,44.0,33.0,0.0,11.0,0.0
+Mechanical Engineer,Google,United States,CA,Sunnyvale,21/10/15,L5,Platics,3.0,30.0,282.0,180.0,75.0,27.0,0.0
+Mechanical Engineer,Nike,United States,OR,Beaverton,21/10/15,U,Consumer electronics,4.0,17.0,181.0,159.0,0.0,22.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/10/14,P2,Industrial Storage,0.0,3.0,136.0,115.0,21.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,MO,St. Louis,21/10/12,L2,Infrared,3.0,3.0,84.0,80.0,0.0,4.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/11,ICT3,PD,1.0,1.0,195.0,142.0,42.0,11.0,0.0
+Mechanical Engineer,Intel,United States,OR,Portland,21/10/11,Grade 5,Facilities,4.0,4.0,104.0,92.0,8.0,4.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,21/10/10,Grade 7,Test Development,0.0,0.0,143.0,120.0,8.0,15.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Ogden,21/10/09,L3,General,4.0,4.0,81.0,81.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,San Francisco,21/10/07,ICT4,PD,6.0,6.0,315.0,160.0,130.0,25.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Lompoc,21/10/06,L1,Controls,0.0,0.0,105.0,80.0,25.0,0.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,MD,Baltimore,21/10/06,T1,Manufacturing,0.0,0.0,73.0,73.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/05,ICT5,Project Lead,8.0,11.0,371.0,210.0,130.0,31.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/10/05,L5,Mechanical,1.0,5.0,207.0,148.0,32.0,27.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,21/10/02,IC4,AR,0.0,3.0,195.0,145.0,35.0,15.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,21/10/02,M0,Dimensional Engineering,1.0,32.0,279.0,193.0,57.0,29.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/10/01,ICT5,Hardware,8.0,18.0,408.0,188.0,180.0,40.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/09/29,M3,General,7.0,11.0,240.0,160.0,80.0,0.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Los Angeles,21/09/29,L1,Mechanical engineer,2.0,2.0,105.0,85.0,20.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/09/28,L6,Satellites,0.0,7.0,312.0,160.0,91.0,61.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/09/27,ICT3,Imaging and Sensing,4.0,6.0,230.0,150.0,20.0,60.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,FL,Jacksonville,21/09/27,L24,Manufacturing/Operations,0.0,0.0,91.0,83.0,0.0,8.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/09/27,L4,General,4.0,6.0,210.0,150.0,60.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/09/27,P2,Battery Structures,0.0,0.0,117.0,100.0,12.0,5.0,0.0
+Mechanical Engineer,Roche,United States,CA,Santa Clara,21/09/27,L3,General,3.0,5.0,123.0,115.0,0.0,8.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,21/09/26,2,Materials Engineering,4.0,4.0,107.0,104.0,0.0,3.0,0.0
+Mechanical Engineer,Amazon,United States,MA,Boston,21/09/25,L5,SUPPLIER quality,0.0,8.0,168.0,145.0,23.0,0.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Beaumont,21/09/25,25,General,4.0,4.0,126.0,126.0,0.0,0.0,0.0
+Mechanical Engineer,TSMC,China,CN,Taichung City,21/09/23,31,Yield,1.0,1.0,43.0,28.0,0.0,14.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,21/09/22,L4,hardware,3.0,8.0,204.0,166.0,30.0,8.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/09/21,CC03,Engineer,10.0,10.0,141.0,121.0,0.0,20.0,0.0
+Mechanical Engineer,Intel,Taiwan,TP,Taipei,21/09/20,Grade 7,mechanical engineering,0.0,9.0,80.0,75.0,3.0,3.0,0.0
+Mechanical Engineer,GlobalFoundries,United States,NY,Saratoga Springs,21/09/18,P2,Industrial Engineer,1.0,1.0,80.0,77.0,0.0,3.0,0.0
+Mechanical Engineer,SpaceX,United States,TX,Brownsville,21/09/18,L1,Avionics,0.0,1.0,112.0,81.0,31.0,0.0,0.0
+Mechanical Engineer,Walmart,United States,AR,Bentonville,21/09/18,6,engineering,4.0,10.0,150.0,105.0,25.0,20.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,TX,Dallas,21/09/17,L2,Sustainment and Reliability,3.0,3.0,93.0,92.0,0.0,1.0,0.0
+Mechanical Engineer,Medtronic,United States,CO,Boulder,21/09/17,Senior Engineer,Npd,8.0,10.0,110.0,100.0,1.0,10.0,0.0
+Mechanical Engineer,Tesla,United States,TX,Austin,21/09/16,P3,Supplier Quality,0.0,27.0,198.0,145.0,53.0,0.0,0.0
+Mechanical Engineer,JLL,United States,CA,Santa Clara,21/09/16,P3,Building Automation System,0.0,4.0,176.0,160.0,0.0,16.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/09/16,ICT4,General,4.0,6.0,243.0,161.0,63.0,19.0,0.0
+Mechanical Engineer,Molex,United States,MI,Auburn Hills,21/09/15,L3,General,5.0,7.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,21/09/14,L2,Autonomous vehicle,0.0,2.0,164.0,128.0,25.0,11.0,0.0
+Mechanical Engineer,Stryker,United States,CA,San Jose,21/09/14,L4,General,11.0,12.0,172.0,156.0,0.0,16.0,0.0
+Mechanical Engineer,Procter & Gamble,United States,OH,Cincinnati,21/09/13,Process Engineer,Manufacturing,1.0,1.0,90.0,86.0,4.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/09/08,L1,Flight Sciences,2.0,2.0,89.0,86.0,0.0,3.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/09/08,CC02,Controls Engineer,9.0,9.0,100.0,93.0,0.0,8.0,0.0
+Mechanical Engineer,DELTA,Taiwan,TA,Taoyuan,21/09/07,S3,PSBG,3.0,11.0,61.0,42.0,0.0,19.0,0.0
+Mechanical Engineer,Qualcomm,Taiwan,TP,Hsin-chu,21/09/07,Engineer,Simulation,1.0,1.0,49.0,36.0,7.0,6.0,0.0
+Mechanical Engineer,Sensata Technologies,United States,MA,Attleboro,21/09/06,PF2,Aerospace,2.0,2.0,83.0,82.0,0.0,2.0,0.0
+Mechanical Engineer,Sensata Technologies,United States,CA,Thousand Oaks,21/09/06,PF1,Aerospace,0.0,0.0,76.0,75.0,0.0,1.0,0.0
+Mechanical Engineer,Sensata Technologies,United States,CA,Thousand Oaks,21/09/06,PF2,Aerospace,2.0,2.0,84.0,82.0,0.0,2.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,21/09/05,L1,Thermal,1.0,2.0,109.0,82.0,22.0,5.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,21/09/05,E5,Product Design,1.0,6.0,245.0,190.0,38.0,17.0,0.0
+Mechanical Engineer,Tektronix,United States,OR,Beaverton,21/09/04,Entry Level,Design,1.0,1.0,79.0,75.0,0.0,4.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/09/04,L5,General,1.0,4.0,168.0,120.0,48.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,21/09/03,E3,Robotics,6.0,6.0,161.0,130.0,18.0,13.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/09/02,62,Surface,3.0,9.0,183.0,155.0,8.0,20.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/09/01,ICT4,Product Development,8.0,14.0,400.0,180.0,150.0,70.0,0.0
+Mechanical Engineer,Eaton,United States,WI,Milwaukee,21/09/01,8,Electrical engineering,10.0,10.0,108.0,105.0,0.0,3.0,0.0
+Mechanical Engineer,General Motors,United States,MI,Warren,21/09/01,6A,ADAS,4.0,8.0,124.0,105.0,8.0,11.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/08/31,4,General,15.0,17.0,145.0,142.0,0.0,3.0,0.0
+Mechanical Engineer,AECOM,Canada,QC,Montreal,21/08/31,L1,HVAC,0.0,1.0,46.0,45.0,0.0,1.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/08/31,L3,General,5.0,5.0,125.0,120.0,0.0,5.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CT,Stratford,21/08/30,E4,Test,3.0,3.0,92.0,89.0,0.0,3.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Redondo Beach,21/08/29,L2,Stress,4.0,6.0,96.0,96.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,China,GD,Shenzhen,21/08/28,ICT3,Product design,1.0,5.0,82.0,62.0,20.0,0.0,0.0
+Mechanical Engineer,HTC,Taiwan,TP,Taipei,21/08/28,11,Product design,2.0,4.0,37.0,26.0,0.0,11.0,0.0
+Mechanical Engineer,Verifone,Taiwan,TP,Taipei,21/08/28,3,General,1.0,16.0,69.0,63.0,0.0,6.0,0.0
+Mechanical Engineer,Foxconn,Taiwan,TP,Taipei,21/08/28,L5,Server,10.0,10.0,50.0,42.0,0.0,8.0,0.0
+Mechanical Engineer,Delta Electronics,Taiwan,TA,Taoyuan,21/08/27,S2,Power supply,5.0,5.0,46.0,32.0,0.0,15.0,0.0
+Mechanical Engineer,Apple,China,GD,Shenzhen,21/08/27,ICT3,System,1.0,5.0,86.0,66.0,20.0,0.0,0.0
+Mechanical Engineer,Daimler,United States,OR,Portland,21/08/27,L6,Automotive,5.0,5.0,90.0,87.0,0.0,3.0,0.0
+Mechanical Engineer,Supermicro,United States,CA,San Jose,21/08/26,Senior engineer,Thermal issue,1.0,7.0,174.0,120.0,54.0,0.0,0.0
+Mechanical Engineer,Foxconn,Taiwan,TP,Taipei,21/08/26,L4,Server,2.0,6.0,34.0,27.0,0.0,7.0,0.0
+Mechanical Engineer,AMD,United States,TX,Austin,21/08/25,L6,Thermal,0.0,0.0,155.0,125.0,18.0,13.0,0.0
+Mechanical Engineer,Anheuser-Busch InBev,United States,NJ,Newark,21/08/25,6B,Manufacturing,2.0,4.0,128.0,108.0,0.0,20.0,0.0
+Mechanical Engineer,Texas Instruments,United States,TX,Richardson,21/08/24,28,Fab,3.0,3.0,122.0,102.0,0.0,20.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,21/08/24,GSR6,Powertrain,2.0,2.0,86.0,82.0,0.0,4.0,0.0
+Mechanical Engineer,Milwaukee Tool,United States,WI,Brookfield,21/08/24,Senior Engineer,Testing,7.0,7.0,101.0,99.0,0.0,2.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/08/23,L1,Systems Test,0.0,0.0,90.0,80.0,0.0,10.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Manassas,21/08/23,L4,General,1.0,6.0,142.0,110.0,20.0,12.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/08/22,P2,High Voltage,1.0,2.0,120.0,105.0,15.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,21/08/21,E2,CVD,0.0,1.0,135.0,115.0,10.0,10.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Sunnyvale,21/08/20,IC5,FRL,2.0,5.0,304.0,190.0,85.0,29.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/08/20,L7,Process Engineering,0.0,21.0,239.0,155.0,84.0,0.0,0.0
+Mechanical Engineer,Varian Medical Systems,United States,CA,Palo Alto,21/08/19,L3,Manufacturing,3.0,7.0,130.0,118.0,0.0,12.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Sunnyvale,21/08/18,IC5,Product Design,2.0,10.0,340.0,188.0,124.0,28.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,San Diego,21/08/18,T3,Structural,1.0,5.0,115.0,115.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/08/18,L2,Aerospace,2.0,2.0,88.0,86.0,0.0,2.0,0.0
+Mechanical Engineer,Microsoft,United States,CA,San Jose,21/08/17,L5,Engineer,5.0,10.0,175.0,125.0,25.0,25.0,0.0
+Mechanical Engineer,Foxconn,Taiwan,TP,Taipei,21/08/17,4,CAA-iDPBG,1.0,8.0,31.0,27.0,0.0,4.0,0.0
+Mechanical Engineer,TPV,Taiwan,TP,Taipei,21/08/17,G05,LCM design (TV),4.0,10.0,34.0,25.0,0.0,9.0,0.0
+Mechanical Engineer,Edwards Lifesciences,United States,CA,Irvine,21/08/17,P3,CAD,3.0,3.0,91.0,85.0,0.0,7.0,0.0
+Mechanical Engineer,Foxconn,Taiwan,TP,Taipei,21/08/17,Engineer 4,General,3.0,6.0,47.0,34.0,0.0,12.0,0.0
+Mechanical Engineer,TPV,Taiwan,TP,Taipei,21/08/16,G06,TV,2.0,14.0,47.0,30.0,0.0,17.0,0.0
+Mechanical Engineer,TPV,Taiwan,TP,Taipei,21/08/16,G06,Monitor,3.0,14.0,55.0,36.0,0.0,19.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,21/08/16,L2,General,3.0,3.0,113.0,110.0,0.0,3.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Sunnyvale,21/08/16,E5,Manufacturing,0.0,8.0,304.0,190.0,85.0,29.0,0.0
+Mechanical Engineer,DELTA,Taiwan,TA,Taoyuan,21/08/15,S2,Power,3.0,3.0,47.0,23.0,0.0,24.0,0.0
+Mechanical Engineer,KLA,China,CN,Taichung City,21/08/15,E03,TSMC,7.0,7.0,52.0,29.0,5.0,17.0,0.0
+Mechanical Engineer,TSMC,Taiwan,KH,Tainan,21/08/15,31,Semiconductor,3.0,3.0,78.0,32.0,0.0,46.0,0.0
+Mechanical Engineer,Synology,Taiwan,TP,Taipei,21/08/14,,General,3.0,3.0,43.0,27.0,7.0,9.0,0.0
+Mechanical Engineer,Google,Taiwan,TP,Taipei,21/08/14,L4,Simulation,3.0,4.0,106.0,72.0,20.0,14.0,0.0
+Mechanical Engineer,Pegatron,Taiwan,TP,Taipei,21/08/14,,General,3.0,6.0,36.0,26.0,0.0,10.0,0.0
+Mechanical Engineer,Microsoft,Taiwan,TP,Taipei,21/08/14,62,Azure,3.0,15.0,100.0,80.0,10.0,10.0,0.0
+Mechanical Engineer,TSMC,Taiwan,KH,Tainan,21/08/14,33T,Team Leader,8.0,8.0,101.0,44.0,0.0,58.0,0.0
+Mechanical Engineer,TPV,Taiwan,TP,Taipei,21/08/13,G05,LCM,1.0,5.0,31.0,27.0,0.0,4.0,0.0
+Mechanical Engineer,ASML,Taiwan,KH,Tainan,21/08/13,5,Equipment DUV,1.0,1.0,47.0,38.0,0.0,9.0,0.0
+Mechanical Engineer,Foxconn,Taiwan,TP,Taipei,21/08/13,L3,Thermal design,1.0,4.0,29.0,29.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/08/13,ICT3,Consumer Electronics,1.0,6.0,270.0,175.0,70.0,25.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Palo Alto,21/08/12,T4,Structural Analysis,1.0,1.0,90.0,90.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/08/10,ICT3,General,4.0,6.0,217.0,147.0,50.0,20.0,0.0
+Mechanical Engineer,AMAT,China,CN,Taichung City,21/08/08,C3,Semi,5.0,5.0,93.0,53.0,3.0,38.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/08/08,P3,Manufacturing,1.0,8.0,189.0,125.0,46.0,18.0,0.0
+Mechanical Engineer,Pegatron,Taiwan,TP,Taipei,21/08/06,6 YEARS,"ID design, Laptop assembly",1.0,6.0,44.0,34.0,0.0,9.0,0.0
+Mechanical Engineer,ASML,Taiwan,TP,Hsin-chu,21/08/05,8,Semiconductor equipment supplier,8.0,10.0,93.0,68.0,0.0,25.0,0.0
+Mechanical Engineer,Corning,Taiwan,TP,Taipei,21/08/05,B,Customer engagement and R&D,3.0,5.0,55.0,45.0,0.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/08/05,ICT4,Hardware,3.0,6.0,294.0,169.0,100.0,25.0,0.0
+Mechanical Engineer,Honeywell,United States,MO,Kansas City,21/08/05,Mechanical Engineer II,Quality,3.0,3.0,86.0,86.0,0.0,0.0,0.0
+Mechanical Engineer,TSMC,Taiwan,TP,Taichung City,21/08/04,G31,General,2.0,2.0,57.0,24.0,0.0,33.0,0.0
+Mechanical Engineer,Wistron,Taiwan,TP,Taipei,21/08/04,9,"general, not consuming",5.0,6.0,39.0,31.0,0.0,8.0,0.0
+Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,21/08/04,,Design,5.0,6.0,79.0,72.0,0.0,7.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Renton,21/08/03,L2,General,1.0,3.0,94.0,90.0,0.0,4.0,0.0
+Mechanical Engineer,Google,Taiwan,TP,Taipei,21/08/01,L5,Pixel,4.0,12.0,315.0,100.0,200.0,15.0,0.0
+Mechanical Engineer,Wistron,Taiwan,TP,Taipei,21/08/01,A3,Server,1.0,2.0,27.0,20.0,0.0,7.0,0.0
+Mechanical Engineer,Siemens,United States,FL,Orlando,21/08/01,Engineer 3,Thermal Engineer,3.0,3.0,100.0,90.0,0.0,10.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,21/08/01,E4,General,1.0,5.0,282.0,162.0,80.0,40.0,0.0
+Mechanical Engineer,Toyota USA,United States,MI,Ann Arbor,21/07/31,L5,Automotive,3.0,5.0,80.0,65.0,0.0,15.0,0.0
+Mechanical Engineer,Amazon,United States,MI,Grand Rapids,21/07/30,L5,Diagnostics,1.0,3.0,203.0,105.0,50.0,48.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/07/29,P2,Dimensional,0.0,2.0,134.0,115.0,19.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,PA,Ridley Park,21/07/29,P5,Aerospace,16.0,18.0,145.0,140.0,0.0,5.0,0.0
+Mechanical Engineer,GE Aviation,United States,OH,Cincinnati,21/07/29,Lead Professional Band,General,10.0,10.0,104.0,104.0,0.0,0.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Palo Alto,21/07/28,T4,Structural Analysis,4.0,4.0,97.0,97.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/07/27,L5,Robotics,0.0,5.0,178.0,135.0,24.0,19.0,0.0
+Mechanical Engineer,Cruise,United States,CA,San Francisco,21/07/25,L4,Hardware - Mechanical,0.0,7.0,254.0,165.0,40.0,49.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Redmond,21/07/25,L5,Satellite,0.0,7.0,200.0,135.0,38.0,28.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,21/07/24,CL-24,Instrumentation & Automation,3.0,4.0,115.0,115.0,0.0,0.0,0.0
+Mechanical Engineer,Medtronic,United States,CA,Northridge,21/07/24,Senior Engineer,Automation manufacturing,4.0,5.0,115.0,100.0,5.0,10.0,0.0
+Mechanical Engineer,Google,United States,VA,Reston,21/07/24,L6,Product design,1.0,15.0,470.0,180.0,250.0,40.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/07/23,ICT3,Imaging & Sensing,4.0,8.0,209.0,151.0,50.0,8.0,0.0
+Mechanical Engineer,Tesla,United States,CA,San Francisco,21/07/21,P2,Design,0.0,2.0,140.0,110.0,20.0,10.0,0.0
+Mechanical Engineer,GE,United States,NC,Wilmington,21/07/20,L1,Nuclear,0.0,1.0,78.0,73.0,0.0,5.0,0.0
+Mechanical Engineer,Amazon,United States,MA,Westborough,21/07/20,L5,Mechanical,2.0,5.0,155.0,115.0,27.0,13.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Herndon,21/07/16,L4,AWS,0.0,3.0,150.0,115.0,15.0,20.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,21/07/16,GSR7,Feature Development,4.0,4.0,102.0,95.0,0.0,7.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,TX,Dallas,21/07/15,L3,"CCA, PWB",2.0,12.0,131.0,128.0,0.0,3.0,0.0
+Mechanical Engineer,Stryker,United States,CA,San Jose,21/07/15,Senior engineer,Mechanical engineer,3.0,5.0,120.0,115.0,0.0,5.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,21/07/14,L5,Vehicle,4.0,11.0,242.0,202.0,40.0,0.0,0.0
+Mechanical Engineer,General Electric,United States,OH,Cincinnati,21/07/13,Professional Band,Additive Manufacturing,4.0,4.0,79.0,79.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,21/07/11,M2,CAE,6.0,25.0,415.0,225.0,140.0,50.0,0.0
+Mechanical Engineer,Intel,United States,OR,Portland,21/07/11,Grade 8,General,10.0,10.0,190.0,120.0,40.0,30.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,NY,Rochester,21/07/11,L2,General,0.0,3.0,85.0,85.0,0.0,0.0,0.0
+Mechanical Engineer,Merck,United States,PA,Philadelphia,21/07/10,P2,General,1.0,3.0,103.0,88.0,0.0,15.0,0.0
+Mechanical Engineer,Cisco,United States,CA,San Francisco,21/07/08,Grade 8,general,3.0,4.0,180.0,143.0,20.0,17.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/07/07,L4,Thermal manufacturing,0.0,5.0,235.0,160.0,50.0,25.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/07/06,L1,General,0.0,1.0,86.0,84.0,0.0,2.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/07/02,P3,Vechicle Engineeirng,3.0,3.0,162.0,117.0,38.0,8.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CT,Stratford,21/07/02,L2,Design,1.0,2.0,98.0,95.0,0.0,4.0,0.0
+Mechanical Engineer,GE Aviation,United States,OH,Cincinnati,21/07/01,L3,Aerospace,8.0,15.0,115.0,115.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,21/06/29,L5,Consumer Electronics,5.0,6.0,210.0,134.0,76.0,0.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/06/27,CC01,Production,3.0,3.0,100.0,93.0,0.0,7.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/06/24,ICT4,General,8.0,11.0,340.0,180.0,130.0,30.0,0.0
+Mechanical Engineer,Lucid Motors,United States,CA,Newark,21/06/23,L2,General,0.0,1.0,119.0,100.0,19.0,0.0,0.0
+Mechanical Engineer,CACI,United States,DC,Washington,21/06/22,T2,Marine Engineering,3.0,9.0,103.0,103.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/06/21,P3,Vehicle Engineering,3.0,6.0,164.0,114.0,25.0,25.0,0.0
+Mechanical Engineer,Waymo,United States,CA,Mountain View,21/06/20,L5,Hardware,2.0,8.0,378.0,190.0,150.0,38.0,0.0
+Mechanical Engineer,Cruise,United States,CA,San Francisco,21/06/19,Senior Hardware Engineer,Vehicle,0.0,5.0,239.0,155.0,38.0,47.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/06/15,L6,Fire,0.0,24.0,275.0,160.0,45.0,70.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/06/13,64,product development,1.0,22.0,245.0,185.0,40.0,20.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,MD,Baltimore,21/06/10,T4,Structures,1.0,5.0,136.0,135.0,0.0,1.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/06/10,G07,Design,1.0,5.0,98.0,92.0,0.0,6.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/06/10,CC02,Technical,6.0,7.0,103.0,95.0,0.0,8.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/06/09,K,Robotics,11.0,11.0,149.0,139.0,0.0,10.0,0.0
+Mechanical Engineer,Dell Technologies,United States,TX,Austin,21/06/08,L9,Latitude,0.0,14.0,213.0,185.0,0.0,28.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/06/07,L5,Hardware,7.0,13.0,366.0,200.0,124.0,42.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Palmdale,21/06/04,T03,Aerospace MRB,1.0,6.0,120.0,118.0,0.0,2.0,0.0
+Mechanical Engineer,Stellantis,United States,MI,Auburn Hills,21/06/04,L2,Internal Combustion Engines,1.0,1.0,77.0,77.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/06/04,P2,General,0.0,2.0,123.0,105.0,18.0,0.0,0.0
+Mechanical Engineer,Cruise,United States,CA,San Francisco,21/06/03,L2,Operations Engineer,1.0,1.0,160.0,125.0,20.0,15.0,0.0
+Mechanical Engineer,BAE Systems,United States,PA,York,21/06/01,Senior Engineer,Design,2.0,5.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Anheuser-Busch InBev,United States,NY,New York,21/06/01,6B,Manufacturing,2.0,4.0,125.0,105.0,0.0,20.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/05/31,ICT4,General,1.0,10.0,249.0,156.0,80.0,13.0,0.0
+Mechanical Engineer,Verily Life Sciences,United States,CA,South San Francisco,21/05/28,L4,Product Design,3.0,10.0,251.0,155.0,69.0,28.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/05/26,2,Aerospace,2.0,2.0,101.0,101.0,0.0,0.0,0.0
+Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,21/05/24,L1,General,0.0,0.0,115.0,115.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/05/21,ICT3,Camera,2.0,4.0,186.0,139.0,37.0,10.0,0.0
+Mechanical Engineer,Nuro,United States,CA,Mountain View,21/05/21,L4,General,2.0,10.0,170.0,150.0,4.0,15.0,0.0
+Mechanical Engineer,ASML,United States,CA,San Diego,21/05/19,Mid-Level,"Field Engineer, General",2.0,5.0,96.0,85.0,0.0,11.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/05/18,L4,Infrastructure,1.0,3.0,157.0,120.0,23.0,15.0,0.0
+Mechanical Engineer,Halliburton,United States,TX,Houston,21/05/15,L1,Research and development,2.0,2.0,82.0,82.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/05/12,3,Engine Controls,8.0,8.0,121.0,117.0,0.0,4.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/05/09,L4,AWS themal,0.0,6.0,180.0,140.0,20.0,17.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,21/05/09,E5,Mechanical engineer,16.0,16.0,224.0,200.0,0.0,24.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/05/08,62,Battery,0.0,11.0,173.0,145.0,18.0,10.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,21/05/05,L5,PD,3.0,6.0,282.0,165.0,67.0,50.0,0.0
+Mechanical Engineer,Chevron,United States,CA,Richmond,21/05/04,PSG 19,General,1.0,1.0,103.0,99.0,0.0,4.0,0.0
+Mechanical Engineer,Continental,Germany,BY,Lindau,21/05/02,Junior,ADAS Autonomous Vehicle,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,21/04/30,L6,Thermal,1.0,15.0,527.0,180.0,270.0,77.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/04/30,ICT3,General,0.0,3.0,196.0,150.0,26.0,20.0,0.0
+Mechanical Engineer,WHOOP,United States,MA,Boston,21/04/29,L1,R&D,0.0,4.0,101.0,101.0,0.0,0.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/04/29,65,General,6.0,15.0,291.0,191.0,50.0,50.0,0.0
+Mechanical Engineer,Microsoft Corporation,United States,WA,Redmond,21/04/29,63,Surface,6.0,12.0,226.0,165.0,25.0,36.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,21/04/27,62,Surface,2.0,8.0,179.0,145.0,19.0,15.0,0.0
+Mechanical Engineer,Microsoft,United States,CA,California City,21/04/26,61,Mechanical Engineer,2.0,2.0,210.0,140.0,60.0,10.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Redondo Beach,21/04/24,T3,Structural Engineering,4.0,10.0,129.0,128.0,0.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/04/24,ICT3,Component Design,3.0,3.0,255.0,140.0,100.0,15.0,0.0
+Mechanical Engineer,Lucid Motors,United States,CA,Newark,21/04/21,8,Body engineering,2.0,6.0,208.0,128.0,80.0,0.0,0.0
+Mechanical Engineer,Amazon,United Kingdom,EN,London,21/04/21,L5,It,0.0,10.0,113.0,90.0,23.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/04/16,L4,Satellites,0.0,2.0,126.0,99.0,18.0,9.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/04/16,L5,Infra Eng,4.0,9.0,190.0,125.0,65.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,21/04/15,L3,General,5.0,5.0,137.0,132.0,0.0,5.0,0.0
+Mechanical Engineer,Stellantis,United States,MI,Auburn Hills,21/04/14,L2,Engine Calibration,1.0,1.0,77.0,77.0,0.0,0.0,0.0
+Mechanical Engineer,Medtronic,United States,CA,Santa Rosa,21/04/14,Senior Engineer,Extrusion,4.0,5.0,120.0,96.0,10.0,14.0,0.0
+Mechanical Engineer,Raytheon,United States,IA,Cedar Rapids,21/04/14,P2,General,3.0,3.0,83.0,83.0,0.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/04/11,1,General,0.0,0.0,75.0,75.0,0.0,5.0,0.0
+Mechanical Engineer,Amazon,United States,MA,Boston,21/04/11,L6,Biomechanics,0.0,17.0,385.0,155.0,30.0,200.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,21/04/10,3,Engineering,6.0,6.0,110.0,105.0,0.0,5.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,21/04/09,L5,Hardware,2.0,4.0,230.0,134.0,96.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,WA,Bothell,21/04/09,L3,Thermal,7.0,7.0,125.0,121.0,0.0,4.0,0.0
+Mechanical Engineer,Amazon,United States,CA,San Francisco,21/04/08,L5,System PD,4.0,5.0,201.0,135.0,66.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,21/04/08,Grade 6,Analog Design and IO,4.0,5.0,120.0,105.0,10.0,6.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/04/07,L3,General,4.0,4.0,221.0,139.0,77.0,5.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/04/05,L5,Consumer Hardware,6.0,8.0,317.0,184.0,100.0,33.0,0.0
+Mechanical Engineer,General Atomics,United States,CA,San Diego,21/03/31,L1,Propulsion,2.0,2.0,85.0,82.0,0.0,3.0,0.0
+Mechanical Engineer,Bosch Global,United States,SC,Fountain Inn,21/03/31,E2,Mechatronics,3.0,4.0,74.0,73.0,0.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/31,L4,General,3.0,10.0,330.0,160.0,145.0,25.0,0.0
+Mechanical Engineer,Chevron,United States,UT,Salt Lake City,21/03/27,L3,Facilities,5.0,5.0,135.0,116.0,8.0,11.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/26,IC4,Process Engineering,2.0,9.0,240.0,150.0,70.0,25.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/24,ICT5,Mechanical Design,6.0,6.0,359.0,209.0,150.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Palmdale,21/03/23,L3,General,6.0,6.0,113.0,110.0,0.0,3.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/22,ICT4,MQE,2.0,10.0,290.0,150.0,120.0,18.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/21,ICT4,Operations,3.0,8.0,285.0,150.0,120.0,15.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/03/19,L2,Production equipment,3.0,7.0,120.0,101.0,13.0,5.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/03/19,L2,Production equipment,3.0,7.0,133.0,101.0,12.0,20.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/03/18,1,Propulsion,3.0,5.0,98.0,98.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/03/15,L3,Technician,1.0,3.0,91.0,71.0,20.0,5.0,0.0
+Mechanical Engineer,Apple,United States,CA,San Diego,21/03/13,ICT3,Product Design,0.0,6.0,173.0,142.0,24.0,7.0,0.0
+Mechanical Engineer,ASML,United States,CA,San Diego,21/03/13,L9,General,6.0,8.0,190.0,155.0,0.0,35.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/12,ICT3,Machine Learning,4.0,4.0,260.0,139.0,101.0,20.0,0.0
+Mechanical Engineer,Medtronic,United States,MN,Minneapolis,21/03/12,Senior Engineer,Process Development,4.0,4.0,102.0,95.0,4.0,8.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/03/12,G06,General,0.0,0.0,80.0,75.0,0.0,5.0,0.0
+Mechanical Engineer,Intuitive,United States,CA,Sunnyvale,21/03/12,L4,Controls & Algorithms,4.0,5.0,326.0,175.0,125.0,26.0,0.0
+Mechanical Engineer,Procter & Gamble,United States,OH,Cincinnati,21/03/12,L1,Contract Manufacturing,0.0,0.0,82.0,78.0,4.0,0.0,0.0
+Mechanical Engineer,Dexcom,United States,CA,San Diego,21/03/11,Senior,Operations,2.0,12.0,137.0,117.0,10.0,10.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,CA,Redwood City,21/03/09,PG25,Robotics,4.0,4.0,133.0,120.0,0.0,13.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,21/03/09,L3,Analysis,4.0,4.0,205.0,115.0,90.0,0.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,21/03/09,L5,Mechanical,2.0,8.0,225.0,192.0,33.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/03/07,ICT3,General,1.0,5.0,171.0,135.0,26.0,10.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Roy,21/03/07,L1,Product design,0.0,0.0,68.0,67.0,0.0,1.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/03/04,L5,General,0.0,6.0,436.0,205.0,200.0,31.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Irvine,21/02/23,,DRE,0.0,4.0,143.0,125.0,18.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,San Francisco,21/02/22,L4,Do,2.0,2.0,195.0,130.0,40.0,25.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/21,L2,Controls,1.0,3.0,125.0,120.0,9.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,21/02/19,Grade 9,General,20.0,20.0,225.0,164.0,26.0,36.0,0.0
+Mechanical Engineer,Raytheon,United States,AZ,Tucson,21/02/19,G07,General,3.0,3.0,83.0,79.0,0.0,5.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/02/17,L2,Production,1.0,4.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L3,"Fluids System Design, On Vehicle",4.0,9.0,122.0,122.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,NY,Florida,21/02/17,L3,General,3.0,3.0,115.0,115.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/02/17,L2,Mechanisms,4.0,6.0,116.0,116.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L3,Fluids,3.0,8.0,125.0,125.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L1,Manufacturing,1.0,2.0,90.0,90.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,1,Engine Integration,2.0,2.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L2,controls,0.0,3.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L1,Systems Test,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/17,L2,Trajectory Analyst,1.0,2.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/02/17,L1,Fluids,1.0,1.0,85.0,85.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/02/17,L2,Aerospace,2.0,4.0,99.0,99.0,0.0,0.0,0.0
+Mechanical Engineer,Ansys,United States,CA,Irvine,21/02/16,AE II,Application,2.0,4.0,124.0,114.0,0.0,10.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/16,L3,Tooling,3.0,7.0,114.0,114.0,0.0,0.0,0.0
+Mechanical Engineer,Philips,United States,PA,Reedsville,21/02/16,1,Manufacturing,2.0,2.0,75.0,72.0,0.0,3.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,MA,Boston,21/02/14,L4,Design,5.0,6.0,113.0,107.0,0.0,6.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/02/14,P2,General,0.0,2.0,142.0,120.0,22.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/02/12,L3,Interiors,8.0,8.0,115.0,105.0,5.0,5.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,FL,Melbourne,21/02/12,L2,General,0.0,0.0,100.0,91.0,0.0,9.0,0.0
+Mechanical Engineer,ASML,United States,CT,Wilton,21/02/12,L07,General,0.0,0.0,101.0,92.0,0.0,9.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,21/02/10,L2,Structural,3.0,3.0,92.0,92.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/02/08,M2,ME,10.0,10.0,615.0,260.0,300.0,55.0,0.0
+Mechanical Engineer,Bosch,Hungary,BU,Budapest,21/02/06,trainee,hvac,2.0,2.0,10.0,10.0,0.0,0.0,0.0
+Mechanical Engineer,Honda,United States,OH,Raymond,21/02/04,L1,Automotive,3.0,3.0,75.0,68.0,0.0,7.0,0.0
+Mechanical Engineer,Nike,United States,OR,Portland,21/02/03,L3,Manufacturing,2.0,2.0,77.0,70.0,0.0,7.0,0.0
+Mechanical Engineer,Abbott,United States,CA,San Francisco,21/02/03,Grade 14,Medical Device R&D,3.0,3.0,90.0,90.0,0.0,4.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,FL,Melbourne,21/02/02,L2,Structural Analysis,2.0,2.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,TX,Dallas,21/01/29,L5,Industrial Engineer,0.0,5.0,130.0,97.0,20.0,13.0,0.0
+Mechanical Engineer,Boeing,United States,CA,Los Angeles,21/01/29,L2,Product Design,3.0,3.0,116.0,110.0,0.0,6.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Sunnyvale,21/01/28,E3,Mechanical Engineering,5.0,5.0,140.0,118.0,10.0,12.0,0.0
+Mechanical Engineer,Samsung,United States,TX,Austin,21/01/28,E1,Equipment,0.0,0.0,85.0,75.0,0.0,9.0,0.0
+Mechanical Engineer,Loon,United States,CA,Mountain View,21/01/28,L4,ME,2.0,5.0,150.0,125.0,0.0,25.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/01/28,L6,General,7.0,14.0,286.0,180.0,70.0,36.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/01/28,P2,Manufacturing,4.0,4.0,130.0,104.0,26.0,0.0,0.0
+Mechanical Engineer,Philips,United States,WA,Seattle,21/01/27,60,Product Development,6.0,15.0,138.0,125.0,0.0,13.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,21/01/26,L3,Technical,4.0,9.0,109.0,105.0,0.0,4.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/01/22,L4,Consumer,3.0,3.0,300.0,152.0,119.0,30.0,0.0
+Mechanical Engineer,Lam Research,United States,CA,Fremont,21/01/22,E5,Technical,0.0,8.0,227.0,172.0,25.0,30.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,21/01/22,CL27,Technical,10.0,10.0,262.0,250.0,12.0,0.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,21/01/21,cc01,Product,2.0,2.0,90.0,84.0,0.0,4.0,0.0
+Mechanical Engineer,Carbon,United States,CA,Redwood City,21/01/20,L3,Automation,5.0,13.0,280.0,150.0,130.0,0.0,0.0
+Mechanical Engineer,Carbon,United States,CA,Redwood City,21/01/20,L3,Automation,5.0,13.0,280.0,150.0,130.0,0.0,0.0
+Mechanical Engineer,Alcon,United States,CA,Irvine,21/01/20,L2,Product,1.0,6.0,106.0,106.0,0.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,CA,El Segundo,21/01/20,G11,Technical,3.0,12.0,176.0,165.0,0.0,11.0,0.0
+Mechanical Engineer,Shell,United States,TX,Houston,21/01/18,G,Operations,1.0,1.0,114.0,103.0,0.0,11.0,0.0
+Mechanical Engineer,KLA,United States,CA,Milpitas,21/01/17,P3,Technical,2.0,4.0,167.0,134.0,13.0,20.0,0.0
+Mechanical Engineer,Snap,United States,CA,Los Angeles,21/01/17,L3,Technical,0.0,4.0,352.0,160.0,192.0,0.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Seattle,21/01/15,L6,Product,6.0,28.0,350.0,200.0,100.0,50.0,0.0
+Mechanical Engineer,Intel Corporation,United States,AZ,Chandler,21/01/15,G7,Technical,4.0,4.0,153.0,121.0,15.0,17.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,21/01/15,ICT4,Technical,4.0,6.0,315.0,175.0,115.0,25.0,0.0
+Mechanical Engineer,Chevron,United States,CA,Richmond,21/01/14,PSG 22,Design,7.0,7.0,144.0,133.0,0.0,11.0,0.0
+Mechanical Engineer,HPE,United States,TX,Houston,21/01/11,15,Product development,0.0,1.0,113.0,84.0,8.0,21.0,0.0
+Mechanical Engineer,Nvidia,United States,CA,Santa Clara,21/01/09,IC1,Technical,0.0,0.0,124.0,110.0,14.0,0.0,0.0
+Mechanical Engineer,Lyft,United States,CA,Palo Alto,21/01/08,T4,Mechanical Analysis,1.0,8.0,300.0,160.0,140.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,21/01/07,L4,Product Design,4.0,7.0,375.0,165.0,175.0,35.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Seattle,21/01/07,L5 Mexhanical Engineer,Mechanical,1.0,12.0,290.0,180.0,83.0,27.0,0.0
+Mechanical Engineer,Abbott,United States,CA,Los Angeles,21/01/07,Engineer I,Technical,3.0,3.0,76.0,76.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,MA,North Reading,21/01/06,L4,Technical,1.0,3.0,132.0,102.0,23.0,7.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,21/01/06,L3,Mechanical Engineer,4.0,5.0,110.0,110.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/01/05,P2,Vehicle Engineering,1.0,1.0,130.0,105.0,18.0,8.0,0.0
+Mechanical Engineer,Toyota USA,United States,MI,Ann Arbor,21/01/04,JL15,Internal,5.0,5.0,98.0,90.0,0.0,8.0,0.0
+Mechanical Engineer,Johnson Controls,United States,KS,Wichita,21/01/04,L4,Technical,1.0,6.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Honda,United States,OH,Marysville,21/01/03,L1,Production,3.0,3.0,74.0,68.0,0.0,5.0,0.0
+Mechanical Engineer,Mathworks,United States,IL,Chicago,21/01/02,2,Quality Engineering,0.0,3.0,124.0,104.0,0.0,20.0,0.0
+Mechanical Engineer,ASML,United States,CA,San Diego,21/01/02,Senior Engineer,System,0.0,0.0,118.0,108.0,0.0,10.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Seattle,21/01/02,64,Quantum Computing,0.0,4.0,333.0,168.0,125.0,40.0,0.0
+Mechanical Engineer,Siemens,United States,MI,Detroit,21/01/02,Middle,Controls,0.0,0.0,110.0,100.0,0.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,21/01/02,ICT2,Product Design,0.0,0.0,135.0,115.0,10.0,10.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,21/01/02,E3,Process Engineer,0.0,0.0,137.0,120.0,5.0,12.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,21/01/02,P2,Manufacturing Engineer,0.0,3.0,149.0,110.0,29.0,10.0,0.0
+Mechanical Engineer,Schlumberger,United States,TX,Austin,21/01/02,11,Production,0.0,0.0,118.0,108.0,0.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,21/01/02,ICT3,Mechanical Design,0.0,2.0,179.0,140.0,25.0,14.0,0.0
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,21/01/02,ICT3,Product Design,0.0,0.0,175.0,140.0,25.0,10.0,0.0
+Mechanical Engineer,Continental,Germany,BY,Lindau,21/01/01,Beginner,Analytic,0.0,1.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Sonos,United States,CA,Santa Barbara,21/01/01,IC5,Product development,5.0,15.0,215.0,150.0,40.0,25.0,0.0
+Mechanical Engineer,Schlumberger,Malaysia,JH,Johor Baharu,20/12/31,E3,manufacturing,3.0,3.0,16.0,13.0,0.0,2.0,0.0
+Mechanical Engineer,Lam Research,United States,CA,Fremont,20/12/31,L2,Semiconductor,2.0,2.0,110.0,100.0,0.0,10.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/12/30,L4,Product Design,4.0,7.0,375.0,163.0,175.0,37.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/12/29,63,cooling systems,5.0,5.0,210.0,168.0,20.0,22.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,20/12/28,24,Mechanical Engineer,3.0,3.0,111.0,111.0,0.0,0.0,0.0
+Mechanical Engineer,Magic Leap,United States,FL,Plantation Acres,20/12/28,Lead,Mechanical,1.0,11.0,150.0,130.0,0.0,20.0,0.0
+Mechanical Engineer,Philips,United States,WA,Bothell,20/12/28,L4,mechanical,3.0,10.0,152.0,138.0,0.0,14.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/12/27,ICT3,Production,3.0,3.0,210.0,140.0,60.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/12/27,ICT3,Technical,4.0,9.0,215.0,150.0,50.0,15.0,0.0
+Mechanical Engineer,L3Harris Technologies,United States,NY,New York,20/12/27,Associate,Manufacturing,0.0,0.0,90.0,90.0,0.0,0.0,0.0
+Mechanical Engineer,Procter & Gamble,Germany,BE,Berlin,20/12/25,1,Production,0.0,0.0,64.0,64.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,20/12/21,L5,Hardware,2.0,4.0,169.0,126.0,43.0,0.0,0.0
+Mechanical Engineer,Panasonic,United States,NV,Sparks,20/12/21,L2,Manufacturing,0.0,2.0,85.0,85.0,0.0,3.0,0.0
+Mechanical Engineer,Tesla,United States,CA,San Francisco,20/12/21,L3,Full Stack,0.0,2.0,140.0,120.0,10.0,10.0,0.0
+Mechanical Engineer,Aurora,United States,PA,Pittsburgh,20/12/19,L3,Mechanical Design,0.0,0.0,174.0,113.0,48.0,14.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Los Angeles,20/12/19,L3,Technical,4.0,12.0,150.0,147.0,0.0,4.0,0.0
+Mechanical Engineer,HPE,United States,TX,Houston,20/12/19,15,Product,0.0,0.0,120.0,84.0,8.0,24.0,0.0
+Mechanical Engineer,Procter & Gamble,United States,WV,Inwood,20/12/19,entry level product supply,Security,0.0,0.0,80.0,80.0,0.0,2.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/12/18,L2,Technical,1.0,2.0,105.0,105.0,0.0,0.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,20/12/18,IC4,Design,0.0,5.0,217.0,163.0,38.0,16.0,0.0
+Mechanical Engineer,Cruise,United States,CA,San Francisco,20/12/18,Senior,Mechanical Engineer,2.0,6.0,278.0,175.0,50.0,53.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/12/18,ICT3,Production,1.0,5.0,165.0,130.0,25.0,10.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Redondo Beach,20/12/17,L1,Operations,0.0,0.0,78.0,75.0,0.0,3.0,0.0
+Mechanical Engineer,Carrier,United States,GA,Athens,20/12/16,entry level,Technical,0.0,0.0,82.0,75.0,0.0,7.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/12/16,P3,Analyst,5.0,5.0,129.0,115.0,14.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,NV,Sparks,20/12/16,L2,Operations,2.0,2.0,100.0,85.0,15.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/12/15,ICT3,Technical,0.0,1.0,210.0,150.0,50.0,10.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Sunnyvale,20/12/15,L3 Sr,Design,5.0,8.0,137.0,119.0,8.0,10.0,0.0
+Mechanical Engineer,Procter & Gamble,United States,WV,Martinsburg,20/12/14,Entry Level,Manufacturing Engineering,0.0,0.0,80.0,78.0,0.0,2.0,0.0
+Mechanical Engineer,Samsung,United States,TX,Austin,20/12/14,Entry Level,Equipment Engineer,0.0,0.0,84.0,75.0,0.0,9.0,0.0
+Mechanical Engineer,Honeywell,United States,CA,Torrance,20/12/12,1,Testing (SDET),1.0,1.0,79.0,79.0,0.0,0.0,0.0
+Mechanical Engineer,Phillips 66,United States,MO,St. Louis,20/12/11,SGL 14,Technical,5.0,5.0,138.0,120.0,6.0,12.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,20/12/11,IC5,Technical,2.0,5.0,300.0,180.0,90.0,30.0,0.0
+Mechanical Engineer,Sandia National Laboratories,United States,CA,Livermore,20/12/11,Member,Design,1.0,1.0,114.0,114.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,MA,Boston,20/12/10,L5,Product Design,4.0,4.0,175.0,115.0,60.0,0.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,San Jose,20/12/06,3,Mechanical Engineer,0.0,3.0,140.0,125.0,2.0,13.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,20/12/05,L3,Materials Processes and Physics,8.0,8.0,110.0,101.0,0.0,9.0,0.0
+Mechanical Engineer,General Motors,United States,MI,Warren,20/12/03,6B,Controls Design Engineer,1.0,1.0,89.0,79.0,0.0,10.0,0.0
+Mechanical Engineer,Cepheid,United States,CA,Sunnyvale,20/12/03,P3,Part Design,3.0,4.0,119.0,105.0,3.0,11.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/12/03,ICT4,Product,5.0,5.0,270.0,158.0,90.0,22.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Palo Alto,20/12/03,L2,Manufacturing,0.0,4.0,140.0,125.0,13.0,0.0,0.0
+Mechanical Engineer,ASML,United States,CT,Wilton,20/12/01,L6,Design,0.0,0.0,86.0,79.0,0.0,8.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Santa Clara,20/11/30,L4,Site Reliability (SRE),4.0,14.0,170.0,150.0,20.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/11/28,ICT4,Testing,0.0,8.0,223.0,153.0,40.0,30.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/11/26,Engineer,Operations,0.0,7.0,133.0,120.0,13.0,0.0,0.0
+Mechanical Engineer,Magic Leap,United States,FL,Fort Lauderdale,20/11/26,L4,Product,2.0,11.0,165.0,150.0,8.0,8.0,0.0
+Mechanical Engineer,Raytheon,United States,MA,Marlborough,20/11/24,G06,Analytic,0.0,0.0,77.0,74.0,0.0,3.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,20/11/24,L4,Production,1.0,5.0,150.0,130.0,10.0,10.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Palo Alto,20/11/24,T4,Aerospace,3.0,5.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CO,Denver,20/11/23,Associate,Design,1.0,1.0,73.0,70.0,0.0,3.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/11/21,P2,Operations,0.0,3.0,132.0,110.0,22.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/11/21,ICT4,Consumer,3.0,5.0,280.0,160.0,100.0,20.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/11/20,L3,Technical,2.0,8.0,157.0,152.0,5.0,0.0,0.0
+Mechanical Engineer,Corning,United States,KY,Lexington,20/11/19,l3,Manufacturing,2.0,2.0,70.0,69.0,0.0,2.0,0.0
+Mechanical Engineer,Honda,Canada,ON,Alliston,20/11/19,AT3,Manufacturing,1.0,4.0,73.0,70.0,0.0,3.0,0.0
+Mechanical Engineer,Cisco Meraki,United States,CA,San Francisco,20/11/18,L4,Product,4.0,4.0,182.0,142.0,20.0,20.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Clearfield,20/11/18,L1,Structural Engineer,0.0,0.0,70.0,70.0,0.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/11/18,L5,Product,5.0,5.0,298.0,163.0,100.0,35.0,0.0
+Mechanical Engineer,L3Harris,United States,NY,Rochester,20/11/16,5,Optical,3.0,7.0,139.0,139.0,0.0,0.0,0.0
+Mechanical Engineer,Whirlpool,United States,IA,Amana,20/11/16,L2,Operations,2.0,4.0,100.0,90.0,0.0,10.0,0.0
+Mechanical Engineer,Molex,United States,MI,Detroit,20/11/15,L2,Production,3.0,5.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Molex,United States,MI,Detroit,20/11/15,2,Product,3.0,5.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Siemens,India,MH,Mumbai,20/11/14,PL9,production,15.0,30.0,27.0,23.0,0.0,4.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,20/11/13,Lead,Infrastructure,3.0,5.0,200.0,170.0,0.0,30.0,0.0
+Mechanical Engineer,Johnson,United States,CA,San Diego,20/11/12,l3,Product,1.0,30.0,340.0,200.0,40.0,100.0,0.0
+Mechanical Engineer,FullStory,United States,WA,Seattle,20/11/10,3,Operations,2.0,2.0,100.0,70.0,30.0,0.0,0.0
+Mechanical Engineer,Jet Propulsion Laboratory,United States,CA,Pasadena,20/11/09,L2,Technical,5.0,5.0,131.0,131.0,0.0,0.0,0.0
+Mechanical Engineer,Costco,United States,TX,Austin,20/11/08,L1,Data,0.0,1.0,28.0,28.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/11/07,3,Technical,6.0,6.0,110.0,110.0,0.0,0.0,0.0
+Mechanical Engineer,Cepheid,United States,CA,Sunnyvale,20/11/07,P3,Component Engineering,3.0,4.0,120.0,106.0,4.0,11.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/11/07,ICT3,Product Design,4.0,7.0,173.0,126.0,36.0,10.0,0.0
+Mechanical Engineer,ASUS,Taiwan,TP,Taipei,20/11/06,L3,,5.0,5.0,30.0,20.0,0.0,10.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,20/11/05,Grade 8,Enterprise,5.0,33.0,193.0,148.0,20.0,25.0,0.0
+Mechanical Engineer,Moog,United States,CA,Mountain View,20/11/05,L2,Project Engineer,4.0,4.0,97.0,95.0,0.0,2.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,20/11/03,L1,Design and Release,5.0,5.0,118.0,118.0,0.0,0.0,0.0
+Mechanical Engineer,KLA,United States,CA,Milpitas,20/11/01,L4,Product,6.0,10.0,163.0,133.0,15.0,15.0,0.0
+Mechanical Engineer,Google,United States,CA,Sunnyvale,20/11/01,L5,Enterprise,8.0,9.0,290.0,168.0,90.0,32.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/10/30,2,Manufacturing,2.0,2.0,96.0,94.0,0.0,2.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/10/29,L2,Structural Engineering,2.0,2.0,93.0,90.0,0.0,3.0,0.0
+Mechanical Engineer,Applied Materials,United States,AZ,Chandler,20/10/29,E2,Production,4.0,4.0,93.0,87.0,2.0,8.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Los Angeles,20/10/29,L2,Design,1.0,3.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Lam Research,United States,CA,Fremont,20/10/29,L2,Semiconductor Manufacturing,1.0,2.0,133.0,112.0,10.0,11.0,0.0
+Mechanical Engineer,WeWork,United States,NY,New York,20/10/28,L3,Product,2.0,7.0,116.0,111.0,0.0,5.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,20/10/27,Level 1,Enterprise,2.0,3.0,85.0,83.0,0.0,3.0,0.0
+Mechanical Engineer,CACI,United States,DC,Washington,20/10/26,T2,DevOps,2.0,8.0,102.0,102.0,0.0,0.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Los Angeles,20/10/25,T1,Production,0.0,0.0,81.0,81.0,0.0,0.0,0.0
+Mechanical Engineer,Facebook,United States,WA,Redmond,20/10/23,E5,AR/VR,3.0,7.0,330.0,180.0,120.0,30.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/10/23,L,Infrastructure,15.0,15.0,150.0,150.0,0.0,0.0,0.0
+Mechanical Engineer,Ford,United States,MI,Dearborn,20/10/22,GS7,Product,6.0,6.0,93.0,90.0,0.0,3.0,0.0
+Mechanical Engineer,Ford,United States,MI,Dearborn,20/10/22,GSR8,Analytic,20.0,21.0,115.0,110.0,0.0,5.0,0.0
+Mechanical Engineer,Chevron,United States,TX,Houston,20/10/21,21,Technical,5.0,5.0,133.0,125.0,0.0,8.0,0.0
+Mechanical Engineer,Cirrus Logic,United States,TX,Austin,20/10/21,Staff,Production,3.0,12.0,270.0,160.0,80.0,30.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,FL,Orlando,20/10/20,L4,Technical,4.0,10.0,125.0,120.0,0.0,5.0,0.0
+Mechanical Engineer,IBM,United States,NY,New York,20/10/20,Senior engineer,Technical,20.0,20.0,260.0,258.0,2.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/10/20,L2,Technical,0.0,0.0,92.0,92.0,0.0,0.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,20/10/19,Engineer I,Production,1.0,1.0,102.0,81.0,21.0,0.0,0.0
+Mechanical Engineer,Rivian,United States,MI,Plymouth,20/10/18,Lead,Prototype,3.0,9.0,122.0,112.0,10.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/18,ICT5,Consumer,5.0,24.0,270.0,220.0,50.0,0.0,0.0
+Mechanical Engineer,Hitachi,United States,GA,Suwanee,20/10/17,L1,Operations,0.0,0.0,70.0,65.0,0.0,5.0,0.0
+Mechanical Engineer,Apple,China,SH,Shanghai,20/10/16,ICT4,Operations,7.0,12.0,140.0,70.0,60.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/16,ICT3,Product,0.0,4.0,176.0,135.0,26.0,15.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/15,ICT4,Product Design,4.0,8.0,310.0,175.0,120.0,20.0,0.0
+Mechanical Engineer,TCS,India,KA,Bangalore,20/10/15,L3,Designer,3.0,3.0,12.0,10.0,1.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/14,ICT3,Manufacturing Design,1.0,2.0,155.0,120.0,26.0,10.0,0.0
+Mechanical Engineer,Palo Alto Networks,United States,CA,Santa Clara,20/10/14,Entry,Production,1.0,1.0,175.0,118.0,42.0,15.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/10/13,L1,Mechanical,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/10/13,60,Consumer,2.0,2.0,145.0,115.0,20.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/13,ICT3,Mechanical Engineer,3.0,5.0,185.0,140.0,30.0,15.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/13,ICT4,Operations,12.0,12.0,215.0,160.0,40.0,15.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,20/10/12,2,Production,3.0,3.0,87.0,82.0,0.0,5.0,0.0
+Mechanical Engineer,Ford Motor,Germany,NW,Cologne,20/10/11,L4,Operations,5.0,5.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/10/10,L3,Test Engineering,1.0,5.0,168.0,150.0,17.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Portland,20/10/10,Grade 8,Technical,4.0,9.0,167.0,135.0,20.0,10.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Seattle,20/10/10,2,Structural Analysis,3.0,3.0,94.0,94.0,0.0,2.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/10/09,L3,Product,2.0,5.0,247.0,147.0,60.0,40.0,0.0
+Mechanical Engineer,KLA,Israel,JM,Yavne,20/10/09,P4,Product,8.0,11.0,90.0,82.0,0.0,8.0,0.0
+Mechanical Engineer,General Motors,United States,MI,Warren,20/10/09,L5,Product,0.0,0.0,83.0,75.0,0.0,8.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,20/10/08,3,Mechanical,0.0,0.0,136.0,120.0,4.0,12.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/10/08,P2,Hardware,0.0,2.0,137.0,112.0,25.0,0.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Seattle,20/10/08,62,Mechanical,6.0,8.0,200.0,145.0,35.0,20.0,0.0
+Mechanical Engineer,ASML,United States,CA,San Diego,20/10/07,L9,Technical,9.0,9.0,175.0,135.0,10.0,30.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/05,ICT4,Operations,4.0,4.0,208.0,147.0,39.0,22.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/05,ICT2,Product Design,0.0,0.0,148.0,115.0,13.0,20.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/04,ICT4,Product Design Engineer,4.0,6.0,320.0,157.0,155.0,8.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/03,ICT4,Production,4.0,5.0,255.0,150.0,80.0,25.0,0.0
+Mechanical Engineer,Lyft,United States,CA,Palo Alto,20/10/03,L4,Technical,1.0,7.0,270.0,155.0,115.0,0.0,0.0
+Mechanical Engineer,LG Electronics,Korea,KG,Seoul,20/10/03,Associate Engineer,Mechanical Design,1.0,1.0,35.0,35.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/10/03,3,Mechanical Engineering,3.0,5.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CO,Denver,20/10/03,IC4,Product,7.0,7.0,126.0,123.0,0.0,4.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/02,ICT4,Operations,4.0,6.0,280.0,150.0,115.0,15.0,0.0
+Mechanical Engineer,Red Hat,United States,MA,Boston,20/10/02,Software Engineer,Full Stack,2.0,2.0,120.0,103.0,7.0,10.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/10/02,ICT3,Operations,1.0,2.0,150.0,115.0,25.0,10.0,0.0
+Mechanical Engineer,Applied Materials,India,KA,Bengaluru,20/10/02,E1,Engineering,2.0,2.0,13.0,9.0,1.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/30,ICT4,Consumer,5.0,12.0,271.0,156.0,100.0,15.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/09/30,62,Product,7.0,7.0,170.0,148.0,11.0,14.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,20/09/29,Grade 8,Networking,5.0,33.0,195.0,148.0,23.0,25.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/29,ICT3,Product Design,5.0,10.0,240.0,145.0,80.0,15.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/09/29,T5,Technical,3.0,12.0,221.0,191.0,30.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/28,ICT4,Sensor Design,5.0,5.0,258.0,154.0,85.0,19.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,20/09/27,IC6,Consumer,0.0,8.0,417.0,215.0,163.0,40.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/09/26,P1,Hardware,1.0,1.0,128.0,104.0,18.0,6.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/25,ICT4,Camera,3.0,7.0,280.0,162.0,100.0,19.0,0.0
+Mechanical Engineer,Qualcomm,United States,CA,San Diego,20/09/25,Senior Engineer,Thermal/Structural Analysis,4.0,7.0,135.0,107.0,18.0,16.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Ogden,20/09/24,L2,Technical,4.0,4.0,85.0,83.0,0.0,2.0,0.0
+Mechanical Engineer,Argo AI,Germany,BY,Munich,20/09/23,L2,Safety Engineer,2.0,19.0,126.0,105.0,0.0,21.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/09/23,Staff Engineer,Reliability,5.0,5.0,195.0,135.0,60.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/09/22,L2,Aerospace Engineer,2.0,3.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/09/22,L3,Production,4.0,8.0,122.0,122.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,20/09/22,2,Production,2.0,5.0,91.0,89.0,0.0,2.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/09/21,59,Mechanical Engineering,1.0,1.0,169.0,109.0,40.0,20.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,CA,San Francisco,20/09/21,24,Robotics,1.0,1.0,172.0,118.0,42.0,12.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,20/09/21,Engineer 1,dynamics,1.0,3.0,113.0,89.0,24.0,0.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Palo Alto,20/09/19,T4,Technical,3.0,5.0,110.0,100.0,1.0,9.0,0.0
+Mechanical Engineer,Apple,United States,CA,Santa Clara,20/09/18,ICT3,Technical,3.0,3.0,206.0,136.0,55.0,15.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/17,ICT3,Product Design Engineer,4.0,6.0,200.0,130.0,50.0,20.0,0.0
+Mechanical Engineer,Google,United States,CA,San Jose,20/09/17,L3,Technical,3.0,5.0,219.0,145.0,60.0,14.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/16,ICT3,Product Design Engineer,4.0,6.0,200.0,130.0,50.0,20.0,0.0
+Mechanical Engineer,Ford Motor Company,United States,MI,Dearborn,20/09/15,GSR,Product,1.0,1.0,76.0,74.0,0.0,2.0,0.0
+Mechanical Engineer,Moog,United States,CA,Mountain View,20/09/14,L3,Aerospace,3.0,4.0,97.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Google,Taiwan,TP,Taipei,20/09/14,L5,Product,3.0,10.0,136.0,88.0,33.0,15.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/09/13,L2,Mechanical Design Engineer,3.0,3.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Kent,20/09/12,4,Technical,14.0,15.0,168.0,168.0,0.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Portland,20/09/12,Grade 6,Mechanical,5.0,5.0,135.0,106.0,10.0,19.0,0.0
+Mechanical Engineer,Raytheon Technologies,United States,CA,El Segundo,20/09/12,L2,User Journey,1.0,2.0,108.0,103.0,0.0,5.0,0.0
+Mechanical Engineer,Nintendo,Japan,TY,Tokyo,20/09/11,Level 2,Technical,0.0,0.0,150.0,100.0,40.0,10.0,0.0
+Mechanical Engineer,General Electric,United States,NY,Schenectady,20/09/11,L2,Engineering,5.0,5.0,87.0,78.0,2.0,8.0,0.0
+Mechanical Engineer,Agilent Technologies,United States,DE,Wilmington,20/09/11,Intermediate,Mechanical Engineering,2.0,9.0,93.0,87.0,0.0,6.0,0.0
+Mechanical Engineer,Nokia,Ireland,DN,Dublin,20/09/11,Senior Member of Technical Staff,Research,8.0,11.0,116.0,101.0,0.0,15.0,0.0
+Mechanical Engineer,Raytheon,United States,CA,El Segundo,20/09/10,L1,Hardware,1.0,1.0,81.0,79.0,0.0,2.0,0.0
+Mechanical Engineer,Latch,United States,NY,New York,20/09/09,1,Hardware Reliability,0.0,1.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/09,ICT2,Hardware Reliability,0.0,2.0,150.0,150.0,0.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,20/09/09,5,Mechanical engineering,15.0,15.0,211.0,191.0,0.0,20.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/09/09,Engineer,Design,0.0,1.0,145.0,110.0,20.0,15.0,0.0
+Mechanical Engineer,Schlumberger,United States,TX,Houston,20/09/08,G10,Mechanical,0.0,0.0,83.0,83.0,0.0,4.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,20/09/08,L3,Technical,4.0,7.0,142.0,130.0,6.0,4.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/09/08,L3,Production,0.0,5.0,175.0,150.0,25.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,20/09/08,Associate Engineer,Technical,0.0,2.0,100.0,88.0,10.0,2.0,0.0
+Mechanical Engineer,Google,United States,ND,Raleigh,20/09/08,L1,Networking,1.0,1.0,100.0,90.0,10.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/09/06,L5,Product Design,2.0,10.0,240.0,170.0,45.0,25.0,0.0
+Mechanical Engineer,Intuitive,United States,CA,San Francisco,20/09/06,3,Hardware,1.0,1.0,145.0,110.0,20.0,15.0,0.0
+Mechanical Engineer,HPE,United States,OR,Corvallis,20/09/06,L3 (Specialist),Technical,2.0,2.0,110.0,97.0,10.0,3.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Sunnyvale,20/09/06,E2,Product,0.0,0.0,113.0,100.0,3.0,10.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,20/09/05,L3,iOS,4.0,6.0,137.0,131.0,0.0,7.0,0.0
+Mechanical Engineer,Johnson and Johnson,United States,CA,Santa Clara,20/09/04,Senior Engineer,Product,4.0,4.0,155.0,135.0,0.0,20.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Indianapolis,20/09/04,Senior Engineer,Validation,3.0,3.0,93.0,85.0,0.0,7.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CT,Stratford,20/09/04,L2,Flight test,3.0,3.0,108.0,108.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/09/04,L3,Product,7.0,7.0,155.0,120.0,30.0,5.0,0.0
+Mechanical Engineer,BD,United States,MA,Boston,20/09/04,L1,Technical,1.0,1.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Sunnyvale,20/09/04,L3,Infrastructure,2.0,6.0,153.0,107.0,30.0,16.0,0.0
+Mechanical Engineer,Corning,United States,NY,Corning,20/09/04,C,Production,3.0,5.0,130.0,115.0,0.0,15.0,0.0
+Mechanical Engineer,Altran,United States,OR,Portland,20/09/03,L8,Product Design Support,8.0,18.0,125.0,125.0,0.0,4.0,0.0
+Mechanical Engineer,Flex,United States,CA,San Jose,20/09/03,III,Product Design,5.0,5.0,121.0,110.0,0.0,11.0,0.0
+Mechanical Engineer,Bose,United States,MA,Boston,20/09/01,3,Product,7.0,7.0,107.0,107.0,0.0,3.0,0.0
+Mechanical Engineer,LG Electronics,Korea,KG,Seoul,20/08/31,Specialist,Analytic,5.0,11.0,75.0,75.0,0.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/08/31,L3,Technical,3.0,10.0,245.0,150.0,80.0,15.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,20/08/30,E5,Consumer,3.0,10.0,450.0,200.0,220.0,30.0,0.0
+Mechanical Engineer,Microsoft,United States,CA,Mountain View,20/08/30,64,Product,4.0,9.0,290.0,210.0,40.0,40.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,20/08/29,L3,Production,0.0,0.0,96.0,86.0,10.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,San Francisco,20/08/29,ICT3,DevOps,5.0,20.0,218.0,160.0,40.0,18.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,20/08/29,L6,Analytic,6.0,12.0,550.0,184.0,366.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/08/29,ICT3,Technical,5.0,15.0,200.0,150.0,40.0,10.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,20/08/29,L3,Technical,4.0,6.0,127.0,124.0,0.0,3.0,0.0
+Mechanical Engineer,Google,Australia,VI,Melbourne,20/08/28,L3,Technical,0.0,4.0,150.0,100.0,40.0,10.0,0.0
+Mechanical Engineer,Lam Research,India,KA,Bengaluru,20/08/27,Mechanical Engineer I,Mechanical Engineer I,0.0,0.0,12.0,12.0,0.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/08/27,L5,Hardware,7.0,13.0,330.0,190.0,100.0,40.0,0.0
+Mechanical Engineer,Lyft,United States,CA,San Francisco,20/08/27,L5,,1.0,6.0,320.0,178.0,142.0,0.0,0.0
+Mechanical Engineer,Bosch,United States,MI,Plymouth,20/08/27,E3,Application,1.0,4.0,95.0,84.0,0.0,8.0,0.0
+Mechanical Engineer,Google,United States,CA,Fremont,20/08/26,L4,Product,3.0,10.0,215.0,190.0,10.0,15.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/08/26,L3,Data,0.0,0.0,137.0,104.0,18.0,16.0,0.0
+Mechanical Engineer,Amazon,United States,VA,Herndon,20/08/26,L5,Controls,1.0,8.0,170.0,120.0,30.0,20.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/08/25,61,Product,3.0,3.0,164.0,138.0,9.0,17.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/08/25,Staff Engineer,Technical,2.0,8.0,295.0,165.0,100.0,30.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/08/24,L3,Consumer Hardware - Hardware Reliability Engineer,2.0,3.0,180.0,127.0,32.0,22.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/08/22,62,Cloud,8.0,12.0,144.0,136.0,0.0,8.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,20/08/22,L3,Phone,1.0,2.0,150.0,132.0,15.0,3.0,0.0
+Mechanical Engineer,GE,United States,CT,Hartford,20/08/22,1,Turbines,1.0,6.0,105.0,105.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,CA,Sunnyvale,20/08/21,L4,PD,4.0,5.0,259.0,135.0,124.0,0.0,0.0
+Mechanical Engineer,Uber,United States,PA,Pittsburgh,20/08/21,L3,Mechanical Design,0.0,0.0,156.0,113.0,31.0,13.0,0.0
+Mechanical Engineer,General Atomics,United States,CA,San Diego,20/08/20,Engineer 1,Aerospace and Defense,1.0,1.0,79.0,78.0,0.0,1.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/08/20,ICT6,Product Design Mechanical Engineer,11.0,11.0,600.0,260.0,270.0,70.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Los Angeles,20/08/20,IC4,Hardware,2.0,7.0,221.0,162.0,38.0,22.0,0.0
+Mechanical Engineer,NCR,United States,LA,New Orleans,20/08/19,ce2,Technical,4.0,10.0,49.0,49.0,0.0,0.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,20/08/19,CC01,Technical,3.0,5.0,100.0,85.0,13.0,2.0,0.0
+Mechanical Engineer,ASML,United States,CT,Wilton,20/08/19,7,Mechanical,0.0,1.0,118.0,105.0,0.0,13.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/08/19,65,Consumer,8.0,18.0,285.0,200.0,45.0,40.0,0.0
+Mechanical Engineer,Lyft,United States,CA,San Francisco,20/08/18,T5,Electric Vehicle,1.0,5.0,355.0,194.0,161.0,0.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,20/08/18,CC01,Technical,3.0,5.0,100.0,85.0,11.0,4.0,0.0
+Mechanical Engineer,Microsoft,United States,CA,Mountain View,20/08/18,64,Product,5.0,10.0,270.0,205.0,30.0,35.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Palo Alto,20/08/18,T4,Design Engineer,3.0,5.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Battelle,United States,NJ,Egg Harbor Township,20/08/17,Entry,Analytic,1.0,6.0,63.0,63.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,DC,Washington,20/08/17,L6,Data center infrastructure,6.0,9.0,186.0,135.0,50.0,0.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Los Angeles,20/08/17,L1,Product,2.0,2.0,120.0,84.0,28.0,8.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/08/16,L1,Product,1.0,3.0,85.0,85.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/08/16,P3,Product,2.0,12.0,223.0,143.0,30.0,50.0,0.0
+Mechanical Engineer,Raytheon Technologies,United States,RI,Portsmouth,20/08/15,II,Product,1.0,3.0,86.0,83.0,0.0,3.0,0.0
+Mechanical Engineer,CommScope,India,GA,Goa,20/08/13,L1,BASE STATION ANTENNA DESIGN/NPD,2.0,4.0,10.0,10.0,0.0,0.0,0.0
+Mechanical Engineer,Cummins,United States,IN,Columbus,20/08/12,CC02,Analysis,2.0,3.0,98.0,88.0,0.0,10.0,0.0
+Mechanical Engineer,Boeing,United States,CA,Seal Beach,20/08/11,2,Product,5.0,5.0,95.0,95.0,0.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,CA,Seal Beach,20/08/11,L1,Stress Analyst,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Booking.com,United States,CA,San Diego,20/08/10,U,Web Development (Front-End),2.0,5.0,56.0,56.0,0.0,0.0,0.0
+Mechanical Engineer,Lyft,United States,CA,Palo Alto,20/08/09,T5,Technical,1.0,5.0,285.0,176.0,109.0,0.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,CA,Sunnyvale,20/08/09,L1,Manufacturing,1.0,1.0,83.0,80.0,0.0,3.0,0.0
+Mechanical Engineer,Siemens,United States,NC,Raleigh,20/08/08,Mid level,Technical,2.0,5.0,85.0,85.0,0.0,0.0,0.0
+Mechanical Engineer,Raytheon,United States,CT,East Hartford,20/08/07,L6,Aerospace,7.0,13.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Stealth,United States,CA,San Francisco,20/08/06,L1,Technical,1.0,2.0,168.0,118.0,50.0,0.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Los Angeles,20/08/06,L1,Manufacturing,2.0,3.0,110.0,85.0,25.0,0.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/08/06,Level 3,Technical,3.0,6.0,113.0,113.0,0.0,0.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/08/05,L3,Other,2.0,5.0,170.0,141.0,29.0,0.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Everett,20/08/05,2,Manufacturing Engineer,2.0,3.0,85.0,85.0,0.0,0.0,0.0
+Mechanical Engineer,AMD,United States,NH,Seabrook,20/08/05,3,Networking,3.0,5.0,100.0,80.0,20.0,0.0,0.0
+Mechanical Engineer,Magic Leap,United States,FL,Fort Lauderdale,20/08/03,Lead Mechanical Engineer,Hardware Engineering,1.0,10.0,185.0,130.0,40.0,15.0,0.0
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,20/08/02,IC4,Product Design Engineer,1.0,8.0,220.0,155.0,50.0,15.0,0.0
+Mechanical Engineer,Dassault Systemes,United States,RI,Johnston,20/08/02,L2,QA,1.0,1.0,109.0,105.0,0.0,5.0,0.0
+Mechanical Engineer,Collins Aerospace,United States,IL,Rockford,20/08/01,M4,Aerospace,11.0,11.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Lam Research,United States,CA,Fremont,20/08/01,E5,Mechanical Design/Hardware,0.0,7.0,227.0,167.0,35.0,25.0,0.0
+Mechanical Engineer,Apple,United States,CA,San Francisco,20/08/01,ICT2,Product Design,2.0,2.0,173.0,130.0,13.0,30.0,0.0
+Mechanical Engineer,Blue Origin,United States,WA,Seattle,20/07/31,L1,Aerospace,1.0,1.0,92.0,92.0,0.0,0.0,0.0
+Mechanical Engineer,Google,United States,CA,San Francisco,20/07/29,L3,iOS,1.0,1.0,200.0,200.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Palo Alto,20/07/29,Engineer,Vehicle Design,2.0,3.0,113.0,95.0,18.0,0.0,0.0
+Mechanical Engineer,GE,United States,MA,Lynn,20/07/29,1,Design engineer,1.0,1.0,75.0,75.0,0.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,MD,Baltimore,20/07/26,Associate,Systems Engineering,0.0,1.0,77.0,77.0,0.0,1.0,0.0
+Mechanical Engineer,Marathon Petroleum,United States,TX,Texas City,20/07/26,Refining engineer 1,Site Reliability (SRE),1.0,1.0,115.0,95.0,5.0,10.0,0.0
+Mechanical Engineer,GE,United States,OH,Cincinnati,20/07/26,LPB,Additive Manufacturing,1.0,7.0,88.0,88.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/07/26,ICT3,OPS,3.0,6.0,190.0,125.0,55.0,10.0,0.0
+Mechanical Engineer,Microsoft,United States,CA,Mountain View,20/07/25,61,Hololens,1.0,3.0,140.0,140.0,0.0,0.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Redmond,20/07/23,59,HW,0.0,1.0,103.0,103.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/07/23,ICT3,Product Design,2.0,5.0,171.0,144.0,15.0,12.0,0.0
+Mechanical Engineer,Applied Materials,United States,CA,Santa Clara,20/07/21,E3,Mechanical Design Engineer,1.0,6.0,134.0,123.0,1.0,10.0,0.0
+Mechanical Engineer,Ball Aerospace,United States,CO,Boulder,20/07/20,E2,Aerospace,3.0,8.0,107.0,107.0,0.0,0.0,0.0
+Mechanical Engineer,Continental,United States,VA,Newport News,20/07/20,L2,Manufacturing,3.0,3.0,90.0,73.0,0.0,17.0,0.0
+Mechanical Engineer,GE,United States,UT,Salt Lake City,20/07/20,Lead,Mechanical,10.0,10.0,100.0,100.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/07/20,ICT3,Product Design,3.0,6.0,176.0,128.0,36.0,12.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,20/07/19,ICT3,Quality,0.0,4.0,156.0,130.0,26.0,0.0,0.0
+Mechanical Engineer,Applied Materials,Israel,HM,Rehovot,20/07/19,M3,Mechanical,8.0,8.0,100.0,91.0,2.0,8.0,0.0
+Mechanical Engineer,Zoox,United States,CA,Foster City,20/07/16,L4,Automotive,3.0,7.0,194.0,169.0,25.0,0.0,0.0
+Mechanical Engineer,Applied materials,United States,CA,Sunnyvale,20/07/16,L4,Semiconductors,5.0,8.0,184.0,150.0,4.0,30.0,0.0
+Mechanical Engineer,Boeing,United States,LA,New Orleans,20/07/15,3,industrial engineering,10.0,15.0,110.0,100.0,0.0,10.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,VA,Dulles,20/07/14,L2,Structures,2.0,2.0,88.0,86.0,0.0,2.0,0.0
+Mechanical Engineer,Collins Aerospace,United States,CT,Hartford,20/06/03,Sr Engineer,Mechanical Engineering,1.0,8.0,109.0,106.0,0.0,3.0,0.0
+Mechanical Engineer,Microsoft,United States,WA,Seattle,20/05/07,61,Hardware,0.0,0.0,205.0,140.0,45.0,20.0,0.0
+Mechanical Engineer,Schlumberger,United States,TX,Houston,20/03/10,G11,Hardware,0.0,0.0,120.0,108.0,0.0,12.0,0.0
+Mechanical Engineer,General Dynamics,United States,CT,Groton,20/02/25,2,Siemens,2.0,2.0,80.0,80.0,0.0,0.0,0.0
+Mechanical Engineer,Amazon,United States,WA,Seattle,20/01/03,L6,DC,5.0,5.0,265.0,150.0,65.0,50.0,0.0
+Mechanical Engineer,Raytheon,United States,CA,El Segundo,19/11/20,G06,Hardware,0.0,0.0,78.0,78.0,0.0,0.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Houston,19/11/02,Senior Engineer,--,10.0,10.0,205.0,195.0,10.0,0.0,0.0
+Mechanical Engineer,HPE,United States,WA,Vancouver,19/10/15,V,R&D Hardware,6.0,6.0,112.0,102.0,5.0,5.0,0.0
+Mechanical Engineer,Boeing,United States,MO,Saint Charles,19/08/02,L2,Mechanical Design,3.0,3.0,89.0,80.0,4.0,4.0,0.0
+Mechanical Engineer,Raytheon,United States,MA,Tewksbury,19/08/02,Senior,Mechanical Engineering,1.0,8.0,104.0,92.0,8.0,4.0,0.0
+Mechanical Engineer,Samsung Electronics,Korea,KG,Suwon,19/07/14,CL3,Mechanical,5.0,5.0,85.0,60.0,0.0,25.0,0.0
+Mechanical Engineer,SpaceX,United States,CA,Hawthorne,19/05/24,Engineer I,Aerospace,1.0,1.0,101.0,80.0,21.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,19/01/23,6,Data Center,6.0,6.0,112.0,97.0,6.0,9.0,0.0

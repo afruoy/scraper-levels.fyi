@@ -1,0 +1,996 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,eBay,United States,WA,Seattle,22/01/03,26,Performance Marketing,2.0,7.0,166.0,144.0,8.0,14.0,6.0
+Marketing,Texas Instruments,United States,CA,Santa Clara,22/01/03,26,RF,3.0,3.0,153.0,115.0,15.0,23.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,22/01/03,L8,digital,9.0,20.0,245.0,205.0,0.0,40.0,0.0
+Marketing,ByteDance,United States,NY,New York,22/01/03,2-1,Monetization,3.0,3.0,133.0,110.0,10.0,14.0,0.0
+Marketing,Facebook,United States,TX,Austin,22/01/01,IC6,API,6.0,8.0,300.0,200.0,60.0,40.0,0.0
+Marketing,Elastic,United States,WA,Seattle,21/12/30,C07,Marketing,0.0,11.0,292.0,230.0,62.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/12/30,63,Marketing,3.0,11.0,194.0,153.0,17.0,24.0,0.0
+Marketing,Microsoft,United States,NY,New York,21/12/29,63,Azure,1.0,5.0,185.0,148.0,10.0,27.0,0.0
+Marketing,Dell Technologies,United States,MA,Boston,21/12/29,19,Messaging,2.0,14.0,229.0,199.0,0.0,30.0,0.0
+Marketing,ByteDance,United States,CA,San Francisco,21/12/28,2-1,Monetization,1.0,3.0,135.0,120.0,0.0,15.0,0.0
+Marketing,Amazon,United States,NY,New York,21/12/27,L6,AWS,4.0,12.0,221.0,152.0,35.0,34.0,0.0
+Marketing,Unilever,United States,NY,New York,21/12/25,L2,Brand,3.0,6.0,138.0,130.0,0.0,8.0,0.0
+Marketing,SAP,Canada,BC,Vancouver,21/12/25,T2,General,1.0,1.0,92.0,87.0,0.0,5.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/12/23,L3,General,0.0,0.0,141.0,109.0,16.0,16.0,0.0
+Marketing,Dell Technologies,United States,WA,Seattle,21/12/22,L8,Product,3.0,8.0,146.0,135.0,0.0,11.0,0.0
+Marketing,Comcast,United States,WA,Seattle,21/12/22,Director,"marketing, operations",4.0,15.0,255.0,190.0,30.0,35.0,0.0
+Marketing,DocuSign,United States,CA,San Francisco,21/12/22,L3,Product Marketing,2.0,10.0,234.0,189.0,35.0,10.0,0.0
+Marketing,Omnicom Group,United States,CA,Los Angeles,21/12/20,L2,Integrated Media Planning,1.0,1.0,65.0,65.0,0.0,0.0,0.0
+Marketing,SAP Concur,United States,WA,Bellevue,21/12/19,L6,SMB,2.0,4.0,105.0,96.0,0.0,9.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/12/18,L5,General,3.0,11.0,300.0,190.0,75.0,35.0,0.0
+Marketing,Google,United Kingdom,EN,London,21/12/17,L4,General,2.0,10.0,155.0,97.0,42.0,16.0,0.0
+Marketing,Google,India,HR,Gurgaon,21/12/17,L7,Marketing,7.0,14.0,255.0,140.0,75.0,40.0,0.0
+Marketing,Amazon,India,KA,Bengaluru,21/12/17,L6,General,1.0,7.0,97.0,67.0,20.0,10.0,0.0
+Marketing,Capital One,United States,VA,West McLean,21/12/16,Principal Associate,Card,0.0,4.0,118.0,109.0,0.0,9.0,0.0
+Marketing,Tableau Software,United States,WA,Seattle,21/12/16,L3,Website,1.0,3.0,105.0,95.0,0.0,10.0,0.0
+Marketing,ByteDance,United States,CA,San Francisco,21/12/15,2-2,SMB,1.0,10.0,184.0,150.0,16.0,18.0,0.0
+Marketing,BMO Financial Group,Canada,ON,Toronto,21/12/14,7,"ad tech, planning, digital media optimization",4.0,4.0,80.0,73.0,0.0,7.0,0.0
+Marketing,TELUS,Canada,ON,Toronto,21/12/14,Senior Independent Contributor,Product,9.0,11.0,94.0,80.0,5.0,10.0,0.0
+Marketing,Shopee,Thailand,BM,Bangkok,21/12/14,Senior associate,Ecommerce,1.0,4.0,34.0,29.0,0.0,5.0,0.0
+Marketing,Globant,United States,NJ,Iselin,21/12/13,L3,Digital marketing,3.0,4.0,60.0,60.0,0.0,0.0,0.0
+Marketing,Ekata,United States,WA,Seattle,21/12/13,Marketing Manager,Demand Generation,1.0,5.0,127.0,109.0,0.0,18.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/12/12,L6,General,2.0,6.0,159.0,119.0,40.0,0.0,0.0
+Marketing,Deloitte,United States,IL,Chicago,21/12/11,Senior Consultant,Strategy,0.0,8.0,198.0,160.0,0.0,38.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/12/11,2-2,product marketing,0.0,8.0,245.0,185.0,37.0,23.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,21/12/10,L6,"product marketing, pmm",2.0,15.0,260.0,180.0,80.0,0.0,0.0
+Marketing,WarnerMedia,United States,CA,Burbank,21/12/09,Senior Manager,Trade / Retail,3.0,11.0,137.0,130.0,0.0,7.0,0.0
+Marketing,Tableau Software,United States,WA,Seattle,21/12/09,8,Product marketing,3.0,12.0,308.0,215.0,50.0,43.0,0.0
+Marketing,Box,United States,CA,Redwood City,21/12/09,L4,Product marketing,2.0,3.0,102.0,92.0,10.0,0.0,0.0
+Marketing,JPMorgan Chase,United States,TX,Plano,21/12/09,Senior Associate,Marketing Analytics,0.0,3.0,132.0,120.0,0.0,12.0,0.0
+Marketing,Intuit,United States,CA,Mountain View,21/12/08,L5,Marketing,2.0,10.0,200.0,135.0,50.0,15.0,0.0
+Marketing,Shopify,United States,WA,Seattle,21/12/08,L6,General,0.0,8.0,133.0,125.0,8.0,0.0,0.0
+Marketing,Yahoo,United States,NC,Charlotte,21/12/08,IC5,Finance,1.0,13.0,210.0,180.0,3.0,27.0,0.0
+Marketing,LinkedIn,United States,NY,New York,21/12/08,IC4,Content,5.0,5.0,182.0,131.0,31.0,20.0,0.0
+Marketing,Cisco Systems,United States,NC,Raleigh,21/12/08,10,Private Cloud,4.0,10.0,147.0,121.0,10.0,16.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/12/08,L6,Retail,5.0,15.0,170.0,140.0,30.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/12/07,L5,General,0.0,12.0,185.0,120.0,25.0,40.0,0.0
+Marketing,Adobe,India,KA,Bangalore,21/12/07,M50,Digital Marketing Strategy Manager,8.0,15.0,113.0,93.0,20.0,0.0,0.0
+Marketing,Orchard,United States,NY,New York,21/12/07,L6,"Operations, Marketing",2.0,10.0,265.0,190.0,75.0,0.0,0.0
+Marketing,Nordstrom,United States,WA,Seattle,21/12/07,Director,Strategy & Operations,4.0,15.0,310.0,200.0,50.0,60.0,0.0
+Marketing,Splunk,United States,CA,San Francisco,21/12/06,P4,General,5.0,5.0,175.0,130.0,25.0,20.0,0.0
+Marketing,Omnicom Group,United States,NY,New York,21/12/05,L1,General,1.0,1.0,45.0,40.0,0.0,5.0,0.0
+Marketing,Gartner,United States,NY,New York,21/12/02,Director,General,5.0,11.0,135.0,117.0,0.0,18.0,0.0
+Marketing,Oracle,United States,CO,Denver,21/12/02,IC-3,Long-form content,4.0,8.0,126.0,99.0,27.0,0.0,0.0
+Marketing,Facebook,United States,NY,New York,21/12/02,IC6,Commerce,5.0,10.0,334.0,219.0,68.0,47.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/12/01,L4,Product Experience Strategist,0.0,5.0,183.0,138.0,24.0,21.0,0.0
+Marketing,Uber,United Kingdom,EN,London,21/12/01,L6,General,3.0,17.0,256.0,141.0,73.0,42.0,0.0
+Marketing,Amazon Web Services,United States,WA,Seattle,21/11/30,L6,Executive Communications,4.0,10.0,250.0,128.0,122.0,0.0,0.0
+Marketing,Dell Technologies,United States,TX,Austin,21/11/30,L8,General,0.0,5.0,153.0,141.0,0.0,12.0,0.0
+Marketing,ASOS,United Kingdom,EN,London,21/11/30,L0,General,0.0,0.0,50.0,50.0,0.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/11/30,L7,Product Marketing,7.0,12.0,445.0,235.0,150.0,60.0,0.0
+Marketing,Google,United States,WA,Seattle,21/11/29,Manager (L6),martech,3.0,12.0,275.0,200.0,25.0,50.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/11/29,61,General,0.0,6.0,210.0,121.0,14.0,75.0,0.0
+Marketing,BigCommerce,United States,NV,Las Vegas,21/11/27,IC3,Content,1.0,5.0,185.0,170.0,15.0,0.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/11/25,Manager,Api management,1.0,8.0,207.0,168.0,14.0,25.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/11/24,L6,General,7.0,8.0,160.0,110.0,50.0,0.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/11/24,IC4,Digital Marketing,2.0,9.0,201.0,149.0,30.0,22.0,0.0
+Marketing,Unity Technologies,United States,WA,Bellevue,21/11/24,Senior Manager,SEM,0.0,2.0,210.0,138.0,72.0,0.0,0.0
+Marketing,PwC,United States,MO,St. Louis,21/11/23,Senior Manager,Marketing,6.0,16.0,127.0,119.0,0.0,8.0,0.0
+Marketing,Microsoft,United States,GA,Atlanta,21/11/23,63,General,0.0,20.0,158.0,134.0,4.0,20.0,0.0
+Marketing,Robinhood,United States,CA,San Francisco,21/11/23,L4,Growth,1.0,5.0,230.0,175.0,40.0,15.0,0.0
+Marketing,Chase,United States,NY,New York,21/11/22,602,Marketing,5.0,5.0,98.0,89.0,0.0,9.0,0.0
+Marketing,Wayfair,United States,MA,Boston,21/11/21,L6,General,1.0,20.0,610.0,200.0,360.0,50.0,0.0
+Marketing,Unity Technologies,Canada,ON,Toronto,21/11/20,IC06,Multiplayer,1.0,6.0,76.0,76.0,0.0,0.0,0.0
+Marketing,Goldman Sachs,United States,NY,New York,21/11/20,Analyst,marketing analyst,1.0,1.0,150.0,100.0,0.0,50.0,0.0
+Marketing,Uber,United States,NY,New York,21/11/19,L4,Growth,1.0,5.0,156.0,125.0,18.0,13.0,0.0
+Marketing,Stripe,United States,CA,San Francisco,21/11/19,L4,Marketing,2.0,10.0,230.0,190.0,0.0,40.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/11/19,L6,Retail Leadership Development Program,0.0,6.0,177.0,133.0,26.0,19.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/11/19,L4,Digital,0.0,3.0,85.0,61.0,20.0,4.0,0.0
+Marketing,Amazon,United States,NY,New York,21/11/19,L6,Research,0.0,10.0,200.0,145.0,33.0,22.0,0.0
+Marketing,Twilio,United States,CA,San Francisco,21/11/17,l4,Product,4.0,8.0,210.0,170.0,40.0,0.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/11/16,2-1,developer ecosystem,2.0,6.0,150.0,133.0,0.0,17.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/11/16,L5,marketing data science,5.0,11.0,245.0,161.0,50.0,34.0,0.0
+Marketing,Caterpillar,United States,IL,Chicago,21/11/16,24,Product Manager,13.0,13.0,160.0,135.0,0.0,25.0,0.0
+Marketing,PagerDuty,United States,CA,San Francisco,21/11/15,Manager,Growth,2.0,10.0,216.0,181.0,35.0,0.0,0.0
+Marketing,Lyft,United States,CA,San Francisco,21/11/15,L4,Product Marketing,1.0,3.0,147.0,131.0,16.0,0.0,0.0
+Marketing,Fanduel,United States,NY,New York,21/11/15,Senior Associate,MarTech,0.0,3.0,100.0,95.0,0.0,5.0,0.0
+Marketing,McKinsey,United States,NY,New York,21/11/14,L4,Publishing,6.0,8.0,155.0,155.0,0.0,0.0,0.0
+Marketing,Unilever,Canada,ON,Toronto,21/11/13,L6,General,3.0,15.0,125.0,100.0,10.0,15.0,0.0
+Marketing,Amazon,United Kingdom,EN,London,21/11/13,L5,Partner,0.0,15.0,246.0,93.0,73.0,80.0,0.0
+Marketing,Siemens,United States,OR,Portland,21/11/12,SDE,general,1.0,1.0,62.0,60.0,0.0,2.0,0.0
+Marketing,Peloton,United States,NY,New York,21/11/11,3,Retention,2.0,2.0,62.0,62.0,0.0,0.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/11/11,IC6,PMM,4.0,10.0,295.0,196.0,60.0,39.0,0.0
+Marketing,Warner Bros,United States,CA,Los Angeles,21/11/11,3,Globak,10.0,12.0,134.0,128.0,0.0,6.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,21/11/11,Grade 6,Customer pdt engineer,9.0,11.0,125.0,107.0,8.0,10.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/11/09,L6,Creative,4.0,10.0,311.0,155.0,131.0,25.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,21/11/09,M4,"DevOps, Kubernetes",3.0,6.0,301.0,205.0,55.0,41.0,0.0
+Marketing,DocuSign,United States,IN,Indianapolis,21/11/09,P4,"Customer Marketing, Customer Advocacy",1.0,6.0,202.0,147.0,40.0,15.0,0.0
+Marketing,Wish,United States,IL,Chicago,21/11/09,L4,Design,1.0,7.0,130.0,100.0,30.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/11/08,L6,General,6.0,10.0,212.0,132.0,80.0,0.0,0.0
+Marketing,Twilio,United States,CO,Denver,21/11/08,M4,General,2.0,13.0,238.0,138.0,100.0,0.0,0.0
+Marketing,Accenture,United States,WA,Seattle,21/11/06,8,Digital marketing,1.0,15.0,148.0,138.0,0.0,10.0,0.0
+Marketing,Spotify,United States,NY,New York,21/11/06,Visual designer,Brand design,1.0,4.0,96.0,90.0,6.0,0.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/11/05,L5,Insights,4.0,7.0,224.0,148.0,60.0,16.0,0.0
+Marketing,Rubrik,United States,CA,Palo Alto,21/11/05,L6,Growth,1.0,12.0,252.0,172.0,45.0,35.0,0.0
+Marketing,Instacart,United States,NY,New York,21/11/05,L7,Communications,1.0,7.0,365.0,210.0,120.0,35.0,0.0
+Marketing,Accenture,United States,IL,Chicago,21/11/05,7,Content Marketing,6.0,13.0,150.0,139.0,0.0,11.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/11/04,L5,General,5.0,11.0,325.0,175.0,100.0,50.0,0.0
+Marketing,Expedia,United States,TX,Dallas,21/11/04,K,Growth,5.0,15.0,93.0,83.0,0.0,10.0,0.0
+Marketing,Klarna,United States,NY,New York,21/11/04,L2,analytics,0.0,9.0,164.0,160.0,4.0,0.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/11/03,Senior Manager,Product,4.0,6.0,199.0,166.0,9.0,25.0,0.0
+Marketing,Dell Technologies,United States,TX,Round Rock,21/11/03,L9,Pricing Consultant,10.0,10.0,175.0,153.0,0.0,22.0,0.0
+Marketing,Adobe,United States,CA,San Francisco,21/11/03,L4,General,1.0,9.0,253.0,180.0,46.0,27.0,0.0
+Marketing,Facebook,United Kingdom,EN,London,21/11/03,IC5,Entertainment,3.0,10.0,147.0,116.0,14.0,17.0,0.0
+Marketing,GitHub,United States,CA,San Francisco,21/11/03,8,Demand Generation,4.0,4.0,196.0,136.0,30.0,30.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/11/03,IC8,Ads,4.0,25.0,551.0,278.0,190.0,83.0,0.0
+Marketing,TransUnion,United States,CO,Boulder,21/11/03,L2,General,0.0,4.0,70.0,70.0,0.0,0.0,0.0
+Marketing,Amazon,United States,NY,New York,21/11/01,L6,general,5.0,12.0,268.0,140.0,128.0,0.0,0.0
+Marketing,Deloitte,United Kingdom,EN,London,21/11/01,Manager,Alliance technology marketing,4.0,9.0,87.0,84.0,0.0,3.0,0.0
+Marketing,Mailchimp,United States,GA,Atlanta,21/10/31,Mid,Paid Advertising,2.0,7.0,110.0,93.0,0.0,17.0,0.0
+Marketing,GitHub,United States,WA,Seattle,21/10/31,Manager,SEO,2.0,20.0,195.0,165.0,20.0,10.0,40.0
+Marketing,Unilever,United States,NJ,Englewood Cliffs,21/10/29,L1,Marketing,0.0,0.0,48.0,48.0,0.0,0.0,0.0
+Marketing,Amazon,Canada,ON,Toronto,21/10/28,L5,general,2.0,4.0,127.0,88.0,29.0,11.0,0.0
+Marketing,Vacasa,United States,OR,Portland,21/10/28,Senior,Growth marketing,1.0,10.0,65.0,65.0,0.0,0.0,0.0
+Marketing,TripAdvisor,United States,CA,San Francisco,21/10/28,MII,general,7.0,7.0,286.0,180.0,70.0,36.0,0.0
+Marketing,TripAdvisor,United States,CA,San Francisco,21/10/28,MII,general,7.0,7.0,286.0,180.0,70.0,36.0,0.0
+Marketing,Workday,Singapore,SG,Singapore,21/10/28,M5,Solution Marketing,6.0,20.0,318.0,198.0,100.0,20.0,0.0
+Marketing,MiQ,Canada,ON,Toronto,21/10/28,L3,Programmatic,2.0,2.0,83.0,60.0,0.0,23.0,0.0
+Marketing,MiQ,Canada,ON,Toronto,21/10/28,L4,Programmatic,2.0,4.0,113.0,73.0,0.0,40.0,0.0
+Marketing,TripAdvisor,United States,CA,San Francisco,21/10/27,K,general,1.0,3.0,126.0,108.0,5.0,13.0,0.0
+Marketing,Facebook,United States,CA,San Diego,21/10/27,IC6,Insights,1.0,6.0,277.0,189.0,50.0,38.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/10/27,4-1,marketing,2.0,18.0,655.0,345.0,200.0,110.0,0.0
+Marketing,IBM,United States,NY,New York,21/10/27,band 9,Paid Media,5.0,12.0,187.0,187.0,0.0,0.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/10/26,L3,Growth/Perf. Marketing,3.0,4.0,116.0,96.0,10.0,10.0,0.0
+Marketing,Indeed,United States,NY,New York,21/10/26,L4,Partnerships,2.0,7.0,173.0,140.0,10.0,23.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/10/26,L9,Marketing,7.0,20.0,325.0,240.0,25.0,60.0,0.0
+Marketing,IBM,United States,NY,New York,21/10/25,Band 7,"marketing, branding, digital marketing, communications",4.0,14.0,108.0,108.0,0.0,0.0,0.0
+Marketing,OpenTable,United States,CA,San Francisco,21/10/24,L4,PR,2.0,6.0,134.0,108.0,10.0,16.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,21/10/24,L4,PR,1.0,7.0,163.0,130.0,13.0,20.0,0.0
+Marketing,IBM,United States,NY,New York,21/10/22,Band 9,Digital Strategy,7.0,10.0,170.0,170.0,0.0,0.0,0.0
+Marketing,Logitech,United States,CA,Newark,21/10/21,I4,"product marketing, portfolio management",3.0,18.0,221.0,171.0,8.0,43.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/10/21,L7,Api management,2.0,8.0,184.0,184.0,0.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/10/21,L6,General,4.0,12.0,326.0,193.0,85.0,48.0,0.0
+Marketing,Spotify,United Kingdom,EN,London,21/10/21,Associate,Subscriptions Growth,2.0,2.0,59.0,59.0,0.0,0.0,0.0
+Marketing,Disney,United States,NY,New York,21/10/20,VP (E2),Growth,3.0,12.0,471.0,265.0,100.0,106.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/10/20,L6,General,5.0,10.0,200.0,120.0,80.0,0.0,0.0
+Marketing,NBCUniversal,United States,MN,Minneapolis,21/10/20,L3,Digital,4.0,8.0,39.0,39.0,0.0,0.0,0.0
+Marketing,Uber,Netherlands,NH,Amsterdam,21/10/20,L5,as,4.0,10.0,140.0,90.0,30.0,20.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,21/10/18,L6,Social Media,2.0,8.0,235.0,175.0,0.0,60.0,0.0
+Marketing,Illumina,United States,CA,San Diego,21/10/18,,General,0.0,5.0,141.0,124.0,10.0,7.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/10/16,IC5,General,0.0,8.0,230.0,174.0,30.0,26.0,0.0
+Marketing,DigitalOcean,United States,NY,New York,21/10/15,IC4,General,4.0,4.0,135.0,121.0,0.0,14.0,0.0
+Marketing,Google,Singapore,SG,Singapore,21/10/15,L6,Strategy,8.0,8.0,235.0,185.0,13.0,37.0,0.0
+Marketing,Intuitive,United States,CA,San Francisco,21/10/15,M4,Digital app,10.0,15.0,500.0,250.0,200.0,50.0,0.0
+Marketing,Amazon,United States,TN,Nashville,21/10/14,L6,Marketing strategy,2.0,16.0,206.0,140.0,31.0,35.0,0.0
+Marketing,Square,United States,NY,New York,21/10/13,L6,Growth PMM,0.0,9.0,225.0,180.0,45.0,0.0,0.0
+Marketing,Snap,United States,CA,Los Angeles,21/10/12,L4,Design,0.0,6.0,236.0,150.0,76.0,10.0,0.0
+Marketing,Dell Technologies,United States,TX,Austin,21/10/12,I8,Analytics,2.0,7.0,138.0,125.0,0.0,13.0,0.0
+Marketing,Klarna,United States,NY,New York,21/10/12,L3,Brand,1.0,4.0,105.0,98.0,8.0,0.0,0.0
+Marketing,Siemens,United States,TX,Houston,21/10/12,L8,Marketing,8.0,29.0,200.0,180.0,0.0,20.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/10/11,IC4,Growth Marketing,1.0,7.0,242.0,185.0,30.0,27.0,0.0
+Marketing,Target,United States,MN,Minneapolis,21/10/11,L4,Brand,1.0,1.0,65.0,60.0,0.0,5.0,0.0
+Marketing,Zillow,United States,WA,Seattle,21/10/09,P2,General,3.0,3.0,97.0,85.0,12.0,0.0,0.0
+Marketing,Amazon,United States,CA,Irvine,21/10/08,L6,Creative,3.0,12.0,270.0,160.0,65.0,45.0,0.0
+Marketing,Unilever,United States,NY,New York,21/10/08,3,General,3.0,3.0,95.0,90.0,1.0,4.0,0.0
+Marketing,Unilever,United States,NY,New York,21/10/08,1,Brand,3.0,3.0,95.0,90.0,1.0,4.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/10/07,L5,General,0.0,6.0,249.0,173.0,50.0,26.0,0.0
+Marketing,Hexagon AB,United States,RI,Providence,21/10/07,L4,Technology,3.0,15.0,150.0,130.0,0.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/10/06,66,Marcom,15.0,22.0,307.0,190.0,80.0,37.0,0.0
+Marketing,Dell Technologies,United States,TX,Dallas,21/10/06,L5,Product line management,0.0,0.0,78.0,68.0,7.0,3.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/10/06,60,Marketing,2.0,2.0,127.0,102.0,10.0,15.0,0.0
+Marketing,Google,United States,NY,New York,21/10/05,L5,General,0.0,9.0,254.0,181.0,46.0,27.0,0.0
+Marketing,Facebook,United States,NY,New York,21/10/05,IC4,Art Director,1.0,9.0,180.0,146.0,22.0,12.0,0.0
+Marketing,Expedia,United States,WA,Seattle,21/10/05,4,creative,3.0,15.0,142.0,120.0,10.0,12.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/10/04,E5,Finance,3.0,10.0,290.0,185.0,50.0,55.0,0.0
+Marketing,Apple,United States,CA,San Francisco,21/10/01,IC3,General,0.0,3.0,120.0,100.0,10.0,10.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/10/01,L6,Marketing,0.0,8.0,214.0,150.0,41.0,23.0,0.0
+Marketing,Twitch,United States,CA,San Francisco,21/09/30,L6,Social Media,2.0,8.0,235.0,175.0,58.0,2.0,0.0
+Marketing,Vectra AI,United States,CA,San Jose,21/09/29,VP,Product,0.0,10.0,294.0,235.0,0.0,59.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,21/09/29,IC3,General,0.0,5.0,184.0,145.0,17.0,22.0,0.0
+Marketing,Facebook,United States,TX,Austin,21/09/28,IC6,Product Marketing,6.0,8.0,320.0,200.0,80.0,40.0,0.0
+Marketing,Pinterest,Ireland,DN,Dublin,21/09/28,L6,Growth,2.0,12.0,250.0,150.0,100.0,0.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,21/09/28,L5,Prime Video,5.0,8.0,120.0,82.0,34.0,4.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/09/28,L6,product marketing,0.0,5.0,339.0,220.0,75.0,44.0,0.0
+Marketing,Johnson & Johnson,Taiwan,TP,Taipei,21/09/27,25,General,4.0,4.0,40.0,33.0,0.0,7.0,0.0
+Marketing,Google,United Kingdom,EN,London,21/09/27,L4,Partners,3.0,10.0,164.0,94.0,51.0,19.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/09/27,63,Dev Marketing,0.0,6.0,245.0,150.0,50.0,45.0,0.0
+Marketing,LaunchDarkly,United States,CA,Oakland,21/09/27,L1,Web development,2.0,2.0,130.0,125.0,5.0,0.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,21/09/27,L6,General,1.0,8.0,103.0,95.0,8.0,0.0,0.0
+Marketing,Comcast,United States,PA,Philadelphia,21/09/27,Senior Principal Engineer,Data science,8.0,20.0,200.0,140.0,32.0,28.0,0.0
+Marketing,LinkedIn,Ireland,DN,Dublin,21/09/25,MR3,Content Marketing,1.0,10.0,140.0,105.0,19.0,16.0,0.0
+Marketing,Grab,Singapore,SG,Raffles Park,21/09/25,L6,General,3.0,9.0,260.0,130.0,100.0,30.0,0.0
+Marketing,Alation,United States,CA,Redwood City,21/09/24,,Project Management,2.0,3.0,105.0,95.0,0.0,10.0,0.0
+Marketing,Amazon,United States,NY,New York,21/09/24,L6,Gaming,0.0,6.0,178.0,130.0,28.0,20.0,0.0
+Marketing,Microsoft,United States,CA,Los Angeles,21/09/24,62,Product marketing,2.0,10.0,162.0,125.0,25.0,12.0,0.0
+Marketing,Disney,United States,CA,Los Angeles,21/09/23,M3,Digital,5.0,15.0,160.0,145.0,0.0,15.0,0.0
+Marketing,Amazon,United States,FL,Tampa,21/09/23,L6,Sports marketing,5.0,16.0,240.0,140.0,50.0,50.0,0.0
+Marketing,Microsoft,United States,PA,Pittsburgh,21/09/21,65,General,10.0,14.0,245.0,167.0,45.0,33.0,0.0
+Marketing,NVIDIA,United States,CA,Santa Clara,21/09/21,L1,Product,1.0,1.0,166.0,130.0,16.0,20.0,0.0
+Marketing,T-Mobile,United States,WA,Bellevue,21/09/21,L9,Corp Comm,9.0,9.0,89.0,78.0,3.0,8.0,0.0
+Marketing,Amazon,Serbia,SR,Belgrade,21/09/20,L5,General,1.0,8.0,21.0,21.0,0.0,0.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,21/09/19,Grade 8,advanced technology,0.0,7.0,184.0,140.0,20.0,24.0,0.0
+Marketing,Ekata,United States,WA,Seattle,21/09/19,,Demand Generation,1.0,5.0,105.0,105.0,0.0,0.0,0.0
+Marketing,Discovery,United States,MD,Silver Spring,21/09/19,Band 5,Graphic Design,2.0,3.0,91.0,75.0,5.0,11.0,0.0
+Marketing,Procter & Gamble,United States,OH,Cincinnati,21/09/18,2,CMK,3.0,3.0,115.0,105.0,5.0,5.0,0.0
+Marketing,IBM,United States,TX,Austin,21/09/17,Band 9,Events,3.0,13.0,135.0,135.0,0.0,0.0,0.0
+Marketing,Amazon,United States,TX,Austin,21/09/17,L5,Americas,1.0,15.0,145.0,130.0,9.0,6.0,0.0
+Marketing,Klaviyo,United States,MA,Boston,21/09/17,L5,growth,0.0,8.0,200.0,150.0,50.0,0.0,0.0
+Marketing,F5 Networks,United States,WA,Seattle,21/09/17,L4,Marketing,2.0,6.0,143.0,130.0,0.0,13.0,0.0
+Marketing,Carta,United States,WA,Seattle,21/09/16,E4,General,0.0,2.0,159.0,141.0,18.0,0.0,0.0
+Marketing,Hired,United States,NY,New York,21/09/16,L2,General,4.0,4.0,139.0,108.0,0.0,31.0,0.0
+Marketing,The Clorox Company,United States,NC,Durham,21/09/15,26,General,2.0,12.0,125.0,115.0,0.0,10.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/09/14,L6,services,0.0,12.0,191.0,152.0,39.0,0.0,0.0
+Marketing,DocuSign,United States,CA,San Francisco,21/09/14,Senior Manager,Product Marketing,3.0,10.0,265.0,165.0,100.0,0.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/09/13,IC5,Growth Marketing,3.0,10.0,280.0,202.0,38.0,40.0,0.0
+Marketing,Spotify,United States,NY,New York,21/09/09,Senior Analyst,Research,2.0,7.0,155.0,120.0,35.0,0.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/09/08,L4,Animation,1.0,9.0,145.0,135.0,0.0,10.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/09/08,61,General,0.0,6.0,135.0,121.0,14.0,0.0,0.0
+Marketing,Facebook,United States,WA,Seattle,21/09/07,IC7,General,0.0,14.0,444.0,255.0,125.0,64.0,0.0
+Marketing,Mastercard,United States,CA,San Francisco,21/09/07,2,Consumer Marketing,2.0,6.0,100.0,86.0,0.0,14.0,0.0
+Marketing,Amazon,Germany,BE,Berlin,21/09/07,L6,General,5.0,10.0,120.0,95.0,25.0,0.0,0.0
+Marketing,CVS Health,United States,MA,Boston,21/09/06,109,Consumer Products,3.0,8.0,155.0,136.0,0.0,19.0,0.0
+Marketing,LinkedIn,Ireland,DN,Dublin,21/09/02,MR3,General,1.0,1.0,142.0,107.0,19.0,16.0,0.0
+Marketing,Google,India,TS,Hyderabad,21/09/01,L4,Sales,0.0,6.0,88.0,80.0,8.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/09/01,L6,Analytics,3.0,16.0,419.0,209.0,150.0,60.0,0.0
+Marketing,Microsoft,United States,WA,Bellevue,21/08/31,61,Business Applications,4.0,4.0,125.0,107.0,5.0,13.0,0.0
+Marketing,Shopify,United States,CA,San Francisco,21/08/31,L3,Plus,0.0,4.0,125.0,105.0,15.0,5.0,0.0
+Marketing,Facebook,United States,NY,New York,21/08/31,IC5,Video,3.0,7.0,285.0,180.0,78.0,27.0,0.0
+Marketing,Amazon,United Arab Emirates,DU,Dubai,21/08/31,L6,General,5.0,9.0,206.0,126.0,80.0,0.0,0.0
+Marketing,Shopify,United States,MA,Boston,21/08/31,L7,Marketing,1.0,11.0,210.0,185.0,25.0,0.0,0.0
+Marketing,Quantcast,United States,CA,San Francisco,21/08/30,L4,Marketing,2.0,6.0,164.0,140.0,10.0,14.0,0.0
+Marketing,Microsoft Corporation,United States,WA,Seattle,21/08/28,62,marekting,4.0,4.0,138.0,130.0,1.0,7.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/08/28,IC4,General,0.0,9.0,257.0,190.0,39.0,29.0,0.0
+Marketing,Google,India,HR,Gurgaon,21/08/28,L7,Consumer,5.0,13.0,215.0,130.0,50.0,35.0,0.0
+Marketing,Red Ventures,United States,NC,Charlotte,21/08/27,L1,SEO (Search Engine Optimization),2.0,2.0,74.0,74.0,0.0,0.0,0.0
+Marketing,JPMorgan Chase,United States,IL,Chicago,21/08/27,Executive Director,Comms,0.0,10.0,150.0,150.0,0.0,0.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/08/27,2.1,General,1.0,7.0,100.0,87.0,0.0,13.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/08/27,L6,Product Marketing,6.0,15.0,234.0,141.0,93.0,0.0,0.0
+Marketing,Blizzard Entertainment,United States,CA,Irvine,21/08/26,1,Global Publishing,8.0,11.0,125.0,113.0,0.0,12.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,21/08/26,L6,recruting,2.0,30.0,160.0,110.0,50.0,0.0,0.0
+Marketing,Amazon,United States,DC,Washington,21/08/25,L6,general,4.0,5.0,200.0,140.0,50.0,10.0,0.0
+Marketing,Airbnb,United States,CA,San Francisco,21/08/25,G9,mobile,0.0,8.0,380.0,150.0,200.0,30.0,0.0
+Marketing,Boeing,United States,WA,Seattle,21/08/25,P6,Product Promotion,20.0,43.0,250.0,200.0,0.0,50.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/08/25,64,MarComm,4.0,18.0,220.0,169.0,24.0,27.0,0.0
+Marketing,The Home Depot,United States,GA,Atlanta,21/08/24,L3,Brand,0.0,15.0,174.0,145.0,0.0,29.0,0.0
+Marketing,Dell Technologies,United States,TX,Austin,21/08/24,I10,General,13.0,19.0,240.0,160.0,30.0,50.0,0.0
+Marketing,Amazon,United States,IL,Chicago,21/08/23,L5,Account management,0.0,8.0,119.0,100.0,19.0,0.0,0.0
+Marketing,Bayer,United States,NJ,Whippany,21/08/23,VS2,Oncology SBU,2.0,6.0,297.0,212.0,45.0,40.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/08/23,L3,Sales,0.0,2.0,143.0,108.0,18.0,16.0,0.0
+Marketing,Twitter,United States,IL,Chicago,21/08/23,L5,Salez,1.0,1.0,243.0,140.0,10.0,93.0,0.0
+Marketing,Amazon,United States,NY,New York,21/08/22,L6,General,0.0,7.0,274.0,179.0,55.0,40.0,0.0
+Marketing,Dell Technologies,United States,TX,Round Rock,21/08/21,L9,General,2.0,20.0,198.0,165.0,0.0,33.0,0.0
+Marketing,Apple,United States,CA,Culver City,21/08/21,IC3,General,5.0,11.0,275.0,113.0,154.0,8.0,0.0
+Marketing,AWS,United States,WA,Seattle,21/08/20,L6,Digital,2.0,10.0,205.0,155.0,15.0,35.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/08/20,65,Marketing,10.0,10.0,259.0,179.0,45.0,35.0,0.0
+Marketing,VMware,United States,CA,San Francisco,21/08/20,L4,General,0.0,4.0,196.0,155.0,21.0,20.0,0.0
+Marketing,Glossier,United States,NY,New York,21/08/20,Senior Manager,Beauty marketing,1.0,10.0,170.0,160.0,0.0,10.0,0.0
+Marketing,Expedia,United States,TX,Austin,21/08/19,N,General,0.0,10.0,275.0,180.0,50.0,45.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/08/19,L5,Product,8.0,11.0,170.0,103.0,67.0,0.0,0.0
+Marketing,Dell Technologies,United States,TX,Austin,21/08/18,L8,Field Marketing manager,7.0,7.0,151.0,134.0,0.0,17.0,0.0
+Marketing,Google,United States,NY,New York,21/08/18,Manager (L6),Research,5.0,15.0,375.0,212.0,70.0,93.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/08/18,IC6,IC6,0.0,10.0,350.0,250.0,100.0,0.0,0.0
+Marketing,Pinterest,United States,CA,San Francisco,21/08/17,L6,--,1.0,10.0,320.0,220.0,100.0,0.0,0.0
+Marketing,App Annie,Singapore,SG,Raffles Park,21/08/17,IC4,General,2.0,8.0,110.0,110.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,GA,Atlanta,21/08/17,62,Unified endpoint management and security,0.0,5.0,210.0,142.0,25.0,43.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/08/15,L6,Integrated marketing,0.0,5.0,201.0,152.0,30.0,19.0,0.0
+Marketing,ResMed,United States,CA,San Diego,21/08/15,6,Demand generation,2.0,11.0,170.0,148.0,0.0,22.0,0.0
+Marketing,GitLab,Ireland,DN,Dublin,21/08/15,Senior Manager,Customer,2.0,7.0,102.0,90.0,10.0,2.0,0.0
+Marketing,F5 Networks,United States,WA,Seattle,21/08/12,Manager,General,3.0,20.0,182.0,145.0,22.0,15.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/08/11,62,Internal & Executive Communications,0.0,11.0,151.0,135.0,6.0,10.0,0.0
+Marketing,Facebook,United States,GA,Atlanta,21/08/11,M2,Creative,3.0,14.0,352.0,224.0,63.0,64.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/08/11,63,Strategy,0.0,9.0,206.0,150.0,36.0,20.0,0.0
+Marketing,Facebook,United States,NY,New York,21/08/11,IC5,Consumer,1.0,8.0,249.0,168.0,47.0,34.0,0.0
+Marketing,Prudential Financial,United States,MN,Minneapolis,21/08/11,10P,General,3.0,3.0,92.0,80.0,0.0,12.0,0.0
+Marketing,Indeed,United States,TX,Austin,21/08/10,M4,content marketing,5.0,10.0,154.0,145.0,9.0,0.0,0.0
+Marketing,Facebook,Morocco,RA,Rabat,21/08/10,L2,General,0.0,3.0,140.0,100.0,30.0,10.0,0.0
+Marketing,Snap,United States,CA,Los Angeles,21/08/10,L3,Sales,3.0,8.0,164.0,134.0,10.0,20.0,0.0
+Marketing,Bloomberg,United States,NY,New York,21/08/09,Marketing,Marketing,6.0,14.0,195.0,170.0,0.0,25.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/08/09,59,ACE,0.0,0.0,106.0,92.0,5.0,9.0,0.0
+Marketing,Dell Technologies,United States,MA,Hopkinton,21/08/08,L8,Technical,10.0,20.0,129.0,120.0,1.0,8.0,0.0
+Marketing,Google,United States,CA,Sunnyvale,21/08/07,L5,Marketing,1.0,5.0,126.0,126.0,0.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/08/07,L5,Enterprise,1.0,6.0,146.0,118.0,15.0,13.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/08/07,59,Gaming,3.0,3.0,103.0,93.0,1.0,9.0,0.0
+Marketing,Shopify,United States,NY,New York,21/08/06,L7,Product,2.0,10.0,180.0,155.0,25.0,0.0,0.0
+Marketing,Facebook,United States,NY,New York,21/08/06,L4,General,2.0,9.0,231.0,155.0,32.0,44.0,0.0
+Marketing,Google,United States,NY,New York,21/08/06,L6,Consumer,6.0,8.0,297.0,193.0,58.0,46.0,0.0
+Marketing,Workday,United States,CA,Pleasanton,21/08/05,P5,Marketing,5.0,16.0,201.0,164.0,37.0,0.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/08/05,M2,Communications,3.0,8.0,350.0,175.0,125.0,50.0,0.0
+Marketing,Yandex,Russia,MC,Moscow,21/08/04,16,International Marketing,1.0,8.0,50.0,30.0,5.0,15.0,0.0
+Marketing,Amazon,United States,NY,New York,21/08/04,L5,Campaigns,1.0,7.0,160.0,140.0,10.0,10.0,0.0
+Marketing,Siemens,United States,NY,Rochester,21/08/04,L3,Technical Marketing,22.0,28.0,138.0,138.0,0.0,0.0,0.0
+Marketing,Startups.com,United States,NY,New York,21/08/03,L1,Brand,0.0,3.0,95.0,92.0,3.0,0.0,0.0
+Marketing,C3.ai,United States,CA,Redwood City,21/08/03,L3,Digital Marketing,0.0,6.0,169.0,130.0,19.0,20.0,0.0
+Marketing,Branch,United States,WA,Seattle,21/08/03,M3,Marketing,3.0,10.0,150.0,150.0,0.0,0.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/08/01,L6,Kids,20.0,20.0,128.0,120.0,8.0,0.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/08/01,L5,Strategy,4.0,10.0,253.0,185.0,38.0,30.0,0.0
+Marketing,Hulu,United States,CA,Santa Monica,21/07/31,IC4,"marketing, events",3.0,10.0,150.0,106.0,0.0,44.0,0.0
+Marketing,Publicis Sapient,United States,NY,New York,21/07/30,VP,General,6.0,12.0,230.0,210.0,0.0,20.0,0.0
+Marketing,Ernst and Young,United States,CT,Stamford,21/07/29,Associate Director,General,3.0,19.0,206.0,196.0,0.0,10.0,0.0
+Marketing,American Express,United Kingdom,EN,London,21/07/28,Director,Digital,7.0,10.0,140.0,90.0,23.0,28.0,0.0
+Marketing,Cigna,United States,CT,Bloomfield,21/07/28,4,General,5.0,15.0,154.0,140.0,0.0,14.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/07/27,L4,U4B Eats,0.0,5.0,172.0,128.0,20.0,25.0,0.0
+Marketing,Amazon,United States,NY,New York,21/07/27,L6,Amazon music,0.0,20.0,188.0,150.0,38.0,0.0,0.0
+Marketing,Better Mortgage,United States,NY,New York,21/07/27,L2,Growth,2.0,4.0,220.0,120.0,90.0,10.0,0.0
+Marketing,Amazon,United Kingdom,EN,London,21/07/26,L7,Marketing,0.0,20.0,182.0,120.0,62.0,0.0,0.0
+Marketing,Oscar Health,United States,NY,New York,21/07/26,L6,PMM,0.0,10.0,196.0,150.0,31.0,15.0,0.0
+Marketing,Red Ventures,United States,NC,Charlotte,21/07/26,L1,Product,1.0,1.0,67.0,65.0,0.0,2.0,0.0
+Marketing,LinkedIn,Singapore,SG,Singapore,21/07/25,L3,General,1.0,9.0,140.0,120.0,8.0,12.0,0.0
+Marketing,Red Ventures,United States,CA,San Francisco,21/07/25,Director,Conversion Rate Optimization,1.0,10.0,170.0,140.0,0.0,30.0,0.0
+Marketing,Chime,United States,CA,San Francisco,21/07/23,L6,Marketing,1.0,11.0,349.0,195.0,125.0,29.0,0.0
+Marketing,The New York Times Company,United States,NY,New York,21/07/23,Director,Insights,3.0,14.0,185.0,150.0,5.0,30.0,0.0
+Marketing,Google,India,HR,Gurgaon,21/07/22,L7,Consumer,7.0,12.0,250.0,145.0,70.0,35.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/07/22,63,Industry,4.0,9.0,200.0,150.0,25.0,25.0,0.0
+Marketing,HubSpot,Ireland,DN,Dublin,21/07/21,5,Product Marketing,0.0,6.0,100.0,100.0,0.0,0.0,0.0
+Marketing,IBM,United Arab Emirates,DU,Dubai,21/07/21,Band 9,Marketing,8.0,14.0,698.0,696.0,0.0,2.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/07/21,64,General,2.0,8.0,245.0,163.0,52.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/07/21,65,General,10.0,13.0,245.0,170.0,35.0,40.0,0.0
+Marketing,TripAdvisor,United States,MA,Needham,21/07/20,Principal Marketing Specialist,General,5.0,12.0,124.0,110.0,1.0,13.0,0.0
+Marketing,Expedia,United States,WA,Seattle,21/07/19,L,Growth,2.0,8.0,154.0,145.0,9.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/07/19,L6,Devices,0.0,9.0,285.0,150.0,75.0,60.0,0.0
+Marketing,Shopify,United States,WA,Seattle,21/07/19,L7,Product,0.0,7.0,222.0,165.0,40.0,17.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/07/19,L3,Relationship Management,10.0,10.0,149.0,125.0,24.0,0.0,0.0
+Marketing,Delivery Hero,Japan,TY,Tokyo,21/07/17,IC3,Performance Marketing,0.0,5.0,101.0,90.0,0.0,11.0,0.0
+Marketing,Shopify,United States,MA,Boston,21/07/17,L7,Product,1.0,7.0,198.0,165.0,33.0,0.0,0.0
+Marketing,Audible,United States,WA,Seattle,21/07/16,L6,Manager,9.0,9.0,205.0,135.0,70.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/07/16,L6,Product,0.0,20.0,287.0,154.0,75.0,58.0,0.0
+Marketing,Spotify,United States,NY,New York,21/07/16,L1,Content,1.0,3.0,85.0,73.0,12.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/07/15,63,Azure,6.0,10.0,193.0,151.0,24.0,19.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/07/14,L5,Growth marketing,8.0,10.0,250.0,160.0,60.0,30.0,0.0
+Marketing,Indeed,United States,TX,Austin,21/07/14,M4,General,4.0,15.0,135.0,105.0,15.0,15.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/07/14,L6,General,2.0,10.0,189.0,157.0,25.0,7.0,0.0
+Marketing,Adobe,United States,CA,San Jose,21/07/14,MP40,general,6.0,10.0,171.0,141.0,15.0,15.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/07/13,IC4,growth marketing,2.0,9.0,231.0,184.0,20.0,27.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/07/13,2-2,Design,1.0,10.0,197.0,145.0,34.0,18.0,0.0
+Marketing,Bluecore,United States,NY,New York,21/07/12,Senior,B2B,4.0,10.0,140.0,130.0,10.0,0.0,0.0
+Marketing,Microsoft,Singapore,SG,Singapore,21/07/12,60,Dev Marketing,2.0,8.0,120.0,100.0,4.0,15.0,0.0
+Marketing,VMware,United States,TX,Austin,21/07/11,L4,Cloud,1.0,8.0,210.0,164.0,19.0,28.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,21/07/11,L3,General,3.0,3.0,150.0,100.0,40.0,10.0,0.0
+Marketing,ByteDance,United States,CA,San Francisco,21/07/10,3-1,PMM,1.0,10.0,300.0,190.0,63.0,48.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/07/10,L7,General,5.0,13.0,383.0,153.0,230.0,0.0,0.0
+Marketing,Scale AI,United States,TX,Austin,21/07/10,Senior,Design,0.0,15.0,170.0,110.0,60.0,0.0,0.0
+Marketing,BCG,United States,IL,Chicago,21/07/08,Manager,Content marketing,3.0,8.0,167.0,142.0,14.0,15.0,0.0
+Marketing,Google,United States,CA,Sunnyvale,21/07/08,L4,Security,2.0,7.0,187.0,132.0,32.0,23.0,0.0
+Marketing,Databricks,United States,CA,San Francisco,21/07/07,L6,Product and Solutions,2.0,5.0,315.0,190.0,110.0,15.0,0.0
+Marketing,Twitter,United States,NY,New York,21/07/07,8,Brand,4.0,12.0,346.0,234.0,42.0,70.0,0.0
+Marketing,Square,Japan,TY,Tokyo,21/07/06,L6,Digital Marketing,2.0,8.0,105.0,80.0,25.0,0.0,0.0
+Marketing,Icertis,United States,WA,Seattle,21/07/06,Senior Director,Marketing,1.0,15.0,253.0,208.0,15.0,30.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,21/07/04,L5,Prime Video,6.0,9.0,130.0,75.0,55.0,0.0,0.0
+Marketing,Klaviyo,United States,MA,Boston,21/07/03,L4,Product Growth,0.0,6.0,185.0,135.0,50.0,0.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/07/03,L5B,Marketing,3.0,13.0,310.0,190.0,100.0,20.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/07/02,L5,General,3.0,11.0,297.0,175.0,92.0,30.0,0.0
+Marketing,Amazon,Germany,BE,Berlin,21/07/02,L6,Marketing,5.0,10.0,142.0,98.0,44.0,0.0,0.0
+Marketing,IBM,United States,NY,New York,21/07/02,Director,Digital Marketing,6.0,19.0,406.0,263.0,50.0,92.0,0.0
+Marketing,DoorDash,United States,TX,Dallas,21/07/02,S1,General,0.0,5.0,175.0,140.0,35.0,0.0,0.0
+Marketing,Teladoc Health,United States,CA,San Francisco,21/07/02,L1,Growth Strategy,1.0,2.0,114.0,85.0,20.0,9.0,0.0
+Marketing,SoFi,United States,CA,San Francisco,21/07/01,L3,B2C,1.0,4.0,110.0,95.0,10.0,5.0,0.0
+Marketing,The Trade Desk,United States,NY,New York,21/07/01,L2,Programmatic,3.0,3.0,125.0,75.0,35.0,15.0,0.0
+Marketing,Etsy,United States,NY,Brooklyn,21/07/01,IC3,General,2.0,8.0,147.0,115.0,20.0,12.0,0.0
+Marketing,Okta,United States,CA,San Francisco,21/06/30,P4,demand generation,2.0,10.0,230.0,165.0,49.0,17.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/06/30,63,General,13.0,13.0,173.0,138.0,20.0,15.0,0.0
+Marketing,Niantic,United States,CA,San Francisco,21/06/30,L5,product marketing,4.0,13.0,189.0,144.0,25.0,20.0,0.0
+Marketing,IDEO,United States,CA,San Francisco,21/06/30,Senior IC,Growth,4.0,4.0,95.0,95.0,0.0,3.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/06/30,L5,Marketing,4.0,8.0,135.0,90.0,45.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/06/30,62,Azure,6.0,6.0,155.0,127.0,13.0,15.0,0.0
+Marketing,Amazon,India,MH,Mumbai,21/06/29,L7,Partnerships,2.0,13.0,175.0,90.0,50.0,35.0,0.0
+Marketing,Cisco,United States,AZ,Tempe,21/06/29,G10,MARKETING,0.0,7.0,200.0,145.0,40.0,15.0,0.0
+Marketing,IBM,United States,TX,Austin,21/06/29,Band 10,Product Marketing,3.0,10.0,170.0,170.0,0.0,0.0,0.0
+Marketing,AWS,United States,CA,San Francisco,21/06/28,L5,General,2.0,7.0,147.0,134.0,4.0,10.0,0.0
+Marketing,Amazon,United States,NY,New York,21/06/28,L4,General,2.0,2.0,102.0,71.0,15.0,13.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/06/28,62,Marketing,6.0,6.0,151.0,121.0,20.0,10.0,0.0
+Marketing,Adobe,United States,CA,San Francisco,21/06/27,L4,Product Marketing,0.0,6.0,244.0,185.0,31.0,28.0,0.0
+Marketing,Ibm,United States,TX,Austin,21/06/26,9,CHQ,5.0,15.0,140.0,140.0,0.0,1.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/06/26,L62,Data,3.0,7.0,148.0,132.0,6.0,10.0,0.0
+Marketing,Uber,United States,TX,Austin,21/06/26,L3,Brand Marketing,2.0,5.0,99.0,80.0,9.0,10.0,0.0
+Marketing,PepsiCo,United Kingdom,EN,London,21/06/25,L9,analytics,2.0,9.0,125.0,90.0,0.0,35.0,0.0
+Marketing,VMware,United States,CA,San Francisco,21/06/25,P6,marketing,8.0,15.0,300.0,210.0,50.0,42.0,0.0
+Marketing,Microsoft,South Africa,GT,Johannesburg,21/06/24,L11,Marketing,4.0,18.0,175.0,150.0,25.0,0.0,0.0
+Marketing,Upwork,United States,CA,San Francisco,21/06/24,Sr. Director,performance marketing,6.0,16.0,370.0,220.0,100.0,50.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/06/24,L5 Marketing,General,1.0,6.0,225.0,174.0,24.0,25.0,0.0
+Marketing,LendingTree,United States,NC,Charlotte,21/06/23,L1,SEM,1.0,2.0,74.0,61.0,10.0,3.0,0.0
+Marketing,Facebook,United States,NY,New York,21/06/23,IC5,Creative Shop,0.0,10.0,240.0,192.0,19.0,29.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/06/23,L7,General,4.0,9.0,161.0,140.0,0.0,21.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/06/23,L4,Digital Marketing,1.0,4.0,95.0,85.0,5.0,5.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/06/22,6,GTM,1.0,18.0,270.0,160.0,10.0,100.0,0.0
+Marketing,IBM,United States,NY,New York,21/06/22,Band 8,Marketing,2.0,8.0,130.0,126.0,4.0,0.0,0.0
+Marketing,Capital One,United States,NY,New York,21/06/21,Principal Associate,Commercial Banking,6.0,8.0,115.0,105.0,0.0,10.0,0.0
+Marketing,Unity Technologies,United States,CA,San Francisco,21/06/19,,Marketing,2.0,3.0,125.0,100.0,25.0,0.0,0.0
+Marketing,SAP,United States,CA,San Francisco,21/06/19,T4,General,10.0,15.0,248.0,195.0,18.0,35.0,0.0
+Marketing,Shopify,Germany,BE,Berlin,21/06/18,L6,General,3.0,8.0,122.0,76.0,39.0,8.0,0.0
+Marketing,Shopify,United States,OR,Portland,21/06/17,,UX,0.0,14.0,159.0,125.0,21.0,13.0,0.0
+Marketing,Audible,United States,NJ,Newark,21/06/17,L6,general,5.0,7.0,220.0,140.0,80.0,0.0,0.0
+Marketing,Unilever,Australia,NS,Sydney,21/06/17,1E,"Branding, Mass Media, Project Managment",3.0,3.0,87.0,77.0,0.0,10.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,21/06/16,L6,Product marketing,3.0,14.0,260.0,172.0,88.0,0.0,0.0
+Marketing,Amazon,United States,NY,New York,21/06/16,L6,Product Marketing,2.0,12.0,235.0,160.0,53.0,22.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,21/06/16,L6,General,1.0,1.0,18.0,12.0,6.0,0.0,0.0
+Marketing,Raytheon,United States,TX,Dallas,21/06/15,E8,Internal Communications,4.0,8.0,99.0,97.0,0.0,2.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/06/15,IC5,General,1.0,9.0,230.0,174.0,30.0,26.0,0.0
+Marketing,Amazon,Singapore,SG,Singapore,21/06/15,L6,Sales,9.0,11.0,368.0,135.0,233.0,0.0,0.0
+Marketing,Renesas Electronics,United States,IL,San Jose,21/06/14,E,sales,4.0,15.0,350.0,175.0,60.0,110.0,0.0
+Marketing,Oracle,United States,CA,San Francisco,21/06/14,IC-1,Cloud Infrastructure,3.0,3.0,75.0,75.0,0.0,0.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/06/14,IC3,Performance,2.0,7.0,175.0,136.0,25.0,14.0,0.0
+Marketing,NVIDIA,United States,CA,Santa Clara,21/06/14,IC3,Consumer,2.0,6.0,120.0,105.0,6.0,5.0,0.0
+Marketing,Salesforce,United States,CA,Los Angeles,21/06/11,Product mar,General,3.0,4.0,114.0,91.0,23.0,0.0,0.0
+Marketing,Mindbody,United States,CO,Fort Collins,21/06/10,Manager,Web Strategy,2.0,5.0,107.0,104.0,0.0,3.0,0.0
+Marketing,IBM,United States,NY,New York,21/06/10,Band 6,GBS,3.0,3.0,77.0,75.0,0.0,2.0,0.0
+Marketing,Microsoft,United States,GA,Atlanta,21/06/10,61,General,0.0,5.0,164.0,115.0,19.0,30.0,0.0
+Marketing,Lenovo,United States,NC,Raleigh,21/06/10,L3,General,1.0,1.0,78.0,70.0,0.0,8.0,0.0
+Marketing,Chime,United States,CA,San Francisco,21/06/09,L6,Marketing,0.0,11.0,355.0,195.0,131.0,29.0,0.0
+Marketing,C3.ai,United States,CA,Redwood City,21/06/09,l3,product marketing,1.0,5.0,250.0,180.0,50.0,20.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/06/09,L5,Analyst,3.0,8.0,250.0,162.0,60.0,28.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/06/07,L6,General,1.0,7.0,170.0,130.0,23.0,18.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/06/07,IC6,Creative,4.0,10.0,262.0,200.0,22.0,40.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/06/07,3,Analytics,1.0,3.0,140.0,116.0,12.0,12.0,0.0
+Marketing,Amazon,United Kingdom,EN,London,21/06/06,L6,Retail,3.0,8.0,144.0,69.0,57.0,19.0,0.0
+Marketing,DocuSign,United States,GA,Atlanta,21/06/05,Marketing Specialist,Customer,0.0,2.0,95.0,75.0,16.0,3.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/06/05,L4,MARKETING ANALYTICS,5.0,10.0,180.0,142.0,17.0,21.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/06/05,M2,Consumer,8.0,8.0,406.0,241.0,105.0,60.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/06/05,ICT4,Services,3.0,12.0,265.0,180.0,75.0,10.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/06/04,L3,General,0.0,0.0,134.0,103.0,16.0,14.0,0.0
+Marketing,American Express,United States,NY,New York,21/06/04,B35,Program Management & Marketing,3.0,8.0,145.0,124.0,0.0,21.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/06/04,L4,General,1.0,1.0,85.0,70.0,10.0,5.0,0.0
+Marketing,SAP,Canada,QC,Montreal,21/06/04,T4,Marketing,10.0,12.0,150.0,128.0,0.0,23.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/06/04,L3,APMM,0.0,1.0,155.0,103.0,22.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/06/02,63,Analytics,10.0,13.0,186.0,148.0,17.0,21.0,0.0
+Marketing,Google,Australia,VI,Melbourne,21/05/29,Manager,Retail,0.0,5.0,180.0,114.0,0.0,66.0,0.0
+Marketing,Google,United States,CA,San Jose,21/05/29,L4,Marketting,1.0,7.0,157.0,135.0,20.0,2.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,21/05/29,L6,Marketing,1.0,6.0,100.0,71.0,25.0,4.0,0.0
+Marketing,Square,United States,NY,New York,21/05/29,L3,Content,2.0,3.0,105.0,80.0,20.0,0.0,0.0
+Marketing,ViacomCBS,United States,CA,Los Angeles,21/05/29,L5,General,6.0,10.0,185.0,150.0,0.0,35.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,21/05/25,L6,Marketing,3.0,15.0,255.0,185.0,70.0,0.0,0.0
+Marketing,Samsung,United States,CA,San Jose,21/05/24,Senior Manager,Senior Manager,6.0,10.0,340.0,250.0,0.0,90.0,0.0
+Marketing,T-Mobile,United States,WA,Bellevue,21/05/24,"Senior Manager, Marketing",Media,4.0,10.0,180.0,140.0,10.0,30.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/05/24,L5 PMM,General,4.0,7.0,298.0,181.0,90.0,27.0,0.0
+Marketing,Amazon,India,KA,Bangalore,21/05/23,L4,Business Development,4.0,5.0,19.0,16.0,3.0,0.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/05/22,L7,Consumer,3.0,15.0,490.0,240.0,180.0,70.0,0.0
+Marketing,Ekata,United States,WA,Seattle,21/05/22,,Demand Generation,1.0,5.0,105.0,105.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/05/22,59,Business Planning,0.0,0.0,100.0,92.0,5.0,5.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/05/22,60,Gaming,3.0,3.0,105.0,92.0,3.0,10.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/05/21,L5,Consumer,1.0,8.0,235.0,169.0,40.0,25.0,0.0
+Marketing,Facebook,United States,NY,New York,21/05/21,IC4,"Product Development, Strategy",1.0,6.0,182.0,147.0,15.0,20.0,0.0
+Marketing,Amazon,United States,NY,New York,21/05/21,L6,General,0.0,7.0,260.0,170.0,55.0,35.0,0.0
+Marketing,Cisco,United States,CA,San Jose,21/05/20,Grade 12,Customer Success,15.0,25.0,275.0,220.0,0.0,55.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/05/18,L6,Manager,4.0,10.0,205.0,155.0,25.0,25.0,0.0
+Marketing,Intel,United States,CA,Folsom,21/05/17,Grade 5,SSDs,3.0,3.0,90.0,82.0,2.0,4.0,0.0
+Marketing,Amazon,United States,VA,Arlington,21/05/17,L4,AWS,0.0,0.0,83.0,70.0,10.0,5.0,0.0
+Marketing,Google,United States,CA,Los Angeles,21/05/15,L5,Product,4.0,15.0,190.0,150.0,25.0,15.0,0.0
+Marketing,AppDynamics,United States,CA,San Francisco,21/05/13,Grade 10,Analytics,4.0,8.0,170.0,144.0,12.0,14.0,0.0
+Marketing,Amazon,United States,GA,Atlanta,21/05/13,L6,Video,11.0,15.0,180.0,145.0,5.0,30.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/05/13,L7,Marketing,4.0,12.0,313.0,250.0,63.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/05/13,66,Cloud,15.0,20.0,315.0,175.0,100.0,40.0,0.0
+Marketing,Elastic,United Kingdom,EN,Birmingham,21/05/13,C6,Security,2.0,10.0,161.0,120.0,41.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/05/12,64,Gaming,10.0,12.0,267.0,174.0,69.0,25.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/05/11,L5,Designer,3.0,3.0,194.0,113.0,81.0,0.0,0.0
+Marketing,Grubhub,United States,IL,Chicago,21/05/11,L3,general,2.0,4.0,85.0,77.0,8.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/05/11,L5,Executive programs,2.0,6.0,162.0,107.0,45.0,10.0,0.0
+Marketing,Amazon,Singapore,SG,Singapore,21/05/10,L6,Marketing,1.0,8.0,150.0,115.0,0.0,30.0,0.0
+Marketing,ServiceNow,United States,IL,Chicago,21/05/09,IC2,General,0.0,5.0,147.0,115.0,20.0,15.0,0.0
+Marketing,Netflix,United States,CA,Los Angeles,21/05/08,Manager,Creative,3.0,14.0,290.0,290.0,0.0,0.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,21/05/08,L6,General,6.0,10.0,150.0,100.0,50.0,0.0,0.0
+Marketing,Acquia,United States,CA,San Francisco,21/05/08,L2,Marketing,1.0,3.0,75.0,75.0,0.0,0.0,0.0
+Marketing,Snap,United States,CA,Los Angeles,21/05/07,L3,Analyst role,4.0,4.0,155.0,120.0,15.0,20.0,0.0
+Marketing,Okta,United States,TX,Austin,21/05/07,Director,Product Marketing,1.0,15.0,460.0,250.0,160.0,50.0,0.0
+Marketing,Square,United States,CA,San Francisco,21/05/07,L3,Product Marketing,0.0,6.0,177.0,150.0,27.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/05/06,62,Operations,6.0,6.0,162.0,123.0,23.0,16.0,0.0
+Marketing,LinkedIn,United States,CA,Sunnyvale,21/05/06,IC3,Email,3.0,8.0,135.0,107.0,20.0,9.0,0.0
+Marketing,FTI Consulting,United States,NY,New York,21/05/06,M3,general,5.0,10.0,150.0,140.0,0.0,10.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/05/05,IC3,General,1.0,7.0,154.0,135.0,19.0,0.0,0.0
+Marketing,Microsoft Corp,United States,WA,Redmond,21/05/05,66,communications,4.0,18.0,310.0,210.0,60.0,40.0,0.0
+Marketing,Nexient,United States,OH,Cincinnati,21/05/05,M2,"Growth, Marketing Automation, Experimentation, Strategy",2.0,11.0,175.0,145.0,0.0,30.0,0.0
+Marketing,Dish Network,United States,CO,Denver,21/05/04,B10,Digital,1.0,13.0,175.0,175.0,0.0,0.0,0.0
+Marketing,Apple,United States,CA,Sunnyvale,21/05/04,IC4,Marcom,2.0,12.0,213.0,164.0,40.0,10.0,0.0
+Marketing,Flexport,United States,CA,San Francisco,21/05/04,L2,"Google Ads, SEM, Growth",2.0,5.0,115.0,110.0,2.0,3.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,21/05/02,L5,Insights,3.0,15.0,252.0,179.0,28.0,45.0,0.0
+Marketing,Comcast,United States,PA,Philadelphia,21/05/01,Senior Director,Digital,1.0,8.0,302.0,186.0,70.0,46.0,0.0
+Marketing,Uber,United States,NY,New York,21/05/01,L5,Product,0.0,10.0,240.0,175.0,41.0,24.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,21/04/30,P4,Digital,4.0,12.0,180.0,147.0,0.0,30.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/04/29,7,Strategy,1.0,9.0,230.0,170.0,40.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/04/29,61,Azure Developer Marketing,1.0,5.0,146.0,119.0,15.0,12.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/28,L5,Engagement,5.0,8.0,150.0,110.0,40.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/04/28,L5,Consumer,1.0,10.0,280.0,200.0,40.0,40.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,21/04/27,Manager,Product,4.0,5.0,147.0,134.0,0.0,13.0,0.0
+Marketing,DocuSign,United States,CA,San Francisco,21/04/27,Senior Manager,Product,1.0,6.0,216.0,170.0,38.0,9.0,0.0
+Marketing,Procter & Gamble,United States,OH,Cincinnati,21/04/25,Band 1,Marketing Analytics,0.0,0.0,80.0,75.0,0.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/25,7,General,6.0,13.0,400.0,160.0,240.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/24,L7,Product,4.0,18.0,480.0,160.0,320.0,0.0,0.0
+Marketing,GoDaddy,United States,IA,Hiawatha,21/04/24,L5,SEM,10.0,10.0,205.0,124.0,60.0,19.0,0.0
+Marketing,AMD,United Kingdom,EN,London,21/04/23,07,Brand,0.0,5.0,106.0,90.0,5.0,11.0,0.0
+Marketing,NortonLifeLock,United States,AZ,Tempe,21/04/23,9,Marketing Analytics,2.0,4.0,120.0,112.0,2.0,6.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/04/23,L3,Product,3.0,3.0,160.0,105.0,35.0,20.0,0.0
+Marketing,Cisco,United States,CA,San Jose,21/04/22,Grade 10,product,9.0,9.0,179.0,159.0,0.0,20.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/04/21,L6,Account manager,5.0,5.0,250.0,148.0,102.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/04/20,63,Industry,4.0,9.0,190.0,140.0,25.0,25.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/20,L6,Alexa,0.0,10.0,185.0,160.0,25.0,0.0,0.0
+Marketing,ByteDance,United States,CA,Los Angeles,21/04/20,2-2,General,1.0,7.0,244.0,176.0,43.0,22.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/19,L5,Product,1.0,4.0,140.0,111.0,17.0,12.0,0.0
+Marketing,Shopify,United States,CA,San Francisco,21/04/18,L7,Product Marketing,0.0,13.0,188.0,150.0,33.0,0.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/04/16,L6,Product Marketing,1.0,7.0,211.0,150.0,38.0,23.0,0.0
+Marketing,Uber,United States,CA,San Francisco,21/04/15,L5A,Insights,3.0,7.0,242.0,148.0,70.0,24.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/04/14,L4,Marketing and Sales,1.0,3.0,90.0,75.0,5.0,10.0,0.0
+Marketing,AT&T,United States,CA,Los Angeles,21/04/14,L2,Marketing,2.0,6.0,130.0,120.0,0.0,10.0,0.0
+Marketing,Wayfair,United States,MA,Boston,21/04/13,L2,General,1.0,3.0,106.0,83.0,10.0,8.0,0.0
+Marketing,ON Semiconductor,Switzerland,ZH,Zurich,21/04/10,11,General,2.0,5.0,105.0,105.0,0.0,4.0,0.0
+Marketing,mParticle,United States,NY,New York,21/04/08,Sr. Manager,Growth,1.0,6.0,125.0,110.0,5.0,15.0,0.0
+Marketing,Opendoor,United States,GA,Atlanta,21/04/08,5,General,0.0,10.0,129.0,115.0,14.0,0.0,0.0
+Marketing,PIMCO,United States,TX,Austin,21/04/07,Manager,Campaign Strategy,1.0,9.0,167.0,142.0,0.0,25.0,0.0
+Marketing,Cisco,United States,CA,San Jose,21/04/07,Grade 12,Product Marketing,10.0,12.0,270.0,165.0,60.0,45.0,0.0
+Marketing,Apple,United States,CA,Los Angeles,21/04/07,Individual Contributor 3,Services,1.0,7.0,138.0,110.0,20.0,8.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,21/04/05,L6,General,2.0,5.0,110.0,90.0,15.0,5.0,0.0
+Marketing,Xilinx,United States,CA,San Jose,21/04/05,L8,Marketing,0.0,16.0,300.0,190.0,80.0,30.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/04/04,M3,3D Visual Merchandising,1.0,7.0,173.0,145.0,23.0,5.0,0.0
+Marketing,Dell Technologies,United States,CA,San Francisco,21/04/04,I10,Product Marketing,4.0,12.0,281.0,197.0,35.0,50.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/04/03,62,Product,0.0,7.0,165.0,133.0,13.0,19.0,0.0
+Marketing,Samsung,United States,NJ,Ridgefield Park,21/04/03,Manager,Marketing and Advertising,3.0,21.0,180.0,150.0,0.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/04/01,62,Operations,5.0,5.0,158.0,123.0,20.0,15.0,0.0
+Marketing,Snowflake,United States,CA,San Francisco,21/04/01,M6,General,3.0,15.0,460.0,250.0,150.0,60.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/30,L7,Customer Experience and Engagement,4.0,15.0,318.0,160.0,138.0,20.0,0.0
+Marketing,DoorDash,United States,CA,San Francisco,21/03/29,L3,Growth Marketing,2.0,4.0,170.0,115.0,55.0,0.0,0.0
+Marketing,Amazon,Canada,ON,Toronto,21/03/29,L5,Advertising,2.0,8.0,131.0,93.0,20.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/03/27,62,General,1.0,10.0,202.0,142.0,30.0,25.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/26,L5,Event marketing,5.0,6.0,145.0,99.0,40.0,6.0,0.0
+Marketing,ServiceNow,United States,TX,Austin,21/03/25,IC5,Services,6.0,15.0,230.0,155.0,50.0,30.0,0.0
+Marketing,Goldman Sachs,United States,NY,New York,21/03/23,Executive Director / Vice-President,Equity Trading,4.0,12.0,200.0,148.0,0.0,52.0,0.0
+Marketing,ByteDance,United Kingdom,EN,London,21/03/22,1-2,General,1.0,6.0,47.0,47.0,0.0,0.0,0.0
+Marketing,Pendo.io,United States,NY,New York,21/03/22,L3,General,0.0,7.0,152.0,102.0,40.0,10.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/22,L4,General,0.0,1.0,103.0,79.0,3.0,20.0,0.0
+Marketing,3M,United States,MN,Saint Paul,21/03/21,14,General,5.0,10.0,192.0,152.0,20.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/03/20,63,Marketing,2.0,5.0,234.0,154.0,52.0,28.0,0.0
+Marketing,Avanade,United States,NY,New York,21/03/17,L2,General,3.0,4.0,84.0,84.0,0.0,5.0,0.0
+Marketing,Illumina,United States,MA,Boston,21/03/16,Senior,Software,0.0,8.0,175.0,155.0,20.0,0.0,0.0
+Marketing,Illumina,United States,NY,New York,21/03/16,Senior,Hardware,0.0,10.0,225.0,165.0,60.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/16,L5,Product Marketing,5.0,5.0,156.0,89.0,67.0,0.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,21/03/16,Grade 6,"engineer, customer product engineer",9.0,9.0,130.0,107.0,8.0,12.0,0.0
+Marketing,Korn Ferry,United States,WA,Spokane,21/03/15,Manager,Marketing Operations,4.0,4.0,60.0,54.0,0.0,6.0,0.0
+Marketing,T-Mobile,United States,WA,Bellevue,21/03/14,L7,General,2.0,11.0,203.0,153.0,15.0,35.0,0.0
+Marketing,FullStory,United States,NC,Raleigh,21/03/13,Senior,Product marketing,0.0,5.0,110.0,110.0,0.0,0.0,0.0
+Marketing,Google,United States,CA,Redwood City,21/03/12,L3,General,1.0,1.0,139.0,104.0,20.0,15.0,0.0
+Marketing,Twitter,United States,CA,San Francisco,21/03/11,L5,Marketing,2.0,5.0,175.0,126.0,30.0,19.0,0.0
+Marketing,VMware,United States,WA,Bellevue,21/03/11,Group Product Line Marketing Manager,"Cloud, Kubernetes",5.0,20.0,274.0,187.0,50.0,37.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,21/03/11,M1,General,3.0,10.0,321.0,213.0,68.0,43.0,0.0
+Marketing,Earnin,United States,CA,Palo Alto,21/03/10,L3,Growth,0.0,5.0,130.0,120.0,10.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/03/10,L5,General,4.0,10.0,220.0,149.0,47.0,24.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/10,L6,General,4.0,12.0,145.0,91.0,41.0,13.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/09,L5,General,2.0,5.0,140.0,127.0,10.0,3.0,0.0
+Marketing,Facebook,Italy,LO,Milano,21/03/09,IC7,Marketing,7.0,20.0,237.0,155.0,40.0,38.0,0.0
+Marketing,Dow Jones,United States,NY,New York,21/03/09,Associate,Marketing,2.0,2.0,63.0,60.0,0.0,3.0,0.0
+Marketing,AbbVie,United States,IL,Chicago,21/03/09,20,General,3.0,10.0,257.0,170.0,36.0,51.0,0.0
+Marketing,SumUp,Denmark,SK,Copenhagen,21/03/08,L2,performance marketing,0.0,7.0,85.0,85.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/03/08,63,Security,7.0,14.0,192.0,155.0,20.0,17.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,21/03/07,L5,mobile,0.0,6.0,190.0,145.0,26.0,19.0,0.0
+Marketing,Google,United States,CA,Mountain View,21/03/07,L7.5,Developer,8.0,22.0,700.0,265.0,345.0,90.0,0.0
+Marketing,TikTok,United States,CA,Los Angeles,21/03/07,2-1,User,1.0,10.0,118.0,105.0,0.0,13.0,0.0
+Marketing,Amazon,United States,WA,Seattle,21/03/07,L5,Marketing,6.0,8.0,143.0,100.0,43.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/03/07,64,Business Development,5.0,10.0,223.0,155.0,40.0,28.0,0.0
+Marketing,Pinterest,Ireland,DN,Dublin,21/03/07,L4,Salea,2.0,8.0,180.0,92.0,58.0,30.0,0.0
+Marketing,Apple,United States,CA,Cupertino,21/03/06,ICT3,services,5.0,12.0,137.0,113.0,18.0,6.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/03/06,63,General,4.0,13.0,175.0,155.0,10.0,10.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/03/04,63,General,15.0,15.0,200.0,150.0,25.0,25.0,0.0
+Marketing,Roku,United States,MA,Boston,21/03/01,L1,Programmatic,1.0,1.0,51.0,45.0,0.0,5.0,0.0
+Marketing,Komodo Health,United States,NY,New York,21/03/01,L3,Product Marketing,2.0,7.0,150.0,130.0,0.0,20.0,0.0
+Marketing,American Express,United Kingdom,EN,London,21/02/27,B35,marketing,6.0,8.0,104.0,85.0,0.0,19.0,0.0
+Marketing,Micron Technology,United States,ID,Boise,21/02/26,P2,Data,1.0,1.0,81.0,66.0,10.0,5.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,21/02/26,L1,Associate,1.0,1.0,125.0,95.0,20.0,10.0,0.0
+Marketing,Microsoft,United States,WA,Bellevue,21/02/24,62,Business Operations,2.0,9.0,166.0,135.0,15.0,16.0,0.0
+Marketing,American Express,United States,NY,New York,21/02/23,Sr Manager,Marketing,5.0,7.0,155.0,130.0,0.0,25.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/02/23,L64,Marketing,5.0,8.0,215.0,165.0,25.0,25.0,0.0
+Marketing,Under Armour,United States,MD,Baltimore,21/02/23,Lead,marketing,2.0,10.0,114.0,102.0,0.0,12.0,0.0
+Marketing,Atlassian,United States,CA,San Francisco,21/02/23,P5,design,2.0,5.0,163.0,122.0,25.0,16.0,0.0
+Marketing,Facebook,United Kingdom,EN,London,21/02/22,IC4,Commerce,3.0,10.0,170.0,126.0,24.0,20.0,0.0
+Marketing,Duolingo,United States,PA,Pittsburgh,21/02/22,L4,General,1.0,10.0,242.0,169.0,73.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/02/20,L5,Developer Marketing,0.0,10.0,270.0,174.0,65.0,30.0,0.0
+Marketing,NetApp,United States,CO,Boulder,21/02/18,L4,marketing strategy,2.0,12.0,146.0,135.0,0.0,10.0,0.0
+Marketing,West Monroe,United States,NY,New York,21/02/18,Manager,Marketing,6.0,14.0,220.0,155.0,40.0,25.0,0.0
+Marketing,Amazon,United States,OR,Portland,21/02/18,L2,Recruitment,0.0,5.0,85.0,75.0,8.0,2.0,0.0
+Marketing,HP Inc.,United States,CA,Palo Alto,21/02/17,L3,"Public relations, communications",4.0,18.0,230.0,185.0,10.0,35.0,0.0
+Marketing,Salesforce,Switzerland,ZH,Zurich,21/02/16,L5,"Product, customer",4.0,4.0,108.0,98.0,0.0,10.0,0.0
+Marketing,Comcast,United States,PA,Philadelphia,21/02/15,L6,Digital Marketing,1.0,6.0,232.0,160.0,40.0,32.0,0.0
+Marketing,Amazon,India,KA,Bangalore,21/02/14,L5,Key Account Manager,2.0,6.0,53.0,35.0,11.0,7.0,0.0
+Marketing,DXC Technology,United States,NY,New York,21/02/14,L4,Product Marketing,10.0,17.0,130.0,130.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/02/13,64,Marketing,8.0,15.0,210.0,160.0,24.0,24.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,21/02/12,L6,Enterprise,2.0,16.0,260.0,180.0,30.0,50.0,0.0
+Marketing,Facebook,Singapore,SG,Singapore,21/02/11,IC4,Marketing,4.0,10.0,130.0,100.0,20.0,10.0,0.0
+Marketing,Amazon,United States,CA,Santa Monica,21/02/11,L5,Brand design,2.0,6.0,199.0,142.0,45.0,12.0,0.0
+Marketing,ServiceNow,United States,CA,Santa Clara,21/02/11,M4,UX,1.0,14.0,346.0,195.0,112.0,39.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/02/10,63,M365,4.0,10.0,240.0,145.0,50.0,45.0,0.0
+Marketing,Airbnb,United States,CA,San Francisco,21/02/10,L7,Growth,1.0,6.0,240.0,125.0,100.0,15.0,0.0
+Marketing,JPMorgan Chase,United States,DE,Wilmington,21/02/10,603,Portfolio Marketing,5.0,5.0,135.0,120.0,0.0,15.0,0.0
+Marketing,HCL,United States,MA,Boston,21/02/08,Director E6,Partnerships,14.0,20.0,170.0,135.0,0.0,35.0,0.0
+Marketing,Servicenow,United States,TX,Austin,21/02/06,iC5,Services,6.0,15.0,450.0,170.0,250.0,35.0,0.0
+Marketing,Box,United States,CA,Redwood City,21/02/04,1,Events marketing,1.0,3.0,78.0,78.0,0.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/02/03,L3,Ads marketing,3.0,5.0,166.0,106.0,40.0,20.0,0.0
+Marketing,Opentext,United States,NY,New York,21/02/02,L3,Sales,2.0,21.0,280.0,140.0,0.0,140.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,21/02/01,IC4,Partnerships,2.0,8.0,152.0,146.0,6.0,0.0,0.0
+Marketing,ServiceNow,United States,CA,Santa Clara,21/01/31,M4,Brand Marketing,1.0,15.0,290.0,200.0,50.0,40.0,0.0
+Marketing,BMO,Canada,ON,Toronto,21/01/30,Director,Digital,5.0,12.0,200.0,140.0,30.0,30.0,0.0
+Marketing,Snap,United States,CA,Santa Monica,21/01/29,L7,Brand,4.0,20.0,700.0,265.0,435.0,2.0,0.0
+Marketing,Comcast,United States,PA,Philadelphia,21/01/29,Director,marketing,3.0,15.0,268.0,185.0,50.0,33.0,0.0
+Marketing,Citi,United States,NY,New York,21/01/28,SVP,Brand Marketing,3.0,16.0,205.0,187.0,0.0,18.0,0.0
+Marketing,Nvidia,United States,CA,Santa Clara,21/01/28,IC1,Enterprise,1.0,3.0,109.0,87.0,8.0,15.0,0.0
+Marketing,Fivestars,United States,CA,San Francisco,21/01/28,L4,Marketing,2.0,4.0,155.0,145.0,10.0,0.0,0.0
+Marketing,Nvidia,United States,CA,Santa Clara,21/01/26,IC2,Enterprise,2.0,2.0,122.0,102.0,20.0,0.0,0.0
+Marketing,Quantcast,United States,NY,New York,21/01/26,L4,Product,2.0,10.0,184.0,167.0,0.0,17.0,0.0
+Marketing,StubHub,United States,CA,San Francisco,21/01/25,26,Growth,2.0,6.0,163.0,142.0,0.0,21.0,0.0
+Marketing,Google,Singapore,SG,Singapore,21/01/25,L6,Product,3.0,14.0,330.0,200.0,80.0,50.0,0.0
+Marketing,Google,United States,CA,San Francisco,21/01/25,L6,Technical,4.0,10.0,385.0,198.0,140.0,47.0,0.0
+Marketing,Sephora,United States,CA,San Francisco,21/01/25,Assistant Manager,Growth,5.0,6.0,92.0,92.0,0.0,5.0,0.0
+Marketing,JPMorgan Chase,United States,NY,New York,21/01/24,601,Operations,3.0,4.0,95.0,90.0,0.0,5.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,21/01/21,IC2,Analytic,1.0,4.0,142.0,121.0,9.0,12.0,0.0
+Marketing,Wayfair,United States,MA,Boston,21/01/21,L2,Technical,3.0,6.0,110.0,95.0,5.0,10.0,0.0
+Marketing,Yelp,United States,CA,San Francisco,21/01/21,Senior Manager,Growth,0.0,9.0,224.0,205.0,19.0,0.0,0.0
+Marketing,MathWorks,United States,MA,Boston,21/01/20,L,Growth,1.0,20.0,167.0,160.0,0.0,7.0,0.0
+Marketing,Intel,United States,OR,Portland,21/01/19,Grade 9,Communications,5.0,24.0,290.0,190.0,50.0,50.0,0.0
+Marketing,Amazon,United States,IL,Chicago,21/01/17,L4,Enterprise,0.0,0.0,70.0,70.0,0.0,0.0,0.0
+Marketing,Broadcom,United States,CA,San Jose,21/01/17,Director,Product,9.0,21.0,1.0,220.0,1.1,150.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,21/01/15,P5,Product,2.0,13.0,290.0,210.0,44.0,36.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/01/13,63,Product,2.0,10.0,180.0,140.0,20.0,20.0,0.0
+Marketing,Quora,United States,CA,Mountain View,21/01/13,L4,Product,2.0,10.0,150.0,120.0,25.0,5.0,0.0
+Marketing,AMD,United States,CA,San Jose,21/01/12,l7,Enterprise,5.0,30.0,250.0,200.0,25.0,25.0,0.0
+Marketing,microsoft,United States,NY,Florida,21/01/07,64,Product,6.0,20.0,217.0,153.0,33.0,31.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,21/01/05,62,Product,1.0,10.0,120.0,120.0,0.0,0.0,0.0
+Marketing,ByteDance,United States,NY,New York,21/01/05,3-1,Product,1.0,20.0,395.0,220.0,120.0,55.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,21/01/05,Grade 10,Technical,20.0,20.0,320.0,204.0,45.0,70.0,0.0
+Marketing,Facebook,United States,NY,New York,21/01/04,L4,Analytic,2.0,7.0,189.0,150.0,25.0,14.0,0.0
+Marketing,Alteryx,United States,CA,Irvine,21/01/04,Director,Growth,4.0,21.0,192.0,142.0,20.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,21/01/04,63,Product Marketing,10.0,16.0,180.0,120.0,40.0,20.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,21/01/01,L6,Consumer,4.0,10.0,229.0,129.0,100.0,0.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/12/31,L6,Growth,2.0,10.0,317.0,213.0,62.0,43.0,0.0
+Marketing,NetApp,United States,CA,Sunnyvale,20/12/31,IC6,Enterprise,6.0,15.0,290.0,230.0,20.0,40.0,0.0
+Marketing,Cisco,United States,CA,San Jose,20/12/28,G13,Product,0.0,20.0,421.0,260.0,70.0,91.0,0.0
+Marketing,Google,United States,NY,New York,20/12/25,2,Enterprise,2.0,2.0,123.0,78.0,20.0,25.0,0.0
+Marketing,McKinsey & Company,United States,IL,Chicago,20/12/24,Yellow,Enterprise,3.0,10.0,125.0,125.0,0.0,0.0,0.0
+Marketing,Microsoft Corporation,United States,WA,Seattle,20/12/23,63,Product,14.0,15.0,215.0,145.0,49.0,21.0,0.0
+Marketing,ADP,United States,NJ,Roseland,20/12/22,L3,Product,5.0,5.0,100.0,97.0,0.0,4.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,20/12/20,Director,Product,7.0,10.0,240.0,160.0,48.0,32.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,20/12/19,Strategist,Operations,1.0,1.0,96.0,83.0,0.0,8.0,0.0
+Marketing,Rappi,Argentina,DF,Buenos Aires,20/12/17,Marketing Senior Manager,Growth,0.0,8.0,116.0,78.0,38.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/12/16,L6,Product,1.0,10.0,235.0,150.0,60.0,25.0,0.0
+Marketing,Nordstrom,United States,WA,Seattle,20/12/14,L18,Strategy,4.0,4.0,127.0,123.0,0.0,4.0,0.0
+Marketing,Philips,United States,WA,Seattle,20/12/13,70,Product,15.0,25.0,180.0,160.0,0.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/12/12,65,Product,15.0,22.0,260.0,180.0,40.0,40.0,0.0
+Marketing,Corning,United States,MA,Tewksbury,20/12/12,Manager,Marketing,8.0,10.0,160.0,140.0,0.0,15.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/12/12,L3,Product,1.0,1.0,144.0,104.0,24.0,16.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/12/11,61,Growth,1.0,4.0,140.0,115.0,10.0,15.0,0.0
+Marketing,Booking.com,Hong Kong (SAR),HK,Hong Kong,20/12/11,L4,Sales,6.0,8.0,100.0,83.0,0.0,17.0,0.0
+Marketing,Facebook,United States,TX,Austin,20/12/10,IC5,Product,5.0,7.0,250.0,163.0,55.0,30.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/12/09,IC6,Product,0.0,10.0,300.0,210.0,50.0,40.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/12/09,L6,Consumer,5.0,7.0,160.0,130.0,30.0,0.0,0.0
+Marketing,Instacart,United States,NY,New York,20/12/07,Manager,Analytic,0.0,8.0,180.0,140.0,40.0,0.0,0.0
+Marketing,Amazon,India,KA,Bangalore,20/12/07,L6,Product,5.0,8.0,118.0,64.0,54.0,0.0,0.0
+Marketing,Netflix,United States,CA,Los Angeles,20/12/06,Manager,Operations,3.0,7.0,315.0,300.0,15.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/12/05,L6,Product,1.0,8.0,233.0,150.0,58.0,25.0,0.0
+Marketing,Siemens,United States,NY,New York,20/12/04,L3,Internal,1.0,6.0,135.0,120.0,10.0,1.0,0.0
+Marketing,Cummins,United States,CA,San Francisco,20/12/03,Level 4,Consumer,1.0,1.0,300.0,200.0,0.0,100.0,0.0
+Marketing,Elastic,United States,TX,Austin,20/12/03,Specialist,Internal,1.0,6.0,144.0,95.0,18.0,31.0,0.0
+Marketing,Perficient,United States,MA,Framingham,20/12/02,Manager,Consumer,3.0,7.0,73.0,73.0,0.0,5.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/12/01,L4,Product,2.0,4.0,210.0,130.0,20.0,60.0,0.0
+Marketing,Apple,United States,CA,Cupertino,20/12/01,M3,Product,10.0,10.0,450.0,218.0,202.0,30.0,0.0
+Marketing,Pure Storage,United States,TX,Austin,20/11/27,L6,Product,1.0,19.0,245.0,170.0,40.0,35.0,0.0
+Marketing,Circle,Hong Kong (SAR),HK,Hong Kong,20/11/25,L3,PR and Marketing,1.0,10.0,155.0,130.0,15.0,10.0,0.0
+Marketing,Expedia,United States,WA,Seattle,20/11/25,M,Enterprise,2.0,11.0,155.0,133.0,0.0,23.0,0.0
+Marketing,Expedia,United States,WA,Seattle,20/11/24,L,Enterprise,7.0,12.0,124.0,118.0,0.0,6.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/11/24,62,Product,3.0,10.0,159.0,133.0,11.0,15.0,0.0
+Marketing,Amazon,United States,NY,New York,20/11/24,L5,Technical,0.0,7.0,142.0,110.0,10.0,20.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/11/24,6,Enterprise,6.0,6.0,253.0,160.0,8.0,85.0,0.0
+Marketing,intel,United States,OR,Portland,20/11/23,10,Enterprise,6.0,10.0,293.0,191.0,40.0,63.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/11/22,65,communications,3.0,15.0,260.0,180.0,40.0,40.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/11/21,L6,Consumer,5.0,6.0,175.0,130.0,45.0,0.0,0.0
+Marketing,KPMG,United States,NY,New York,20/11/20,Sr Mgr,Pursuit,6.0,20.0,94.0,92.0,0.0,2.0,0.0
+Marketing,ADP,United States,NJ,Roseland,20/11/19,CBN10,Growth,5.0,10.0,183.0,144.0,14.0,25.0,0.0
+Marketing,Amazon,United States,CA,Culver City,20/11/18,L5,Growth,1.0,5.0,120.0,120.0,0.0,0.0,0.0
+Marketing,Facebook,United States,NY,New York,20/11/18,IC4,Product,5.0,5.0,188.0,149.0,25.0,15.0,0.0
+Marketing,Salesforce,United States,IL,Chicago,20/11/18,L8,Product,5.0,7.0,161.0,139.0,0.0,23.0,0.0
+Marketing,Moody's,United States,CA,San Francisco,20/11/17,,Enterprise,2.0,8.0,142.0,129.0,0.0,13.0,0.0
+Marketing,Amazon,United States,NJ,West Orange,20/11/17,L5,Global Program Management,0.0,18.0,143.0,128.0,0.0,14.0,0.0
+Marketing,Amazon,Germany,BY,Munich,20/11/17,L6,Growth,4.0,8.0,150.0,95.0,50.0,5.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/11/17,L6,Consumer,6.0,20.0,231.0,140.0,90.0,0.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,20/11/16,L6,Enterprise,3.0,20.0,335.0,184.0,150.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/11/15,L66,Enterprise,5.0,18.0,355.0,210.0,90.0,55.0,0.0
+Marketing,Atlassian,United States,TX,Austin,20/11/14,P6,Product,1.0,5.0,215.0,160.0,33.0,23.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/11/14,IC5,Consumer,3.0,10.0,240.0,170.0,45.0,25.0,0.0
+Marketing,AppDynamics,United States,CA,San Francisco,20/11/12,11,Enterprise,2.0,15.0,190.0,150.0,20.0,20.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/11/12,L6,Product,6.0,10.0,177.0,127.0,50.0,0.0,0.0
+Marketing,Asana,United States,CA,San Francisco,20/11/10,L5,Analytic,0.0,6.0,181.0,160.0,21.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/11/09,64,Consumer,10.0,10.0,238.0,188.0,25.0,25.0,0.0
+Marketing,Zendesk,Singapore,SG,Singapore,20/11/06,L3,Growth,2.0,15.0,216.0,136.0,80.0,0.0,0.0
+Marketing,Genentech,United States,CA,South San Francisco,20/11/04,E4,Consumer,1.0,5.0,161.0,135.0,10.0,16.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/11/03,66,Consumer,5.0,20.0,315.0,210.0,75.0,30.0,0.0
+Marketing,Deloitte,United States,MA,Boston,20/11/03,Manager,Enterprise,4.0,10.0,115.0,115.0,0.0,0.0,0.0
+Marketing,Intel,United States,CA,Santa Clara,20/11/01,Grade 9,Product,3.0,8.0,265.0,175.0,40.0,50.0,0.0
+Marketing,"Amazon, Inc.",United States,WA,Seattle,20/10/30,L5,Growth,3.0,7.0,144.0,109.0,35.0,0.0,0.0
+Marketing,Gap,United States,CA,San Francisco,20/10/28,Associate Manager,Consumer,1.0,5.0,90.0,85.0,0.0,5.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/10/27,62,Product,5.0,5.0,175.0,140.0,15.0,20.0,0.0
+Marketing,AWS,United States,CA,Palo Alto,20/10/26,L6,Product,2.0,15.0,334.0,170.0,100.0,60.0,0.0
+Marketing,Oracle,United States,MA,Boston,20/10/26,l3,Enterprise,5.0,12.0,265.0,125.0,15.0,125.0,0.0
+Marketing,Wizards of the Coast,United States,WA,Seattle,20/10/25,8,Consumer,8.0,20.0,380.0,225.0,80.0,75.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/10/24,L5,Growth,2.0,8.0,390.0,195.0,151.0,44.0,0.0
+Marketing,Wish,United States,CA,San Francisco,20/10/24,M3,Enterprise,2.0,6.0,161.0,146.0,15.0,0.0,0.0
+Marketing,Capital One,United States,VA,Richmond,20/10/22,Principal Associate,Analytic,3.0,6.0,145.0,124.0,3.0,18.0,0.0
+Marketing,Google,United Kingdom,EN,London,20/10/22,L3,Product,1.0,3.0,150.0,100.0,40.0,10.0,0.0
+Marketing,Telus,Canada,BC,Vancouver,20/10/20,Marketing Manager,Consumer,5.0,6.0,68.0,56.0,0.0,12.0,0.0
+Marketing,Verizon,United States,NY,New York,20/10/20,V7,Consumer,3.0,13.0,135.0,120.0,2.0,14.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/10/18,62,Product,2.0,2.0,154.0,131.0,11.0,13.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/10/18,L5,Consumer,4.0,5.0,130.0,103.0,30.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/10/18,L6,Consumer,1.0,7.0,175.0,130.0,24.0,20.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/10/17,L4,Consumer,3.0,5.0,188.0,126.0,40.0,22.0,0.0
+Marketing,Red Hat,United Kingdom,EN,London,20/10/17,L5,Technical,5.0,20.0,165.0,110.0,40.0,15.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/10/17,IC4,Product,0.0,4.0,203.0,160.0,28.0,16.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/10/15,L5,Operations,2.0,5.0,117.0,87.0,17.0,13.0,0.0
+Marketing,Expedia Group,United States,TX,Dallas,20/10/15,K,Growth,5.0,10.0,90.0,83.0,0.0,7.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,20/10/15,L6,Product,1.0,12.0,241.0,171.0,70.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/10/14,61,Product,0.0,4.0,194.0,120.0,14.0,60.0,0.0
+Marketing,Google,United States,CA,Mountain View,20/10/14,L4,Product,6.0,8.0,203.0,133.0,44.0,26.0,0.0
+Marketing,Uber,United States,CA,San Francisco,20/10/14,L4,Growth,1.0,6.0,150.0,110.0,25.0,15.0,0.0
+Marketing,Intuit,United States,CA,Mountain View,20/10/14,Group Manager,Growth,5.0,15.0,290.0,192.0,50.0,48.0,0.0
+Marketing,Audible,United States,NJ,Newark,20/10/14,L5,Operations,1.0,4.0,110.0,110.0,0.0,0.0,0.0
+Marketing,Google,United States,NY,New York,20/10/14,3,B2B,3.0,4.0,146.0,106.0,19.0,21.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/10/13,L3,Product,2.0,5.0,140.0,100.0,20.0,20.0,0.0
+Marketing,Square,United States,CA,San Francisco,20/10/13,L5,Product,3.0,5.0,210.0,125.0,80.0,0.0,0.0
+Marketing,Unilever,United States,NY,New York,20/10/13,1,Consumer,3.0,3.0,83.0,79.0,0.0,4.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/10/12,L5,Consumer,3.0,8.0,281.0,171.0,68.0,42.0,0.0
+Marketing,Ally,United States,NC,Charlotte,20/10/12,3F,Analytic,2.0,4.0,98.0,89.0,0.0,9.0,0.0
+Marketing,Logitech,United States,CA,Newark,20/10/09,IC4,Product,2.0,8.0,154.0,140.0,0.0,14.0,0.0
+Marketing,Capital One,United States,VA,Arlington,20/10/09,Entry,Enterprise,1.0,2.0,77.0,77.0,0.0,3.0,0.0
+Marketing,Godaddy,United States,DC,Washington,20/10/09,Director,Brand,2.0,10.0,225.0,160.0,40.0,25.0,0.0
+Marketing,DoorDash,United States,CA,San Francisco,20/10/08,Associate,Growth,1.0,3.0,152.0,113.0,40.0,0.0,0.0
+Marketing,IBM,United States,NY,New York,20/10/08,B8,Events,4.0,7.0,111.0,111.0,0.0,0.0,0.0
+Marketing,HP,United States,CA,San Diego,20/10/08,14,Growth,3.0,5.0,90.0,85.0,0.0,5.0,0.0
+Marketing,Adobe,United States,GA,Atlanta,20/10/07,L5,Mktg,3.0,8.0,220.0,156.0,50.0,16.0,0.0
+Marketing,Netflix,United States,CA,Los Angeles,20/10/07,Senior,Marketing,1.0,9.0,385.0,347.0,39.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/10/06,L6,Product,5.0,8.0,204.0,132.0,72.0,0.0,0.0
+Marketing,Bank of America,United States,DE,Wilmington,20/10/06,Assistant Vice President,Marketing,3.0,17.0,73.0,73.0,0.0,5.0,0.0
+Marketing,Booking.com,United States,NY,New York,20/10/05,G,US Marketing,3.0,10.0,256.0,176.0,45.0,35.0,0.0
+Marketing,Nielsen,United States,NY,New York,20/10/05,L4,Analytic,20.0,20.0,110.0,100.0,0.0,10.0,0.0
+Marketing,Warner Bros,United States,CA,Burbank,20/10/05,L3,Consumer,5.0,6.0,90.0,85.0,0.0,5.0,0.0
+Marketing,Microsoft,United States,WA,Bellevue,20/10/05,63,Business Planning,2.0,14.0,210.0,153.0,25.0,32.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,20/10/05,Grade 7,Technical,10.0,15.0,135.0,115.0,15.0,9.0,0.0
+Marketing,Coinbase,United States,CA,San Francisco,20/10/05,L6,Consumer,2.0,8.0,210.0,160.0,50.0,0.0,0.0
+Marketing,Netflix,United States,CA,Los Angeles,20/10/05,Coordinator,Publicity,0.0,4.0,120.0,120.0,0.0,0.0,0.0
+Marketing,eBay,United States,CA,San Jose,20/10/05,Director,Creative,0.0,23.0,525.0,260.0,200.0,65.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/10/04,Manager (L6),Cloud,9.0,12.0,272.0,172.0,65.0,32.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/10/03,L6,Cloud,6.0,10.0,200.0,120.0,80.0,0.0,0.0
+Marketing,Cisco,United States,CA,San Jose,20/10/03,Grade 12,Product,6.0,15.0,303.0,190.0,65.0,48.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/10/02,IC5,Data,2.0,15.0,210.0,160.0,20.0,30.0,0.0
+Marketing,23andMe,United States,CA,Mountain View,20/10/02,M1,Consumer,4.0,10.0,160.0,160.0,0.0,0.0,0.0
+Marketing,NVIDIA,United States,CA,Santa Clara,20/10/02,IC3,Consumer,2.0,4.0,125.0,100.0,20.0,0.0,0.0
+Marketing,Intel,United States,OR,Portland,20/10/01,85,Global Product Marketing,18.0,18.0,300.0,145.0,40.0,115.0,0.0
+Marketing,Sprinklr,United States,CA,San Francisco,20/10/01,L3,other,1.0,10.0,160.0,140.0,0.0,21.0,0.0
+Marketing,Honda,United States,CA,Torrance,20/09/30,L5,Product,5.0,10.0,160.0,140.0,0.0,20.0,0.0
+Marketing,Verizon,United States,NY,New York,20/09/29,Account Manager,Account Manager,1.0,9.0,117.0,100.0,2.0,15.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,20/09/29,6,Technical,6.0,13.0,200.0,180.0,20.0,0.0,0.0
+Marketing,Google,Singapore,SG,Singapore,20/09/29,L3,Marketing,3.0,4.0,100.0,60.0,20.0,20.0,0.0
+Marketing,Zillow,United States,WA,Seattle,20/09/29,P2,Paid,2.0,3.0,110.0,80.0,30.0,0.0,0.0
+Marketing,StubHub,United States,CA,San Francisco,20/09/29,Senior Manager,Channel Management,2.0,5.0,163.0,143.0,0.0,20.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/29,L6,Product,4.0,10.0,198.0,135.0,63.0,0.0,0.0
+Marketing,BuzzFeed,United States,CA,Los Angeles,20/09/29,L6,Strategy,5.0,10.0,113.0,113.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,CA,San Francisco,20/09/28,VP,Product,5.0,20.0,380.0,280.0,100.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/28,L6,Production,1.0,20.0,300.0,160.0,20.0,120.0,0.0
+Marketing,NerdWallet,United States,PA,Pittsburgh,20/09/28,L1,Analytic,0.0,6.0,100.0,100.0,0.0,0.0,0.0
+Marketing,Nordstrom,United States,WA,Seattle,20/09/28,Manager,Digital Creative,6.0,30.0,154.0,145.0,2.0,8.0,0.0
+Marketing,Google,Singapore,SG,Singapore,20/09/28,L4,Growth,1.0,8.0,186.0,132.0,32.0,20.0,0.0
+Marketing,DocuSign,United States,CA,San Francisco,20/09/27,M5,Enterprise,4.0,8.0,461.0,185.0,240.0,36.0,0.0
+Marketing,T-mobile,United States,WA,Bellevue,20/09/26,L8,Marketing,2.0,9.0,160.0,130.0,10.0,20.0,0.0
+Marketing,Fiserv,United States,NY,New York,20/09/25,analyst,Consumer,3.0,10.0,140.0,130.0,0.0,10.0,0.0
+Marketing,Palo Alto Networks,Singapore,SG,Singapore,20/09/25,L1,Enterprise,1.0,4.0,55.0,48.0,5.0,1.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,20/09/25,Director,Product,1.0,15.0,386.0,220.0,100.0,66.0,0.0
+Marketing,Micron,United States,CA,San Jose,20/09/25,P5,Consumer,1.0,12.0,203.0,179.0,10.0,14.0,0.0
+Marketing,Coursera,United States,CA,Mountain View,20/09/24,L4,Marketing,3.0,10.0,170.0,160.0,4.0,10.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/24,65,Category Management,15.0,21.0,275.0,195.0,40.0,40.0,0.0
+Marketing,Verizon,Japan,TY,Tokyo,20/09/24,IC3,Growth,7.0,11.0,110.0,80.0,10.0,20.0,0.0
+Marketing,Salesforce,United States,CA,Los Angeles,20/09/24,Director,Marketing,7.0,10.0,234.0,194.0,10.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/23,64,Analytic,6.0,14.0,233.0,163.0,38.0,36.0,0.0
+Marketing,Netflix,United States,CA,Hollywood,20/09/23,Director,Marketing,0.0,15.0,788.0,750.0,38.0,0.0,0.0
+Marketing,Apple,United States,CA,Los Angeles,20/09/23,M3,Services,0.0,15.0,535.0,235.0,250.0,50.0,0.0
+Marketing,Bolt,United States,CA,San Francisco,20/09/22,L4,ABM,2.0,4.0,170.0,170.0,0.0,0.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,20/09/22,L8,Data,4.0,4.0,215.0,195.0,0.0,20.0,0.0
+Marketing,Skillz,United States,CA,San Francisco,20/09/22,Associate,Player Communications,2.0,2.0,60.0,60.0,0.0,0.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/09/21,L4 Product Manager,Product,0.0,3.0,198.0,135.0,14.0,50.0,0.0
+Marketing,Google,United States,WA,Seattle,20/09/21,L6,ML / AI,3.0,8.0,250.0,180.0,20.0,50.0,0.0
+Marketing,VMware,United States,DC,Washington,20/09/21,L5,Operations,4.0,20.0,150.0,125.0,0.0,20.0,0.0
+Marketing,Qualtrics,United States,WA,Seattle,20/09/20,l5,Spmm,0.0,8.0,215.0,165.0,15.0,35.0,0.0
+Marketing,Square,United States,NY,New York,20/09/20,Level 4,Consumer,0.0,8.0,165.0,130.0,25.0,10.0,0.0
+Marketing,Johnson and Johnson,United States,CA,Irvine,20/09/20,L9,Product,2.0,20.0,680.0,340.0,220.0,120.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/20,L62,Product,1.0,4.0,168.0,138.0,15.0,15.0,0.0
+Marketing,Cisco,United States,CA,San Jose,20/09/19,Senior Director,Creative,3.0,28.0,658.0,280.0,280.0,98.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/19,L6,Product marketing,3.0,15.0,185.0,135.0,50.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/19,64,Product Marketing,6.0,10.0,268.0,218.0,24.0,26.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/09/19,L5,Product Marketing,0.0,6.0,230.0,174.0,30.0,26.0,0.0
+Marketing,Zendesk,United States,CA,San Francisco,20/09/19,Product Marketing Manager,Product Marketing Manager,2.0,6.0,235.0,150.0,75.0,10.0,0.0
+Marketing,DAZN,United States,NY,New York,20/09/19,L4,Growth,3.0,15.0,308.0,220.0,0.0,88.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/09/18,64,Consumer,9.0,11.0,231.0,173.0,28.0,30.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/09/18,IC5,None,2.0,12.0,250.0,190.0,30.0,30.0,0.0
+Marketing,Rakuten,Japan,TY,Tokyo,20/09/18,AA,Operations,4.0,8.0,110.0,80.0,20.0,10.0,0.0
+Marketing,Recurly,United States,CA,San Francisco,20/09/18,L2,Enterprise,0.0,6.0,130.0,130.0,0.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/09/18,64,Enterprise,6.0,15.0,251.0,156.0,58.0,36.0,0.0
+Marketing,Scopely,United States,CA,Culver City,20/09/17,Senior Manager,Growth,4.0,10.0,149.0,135.0,0.0,14.0,0.0
+Marketing,HBO,United States,NY,New York,20/09/17,Associate Manager,Brand,4.0,7.0,81.0,78.0,0.0,3.0,0.0
+Marketing,Airbnb,United States,CA,San Francisco,20/09/15,9,Marketing,4.0,9.0,195.0,135.0,50.0,10.0,0.0
+Marketing,ServiceNow,United States,CA,Santa Clara,20/09/15,Senior Director,Enterprise,1.0,25.0,620.0,280.0,250.0,90.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/09/14,L65,Enterprise,17.0,17.0,235.0,175.0,30.0,30.0,0.0
+Marketing,LinkedIn,United States,CA,Mountain View,20/09/14,group product marketing manager,Product,2.0,6.0,305.0,211.0,53.0,42.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/14,60,ML / AI,2.0,2.0,118.0,101.0,5.0,12.0,0.0
+Marketing,Facebook,United States,TX,Austin,20/09/13,L3,Mobile (iOS + Android),0.0,3.0,120.0,100.0,10.0,10.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/09/13,L3,Product Marketing Manager,2.0,3.0,154.0,105.0,25.0,23.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/09/12,L6,Business Marketing,6.0,14.0,308.0,196.0,60.0,52.0,0.0
+Marketing,HubSpot,United States,MA,Boston,20/09/12,L4,Product,9.0,11.0,190.0,134.0,56.0,0.0,0.0
+Marketing,PayPal,United States,DE,Wilmington,20/09/12,Campaign Manager,Merchant acquisition,2.0,2.0,115.0,78.0,29.0,8.0,0.0
+Marketing,Skyscanner,Singapore,SG,Singapore,20/09/12,4,Growth,1.0,6.0,88.0,80.0,0.0,8.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/11,61,Subscription,5.0,5.0,155.0,116.0,24.0,16.0,0.0
+Marketing,"Amazon, Inc.",United States,WA,Seattle,20/09/11,L5,Product,3.0,7.0,150.0,108.0,42.0,0.0,0.0
+Marketing,Uber,United States,CA,San Francisco,20/09/11,L2,Designer,2.0,2.0,70.0,65.0,0.0,4.0,0.0
+Marketing,Amazon,United States,CA,Palo Alto,20/09/11,L6,Networking,2.0,18.0,250.0,172.0,78.0,0.0,0.0
+Marketing,Apple,United States,CA,Cupertino,20/09/11,ICT6,Enterprise,2.0,16.0,655.0,230.0,375.0,50.0,0.0
+Marketing,Sony,United States,CA,San Mateo,20/09/11,l1,Growth,2.0,3.0,111.0,96.0,0.0,15.0,0.0
+Marketing,IBM,United States,TX,Austin,20/09/11,9,Product,3.0,18.0,141.0,141.0,0.0,0.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,20/09/10,IC4,Events,2.0,15.0,176.0,147.0,0.0,29.0,0.0
+Marketing,amazon,United States,WA,Seattle,20/09/10,L7,Consumer,0.0,25.0,329.0,160.0,100.0,70.0,0.0
+Marketing,Microsoft Corporation,United States,WA,Redmond,20/09/10,65,Enterprise,20.0,30.0,250.0,192.0,25.0,30.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/09/10,62,Product,4.0,10.0,166.0,138.0,13.0,15.0,0.0
+Marketing,Pinterest,United States,CA,San Francisco,20/09/10,L5,Technical,3.0,13.0,456.0,196.0,260.0,0.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/09/09,IC6,Product,0.0,8.0,305.0,210.0,50.0,45.0,0.0
+Marketing,Google,France,IL,Paris,20/09/09,L2,Social Media,2.0,10.0,120.0,100.0,10.0,10.0,0.0
+Marketing,Blizzard Entertainment,United States,CA,Irvine,20/09/08,L3,Consumer,2.0,10.0,103.0,97.0,0.0,6.0,0.0
+Marketing,Blizzard Entertainment,United States,CA,Irvine,20/09/08,Coordinator,Public Relations,3.0,6.0,55.0,52.0,0.0,3.0,0.0
+Marketing,Oracle,United States,CA,San Francisco,20/09/08,M6,Operations,2.0,20.0,470.0,300.0,170.0,0.0,0.0
+Marketing,Square,United States,CA,San Francisco,20/09/08,L4,Product,1.0,1.0,167.0,120.0,40.0,7.0,0.0
+Marketing,American Express,Canada,ON,Toronto,20/09/08,L1,Product Management,1.0,1.0,46.0,46.0,0.0,0.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,20/09/07,Sr Director,Enterprise,5.0,15.0,360.0,250.0,60.0,50.0,0.0
+Marketing,Liberty Mutual Insurance,United States,WA,Seattle,20/09/07,Program Manager,Consumer,4.0,10.0,129.0,117.0,0.0,12.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/09/06,L66,Product,14.0,18.0,307.0,194.0,75.0,38.0,0.0
+Marketing,T-Mobile,United States,WA,Seattle,20/09/06,Senior Director,Consumer,10.0,18.0,285.0,180.0,60.0,45.0,0.0
+Marketing,Google,Singapore,SG,Singapore,20/09/06,6,Enterprise,6.0,14.0,300.0,200.0,60.0,40.0,0.0
+Marketing,Google,United States,CA,Mountain View,20/09/05,L7,Consumer,5.0,12.0,500.0,180.0,250.0,70.0,0.0
+Marketing,Twilio,India,KA,Bengaluru,20/09/05,p5,Technical,0.0,4.0,80.0,40.0,40.0,0.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/09/04,IC6,Insights,2.0,14.0,320.0,210.0,65.0,45.0,0.0
+Marketing,Microsoft,United States,MI,Detroit,20/09/04,65,Full Stack,13.0,18.0,254.0,174.0,30.0,50.0,0.0
+Marketing,Microsoft,United States,CA,Fremont,20/09/03,64,Product,4.0,15.0,219.0,185.0,14.0,21.0,0.0
+Marketing,Oracle,United States,WA,Seattle,20/09/03,IC-4,Digital Content,2.0,11.0,130.0,110.0,20.0,0.0,0.0
+Marketing,Oracle,United States,OR,Portland,20/09/03,IC-5,Product,23.0,35.0,178.0,178.0,0.0,0.0,0.0
+Marketing,Roku,United States,CA,San Jose,20/09/03,,Consumer,1.0,12.0,200.0,180.0,0.0,20.0,0.0
+Marketing,Dropbox,United States,TX,Austin,20/09/03,L5,Consumer,1.0,15.0,270.0,190.0,40.0,40.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/03,L6,Enterprise,1.0,5.0,216.0,160.0,56.0,0.0,0.0
+Marketing,Splunk,United States,CA,San Francisco,20/09/03,P5,Enterprise,1.0,9.0,285.0,200.0,45.0,40.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/09/03,L4,"Marketing Manager, SMB",1.0,6.0,154.0,129.0,13.0,13.0,0.0
+Marketing,SAP,United States,IL,Chicago,20/09/03,T4,Product,12.0,14.0,180.0,145.0,10.0,25.0,0.0
+Marketing,ByteDance,Brazil,SP,Sao Paulo,20/09/02,2-2,Operations,2.0,10.0,13.0,13.0,0.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/02,L5,Consumer,4.0,4.0,60.0,55.0,0.0,5.0,0.0
+Marketing,Docusign,United States,CA,San Francisco,20/09/02,L4,Product,4.0,10.0,416.0,178.0,212.0,26.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,20/09/02,Grade 9,Product,22.0,25.0,270.0,220.0,30.0,20.0,0.0
+Marketing,Amazon,United States,OH,Cincinnati,20/09/02,L4,Product,1.0,1.0,100.0,80.0,10.0,10.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/09/02,L5,Android,3.0,7.0,140.0,100.0,40.0,0.0,0.0
+Marketing,Intel,United States,OR,Hillsboro,20/09/02,G6,Data,8.0,8.0,135.0,110.0,4.0,21.0,0.0
+Marketing,Pfizer,China,BJ,Beijing,20/09/01,1,Medicine,2.0,2.0,40.0,20.0,0.0,20.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/09/01,63,Consumer,1.0,12.0,200.0,150.0,20.0,30.0,0.0
+Marketing,Samsung,United States,NY,New York,20/08/31,Director I,Product,4.0,12.0,250.0,190.0,0.0,60.0,0.0
+Marketing,Microsoft,France,IL,Paris,20/08/31,61,Operations,2.0,5.0,115.0,97.0,10.0,10.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,20/08/31,L6,Product,2.0,17.0,250.0,172.0,68.0,10.0,0.0
+Marketing,Sephora,United States,CA,San Francisco,20/08/30,Marketing Manager,Technical,1.0,5.0,130.0,110.0,0.0,20.0,0.0
+Marketing,T-Mobile,United States,WA,Bellevue,20/08/30,L8,Consumer,1.0,5.0,153.0,125.0,13.0,15.0,0.0
+Marketing,Asus,Taiwan,TP,Taipei,20/08/30,8,Consumer,8.0,8.0,110.0,60.0,0.0,50.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,20/08/30,IC3,Enterprise,1.0,8.0,167.0,135.0,12.0,20.0,0.0
+Marketing,Google,United States,CA,Mountain View,20/08/30,Manager (L6),Technical,9.0,9.0,300.0,175.0,75.0,50.0,0.0
+Marketing,Oracle,United States,CA,Redwood City,20/08/29,IC-3,Marketing,4.0,6.0,120.0,117.0,0.0,3.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/08/29,L5,Product,1.0,7.0,153.0,141.0,12.0,0.0,0.0
+Marketing,Stanford University,United States,CA,Palo Alto,20/08/28,L2,Communications,3.0,8.0,87.0,86.0,0.0,1.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/08/28,L6,Product,3.0,10.0,180.0,127.0,53.0,0.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,20/08/28,L6,Consumer,2.0,15.0,200.0,140.0,60.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/08/28,59,Product,2.0,2.0,105.0,92.0,2.0,8.0,0.0
+Marketing,Pinterest,United States,CA,San Francisco,20/08/28,L4,Consumer,4.0,9.0,159.0,159.0,0.0,0.0,0.0
+Marketing,Google,United States,NY,New York,20/08/27,L3,Associate Product Marketing Manager,0.0,0.0,125.0,99.0,16.0,10.0,0.0
+Marketing,Intuit,United States,CA,Mountain View,20/08/27,Group PM,GTM Strategy,5.0,15.0,338.0,191.0,100.0,47.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/08/26,M2,Marketing,0.0,14.0,381.0,235.0,88.0,60.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/08/26,L4,Product,0.0,2.0,90.0,70.0,10.0,10.0,0.0
+Marketing,Google,United States,CA,Los Angeles,20/08/26,L3,Growth Marketing,3.0,9.0,220.0,150.0,50.0,20.0,0.0
+Marketing,Adobe,United States,CA,San Jose,20/08/25,Director,Enterprise,10.0,25.0,400.0,300.0,1.0,100.0,0.0
+Marketing,NerdWallet,United States,CA,San Francisco,20/08/25,Manager,Growth,1.0,10.0,212.0,186.0,26.0,0.0,0.0
+Marketing,Electronic Arts,United States,CA,San Francisco,20/08/25,Senior SE 1,Growth,1.0,5.0,256.0,180.0,40.0,36.0,0.0
+Marketing,Google,United States,FL,Miami,20/08/25,L3,Consumer,3.0,6.0,100.0,90.0,0.0,10.0,0.0
+Marketing,VMware,United States,NY,New York,20/08/24,P2,Marketing,1.0,2.0,90.0,84.0,3.0,3.0,0.0
+Marketing,Adobe,United States,CA,San Francisco,20/08/24,L3,Product Marketing,2.0,8.0,233.0,150.0,60.0,23.0,0.0
+Marketing,Zendesk,United States,CA,San Francisco,20/08/23,Senior Marketing Manager,Enterprise,2.0,9.0,210.0,145.0,70.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,20/08/22,66,Hardware,5.0,15.0,359.0,216.0,100.0,40.0,0.0
+Marketing,Amazon,Singapore,SG,Singapore,20/08/22,L6,Program Management,1.0,9.0,300.0,178.0,85.0,36.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,20/08/22,L4,Product Marketing,5.0,7.0,185.0,144.0,13.0,29.0,0.0
+Marketing,Apple,United States,CA,Cupertino,20/08/21,L3,Project Management,1.0,5.0,163.0,140.0,23.0,5.0,0.0
+Marketing,Groupon,United States,IL,Chicago,20/08/21,L4,Growth,0.0,14.0,145.0,120.0,10.0,15.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,20/08/21,L6,Product,1.0,6.0,205.0,150.0,50.0,5.0,0.0
+Marketing,Facebook,United States,WA,Seattle,20/08/21,IC5,Product Marketing,0.0,9.0,237.0,180.0,30.0,27.0,0.0
+Marketing,Warner Bros,United States,CA,Los Angeles,20/08/20,Director,iOS,4.0,9.0,152.0,142.0,0.0,10.0,0.0
+Marketing,HP,United States,CA,San Diego,20/08/20,Digital Marketing Manager,Digital Marketing,2.0,5.0,90.0,85.0,0.0,5.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/08/19,66,Consumer,9.0,9.0,322.0,190.0,90.0,42.0,0.0
+Marketing,Facebook,United States,CA,Palo Alto,20/08/19,IC6,Consumer,0.0,14.0,258.0,215.0,0.0,43.0,0.0
+Marketing,Linkedin,United States,CA,San Francisco,20/08/18,L3,Data,1.0,8.0,175.0,140.0,15.0,20.0,0.0
+Marketing,Amazon,United Kingdom,EN,London,20/08/18,L6,Vendor manager,2.0,5.0,130.0,100.0,30.0,0.0,0.0
+Marketing,SoFi,United States,UT,Salt Lake City,20/08/18,L3,Lifecycle,0.0,0.0,42.0,42.0,0.0,0.0,0.0
+Marketing,Amazon,United States,CA,San Francisco,20/08/18,L4,Technical,5.0,5.0,112.0,73.0,40.0,0.0,0.0
+Marketing,IBM,United States,NY,New York,20/08/17,Band 8,Content Marketing,1.0,7.0,119.0,112.0,7.0,0.0,0.0
+Marketing,Adobe,United States,CA,San Francisco,20/08/17,L3,Full Stack,7.0,7.0,130.0,119.0,2.0,11.0,0.0
+Marketing,google,United States,WA,Seattle,20/08/16,L5,ML / AI,2.0,10.0,200.0,130.0,50.0,20.0,0.0
+Marketing,Airbnb,United States,CA,San Francisco,20/08/15,L8,Consumer,1.0,10.0,184.0,132.0,33.0,19.0,0.0
+Marketing,Dell Technologies,United States,TX,Austin,20/08/15,I7,Consumer,2.0,5.0,120.0,110.0,0.0,10.0,0.0
+Marketing,Uber,United States,CA,San Francisco,20/08/14,L4,Growth,2.0,7.0,183.0,150.0,20.0,13.0,0.0
+Marketing,Texas Instruments,United States,CA,Santa Clara,20/08/14,29,Product,5.0,10.0,230.0,165.0,20.0,45.0,0.0
+Marketing,Adobe,United States,GA,Atlanta,20/08/14,50,Growth,3.0,6.0,167.0,152.0,0.0,15.0,0.0
+Marketing,PwC,United States,CA,San Francisco,20/08/14,l4,User Journey,5.0,5.0,101.0,101.0,0.0,0.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/08/13,IC5,Product,0.0,6.0,230.0,174.0,30.0,26.0,0.0
+Marketing,Canadian Tire,Canada,ON,Toronto,20/08/13,L1,Digital Marketing,1.0,5.0,95.0,80.0,5.0,10.0,0.0
+Marketing,Morgan Stanley,United States,NY,New York,20/08/13,Manager,Paid Media,2.0,9.0,115.0,105.0,0.0,10.0,0.0
+Marketing,microsoft,United States,WA,Seattle,20/08/13,63,Gaming,8.0,8.0,220.0,180.0,0.0,40.0,0.0
+Marketing,Tumblr,United States,NY,New York,20/08/12,L2,Marketing,2.0,4.0,86.0,84.0,0.0,2.0,0.0
+Marketing,WeWork,United States,NY,New York,20/08/12,L5,Growth,2.0,5.0,121.0,121.0,0.0,0.0,0.0
+Marketing,Google,United States,CA,San Francisco,20/08/12,L3,Product,2.0,10.0,113.0,113.0,0.0,0.0,0.0
+Marketing,Expedia,United States,WA,Seattle,20/08/11,M,Consumer,10.0,15.0,135.0,128.0,0.0,5.0,0.0
+Marketing,Amazon,United States,CA,Los Angeles,20/08/10,L6,Product Marketing,1.0,6.0,208.0,150.0,40.0,18.0,0.0
+Marketing,Cisco,United States,CA,San Jose,20/08/10,Grade 13,Consumer,3.0,25.0,620.0,280.0,240.0,100.0,0.0
+Marketing,Microsoft,Canada,ON,Mississauga,20/08/10,62,Enterprise,1.0,2.0,112.0,97.0,15.0,0.0,0.0
+Marketing,Google,United States,CA,Mountain View,20/08/09,L6,Consumer,2.0,14.0,400.0,197.0,154.0,49.0,0.0
+Marketing,Comcast,United States,PA,Philadelphia,20/08/09,Director,iOS,1.0,6.0,225.0,155.0,40.0,30.0,0.0
+Marketing,Microsoft,Singapore,SG,Singapore,20/08/08,L60,Marketing,1.0,7.0,150.0,132.0,4.0,16.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/08/08,IC5,Product,2.0,10.0,256.0,186.0,40.0,35.0,0.0
+Marketing,Cisco,United States,TX,Austin,20/08/07,L3,Digital,1.0,10.0,140.0,130.0,0.0,10.0,0.0
+Marketing,N26,United States,NY,New York,20/08/07,4,All,1.0,10.0,180.0,155.0,25.0,0.0,0.0
+Marketing,Microsoft,Taiwan,TP,Taipei,20/08/07,CS,IoT,9.0,10.0,45.0,45.0,0.0,0.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/08/07,L4 Product Manager,Networking,2.0,4.0,180.0,140.0,30.0,10.0,0.0
+Marketing,Zillow Group,United States,WA,Seattle,20/08/07,M4,Product,6.0,7.0,340.0,180.0,160.0,0.0,0.0
+Marketing,Dell Technologies,United States,TX,Round Rock,20/08/06,M10,Pricing,4.0,10.0,220.0,160.0,20.0,40.0,0.0
+Marketing,Compass,United States,NY,New York,20/08/06,l3,design,2.0,7.0,77.0,77.0,0.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/08/06,L6,Product,3.0,10.0,230.0,130.0,100.0,0.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/08/06,IC5,Marketing,3.0,9.0,228.0,168.0,30.0,30.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/08/05,IC4,Product,1.0,5.0,169.0,140.0,15.0,14.0,0.0
+Marketing,Splunk,United States,CA,San Francisco,20/08/05,P2,Security,1.0,2.0,112.0,96.0,11.0,10.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,20/08/05,Director,marketing,2.0,15.0,400.0,250.0,88.0,63.0,0.0
+Marketing,AT&T,United States,CA,Los Angeles,20/08/05,L2,Sponsorships,2.0,7.0,140.0,120.0,0.0,20.0,0.0
+Marketing,Dave,United States,CA,Los Angeles,20/08/04,Associate,Performance Marketing/User Acquisition,1.0,2.0,65.0,65.0,0.0,0.0,0.0
+Marketing,Vistaprint,United States,MA,Boston,20/08/04,l3,none,2.0,3.0,82.0,82.0,0.0,0.0,0.0
+Marketing,Intel,United States,CA,Santa Clara,20/08/04,Grade 6,API Development (Back-End),5.0,5.0,150.0,115.0,5.0,35.0,0.0
+Marketing,Avalara,United States,WA,Seattle,20/08/04,L3,Global digital marketing,1.0,2.0,81.0,70.0,3.0,8.0,0.0
+Marketing,Kantar,United States,NY,New York,20/08/03,G7,Insights,7.0,9.0,110.0,110.0,0.0,3.0,0.0
+Marketing,Twitter,United States,NY,New York,20/08/02,7,Brand,3.0,10.0,304.0,190.0,65.0,49.0,0.0
+Marketing,Xero,New Zealand,AU,Auckland,20/08/02,L5,Digital,2.0,7.0,70.0,70.0,2.0,0.0,0.0
+Marketing,,United States,CA,San Jose,20/08/01,2,Home improvement,1.0,2.0,52.0,52.0,0.0,0.0,0.0
+Marketing,Cameo,United States,CA,Los Angeles,20/08/01,Manager,None,1.0,6.0,80.0,80.0,0.0,0.0,0.0
+Marketing,Foursquare,United States,NY,New York,20/08/01,Lead,Strategist,1.0,8.0,140.0,115.0,5.0,20.0,0.0
+Marketing,Blizzard Entertainment,United States,CA,Irvine,20/07/31,Associate,Non-tech,4.0,5.0,87.0,82.0,0.0,5.0,0.0
+Marketing,Blizzard Entertainment,United States,CA,Irvine,20/07/31,Manager,Digital / Social,1.0,7.0,112.0,102.0,0.0,10.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/07/31,L64,Product marketing manager,4.0,15.0,210.0,160.0,25.0,25.0,0.0
+Marketing,Facebook,United States,CA,San Francisco,20/07/31,IC5,Small Business,1.0,10.0,228.0,160.0,43.0,24.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,20/07/31,Product Line Marketing Manager,Product Marketing,3.0,5.0,250.0,180.0,34.0,36.0,0.0
+Marketing,Hulu,United States,NY,New York,20/07/30,IC4,Design,4.0,7.0,172.0,130.0,0.0,42.0,0.0
+Marketing,GoDaddy,United States,NY,New York,20/07/29,Entry,,1.0,1.0,98.0,80.0,10.0,8.0,0.0
+Marketing,Google,United States,NY,New York,20/07/29,5,Product Marketing Manager,8.0,10.0,223.0,156.0,39.0,27.0,0.0
+Marketing,Informatica,United States,TX,Austin,20/07/28,,Operations,1.0,1.0,67.0,64.0,0.0,3.0,0.0
+Marketing,Shutterstock,United States,NY,New York,20/07/28,2,marketing,2.0,2.0,77.0,70.0,0.0,7.0,0.0
+Marketing,Amazon,Japan,TY,Tokyo,20/07/27,L5,DevOps,4.0,6.0,130.0,90.0,40.0,0.0,0.0
+Marketing,IBM,United States,CA,San Francisco,20/07/27,7,"SaaS, Services",3.0,5.0,112.0,112.0,0.0,0.0,0.0
+Marketing,Verizon,United States,CA,San Francisco,20/07/26,M4,Growth Marketing,2.0,10.0,190.0,155.0,0.0,35.0,0.0
+Marketing,Booking.com,Netherlands,NH,Amsterdam,20/07/26,F,Product Marketing,3.0,5.0,128.0,100.0,10.0,18.0,0.0
+Marketing,GoDaddy,United States,AZ,Phoenix,20/07/26,L1,Networking,0.0,2.0,45.0,45.0,0.0,0.0,0.0
+Marketing,Amazon,United States,NY,New York,20/07/26,6,Sr. Marketing Manager,3.0,12.0,195.0,145.0,50.0,0.0,0.0
+Marketing,Intuit,United States,CA,Mountain View,20/07/26,Marketing manager,None,5.0,5.0,160.0,136.0,15.0,14.0,0.0
+Marketing,Google,Singapore,SG,Singapore,20/07/26,L7,Brand Marketing,6.0,17.0,500.0,300.0,100.0,100.0,0.0
+Marketing,Adobe,United States,FL,Jacksonville,20/07/25,Sr Marketing Manager 5,Marketing,3.0,7.0,218.0,152.0,52.0,15.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/07/25,63,Marketing,4.0,13.0,185.0,145.0,20.0,20.0,0.0
+Marketing,Amazon,United States,WA,Seattle,20/07/25,L5,Marketing,1.0,5.0,145.0,111.0,1.0,33.0,0.0
+Marketing,Google,United States,CA,Mountain View,20/07/24,L4,Product marketing,3.0,6.0,220.0,140.0,50.0,30.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,20/07/24,IC6,Product marketing,4.0,9.0,330.0,204.0,85.0,41.0,0.0
+Marketing,PepsiCo,Canada,ON,Toronto,20/07/24,Assistant Marketing Manager,Marketing,1.0,1.0,56.0,52.0,0.0,4.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,20/07/24,Sr. Director,Marketing,5.0,12.0,525.0,260.0,200.0,65.0,0.0
+Marketing,LendingClub,United States,CA,San Francisco,20/07/23,Senior Manager,Program Management,3.0,14.0,191.0,145.0,28.0,18.0,0.0
+Marketing,Aura,United States,CA,San Francisco,20/07/23,Manager,Business,2.0,6.0,140.0,130.0,10.0,0.0,0.0
+Marketing,Google,United States,CA,San Jose,20/07/22,L4,API Development (Back-End),1.0,8.0,220.0,160.0,40.0,20.0,0.0
+Marketing,Coinbase,United States,CA,San Francisco,20/07/21,L5,Growth,1.0,10.0,285.0,210.0,75.0,0.0,0.0
+Marketing,Rackspace,United States,TX,San Antonio,20/07/21,2,Security,2.0,4.0,72.0,65.0,0.0,6.0,0.0
+Marketing,VMware,United States,NY,New York,20/07/21,P2,marketing,1.0,3.0,86.0,84.0,0.0,2.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,20/07/20,L5,Growth,3.0,6.0,80.0,70.0,10.0,0.0,0.0
+Marketing,Philips,Netherlands,NH,Amsterdam,20/07/20,60,Social media,2.0,4.0,72.0,60.0,0.0,12.0,0.0
+Marketing,verizon,United States,NJ,Basking Ridge,20/07/19,consultant,na,2.0,3.0,118.0,90.0,17.0,11.0,0.0
+Marketing,Microsoft,United States,WA,Bellevue,20/07/19,63,PMM,3.0,12.0,205.0,150.0,25.0,30.0,0.0
+Marketing,Intuit,United States,CA,Mountain View,20/07/19,Senior Marketing Manager,Digital Marketing,2.0,18.0,227.0,172.0,28.0,27.0,0.0
+Marketing,Red Ventures,United States,NC,Charlotte,20/07/18,Senior Associate,Digital Marketing,4.0,4.0,102.0,96.0,6.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,20/07/17,L62,Cloud,0.0,5.0,173.0,132.0,28.0,13.0,0.0
+Marketing,Uber,United States,IL,Chicago,20/07/17,L4,Marketing,3.0,4.0,149.0,109.0,29.0,11.0,0.0
+Marketing,Nvidia,United States,CA,Santa Clara,20/07/17,IC4,Creative,2.0,15.0,229.0,169.0,60.0,0.0,0.0
+Marketing,GoDaddy,United States,CA,San Francisco,20/07/16,L3,Networking,1.0,1.0,100.0,70.0,20.0,10.0,0.0
+Marketing,Uber,United States,AZ,Phoenix,20/07/16,L5,Platform,3.0,10.0,190.0,120.0,50.0,20.0,0.0
+Marketing,Facebook,United Kingdom,EN,London,20/07/15,Contingent,Policy Marketing,0.0,7.0,98.0,98.0,0.0,0.0,0.0
+Marketing,Indeed,United States,TX,Austin,20/03/03,L7,Marketing,2.0,15.0,200.0,184.0,0.0,16.0,0.0
+Marketing,Carta,United States,CA,San Francisco,20/02/23,Director,iOS,1.5,9.0,290.0,180.0,110.0,0.0,0.0
+Marketing,Dropbox,United States,CA,San Francisco,20/02/21,IC5,Marketing,1.0,15.0,325.0,215.0,55.0,52.0,0.0
+Marketing,Uber,United States,CA,San Francisco,20/02/02,L6,Marketing,5.0,8.0,350.0,176.0,119.0,55.0,0.0
+Marketing,Amazon,United States,NY,New York,19/11/21,level 6,marketing,2.0,12.0,330.0,150.0,150.0,30.0,0.0
+Marketing,Facebook,United States,WA,Seattle,19/08/19,IC7,DevOps,2.0,15.0,420.0,230.0,140.0,50.0,0.0
+Marketing,Facebook,United States,CA,Menlo Park,19/06/29,IC5,,1.0,6.0,210.0,,,,0.0
+Marketing,VMware,United States,TX,Austin,19/06/12,Senior Manager,Marketing,5.0,15.0,150.0,120.0,0.0,30.0,0.0
+Marketing,zillow,United States,CA,San Francisco,19/05/07,senior manager,Marketing,6.0,10.0,240.0,175.0,65.0,0.0,0.0
+Marketing,Samsung,United States,NY,New York,19/03/14,Director,Marketing,3.5,15.0,285.0,220.0,0.0,65.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,19/01/27,65,Cloud,15.0,15.0,265.0,180.0,40.0,40.0,0.0
+Marketing,Microsoft,United States,WA,Seattle,18/09/07,63,Marketing,1.0,8.0,100.0,,,,0.0

@@ -1,0 +1,488 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Human Resources,Amazon,United States,WA,Seattle,21/12/30,L7,people analytics,3.0,10.0,356.0,152.0,204.0,0.0,0.0
+Human Resources,IBM,United States,GA,Atlanta,21/12/29,Band 9,Compensation,14.0,18.0,161.0,161.0,0.0,0.0,0.0
+Human Resources,FireEye,United States,CA,Milpitas,21/12/29,L2,L&D,2.0,5.0,134.0,100.0,24.0,10.0,0.0
+Human Resources,BMO,Canada,ON,Mississauga,21/12/27,1,General,0.0,1.0,45.0,45.0,0.0,0.0,0.0
+Human Resources,Google,United States,CA,San Francisco,21/12/22,L4,benefits,4.0,4.0,209.0,131.0,54.0,24.0,0.0
+Human Resources,LendingClub,United States,CA,San Francisco,21/12/21,m4,General,1.0,15.0,275.0,200.0,35.0,40.0,0.0
+Human Resources,Amazon,United Kingdom,EN,London,21/12/20,L6,General,4.0,19.0,137.0,86.0,47.0,4.0,0.0
+Human Resources,LivePerson,United States,NY,New York,21/12/17,L2,Total Reward,2.0,5.0,142.0,120.0,10.0,12.0,0.0
+Human Resources,Google,United States,CA,San Francisco,21/12/15,L5,General,8.0,12.0,210.0,165.0,17.0,28.0,0.0
+Human Resources,Google,United States,CA,Mountain View,21/12/14,L2,HR Ops,2.0,2.0,107.0,85.0,11.0,11.0,0.0
+Human Resources,SpaceX,United States,CA,Hawthorne,21/12/14,Midlevel,General,3.0,3.0,140.0,80.0,60.0,0.0,0.0
+Human Resources,Deloitte,United States,AZ,Phoenix,21/12/13,Consultant,GPS,1.0,3.0,94.0,84.0,0.0,10.0,0.0
+Human Resources,Amazon,United States,AZ,Tucson,21/12/12,L4,loss privation,0.0,3.0,80.0,65.0,10.0,5.0,0.0
+Human Resources,Twilio,United States,CA,Seaside,21/12/11,L5,General,1.0,12.0,210.0,170.0,40.0,0.0,0.0
+Human Resources,Care.com,United States,NY,New York,21/12/10,L6,Talent Acquisition,12.0,12.0,255.0,221.0,1.0,33.0,0.0
+Human Resources,Google,United Kingdom,EN,London,21/12/10,L4,PgM,10.0,12.0,112.0,65.0,35.0,12.0,0.0
+Human Resources,Microsoft,United States,WA,Redmond,21/12/10,61,HRBP,3.0,5.0,150.0,116.0,18.0,16.0,0.0
+Human Resources,Google,United States,NY,New York,21/12/06,L5,HR,3.0,6.0,218.0,153.0,35.0,30.0,0.0
+Human Resources,Uber,Netherlands,NH,Amsterdam,21/12/03,4,Analyst,1.0,5.0,95.0,85.0,5.0,5.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/12/03,L5,Human Resources,0.0,20.0,130.0,125.0,5.0,0.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,21/12/03,IC5,Business Partner,8.0,11.0,222.0,160.0,30.0,32.0,0.0
+Human Resources,Amazon,United States,NY,New York,21/12/01,L4,"Program Management, Fresh, Prime, Whole Foods",5.0,5.0,110.0,95.0,15.0,0.0,0.0
+Human Resources,PayPal,United States,CA,San Jose,21/12/01,L28,Recruiting,2.0,12.0,350.0,210.0,90.0,50.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/11/23,L6,General,2.0,5.0,125.0,90.0,35.0,0.0,0.0
+Human Resources,VMware,India,KA,Bangalore,21/11/22,P5,Recruiter / Staffing,7.0,17.0,79.0,59.0,10.0,10.0,0.0
+Human Resources,Microsoft,United States,DC,Washington,21/11/22,63,Business partner,3.0,10.0,198.0,153.0,20.0,25.0,0.0
+Human Resources,ByteDance,United States,CA,Mountain View,21/11/20,1-2,Recruiting,1.0,1.0,110.0,95.0,10.0,5.0,0.0
+Human Resources,Facebook,United States,MN,Minneapolis,21/11/19,IC4,Recruiting,0.0,7.0,139.0,115.0,13.0,12.0,0.0
+Human Resources,Verkada,United States,CA,San Mateo,21/11/18,L6,General,2.0,10.0,300.0,200.0,100.0,0.0,0.0
+Human Resources,Accenture,United States,IL,Chicago,21/11/18,Associate Manager,Recruiting,7.0,16.0,118.0,108.0,2.0,8.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,21/11/18,64,Senior Manager,0.0,10.0,220.0,165.0,25.0,30.0,0.0
+Human Resources,REI Systems,United States,VA,Sterling,21/11/17,Specialist,Internal Communications,1.0,10.0,67.0,65.0,0.0,2.0,0.0
+Human Resources,Brock Solutions,United States,TX,Irving,21/11/15,L2,Generalist,1.0,4.0,54.0,51.0,0.0,4.0,0.0
+Human Resources,Wattpad,Canada,ON,Toronto,21/11/15,L2,HR,1.0,4.0,83.0,75.0,0.0,8.0,0.0
+Human Resources,Amazon,United States,FL,Orlando,21/11/11,L5,Employee Relations,3.0,15.0,120.0,120.0,0.0,0.0,0.0
+Human Resources,Capital One,United States,VA,Mc Lean,21/11/09,Manager,Recruiting,7.0,14.0,145.0,126.0,0.0,19.0,0.0
+Human Resources,Microsoft,United States,WA,Redmond,21/11/08,64,General,8.0,10.0,260.0,160.0,75.0,25.0,0.0
+Human Resources,Allstate,United States,IL,Northbrook,21/11/07,Senior manager,HR,2.0,8.0,180.0,150.0,0.0,30.0,0.0
+Human Resources,Pinterest,United States,CA,San Francisco,21/11/06,L2,Technical,1.0,1.0,88.0,88.0,0.0,0.0,0.0
+Human Resources,VMware,United States,CA,San Francisco,21/11/06,M4,Hrbp,3.0,15.0,300.0,210.0,50.0,40.0,0.0
+Human Resources,Amazon,United States,FL,Orlando,21/11/06,L6,Employee Relations,1.0,13.0,170.0,130.0,40.0,0.0,0.0
+Human Resources,Amazon,United States,CA,San Francisco,21/11/04,L4,Corporate training,1.0,5.0,98.0,81.0,3.0,14.0,0.0
+Human Resources,Startup,United States,CA,Santa Clara,21/11/04,l12,"HR + account, marketing,",2.0,2.0,20.0,20.0,0.0,0.0,0.0
+Human Resources,Google,United States,CA,Redwood City,21/11/04,L5,Program manager,8.0,9.0,347.0,176.0,130.0,41.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/11/02,L6,TA,4.0,6.0,210.0,135.0,55.0,20.0,0.0
+Human Resources,Kiwi.com,Serbia,SR,Belgrade,21/11/01,L4,General,3.0,5.0,32.0,32.0,0.0,0.0,0.0
+Human Resources,Nike,United States,OR,Portland,21/10/31,U,Reporting,5.0,8.0,149.0,129.0,0.0,20.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,21/10/30,IC5,General,1.0,11.0,192.0,152.0,20.0,20.0,0.0
+Human Resources,TuSimple,United States,CA,San Diego,21/10/29,5,Compensation,1.0,3.0,138.0,105.0,12.0,21.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/10/29,L6,Research,3.0,5.0,293.0,160.0,133.0,0.0,0.0
+Human Resources,Facebook,United States,WA,Seattle,21/10/28,M1,Industrial Psychology,0.0,10.0,280.0,192.0,50.0,38.0,0.0
+Human Resources,Shopify,United States,CA,Los Angeles,21/10/27,L6,DEI and Culture,3.0,6.0,102.0,81.0,10.0,11.0,0.0
+Human Resources,PayPal,United States,CA,San Jose,21/10/26,T27,HR,4.0,15.0,320.0,200.0,80.0,40.0,0.0
+Human Resources,UiPath,United States,NY,New York,21/10/26,L6,Global,6.0,10.0,215.0,180.0,5.0,30.0,0.0
+Human Resources,Deloitte,United States,NY,New York,21/10/25,Senior Consultant,Human Capital,4.0,4.0,130.0,121.0,0.0,9.0,0.0
+Human Resources,ByteDance,United States,CA,Mountain View,21/10/21,L1,Sourcing,0.0,0.0,73.0,73.0,0.0,0.0,0.0
+Human Resources,Facebook,United States,MA,Boston,21/10/20,L5,"Human Resources, Business Partnering",1.0,7.0,150.0,115.0,17.0,17.0,5.0
+Human Resources,Capital One,United States,VA,Richmond,21/10/19,VP,General,9.0,23.0,575.0,340.0,85.0,150.0,0.0
+Human Resources,DoorDash,United States,CA,San Francisco,21/10/18,Senior,Sales,1.0,6.0,185.0,150.0,35.0,0.0,0.0
+Human Resources,DoorDash,United States,TX,Dallas,21/10/17,M3,General,1.0,10.0,265.0,215.0,50.0,0.0,0.0
+Human Resources,DoorDash,United States,CA,San Francisco,21/10/17,Senior,Recruiter,1.0,6.0,185.0,150.0,35.0,0.0,0.0
+Human Resources,Microsoft,United States,NY,New York,21/10/14,63,Diversity,1.0,8.0,187.0,160.0,15.0,12.0,0.0
+Human Resources,Anheuser-Busch InBev,United States,OH,Columbus,21/10/14,6 B,General,3.0,7.0,118.0,110.0,0.0,8.0,0.0
+Human Resources,Charter,United States,CT,Stamford,21/10/13,E11,General,1.0,10.0,110.0,100.0,0.0,10.0,0.0
+Human Resources,Tesla,United States,CA,Fremont,21/10/13,S3,General,0.0,2.0,68.0,64.0,4.0,0.0,0.0
+Human Resources,Netflix,United States,NY,New York,21/10/12,Director,General,0.0,14.0,650.0,650.0,0.0,0.0,0.0
+Human Resources,Santander Bank,United States,TX,Dallas,21/10/12,Senior,general,2.0,6.0,121.0,118.0,0.0,3.0,0.0
+Human Resources,PayPal,United States,CA,San Jose,21/10/10,T27,Hr,10.0,20.0,300.0,200.0,80.0,20.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/10/08,L6,Recruiting,4.0,20.0,170.0,155.0,15.0,0.0,0.0
+Human Resources,Facebook,United States,CA,Sunnyvale,21/10/07,IC4,recruiting,2.0,6.0,142.0,120.0,10.0,12.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,21/10/06,L5,General,1.0,15.0,264.0,166.0,74.0,24.0,0.0
+Human Resources,Vodafone Group,United Kingdom,EN,London,21/10/04,F14,HRBP,5.0,12.0,190.0,135.0,25.0,30.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/10/03,L7,Recruiting,5.0,15.0,199.0,144.0,55.0,0.0,0.0
+Human Resources,Google,United States,CA,San Francisco,21/10/03,L3,Hm,6.0,7.0,122.0,100.0,22.0,0.0,0.0
+Human Resources,L3Harris Technologies,United States,NJ,Camden,21/10/02,XL3,HR,15.0,20.0,517.0,290.0,140.0,87.0,0.0
+Human Resources,Amazon,Canada,BC,Vancouver,21/10/02,L5,General,1.0,9.0,134.0,108.0,0.0,26.0,0.0
+Human Resources,Blizzard Entertainment,United States,CA,Irvine,21/10/02,Manager,Organizational Development,1.0,5.0,122.0,113.0,0.0,9.0,0.0
+Human Resources,VMware,United States,TX,Houston,21/10/02,P1,General,0.0,5.0,75.0,71.0,0.0,5.0,0.0
+Human Resources,Gopuff,United States,TX,Austin,21/10/01,N/a,HR,0.0,3.0,119.0,100.0,9.0,10.0,0.0
+Human Resources,LinkedIn,United States,CA,San Francisco,21/09/30,MR4,Talent,2.0,8.0,242.0,167.0,41.0,33.0,0.0
+Human Resources,PepsiCo,United States,TX,Plano,21/09/30,L7,Global IT,1.0,1.0,103.0,88.0,0.0,15.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/09/29,L6,General,1.0,15.0,190.0,140.0,25.0,25.0,0.0
+Human Resources,Microsoft,United States,TX,Dallas,21/09/25,58,Engineering,2.0,2.0,81.0,78.0,2.0,2.0,0.0
+Human Resources,Google,United States,CA,Mountain View,21/09/24,L5,General,3.0,9.0,325.0,190.0,100.0,35.0,0.0
+Human Resources,Amazon,United States,VA,Arlington,21/09/20,L4,Program Manager,0.0,2.0,103.0,87.0,10.0,7.0,0.0
+Human Resources,Microsoft,United States,WA,Redmond,21/09/20,64,Recruiting,3.0,10.0,235.0,175.0,30.0,30.0,0.0
+Human Resources,Amazon,United States,TN,Nashville,21/09/18,Human Resource Manager,Human Resources,0.0,10.0,209.0,100.0,71.0,38.0,0.0
+Human Resources,Shell,Malaysia,SL,Cyberjaya,21/09/17,L4,HR Generalist,8.0,12.0,28.0,26.0,0.0,2.0,0.0
+Human Resources,Peloton,United States,NY,New York,21/09/09,L7,Recruitment,1.0,12.0,500.0,200.0,250.0,50.0,0.0
+Human Resources,GoDaddy,United States,AZ,Tempe,21/09/07,Sr. Manager,General,4.0,12.0,220.0,145.0,60.0,15.0,0.0
+Human Resources,Visa,United States,CA,San Francisco,21/09/06,L3,Recruiting,2.0,2.0,69.0,67.0,0.0,2.0,0.0
+Human Resources,Visa,United States,CA,San Francisco,21/09/06,L4,Recruiting,2.0,2.0,83.0,79.0,0.0,4.0,0.0
+Human Resources,Amazon,United States,CA,Palo Alto,21/09/04,L6,Recruiter,5.0,15.0,300.0,165.0,135.0,0.0,0.0
+Human Resources,Amazon,United States,TX,Austin,21/09/03,L2,general,1.0,1.0,31.0,30.0,0.0,1.0,0.0
+Human Resources,TE Connectivity,United States,NC,Charlotte,21/09/02,4.1,Talent Acquisition,1.0,15.0,215.0,165.0,0.0,50.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/09/02,L5,Onboarding,4.0,6.0,105.0,82.0,21.0,2.0,0.0
+Human Resources,Vanguard,United States,PA,Malvern,21/09/01,S4,Org Transformation,2.0,10.0,211.0,179.0,0.0,32.0,0.0
+Human Resources,Amazon,United States,CA,Los Angeles,21/08/31,5,Recruiting,1.0,5.0,108.0,90.0,18.0,0.0,0.0
+Human Resources,Ampere Computing,United States,OR,Portland,21/08/31,L-8,Compensation,0.0,7.0,176.0,140.0,10.0,26.0,0.0
+Human Resources,Amazon,United States,NY,New York,21/08/30,L7,Talent Management,1.0,13.0,240.0,160.0,10.0,70.0,0.0
+Human Resources,ADP,United States,GA,Atlanta,21/08/26,L3,HRIS,3.0,10.0,91.0,88.0,0.0,3.0,0.0
+Human Resources,Randstad,United States,MA,Danvers,21/08/26,L2,General,0.0,0.0,73.0,55.0,0.0,18.0,0.0
+Human Resources,Deloitte,United States,NY,New York,21/08/24,L5,Recruiting,10.0,20.0,136.0,134.0,0.0,2.0,0.0
+Human Resources,Netflix,Netherlands,NH,Amsterdam,21/08/23,L3,Operations and Analytics,2.0,5.0,141.0,141.0,0.0,0.0,0.0
+Human Resources,Netflix,United States,CA,Los Gatos,21/08/20,Senior,Recruiter,2.0,8.0,210.0,200.0,10.0,0.0,0.0
+Human Resources,Yandex,Russia,MC,Moscow,21/08/20,G16,recruitment,2.0,9.0,55.0,39.0,9.0,7.0,0.0
+Human Resources,Netflix,United States,CA,Los Gatos,21/08/20,Senior,Recruiter,2.0,8.0,210.0,200.0,10.0,0.0,0.0
+Human Resources,Google,United States,CA,Mountain View,21/08/13,L3,People Analytics,2.0,5.0,142.0,106.0,20.0,16.0,0.0
+Human Resources,Lowes,United States,NC,Charlotte,21/08/13,Sr Director,HR,2.0,20.0,380.0,200.0,60.0,120.0,0.0
+Human Resources,Mercer,United States,CO,Denver,21/08/12,L4,Workday,2.0,15.0,124.0,120.0,0.0,4.0,0.0
+Human Resources,Facebook,United States,IL,Chicago,21/08/11,IC3,Technical,2.0,3.0,102.0,92.0,5.0,5.0,0.0
+Human Resources,Workday,United States,CA,San Francisco,21/08/11,M5,Talent Acquisition,1.0,12.0,351.0,220.0,65.0,66.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/08/10,L4,Field recruiting,1.0,3.0,69.0,57.0,12.0,0.0,0.0
+Human Resources,Google,United States,CA,Mountain View,21/08/10,L1,General,0.0,0.0,71.0,71.0,0.0,0.0,0.0
+Human Resources,Lyft,United States,CA,San Francisco,21/08/09,L4,Compensation,0.0,6.0,160.0,120.0,40.0,0.0,0.0
+Human Resources,Visa,United States,CA,Foster City,21/08/09,Senior Director,HRBP,3.0,15.0,260.0,175.0,50.0,35.0,0.0
+Human Resources,Twitter,United States,CA,San Francisco,21/08/07,L7,HRIS,4.0,7.0,525.0,300.0,150.0,75.0,0.0
+Human Resources,Twitter,United States,CA,San Francisco,21/08/07,L7,HRIS,4.0,10.0,467.0,250.0,150.0,67.0,0.0
+Human Resources,Amazon,United States,VA,Arlington,21/08/07,L6,Learning,1.0,10.0,135.0,110.0,25.0,0.0,0.0
+Human Resources,Google,United States,TX,Austin,21/08/06,L3,Sourcer,1.0,3.0,126.0,95.0,16.0,14.0,0.0
+Human Resources,Intuit,United States,CA,Mountain View,21/08/06,24,Compensation,3.0,7.0,350.0,210.0,90.0,50.0,0.0
+Human Resources,Facebook,United States,TX,Austin,21/08/04,IC1,General,0.0,3.0,77.0,65.0,5.0,7.0,0.0
+Human Resources,Zeta,India,MH,Mumbai,21/07/29,L4,HR Business Partner,5.0,8.0,35.0,35.0,0.0,0.0,0.0
+Human Resources,Apixio,United States,CA,San Mateo,21/07/27,L7,general,1.0,20.0,278.0,190.0,50.0,38.0,0.0
+Human Resources,Facebook,United States,AZ,Tucson,21/07/27,Senior Director,none,4.0,25.0,400.0,250.0,100.0,50.0,0.0
+Human Resources,Amazon,United States,MA,Plymouth,21/07/23,L5,General,2.0,7.0,90.0,90.0,0.0,0.0,0.0
+Human Resources,Tesla,United States,CA,Fremont,21/07/20,P4,Operations,1.0,10.0,180.0,130.0,50.0,0.0,0.0
+Human Resources,Amazon,United States,NY,New York,21/07/18,L6,Learning,2.0,15.0,200.0,140.0,60.0,0.0,0.0
+Human Resources,Amazon,United States,TX,Austin,21/07/18,L6,General,0.0,16.0,193.0,138.0,27.0,28.0,0.0
+Human Resources,Google,United States,CA,Mountain View,21/07/16,L5,General,10.0,15.0,263.0,164.0,67.0,32.0,0.0
+Human Resources,NBCUniversal,United States,NY,New York,21/07/16,Director,"performance management, workforce planning, hiring, compensation, employee relations",4.0,14.0,177.0,161.0,0.0,16.0,0.0
+Human Resources,NBCUniversal,United States,NY,New York,21/07/15,Manager,General,5.0,8.0,105.0,100.0,0.0,5.0,0.0
+Human Resources,Visa,United States,CA,San Francisco,21/07/14,L4,,2.0,2.0,83.0,79.0,0.0,4.0,0.0
+Human Resources,LinkedIn,United States,CA,California City,21/07/09,L2,General,1.0,5.0,134.0,112.0,10.0,12.0,0.0
+Human Resources,LinkedIn,United States,CA,Sunnyvale,21/07/09,IC4,Business Partner,10.0,15.0,170.0,157.0,13.0,0.0,0.0
+Human Resources,Intel,United States,OR,Portland,21/07/06,Grade 10,Business HR,20.0,20.0,266.0,193.0,8.0,65.0,0.0
+Human Resources,Amazon,United States,TX,Austin,21/07/06,L5,General,0.0,6.0,108.0,96.0,12.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/07/02,L6,Trainer,10.0,15.0,165.0,140.0,25.0,0.0,0.0
+Human Resources,Google,United States,CA,Sunnyvale,21/07/01,L6,People Programs,3.0,15.0,360.0,195.0,115.0,50.0,0.0
+Human Resources,GE,United States,GA,Atlanta,21/07/01,LEAD,Business Systems Analyst,12.0,40.0,99.0,90.0,0.0,9.0,0.0
+Human Resources,ABC,India,TS,Hyderabad,21/06/30,L4,Generalist,15.0,20.0,100.0,90.0,3.0,10.0,0.0
+Human Resources,Robinhood,United States,NY,New York,21/06/30,L5,Compensation,0.0,12.0,295.0,200.0,75.0,20.0,0.0
+Human Resources,MathWorks,India,TN,Chennai,21/06/29,L3,HR - Business Partner,9.0,11.0,11.0,11.0,0.0,0.0,0.0
+Human Resources,Walmart,United States,AR,Bentonville,21/06/29,x7,Talent,2.0,18.0,310.0,220.0,40.0,50.0,0.0
+Human Resources,ByteDance,China,BJ,Beijing,21/06/18,1-2,general,2.0,2.0,35.0,30.0,0.0,5.0,0.0
+Human Resources,Redfin,United States,WA,Seattle,21/06/18,IC2,General,5.0,6.0,76.0,75.0,1.0,0.0,0.0
+Human Resources,Disney,United States,CA,Los Angeles,21/06/17,P4,Organization Development,2.0,5.0,100.0,100.0,0.0,0.0,0.0
+Human Resources,Microsoft,Israel,TA,Herzliyya,21/06/17,54,HR & Compensation and benefits,1.0,1.0,39.0,39.0,0.0,0.0,0.0
+Human Resources,Indigo,India,HR,Gurgaon,21/06/15,Manager,HR Business Partnering,3.0,10.0,25.0,23.0,0.0,3.0,0.0
+Human Resources,Salesforce,United States,MA,Boston,21/06/11,L7,Program Management,1.0,5.0,178.0,151.0,10.0,17.0,0.0
+Human Resources,Procore Technologies,United States,CA,Carpinteria,21/06/10,IC2,Recruiting Operations,1.0,1.0,52.0,52.0,0.0,0.0,0.0
+Human Resources,Yandex,Russia,MC,Moscow,21/06/08,G17,General,4.0,6.0,64.0,43.0,14.0,7.0,0.0
+Human Resources,Micron Technology,Taiwan,TP,Taipei,21/06/04,m2,General,4.0,14.0,140.0,100.0,20.0,20.0,0.0
+Human Resources,Nvidia,India,KA,Bangalore,21/06/04,M6,Head hr,16.0,30.0,420.0,220.0,200.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/06/03,L4,General,2.0,2.0,87.0,61.0,26.0,0.0,0.0
+Human Resources,Amazon,United States,PA,Pittsburgh,21/05/28,L4,general,3.0,5.0,36.0,36.0,0.0,1.0,0.0
+Human Resources,Amazon,United States,NV,Las Vegas,21/05/26,L5 SDM,Workers Compensation,6.0,10.0,110.0,110.0,0.0,0.0,0.0
+Human Resources,Deutsche Bank,United States,NY,New York,21/05/26,VP,Infrastructure,5.0,14.0,215.0,180.0,0.0,35.0,0.0
+Human Resources,Oracle,United States,WA,Seattle,21/05/22,IC3,HRBP,1.0,6.0,135.0,125.0,0.0,10.0,0.0
+Human Resources,JPMorgan Chase,United States,NY,New York,21/05/20,Executive Director,HR,12.0,15.0,300.0,200.0,10.0,90.0,0.0
+Human Resources,Boeing,United States,WA,Seattle,21/05/20,L4,Compensation,7.0,10.0,124.0,114.0,0.0,10.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,21/05/19,L7,Compensation,3.0,12.0,500.0,225.0,200.0,75.0,0.0
+Human Resources,Amazon,United States,TX,Dallas,21/05/16,L6,Recruiting Manager,8.0,10.0,262.0,132.0,130.0,0.0,0.0
+Human Resources,Deloitte,United States,DC,Washington,21/05/16,Consultant,Cross Consulting Group,3.0,5.0,76.0,74.0,0.0,2.0,0.0
+Human Resources,Tesla,United States,CA,San Francisco,21/05/13,S3,Production,0.0,0.0,54.0,52.0,2.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/05/12,L5,General,1.0,10.0,300.0,150.0,110.0,40.0,0.0
+Human Resources,Splunk,United States,CA,San Francisco,21/05/11,P5,general,2.0,8.0,223.0,165.0,25.0,33.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,21/05/06,59,General,0.0,3.0,110.0,110.0,0.0,0.0,0.0
+Human Resources,Dell Technologies,United States,TX,Austin,21/04/27,L7,General,1.0,1.0,88.0,82.0,0.0,6.0,0.0
+Human Resources,Intel,United States,OR,Portland,21/04/22,Grade 8,Business Partner,9.0,10.0,160.0,123.0,20.0,15.0,0.0
+Human Resources,Paylocity,United States,IL,Schaumburg,21/04/21,L1,Inside Sales,2.0,8.0,44.0,40.0,0.0,5.0,0.0
+Human Resources,Collins Aerospace,United States,NC,Winston Salem,21/04/17,P6,Talent Management,8.0,8.0,164.0,137.0,0.0,27.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,21/04/16,65,Diversity,0.0,20.0,230.0,180.0,20.0,30.0,0.0
+Human Resources,Amazon,United States,NY,New York,21/04/16,L6,Recruiting,6.0,10.0,226.0,132.0,94.0,0.0,0.0
+Human Resources,CircleCI,United States,CA,San Francisco,21/04/16,L2,Recruiting,1.0,6.0,130.0,115.0,15.0,0.0,0.0
+Human Resources,Facebook,United Kingdom,EN,London,21/04/15,L4,Sourcing,1.0,5.0,118.0,90.0,10.0,18.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/04/14,L6,General,1.0,10.0,180.0,140.0,30.0,10.0,0.0
+Human Resources,Better Mortgage,United States,NY,New York,21/04/09,L5,technology,0.0,4.0,138.0,115.0,15.0,9.0,0.0
+Human Resources,Amazon,United States,WA,Bellevue,21/04/08,L7,Global Associate Experience Team,0.0,15.0,289.0,160.0,73.0,56.0,0.0
+Human Resources,Zalando,United States,CA,San Francisco,21/04/07,L3,Recruiting,2.0,2.0,15.0,15.0,0.0,0.0,0.0
+Human Resources,Amazon,Canada,ON,Toronto,21/04/07,L7,General,1.0,20.0,220.0,175.0,45.0,0.0,0.0
+Human Resources,Facebook,Canada,BC,Vancouver,21/03/29,IC3,Technical,1.0,6.0,100.0,87.0,5.0,9.0,0.0
+Human Resources,Boeing,United States,WA,Seattle,21/03/24,L4,Business Partner,6.0,14.0,116.0,116.0,0.0,0.0,0.0
+Human Resources,Virtusa,United States,NJ,Edison,21/03/18,T2,Talent Acquisition,2.0,10.0,70.0,70.0,0.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/03/16,L6,Cloud computing,5.0,12.0,212.0,137.0,75.0,0.0,0.0
+Human Resources,Amazon,United States,CA,Sunnyvale,21/03/14,IC7,HR,3.0,20.0,308.0,160.0,148.0,0.0,0.0
+Human Resources,Amazon,Canada,ON,Ottawa,21/03/10,L4,human resource,0.0,0.0,56.0,42.0,9.0,3.0,0.0
+Human Resources,SiriusXM,United States,CA,Oakland,21/03/10,L3,General,2.0,4.0,138.0,115.0,12.0,11.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,21/03/09,L5,General,2.0,8.0,185.0,145.0,18.0,22.0,0.0
+Human Resources,Infosys,India,KL,Trivandrum,21/03/08,L3,Business Partnering,2.0,6.0,11.0,11.0,0.0,0.0,0.0
+Human Resources,Capital One,United States,VA,Richmond,21/03/07,Principal Associate,General,5.0,5.0,110.0,102.0,0.0,8.0,0.0
+Human Resources,Amazon,United States,CA,Los Angeles,21/03/03,L7,Operations,4.0,6.0,243.0,143.0,100.0,0.0,0.0
+Human Resources,Oracle,United States,TX,Austin,21/03/02,IC1,HR,2.0,2.0,85.0,70.0,5.0,10.0,0.0
+Human Resources,Cognizant,United States,CA,Cupertino,21/03/01,Manager,Human resources,5.0,15.0,120.0,108.0,0.0,12.0,0.0
+Human Resources,Capital One,United States,NY,New York,21/02/28,Principal Associate,Human Resources Consulting,3.0,3.0,120.0,110.0,0.0,11.0,0.0
+Human Resources,Google,United Kingdom,EN,London,21/02/28,L3,Recruiting,3.0,3.0,98.0,67.0,21.0,10.0,0.0
+Human Resources,Infosys,United States,NJ,Bridgewater,21/02/27,L5,TALENT ACQUISITION,8.0,16.0,92.0,92.0,0.0,0.0,0.0
+Human Resources,Walmart,United States,CA,San Francisco,21/02/27,L8,People Partner,1.0,15.0,475.0,240.0,150.0,85.0,0.0
+Human Resources,Electronic Arts,United States,CA,San Carlos,21/02/26,L7,technbical,2.0,10.0,300.0,220.0,40.0,40.0,0.0
+Human Resources,VMWare,United States,TX,Austin,21/02/26,L3,HR,1.0,5.0,122.0,110.0,0.0,12.0,0.0
+Human Resources,Google,United States,TX,Austin,21/02/26,L3,Recruiting,3.0,4.0,135.0,91.0,30.0,14.0,0.0
+Human Resources,TD,Canada,ON,Toronto,21/02/25,Senior manager,Learning,6.0,20.0,165.0,145.0,1.0,20.0,0.0
+Human Resources,Disney,India,DL,Delhi,21/02/25,Director,Human Resources,1.0,16.0,230.0,180.0,20.0,30.0,0.0
+Human Resources,Bank of America,United States,NY,New York,21/02/24,B5,Diversity,1.0,7.0,95.0,95.0,0.0,5.0,0.0
+Human Resources,Amazon,Korea,KG,Seoul,21/02/22,L4,HRM,1.0,2.0,50.0,50.0,0.0,0.0,0.0
+Human Resources,Twitter,United States,CA,San Francisco,21/02/21,L7,HRIS,2.0,15.0,300.0,200.0,50.0,50.0,0.0
+Human Resources,Nordstrom,United States,WA,Seattle,21/02/21,18,HRBP,8.0,8.0,140.0,126.0,0.0,14.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/02/20,L7,Human Resources,2.0,15.0,450.0,160.0,290.0,0.0,0.0
+Human Resources,Uber,United States,IL,Chicago,21/02/20,L5,HR BP,3.0,10.0,220.0,143.0,57.0,21.0,0.0
+Human Resources,Yandex,Russia,MC,Moscow,21/02/19,G16,Web Development (Front-End),1.0,6.0,24.0,22.0,0.0,2.0,0.0
+Human Resources,Change.org,United Kingdom,EN,London,21/02/18,L8,People Operations,9.0,20.0,170.0,170.0,0.0,0.0,0.0
+Human Resources,T-Mobile,United States,KS,Overland Park,21/02/18,L8,HR,2.0,7.0,113.0,89.0,10.0,14.0,0.0
+Human Resources,Ford Motor,United States,MI,Dearborn,21/02/17,L6,HR Business Partner,6.0,10.0,134.0,116.0,0.0,18.0,0.0
+Human Resources,Intel,United States,OR,Portland,21/02/17,Grade 3,Talent,4.0,6.0,90.0,76.0,5.0,10.0,0.0
+Human Resources,Deloitte,United States,PA,Philadelphia,21/02/16,Senior Manager,Consulting,10.0,20.0,158.0,151.0,0.0,7.0,0.0
+Human Resources,Coupang,Korea,KG,Seoul,21/02/16,L7,HR,0.0,18.0,175.0,140.0,25.0,10.0,0.0
+Human Resources,Amazon,United States,FL,Miami,21/02/16,L4,AMZL,1.0,4.0,73.0,56.0,10.0,7.0,0.0
+Human Resources,Qualcomm,United States,CA,San Diego,21/02/16,Sr. Manager,HR,7.0,10.0,241.0,153.0,60.0,28.0,0.0
+Human Resources,Pinterest,United States,DC,Washington,21/02/16,L5,Hr,0.0,12.0,275.0,175.0,100.0,0.0,0.0
+Human Resources,Netflix,United States,NY,New York,21/02/14,Manager,iOS,2.0,10.0,350.0,325.0,20.0,0.0,0.0
+Human Resources,Adobe,United States,CA,San Jose,21/02/14,L5,Technical,4.0,12.0,311.0,206.0,75.0,30.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/02/14,L6,Recruiting,9.0,20.0,230.0,160.0,70.0,0.0,0.0
+Human Resources,Amazon,United States,NY,New York,21/02/13,L6,Learning,1.0,15.0,230.0,140.0,40.0,50.0,0.0
+Human Resources,Intel,United States,OR,Portland,21/02/13,Grade 8,Recruiting,5.0,9.0,178.0,135.0,28.0,15.0,0.0
+Human Resources,USAF,United States,FL,Melbourne,21/02/12,E7,HR,12.0,12.0,75.0,75.0,0.0,0.0,0.0
+Human Resources,Thomson Reuters,United States,MN,Eagan,21/02/11,L2,Compensation,1.0,20.0,372.0,240.0,48.0,84.0,0.0
+Human Resources,Lowe's,United States,NC,Charlotte,21/02/11,Director,HR,2.0,20.0,275.0,165.0,70.0,40.0,0.0
+Human Resources,Microsoft.,United States,TX,Houston,21/02/11,63,Data,1.0,7.0,184.0,134.0,30.0,20.0,0.0
+Human Resources,Amazon,United States,VA,Arlington,21/02/10,L7,Program Management,4.0,26.0,312.0,157.0,156.0,0.0,0.0
+Human Resources,ExxonMobil,United States,TX,Houston,21/02/09,24,Recruiting,3.0,13.0,139.0,122.0,17.0,0.0,0.0
+Human Resources,Thomson Reuters,United States,MN,Minneapolis,21/02/08,TR2,Compensation,1.0,20.0,372.0,240.0,48.0,84.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/02/07,L5,Program Manager,2.0,6.0,135.0,102.0,23.0,10.0,0.0
+Human Resources,Amazon,Canada,BC,Vancouver,21/02/06,L4,Production,0.0,3.0,60.0,50.0,2.0,8.0,0.0
+Human Resources,Whirlpool,United States,MI,Saint Joseph,21/02/06,P4,Talent,7.0,10.0,161.0,133.0,0.0,27.0,0.0
+Human Resources,Apple,Ireland,CK,Cork,21/02/05,IC4,hr,2.0,14.0,115.0,70.0,40.0,5.0,0.0
+Human Resources,Deloitte,United States,DC,Washington,21/02/05,Manager,none,10.0,15.0,130.0,130.0,0.0,0.0,0.0
+Human Resources,Amazon,United States,VA,Virginia Beach,21/02/05,L6,Senior program manager,0.0,7.0,165.0,120.0,45.0,0.0,0.0
+Human Resources,Rockwell Automation,United States,WI,Milwaukee,21/02/03,4,Technology,2.0,15.0,160.0,140.0,0.0,20.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/02/03,L5,Program Manager,4.0,10.0,151.0,91.0,60.0,0.0,0.0
+Human Resources,Afterpay,United States,CA,San Francisco,21/02/03,L7,Other,1.0,10.0,280.0,200.0,40.0,40.0,0.0
+Human Resources,DoubleVerify,Israel,TA,Tel Aviv,21/01/31,M5,HRBP,5.0,7.0,115.0,96.0,0.0,18.0,0.0
+Human Resources,Instacart,United States,CA,Los Angeles,21/01/31,L5,Employee Relations,1.0,8.0,160.0,120.0,40.0,0.0,0.0
+Human Resources,Amazon,United States,OH,Columbus,21/01/31,L6,Manager,1.0,13.0,200.0,135.0,40.0,25.0,0.0
+Human Resources,ExxonMobil,United States,TX,Houston,21/01/30,CL 27,HR Manager,14.0,15.0,170.0,170.0,0.0,0.0,0.0
+Human Resources,Illumina,United States,CA,San Diego,21/01/30,L1,temp,0.0,0.0,50.0,50.0,0.0,0.0,0.0
+Human Resources,Microsoft,United States,GA,Atlanta,21/01/29,59,HR Advisor,1.0,2.0,115.0,90.0,15.0,10.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/01/29,L6,HRBP,10.0,15.0,240.0,140.0,100.0,0.0,0.0
+Human Resources,Oracle,United States,WA,Seattle,21/01/28,IC3,General,1.0,12.0,165.0,145.0,20.0,0.0,0.0
+Human Resources,Infor,United States,NY,New York,21/01/28,Vice President,HR,6.0,28.0,300.0,250.0,0.0,50.0,0.0
+Human Resources,Google,United States,CA,San Diego,21/01/26,L3,Full Stack,8.0,8.0,250.0,100.0,100.0,50.0,0.0
+Human Resources,Western Digital,United States,CA,San Jose,21/01/26,110,Internal,6.0,20.0,307.0,205.0,40.0,62.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,21/01/26,63,HR Business Partner,5.0,7.0,180.0,140.0,15.0,25.0,0.0
+Human Resources,Google,United States,CA,San Francisco,21/01/26,L4,Job Architecture,3.0,9.0,200.0,135.0,41.0,24.0,0.0
+Human Resources,DiDi,United States,CA,Mountain View,21/01/25,D7,HR,3.0,5.0,110.0,93.0,0.0,18.0,0.0
+Human Resources,Visa,United States,CA,Foster City,21/01/25,L2,Talent Acquisition,0.0,2.0,67.0,67.0,0.0,0.0,0.0
+Human Resources,Intel,United States,OR,Portland,21/01/23,Grade 8,iOS,5.0,9.0,177.0,135.0,25.0,17.0,0.0
+Human Resources,JUUL Labs,United States,CA,San Francisco,21/01/22,P4,Operations,2.0,8.0,180.0,150.0,0.0,30.0,0.0
+Human Resources,Sysdig,United States,CA,San Francisco,21/01/21,2,Human Resource Generalist,3.0,6.0,100.0,100.0,0.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/01/21,L7,Enterprise,1.0,15.0,300.0,152.0,150.0,0.0,0.0
+Human Resources,Walmart,United States,FL,Jacksonville,21/01/20,L3,Operations,1.0,20.0,136.0,136.0,0.0,0.0,0.0
+Human Resources,Deloitte,United States,NY,New York,21/01/20,Senior Manager,Internal,8.0,20.0,157.0,151.0,0.0,6.0,0.0
+Human Resources,Google,United States,CA,San Francisco,21/01/19,L6,All,9.0,10.0,275.0,192.0,50.0,30.0,0.0
+Human Resources,Facebook,United States,CA,Menlo Park,21/01/19,M2,Operations,2.0,11.0,400.0,220.0,120.0,60.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/01/16,L7,Consumer,4.0,15.0,450.0,350.0,100.0,0.0,0.0
+Human Resources,Amazon,United States,CA,Sunnyvale,21/01/16,L5,Technical,1.0,9.0,150.0,110.0,40.0,0.0,0.0
+Human Resources,Uber,United States,TX,Dallas,21/01/14,L5B,Technical,1.0,20.0,199.0,129.0,50.0,20.0,0.0
+Human Resources,Facebook,Ireland,DN,Dublin,21/01/12,IC6,Enterprise,4.0,14.0,180.0,130.0,24.0,26.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,21/01/11,level 5,recruit,4.0,4.0,120.0,90.0,30.0,0.0,0.0
+Human Resources,Amazon,United States,TX,Austin,21/01/08,L3,accommodations,0.0,30.0,115.0,90.0,25.0,0.0,0.0
+Human Resources,Gartner,India,KA,Bengaluru,21/01/07,L7,Product,6.0,6.0,18.0,15.0,0.0,2.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,21/01/06,58,Recruiting,0.0,1.0,89.0,81.0,2.0,7.0,0.0
+Human Resources,eBay,United States,CA,San Jose,21/01/06,26,Recruiting,5.0,6.0,198.0,150.0,21.0,23.0,0.0
+Human Resources,Citadel,United States,IL,Chicago,21/01/03,Associate,iOS,1.0,1.0,80.0,70.0,0.0,10.0,0.0
+Human Resources,Amazon,India,KA,Bangalore,21/01/03,L6,Human Resources,5.0,11.0,87.0,45.0,42.0,0.0,0.0
+Human Resources,Amazon,United States,CA,Los Angeles,21/01/01,L5,Diversity,1.0,10.0,130.0,100.0,25.0,5.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/12/30,L6,Internal,0.0,10.0,198.0,153.0,26.0,19.0,0.0
+Human Resources,Amazon,United States,CA,San Diego,20/12/30,L6,Operations,2.0,10.0,220.0,150.0,20.0,50.0,0.0
+Human Resources,Salesforce,United States,CA,Irvine,20/12/30,L7,Operations,0.0,5.0,180.0,152.0,10.0,18.0,0.0
+Human Resources,Cisco Meraki,United States,CA,San Francisco,20/12/23,,Technical,2.0,4.0,138.0,125.0,0.0,13.0,0.0
+Human Resources,Google,United States,NY,New York Mills,20/12/22,L3,Operations,1.0,7.0,135.0,100.0,20.0,15.0,0.0
+Human Resources,Citadel,United States,IL,Chicago,20/12/20,L4,Product,2.0,5.0,250.0,150.0,0.0,100.0,0.0
+Human Resources,Carrier,United States,FL,West Palm Beach,20/12/18,8,Talent,1.0,10.0,192.0,160.0,0.0,32.0,0.0
+Human Resources,Tencent,China,GD,Shenzhen,20/12/18,S7,hr,1.0,5.0,100.0,100.0,0.0,0.0,0.0
+Human Resources,Apple,United States,CA,Cupertino,20/12/18,IC4,Recruiting,1.0,4.0,178.0,145.0,19.0,15.0,0.0
+Human Resources,Google,United States,CA,San Francisco,20/12/12,L4,Internships,3.0,15.0,209.0,125.0,55.0,25.0,0.0
+Human Resources,Google,United States,CA,Los Angeles,20/12/11,L5,Internal,6.0,7.0,237.0,140.0,68.0,28.0,0.0
+Human Resources,Google,Japan,TY,Tokyo,20/12/10,L6,HR,6.0,15.0,250.0,150.0,60.0,40.0,0.0
+Human Resources,Intel,United States,OR,Portland,20/12/10,G11,Business HR,25.0,30.0,420.0,215.0,105.0,100.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/12/08,L6,HR,5.0,12.0,214.0,140.0,74.0,0.0,0.0
+Human Resources,Dish Network,United States,CO,Denver,20/12/05,L3,Operations,1.0,12.0,90.0,90.0,0.0,0.0,0.0
+Human Resources,Wolters Kluwer,United States,NY,New York,20/12/04,Band 2,Operations,2.0,5.0,95.0,95.0,0.0,0.0,0.0
+Human Resources,Bank of America,United States,CA,Los Angeles,20/12/04,L1,Human resources,5.0,5.0,100.0,50.0,40.0,10.0,0.0
+Human Resources,Scotiabank,Canada,ON,Toronto,20/12/03,L2,Operations,2.0,3.0,70.0,65.0,0.0,5.0,0.0
+Human Resources,Comcast,United States,PA,Philadelphia,20/12/01,Director,HR,0.0,8.0,196.0,140.0,28.0,28.0,0.0
+Human Resources,VMware,United States,CA,Palo Alto,20/12/01,Senior Program Manager,Operations,2.0,10.0,195.0,165.0,0.0,30.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/11/30,L6,Product,2.0,18.0,180.0,127.0,53.0,0.0,0.0
+Human Resources,Klarna,Germany,BE,Berlin,20/11/30,L3,HR,2.0,7.0,65.0,65.0,0.0,0.0,0.0
+Human Resources,IBM,United States,NY,New York,20/11/28,Band 10,Infrastructure,16.0,16.0,220.0,197.0,10.0,10.0,0.0
+Human Resources,Amazon,United States,GA,Valdosta,20/11/28,L4,Operations,2.0,2.0,62.0,54.0,9.0,0.0,0.0
+Human Resources,Cloudflare,United States,CA,San Francisco,20/11/25,S5,Operations,3.0,7.0,165.0,130.0,35.0,0.0,0.0
+Human Resources,Lyft,United States,CA,San Francisco,20/11/24,L6,Operations,1.0,8.0,267.0,167.0,100.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/11/23,L6,ML / AI,6.0,10.0,185.0,125.0,60.0,0.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,20/11/21,M2,Operations,2.0,11.0,400.0,250.0,100.0,50.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,20/11/20,M1,Internal,3.0,14.0,325.0,195.0,90.0,40.0,0.0
+Human Resources,HubSpot,United States,MA,Boston,20/11/18,M5,Tech,5.0,10.0,261.0,160.0,71.0,30.0,0.0
+Human Resources,Snap,United States,WA,Seattle,20/11/17,L4,Internal,1.0,10.0,136.0,105.0,20.0,11.0,0.0
+Human Resources,LinkedIn,United States,CA,Sunnyvale,20/11/17,L3,HRBP,3.0,13.0,168.0,135.0,20.0,13.0,0.0
+Human Resources,Amazon,Japan,TY,Tokyo,20/11/17,L6,Consumer,2.0,10.0,130.0,110.0,20.0,0.0,0.0
+Human Resources,Amazon,United States,OK,Oklahoma City,20/11/15,L3,Operations,0.0,5.0,61.0,53.0,0.0,8.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,20/11/11,L6,Technical,3.0,14.0,325.0,195.0,90.0,40.0,0.0
+Human Resources,Wayfair,United States,MA,Boston,20/11/11,L4,Operations,3.0,13.0,300.0,120.0,140.0,40.0,0.0
+Human Resources,Intel,United States,OR,Hillsboro,20/11/09,Grade 9,Human Resources,10.0,10.0,218.0,143.0,30.0,45.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/11/08,L4,Operations,1.0,4.0,143.0,110.0,13.0,20.0,0.0
+Human Resources,Facebook,United States,NY,New York,20/11/07,IC6,Analytic,2.0,15.0,258.0,173.0,48.0,38.0,0.0
+Human Resources,VMware,United States,CA,Palo Alto,20/11/05,P4,HR,3.0,7.0,152.0,130.0,0.0,22.0,0.0
+Human Resources,BCG Digital Ventures,United States,CA,Manhattan Beach,20/11/05,Lead HR BP,Operations,6.0,16.0,135.0,125.0,0.0,10.0,0.0
+Human Resources,Caterpillar,United States,IL,Chicago,20/11/04,L4,Enterprise,22.0,22.0,476.0,260.0,86.0,130.0,0.0
+Human Resources,T-Mobile,United States,KS,Overland Park,20/11/04,L8,Enterprise,2.0,7.0,100.0,87.0,0.0,13.0,0.0
+Human Resources,Electronic Arts,United States,CA,San Jose,20/11/04,28,HR,5.0,19.0,350.0,200.0,100.0,50.0,0.0
+Human Resources,Activision,United States,CA,San Francisco,20/11/04,M3,Internal,1.0,9.0,163.0,142.0,0.0,21.0,0.0
+Human Resources,Kajabi,United States,CA,Irvine,20/11/03,VP,People Operations,1.0,15.0,185.0,170.0,0.0,15.0,0.0
+Human Resources,Cruise,United States,CA,San Francisco,20/11/03,Senior,Learning,2.0,11.0,173.0,127.0,8.0,38.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,20/10/31,L6,Human Resources,3.0,10.0,500.0,200.0,225.0,75.0,0.0
+Human Resources,WP Engine,United States,TX,Austin,20/10/29,L6,Technical,5.0,10.0,190.0,150.0,10.0,30.0,0.0
+Human Resources,Deloitte,United States,CA,Sacramento,20/10/28,L5,Coaching,20.0,30.0,170.0,150.0,0.0,20.0,0.0
+Human Resources,Zoom,United States,CA,San Jose,20/10/28,M2,Operations,1.0,12.0,223.0,160.0,50.0,13.0,0.0
+Human Resources,Shopee,Singapore,SG,Singapore,20/10/28,L3,HR,2.0,6.0,54.0,48.0,0.0,6.0,0.0
+Human Resources,Google,United States,TX,Austin,20/10/28,L4,Technical,5.0,8.0,163.0,102.0,42.0,19.0,0.0
+Human Resources,Faire,Canada,ON,Kitchener,20/10/27,L2,Operations,2.0,5.0,57.0,57.0,0.0,0.0,0.0
+Human Resources,Hulu,United States,CA,Los Angeles,20/10/27,4,Recruiting,3.0,7.0,140.0,105.0,0.0,35.0,0.0
+Human Resources,Nike,United States,OR,Portland,20/10/27,Senior Director,Operations,7.0,15.0,450.0,240.0,140.0,70.0,0.0
+Human Resources,Oracle,Singapore,SG,Singapore,20/10/26,IC-2,Analytic,1.0,3.0,47.0,47.0,0.0,0.0,0.0
+Human Resources,Amazon,Burma,YA,Yangon,20/10/25,L4,Networking,0.0,3.0,15.0,10.0,4.0,1.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/10/24,L3,iOS,2.0,4.0,160.0,145.0,15.0,0.0,0.0
+Human Resources,Yahoo,United States,CA,Sunnyvale,20/10/24,IC4,Compensation,2.0,6.0,155.0,130.0,5.0,20.0,0.0
+Human Resources,Google,United States,NY,New York,20/10/23,L6,,2.0,13.0,310.0,201.0,70.0,40.0,0.0
+Human Resources,Instacart,United States,CA,San Francisco,20/10/22,L5,Learning,1.0,5.0,100.0,100.0,1.0,0.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/10/21,L6,Compensation,2.0,12.0,340.0,205.0,90.0,45.0,0.0
+Human Resources,Intel,United States,OR,Hillsboro,20/10/21,Grade 7,Analytic,6.0,7.0,135.0,110.0,10.0,15.0,0.0
+Human Resources,Amazon,United States,NY,New York,20/10/21,L6,Program Manager,5.0,10.0,235.0,135.0,90.0,10.0,0.0
+Human Resources,Apple,United States,CA,Cupertino,20/10/21,IC5,Operations,2.0,10.0,450.0,290.0,100.0,55.0,0.0
+Human Resources,Facebook,United States,TX,Austin,20/10/20,L3,Technical,4.0,5.0,117.0,99.0,8.0,10.0,0.0
+Human Resources,Google,United Kingdom,EN,London,20/10/20,L3,Human Resources,2.0,6.0,104.0,63.0,30.0,10.0,0.0
+Human Resources,Apple,United States,CA,Santa Clara,20/10/20,ICT5,Internal,1.0,10.0,250.0,185.0,38.0,28.0,0.0
+Human Resources,Tesla,United States,CA,Palo Alto,20/10/20,P3,iOS,3.0,5.0,155.0,115.0,40.0,0.0,0.0
+Human Resources,Apple,United States,CA,Cupertino,20/10/20,IC5,Operations,2.0,10.0,350.0,201.0,110.0,44.0,0.0
+Human Resources,Facebook,United States,TX,Austin,20/10/20,IC3,Operations,3.0,3.0,125.0,88.0,27.0,10.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,20/10/20,L5,Operations,3.0,15.0,225.0,165.0,40.0,20.0,0.0
+Human Resources,McDonald's,United States,IL,Chicago,20/10/18,,Internal,5.0,25.0,195.0,145.0,20.0,30.0,0.0
+Human Resources,Facebook,United States,TX,Austin,20/10/18,IC2,HR,1.0,3.0,69.0,61.0,2.0,6.0,0.0
+Human Resources,Accenture,United States,TX,San Antonio,20/10/18,Associate Manager,Android,13.0,13.0,82.0,80.0,0.0,2.0,0.0
+Human Resources,Lockheed Martin,United States,MD,Bethesda,20/10/16,Sr. Analyst,HR,4.0,6.0,105.0,105.0,0.0,0.0,0.0
+Human Resources,Cummins,United States,IN,Columbus,20/10/15,E08,User Journey,9.0,10.0,110.0,100.0,0.0,10.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/10/15,L8,Other,14.0,20.0,470.0,160.0,310.0,0.0,0.0
+Human Resources,Microsoft,United States,WA,Redmond,20/10/15,IC4,Other,3.0,5.0,208.0,160.0,24.0,24.0,0.0
+Human Resources,Randstad,Australia,NS,Sydney,20/10/15,L1,Operations,1.0,5.0,56.0,56.0,0.0,0.0,0.0
+Human Resources,Nvidia,United States,CA,Santa Clara,20/10/14,IC5,Technical,4.0,20.0,255.0,195.0,60.0,0.0,0.0
+Human Resources,Comcast,United States,PA,Philadelphia,20/10/14,Manager,ML / AI,5.0,5.0,115.0,101.0,5.0,12.0,0.0
+Human Resources,IBM,United States,CA,San Francisco,20/10/14,M4,Consumer,3.0,15.0,290.0,225.0,40.0,25.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/10/13,L6,senior program manager,0.0,9.0,194.0,144.0,50.0,0.0,0.0
+Human Resources,Apple,United States,CA,Sunnyvale,20/10/12,IC5,Operations,1.0,8.0,213.0,175.0,30.0,8.0,0.0
+Human Resources,Intel,United States,OR,Portland,20/10/11,Grade 10,Full Stack,20.0,20.0,280.0,200.0,40.0,40.0,0.0
+Human Resources,Stanford University,United States,CA,Menlo Park,20/10/09,1,Internal,2.0,3.0,60.0,60.0,0.0,0.0,0.0
+Human Resources,Milwaukee Tool,United States,MS,Olive Branch,20/10/09,L4,Product,1.0,1.0,31.0,31.0,0.0,0.0,0.0
+Human Resources,Amazon,United States,CA,Tracy,20/10/07,L4,Operations,0.0,25.0,88.0,80.0,8.0,0.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/10/06,L6,HRBP,8.0,12.0,250.0,140.0,110.0,0.0,0.0
+Human Resources,Intel,Israel,HA,Haifa,20/10/05,L6,Growth,3.0,12.0,89.0,73.0,15.0,2.0,0.0
+Human Resources,General Motors,United States,MI,Detroit,20/10/04,5A,Product,2.0,2.0,83.0,75.0,0.0,8.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/10/03,L6,Talent Acquisition,3.0,10.0,315.0,210.0,55.0,50.0,0.0
+Human Resources,Amazon,United States,NJ,Edison,20/10/03,L7,Hr,0.0,15.0,254.0,154.0,12.0,90.0,0.0
+Human Resources,Daimler,Germany,BW,Stuttgart,20/10/02,SB,Internal,2.0,2.0,45.0,45.0,0.0,0.0,0.0
+Human Resources,Conduent,United States,NJ,Florham Park,20/10/01,C11,Internal,2.0,15.0,286.0,186.0,50.0,50.0,0.0
+Human Resources,Intel,United States,CA,Folsom,20/09/30,Gr 9,Technical,27.0,27.0,210.0,151.0,40.0,20.0,0.0
+Human Resources,Deutsche Bank,United States,NY,New York,20/09/29,Associate VP,Business Partner,1.0,4.0,135.0,130.0,0.0,5.0,0.0
+Human Resources,Salesforce,United States,WA,Seattle,20/09/29,L6,Business partner,1.0,10.0,135.0,110.0,14.0,11.0,0.0
+Human Resources,Deloitte,United States,GA,Atlanta,20/09/28,Manager,Web Development (Front-End),7.0,8.0,180.0,163.0,0.0,17.0,0.0
+Human Resources,NASA,United States,DC,Washington,20/09/26,L5,HR,5.0,11.0,158.0,145.0,0.0,8.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,20/09/24,L5,Operations,2.0,15.0,206.0,160.0,23.0,24.0,0.0
+Human Resources,AT&T,United States,TX,Dallas,20/09/23,L3,Learning Development,9.0,11.0,230.0,150.0,50.0,30.0,0.0
+Human Resources,Google,United Kingdom,EN,London,20/09/23,L7,Recruiting,10.0,15.0,303.0,153.0,100.0,50.0,0.0
+Human Resources,Google,United States,TX,Austin,20/09/23,L4,Analytic,1.0,6.0,140.0,100.0,25.0,15.0,0.0
+Human Resources,Amazon,India,TN,Chennai,20/09/22,L4,Consumer,1.0,5.0,10.0,10.0,0.0,0.0,0.0
+Human Resources,Amazon,India,TS,Hyderabad,20/09/22,L6,Consumer,1.0,14.0,46.0,38.0,8.0,0.0,0.0
+Human Resources,Delta Electronics,Netherlands,NH,Amsterdam,20/09/21,S3,Production,2.0,8.0,79.0,72.0,0.0,7.0,0.0
+Human Resources,VMware,United States,DC,Washington,20/09/21,L5,Program Mgr,4.0,20.0,150.0,125.0,2.0,21.0,0.0
+Human Resources,Autodesk,United States,CA,San Francisco,20/09/20,L1,CI,1.0,3.0,84.0,77.0,0.0,6.0,0.0
+Human Resources,Shutterfly,United States,CA,Redwood City,20/09/20,P23,Program Manager,7.0,7.0,103.0,103.0,0.0,3.0,0.0
+Human Resources,Lyft,United States,CA,San Francisco,20/09/19,L6,Other,1.0,10.0,200.0,150.0,50.0,0.0,0.0
+Human Resources,Bolt,United States,CA,San Francisco,20/09/16,L3,Operations,1.0,6.0,90.0,90.0,0.0,0.0,0.0
+Human Resources,Google,United States,NY,New York,20/09/16,L6,Internal,4.0,14.0,368.0,211.0,105.0,52.0,0.0
+Human Resources,Lyft,United States,CA,San Francisco,20/09/16,L5,HR,1.0,11.0,158.0,130.0,33.0,0.0,0.0
+Human Resources,IBM,United States,NY,New York,20/09/16,Band 10,HR,16.0,16.0,220.0,200.0,0.0,20.0,0.0
+Human Resources,PayPal,United States,CA,San Jose,20/09/15,T28,HR,1.0,32.0,350.0,230.0,50.0,70.0,0.0
+Human Resources,Qualcomm,United States,CA,San Diego,20/09/15,Director,HRBP,2.0,12.0,310.0,195.0,40.0,75.0,0.0
+Human Resources,Amazon,United States,TX,Houston,20/09/15,L4,Recruiting,1.0,5.0,110.0,100.0,1.0,10.0,0.0
+Human Resources,Airbnb,United States,CA,San Francisco,20/09/15,G9,Operations,6.0,11.0,192.0,145.0,32.0,15.0,0.0
+Human Resources,eBay,United States,CA,San Jose,20/09/13,Director,Internal,5.0,24.0,440.0,260.0,110.0,70.0,0.0
+Human Resources,Lyft,United States,TN,Nashville,20/09/10,L5,Business Systems Analyst,1.0,7.0,183.0,131.0,50.0,3.0,0.0
+Human Resources,Facebook,United States,TX,Austin,20/09/09,IC5,HR,2.0,6.0,187.0,138.0,28.0,21.0,0.0
+Human Resources,Genesys,United States,IN,Indianapolis,20/09/09,L2,Training,1.0,8.0,120.0,110.0,0.0,10.0,0.0
+Human Resources,Uber,United States,CA,San Francisco,20/09/09,L3,Data,1.0,3.0,113.0,93.0,10.0,10.0,0.0
+Human Resources,Facebook,United States,NY,New York,20/09/08,IC6,Privacy Compliance,1.0,8.0,259.0,185.0,38.0,36.0,0.0
+Human Resources,National Grid,United States,MA,Waltham,20/09/08,Senior Talent Acquisition Specialist,Data,3.0,14.0,115.0,105.0,0.0,11.0,0.0
+Human Resources,Bank of America,United States,CA,Los Angeles,20/09/07,H4,Compensation,10.0,12.0,150.0,115.0,10.0,25.0,0.0
+Human Resources,Flipkart,India,KA,Bengaluru,20/09/05,11,Internal,4.0,4.0,46.0,34.0,8.0,5.0,0.0
+Human Resources,Procore,United States,CA,Carpinteria,20/09/04,L5,HRBP,2.0,16.0,160.0,145.0,0.0,15.0,0.0
+Human Resources,Waymo,United States,CA,San Diego,20/09/04,L3,Site Reliability (SRE),2.0,2.0,100.0,100.0,0.0,0.0,0.0
+Human Resources,F5 Networks,United States,WA,Seattle,20/09/03,Director,Technical,3.0,20.0,245.0,180.0,30.0,35.0,0.0
+Human Resources,Apple,India,KA,Bangalore,20/09/03,IC3,Technical,3.0,10.0,30.0,30.0,0.0,1.0,0.0
+Human Resources,Samsung,United States,CA,San Jose,20/09/03,CL3,Product,6.0,6.0,263.0,193.0,30.0,40.0,0.0
+Human Resources,Amazon,United States,CA,San Francisco,20/09/02,L6,Learning & Development,0.0,22.0,180.0,145.0,0.0,35.0,0.0
+Human Resources,Amazon,China,BJ,Beijing,20/09/02,L4,HR,2.0,3.0,50.0,40.0,0.0,10.0,0.0
+Human Resources,Atlassian,United States,CA,San Francisco,20/09/02,P7,Organizational Development,2.0,10.0,200.0,150.0,20.0,30.0,0.0
+Human Resources,Facebook,United States,CA,Menlo Park,20/08/31,IC5,Business Partner,9.0,9.0,190.0,157.0,10.0,23.0,0.0
+Human Resources,Apple,United States,CA,San Jose,20/08/29,IC5,Industrial Organizational,0.0,15.0,295.0,215.0,40.0,40.0,0.0
+Human Resources,Amazon,United States,TX,Dallas,20/08/28,L5,Employee services,0.0,17.0,150.0,100.0,30.0,20.0,0.0
+Human Resources,Visa,Singapore,SG,Singapore,20/08/28,L5,Talent Acquisition,3.0,14.0,200.0,200.0,0.0,0.0,0.0
+Human Resources,H&M,United States,CA,South Gate,20/08/28,L1,Production,1.0,1.0,42.0,40.0,1.0,1.0,0.0
+Human Resources,Enova International,United States,IL,Chicago,20/08/28,L2,HR Business Partner,2.0,5.0,88.0,80.0,0.0,8.0,0.0
+Human Resources,Deutsche Bank,United States,NY,New York,20/08/27,AVP,HR,5.0,8.0,115.0,95.0,0.0,20.0,0.0
+Human Resources,Deloitte,United States,IL,Chicago,20/08/27,Manager,Operations,8.0,17.0,155.0,140.0,0.0,15.0,0.0
+Human Resources,Mozilla,Canada,BC,Vancouver,20/08/26,P4,D&I,3.0,10.0,188.0,139.0,0.0,49.0,0.0
+Human Resources,Amazon,United States,MA,Boston,20/08/26,L4,Operations,0.0,0.0,134.0,60.0,55.0,19.0,0.0
+Human Resources,Visa,United States,CA,Foster City,20/08/26,Recruiting Coordinator,iOS,0.0,1.0,61.0,61.0,0.0,0.0,0.0
+Human Resources,Kajabi,United States,CA,Irvine,20/08/26,VP,Operations,2.0,15.0,200.0,175.0,5.0,15.0,0.0
+Human Resources,Dell Technologies,India,TS,Hyderabad,20/08/26,L8,Analytic,9.0,10.0,40.0,33.0,2.0,3.0,0.0
+Human Resources,Microsoft,United States,NC,Charlotte,20/08/25,63,Recruiting,6.0,10.0,180.0,135.0,20.0,25.0,0.0
+Human Resources,Caterpillar,United States,IL,Deerfield,20/08/25,Director,Enterprise,22.0,22.0,450.0,250.0,85.0,115.0,0.0
+Human Resources,NBCUniversal,United States,NY,New York,20/08/25,Director,Generalist,3.0,11.0,172.0,156.0,0.0,16.0,0.0
+Human Resources,VMware,United States,GA,Atlanta,20/08/25,P3,User Journey,6.0,7.0,113.0,99.0,3.0,11.0,0.0
+Human Resources,Apple,Ireland,CK,Cork,20/08/24,ICT3,Operations,2.0,8.0,60.0,55.0,5.0,0.0,0.0
+Human Resources,iHerb,United States,CA,Los Angeles,20/08/21,Director,Total Rewards,0.0,15.0,336.0,230.0,60.0,46.0,0.0
+Human Resources,ATCO,Canada,AB,Edmonton,20/08/21,HRL3,Data,1.0,13.0,115.0,105.0,0.0,10.0,0.0
+Human Resources,Rally Health,United States,IL,Chicago,20/08/20,P3,Growth,1.0,3.0,89.0,78.0,3.0,8.0,0.0
+Human Resources,Amazon,United States,NC,Charlotte,20/08/19,L4,Other,8.0,8.0,78.0,52.0,26.0,0.0,0.0
+Human Resources,Charles Schwab,United States,CA,San Francisco,20/08/18,L6,HR,4.0,8.0,120.0,110.0,0.0,10.0,0.0
+Human Resources,Samsung Research America,United States,CA,Mountain View,20/08/17,L2,Internal,1.0,10.0,175.0,141.0,0.0,34.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/08/16,L2,Operations,1.0,1.0,106.0,80.0,11.0,15.0,0.0
+Human Resources,Amazon,United States,TX,Austin,20/08/16,L6,Inclusion,1.0,13.0,198.0,141.0,29.0,28.0,0.0
+Human Resources,Deutsche Bank,United States,NY,New York,20/08/15,VP,Business Advisory,12.0,12.0,210.0,175.0,0.0,35.0,0.0
+Human Resources,Capital One,United States,VA,Mc Lean,20/08/14,Associate,Recruiter,2.0,3.0,73.0,70.0,0.0,3.0,0.0
+Human Resources,SoFi,United States,CA,San Francisco,20/08/12,L3,Other focus,2.0,3.0,165.0,125.0,20.0,20.0,0.0
+Human Resources,Rubrik,United States,CA,Palo Alto,20/08/12,Senior People Partner,Enterprise,1.0,14.0,263.0,185.0,50.0,28.0,0.0
+Human Resources,Apple,United States,CA,Cupertino,20/08/10,ICT5,Global,1.0,12.0,250.0,190.0,38.0,25.0,0.0
+Human Resources,Boeing,United States,IL,Chicago,20/08/09,L5,Talent Management,2.0,19.0,168.0,159.0,0.0,9.0,0.0
+Human Resources,Amazon,United States,IL,Chicago,20/08/09,L6,Technical,3.0,12.0,210.0,155.0,60.0,0.0,0.0
+Human Resources,Facebook,United States,CA,San Francisco,20/08/09,,L4,1.0,6.0,155.0,123.0,20.0,12.0,0.0
+Human Resources,Electronic Arts,United States,TX,Austin,20/08/08,22,Operations,1.0,6.0,218.0,150.0,38.0,30.0,0.0
+Human Resources,Google,United States,CA,San Jose,20/08/08,L3,hr,5.0,5.0,105.0,95.0,3.0,10.0,0.0
+Human Resources,Oracle,United States,TX,Mckinney,20/08/07,IC-4,Compensation,3.0,11.0,195.0,145.0,50.0,0.0,0.0
+Human Resources,FareHarbor,Netherlands,NH,Amsterdam,20/08/06,L3,recruitment and human resources,2.0,3.0,53.0,53.0,0.0,3.0,0.0
+Human Resources,ATCO,Canada,AB,Edmonton,20/08/06,L3,Data,1.0,9.0,116.0,105.0,0.0,11.0,0.0
+Human Resources,Apple,United States,TX,Austin,20/08/06,ICT5,ML / AI,1.0,12.0,250.0,185.0,38.0,24.0,0.0
+Human Resources,Wealthfront,United States,CA,Palo Alto,20/08/05,L2,HR,2.0,2.0,93.0,90.0,3.0,0.0,0.0
+Human Resources,Dolby Laboratories,United States,CA,San Francisco,20/08/04,L2,Compensation and benefits,2.0,2.0,85.0,77.0,5.0,4.0,0.0
+Human Resources,Walmart,United States,CA,Sunnyvale,20/08/03,Senior Manager II,Business Partner,2.0,12.0,262.0,170.0,50.0,43.0,0.0
+Human Resources,Amazon,United States,VA,Virgilina,20/08/01,L4,Training specialist,0.0,5.0,80.0,65.0,5.0,10.0,0.0
+Human Resources,Intel,United States,OR,Portland,20/07/31,Grade 11,Business HR,25.0,29.0,360.0,215.0,75.0,70.0,0.0
+Human Resources,WeWork,United States,NY,New York,20/07/30,L2,DevOps,1.0,1.0,59.0,59.0,0.0,0.0,0.0
+Human Resources,Macquarie,United States,NY,New York,20/07/30,L5,Benefits,4.0,15.0,208.0,155.0,0.0,53.0,0.0
+Human Resources,Google,United States,CA,Mountain View,20/07/29,L4,Operations,2.0,11.0,156.0,127.0,10.0,19.0,0.0
+Human Resources,LinkedIn,United States,CA,Sunnyvale,20/07/29,IC4,Learning and Development,0.0,7.0,185.0,145.0,18.0,22.0,0.0
+Human Resources,Wayfair,United States,MA,Boston,20/07/29,L3,Learning & Development,2.0,6.0,135.0,100.0,25.0,10.0,0.0
+Human Resources,Stripe,United States,IL,Chicago,20/07/27,L1,Recruiting coordinator,0.0,1.0,62.0,62.0,0.0,0.0,0.0
+Human Resources,Google,United States,CA,San Francisco,20/07/27,L3,ML / AI,2.0,2.0,85.0,85.0,0.0,0.0,0.0
+Human Resources,JPMorgan Chase,United States,UT,Salt Lake City,20/07/26,L1,HR,0.0,0.0,87.0,80.0,0.0,7.0,0.0
+Human Resources,Samsung,United States,CA,San Jose,20/07/26,L6,HR,3.0,10.0,200.0,130.0,0.0,70.0,0.0
+Human Resources,Google,United States,CA,San Francisco,20/07/25,L4,Global Mobility,2.0,5.0,170.0,125.0,15.0,30.0,0.0
+Human Resources,Intuit,United States,CA,Mountain View,20/07/24,Sr Manager,HR,4.0,15.0,310.0,205.0,55.0,50.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,20/07/22,L7,Security,1.0,10.0,290.0,150.0,80.0,60.0,0.0
+Human Resources,7-Eleven,United States,TX,Irving,20/07/16,Senior,Corporate Recruiter,1.0,20.0,120.0,110.0,0.0,10.0,0.0
+Human Resources,Facebook,United States,NY,New York,20/07/15,IC6,Program manager,2.0,16.0,258.0,177.0,45.0,35.0,0.0
+Human Resources,Samsung,United States,CA,Mountain View,20/07/15,L3,10,1.0,8.0,170.0,141.0,0.0,30.0,0.0
+Human Resources,Bytedance,China,BJ,Beijing,20/07/14,2-1,compensation,2.0,3.0,50.0,40.0,0.0,10.0,0.0
+Human Resources,PayPal,United States,CA,San Jose,20/07/09,T26,HR,10.0,14.0,240.0,160.0,45.0,35.0,0.0
+Human Resources,Marketing Evolution,United States,NY,New York,20/07/08,Manager,HR,1.0,10.0,140.0,140.0,0.0,0.0,0.0
+Human Resources,Spotify,United States,NY,New York,20/05/10,Analyst,HR,2.0,7.0,107.0,107.0,5.0,0.0,0.0
+Human Resources,AWS,United States,CA,California City,20/04/15,Manager,HR,2.0,8.0,200.0,120.0,40.0,40.0,0.0
+Human Resources,Wayfair,United States,MA,Boston,20/03/04,L1,HR,2.0,2.0,45.0,45.0,1.0,4.0,0.0
+Human Resources,SquareSpace,United States,NY,New York,19/12/04,IC5,HR,2.0,9.0,160.0,150.0,10.0,0.0,0.0
+Human Resources,Electronic Arts,United States,TX,Austin,19/11/11,22,Human resources,1.0,6.0,216.0,150.0,36.0,30.0,0.0
+Human Resources,eBay,United States,CA,San Jose,19/08/07,28,Human Resource,5.0,10.0,350.0,200.0,100.0,50.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,19/07/23,63,HR,8.0,13.0,220.0,160.0,30.0,30.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,19/07/05,L6,Other,7.0,6.0,195.0,128.0,67.0,0.0,0.0
+Human Resources,IBM,United States,NY,Armonk,19/06/15,Band 10,HR,10.0,10.0,185.0,180.0,0.0,5.0,0.0
+Human Resources,NVIDIA,United States,CA,Santa Clara,19/02/04,IC1,HR,2.0,4.0,80.0,80.0,6.0,0.0,0.0
+Human Resources,Microsoft,United States,WA,Seattle,18/08/23,62,Human Resources,4.0,9.0,170.0,,,,0.0

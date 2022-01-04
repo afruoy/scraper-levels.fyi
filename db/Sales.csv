@@ -1,0 +1,791 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Amazon,United States,WA,Seattle,22/01/03,L5,General,4.0,8.0,224.0,88.0,136.0,0.0,0.0
+Sales,Target,United States,PA,State College,22/01/03,Bottom,Cashier,1.0,1.0,25.0,25.0,0.0,0.0,0.0
+Sales,Google,United States,CA,Mountain View,22/01/02,L6,Business Development,0.0,8.0,338.0,221.0,73.0,44.0,0.0
+Sales,Zillow,United States,NY,New York,22/01/01,P4,Flex,2.0,9.0,201.0,125.0,51.0,25.0,0.0
+Sales,Google,United States,CA,San Francisco,21/12/31,L5,Analytics,0.0,9.0,321.0,163.0,90.0,68.0,0.0
+Sales,Spotify,United States,NY,New York,21/12/31,L4,Campaign Management,2.0,8.0,109.0,109.0,0.0,0.0,0.0
+Sales,Salesforce,United States,MA,Boston,21/12/31,Lead Solution Engineer,Sales Engineer,10.0,17.0,203.0,150.0,0.0,53.0,0.0
+Sales,Oracle,Australia,VI,Melbourne,21/12/30,IC-4,"Sales, Senior AE",5.0,15.0,200.0,90.0,20.0,90.0,0.0
+Sales,Microsoft,Colombia,DC,Bogota,21/12/30,63,Azure,9.0,23.0,111.0,67.0,18.0,26.0,0.0
+Sales,Salesforce,Canada,ON,Toronto,21/12/30,L3,Solutions Engineer,1.0,5.0,150.0,108.0,0.0,42.0,0.0
+Sales,HP Inc,United States,WA,Seattle,21/12/29,4,Presales,6.0,25.0,156.0,156.0,0.0,0.0,0.0
+Sales,Dell Technologies,United States,CA,San Diego,21/12/29,S10,Enterprise Architect,12.0,25.0,365.0,260.0,0.0,105.0,0.0
+Sales,Amazon,United Kingdom,EN,London,21/12/29,L5,Cloud,1.0,11.0,209.0,120.0,50.0,39.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/12/28,L6,Sales and Go To Market,7.0,13.0,240.0,147.0,93.0,0.0,0.0
+Sales,Red Hat,United States,NY,New York,21/12/28,L2,Ansible Automation,2.0,5.0,300.0,150.0,0.0,150.0,0.0
+Sales,Adobe,United States,MA,Boston,21/12/27,Senior,General,7.0,20.0,200.0,155.0,0.0,45.0,0.0
+Sales,Facebook,Singapore,SG,Singapore,21/12/27,IC5,Retail,7.0,14.0,190.0,125.0,20.0,45.0,0.0
+Sales,Google,United States,NY,New York,21/12/26,L3,Looker,0.0,1.0,116.0,73.0,11.0,32.0,0.0
+Sales,Procter & Gamble,Russia,MC,Moscow,21/12/25,B2,Categoy MS&P,5.0,10.0,64.0,53.0,5.0,6.0,0.0
+Sales,Juniper Networks,United States,CA,San Francisco,21/12/25,L6,Technical Sales,11.0,17.0,210.0,150.0,0.0,60.0,0.0
+Sales,Amazon,United Kingdom,EN,London,21/12/25,L6,AWS,3.0,20.0,300.0,130.0,70.0,100.0,0.0
+Sales,Walmart,United States,CA,San Bruno,21/12/25,X6,Operations,1.0,7.0,275.0,180.0,50.0,45.0,0.0
+Sales,Facebook,United States,NY,New York,21/12/24,IC4,Sales,4.0,7.0,177.0,120.0,17.0,40.0,0.0
+Sales,Stripe,Ireland,DN,Dublin,21/12/24,L3,Key Accounts,4.0,10.0,97.0,83.0,0.0,14.0,0.0
+Sales,TIBCO Software,United States,NC,Raleigh,21/12/23,L3,Sales,4.0,4.0,191.0,96.0,0.0,96.0,0.0
+Sales,Google,United States,CA,Mountain View,21/12/23,L5,Partnerships,4.0,11.0,300.0,189.0,75.0,36.0,0.0
+Sales,IBM,United States,NY,New York,21/12/23,Band 6,Data & AI,1.0,1.0,123.0,95.0,0.0,28.0,0.0
+Sales,Philips,Russia,MC,Moscow,21/12/22,Sales team lead,General,7.0,10.0,60.0,45.0,0.0,15.0,0.0
+Sales,ServiceNow,United States,DC,Washington,21/12/22,IC5,Enterprise Architecture,1.0,20.0,472.0,219.0,180.0,73.0,0.0
+Sales,DocuSign,United States,CA,San Francisco,21/12/22,P3,General,2.0,4.0,185.0,135.0,50.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/12/22,L6,General,5.0,13.0,244.0,130.0,114.0,0.0,0.0
+Sales,Google,United States,NY,New York,21/12/22,L3,Google Markerting Platform,0.0,8.0,212.0,134.0,25.0,54.0,0.0
+Sales,Dell Technologies,United States,TX,Houston,21/12/21,TSR 1,"sales, pre-sales, tech sales, sales-engineering,",1.0,3.0,62.0,42.0,0.0,20.0,0.0
+Sales,Mastercard,United States,NY,Purchase,21/12/21,L6,USMD,5.0,5.0,182.0,125.0,20.0,37.0,0.0
+Sales,Facebook,United Kingdom,EN,London,21/12/20,L4,Mid Market,2.0,3.0,151.0,92.0,7.0,52.0,0.0
+Sales,Google,United States,NY,New York,21/12/20,L6,Google Cloud,3.0,10.0,388.0,187.0,77.0,124.0,0.0
+Sales,Google,United States,NY,New York,21/12/19,L2,Large Customer Ad Sales,0.0,2.0,111.0,87.0,10.0,14.0,0.0
+Sales,Google,United Kingdom,EN,London,21/12/19,L4,Cloud,3.0,6.0,186.0,99.0,45.0,42.0,0.0
+Sales,IBM,United States,CA,San Francisco,21/12/19,Band 9,Hybrid,7.0,20.0,320.0,205.0,0.0,115.0,0.0
+Sales,Microsoft,United States,CA,Los Angeles,21/12/19,63,Retail & Consumer Goods,1.0,13.0,220.0,164.0,19.0,37.0,0.0
+Sales,Accenture,United States,NY,New York,21/12/18,Senior Manager,Sales,5.0,12.0,383.0,218.0,15.0,150.0,0.0
+Sales,Salesforce,United States,DC,Washington,21/12/18,L7,Data,2.0,7.0,196.0,160.0,12.0,24.0,0.0
+Sales,Google,United States,NY,New York,21/12/17,L6,Ad Sales,10.0,10.0,407.0,187.0,80.0,140.0,0.0
+Sales,Apple,United States,CA,Cupertino,21/12/17,IC5,operations,8.0,15.0,266.0,160.0,80.0,26.0,0.0
+Sales,Google,Germany,BE,Berlin,21/12/17,L4,Sales,1.0,8.0,150.0,100.0,10.0,40.0,0.0
+Sales,Datadog,United States,MA,Boston,21/12/17,L9,Customer retention and expansion,3.0,6.0,200.0,110.0,70.0,20.0,0.0
+Sales,Facebook,United States,NY,New York,21/12/16,IC3,general,4.0,4.0,148.0,104.0,10.0,34.0,0.0
+Sales,Facebook,United States,TX,Austin,21/12/15,L4 Team Lead,Marketing,4.0,8.0,167.0,130.0,12.0,25.0,0.0
+Sales,Google,United States,NY,New York,21/12/14,L5,General,2.0,9.0,291.0,186.0,73.0,32.0,0.0
+Sales,SAP,Singapore,SG,Singapore,21/12/14,T3,General,2.0,2.0,156.0,78.0,0.0,78.0,0.0
+Sales,LinkedIn,United States,CA,San Francisco,21/12/14,L2,Advertising,7.0,10.0,254.0,127.0,0.0,127.0,0.0
+Sales,Google,United States,NY,New York,21/12/14,L4,Sales Operations,3.0,5.0,179.0,125.0,34.0,20.0,0.0
+Sales,Microsoft,United States,TX,Dallas,21/12/13,63,Azure,2.0,10.0,308.0,153.0,30.0,125.0,0.0
+Sales,Google,United States,CA,San Francisco,21/12/13,L7,Cloud,5.0,15.0,540.0,200.0,40.0,300.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/12/13,L3,Agency account strategist,2.0,4.0,92.0,70.0,10.0,12.0,0.0
+Sales,Salesforce,United States,MA,Boston,21/12/13,L7,Pre-sales,3.0,10.0,243.0,156.0,20.0,67.0,0.0
+Sales,Amazon,United States,CA,San Francisco,21/12/12,L6,sales,0.0,10.0,352.0,172.0,50.0,130.0,0.0
+Sales,DocuSign,United States,WA,Seattle,21/12/11,P1,General,0.0,0.0,82.0,52.0,17.0,13.0,0.0
+Sales,CIBC,Canada,ON,Toronto,21/12/11,L4,Investment,4.0,4.0,56.0,49.0,3.0,4.0,0.0
+Sales,AWS,United States,GA,Atlanta,21/12/11,L6,WW Public sector,0.0,17.0,260.0,157.0,58.0,45.0,0.0
+Sales,J.P. Morgan,United States,NY,New York,21/12/10,Analyst,Sales,2.0,2.0,93.0,80.0,0.0,13.0,0.0
+Sales,Google,United States,NY,New York,21/12/10,L6,Google Cloud,2.0,15.0,416.0,218.0,105.0,93.0,0.0
+Sales,Amazon,United States,NY,New York,21/12/10,L6,General,3.0,3.0,247.0,177.0,70.0,0.0,0.0
+Sales,ServiceNow,United States,MA,Waltham,21/12/10,IC4,Operations,1.0,7.0,194.0,145.0,27.0,22.0,0.0
+Sales,Google,United States,NY,New York,21/12/10,L4,Sales,3.0,7.0,244.0,142.0,45.0,57.0,0.0
+Sales,Twilio,United States,GA,Atlanta,21/12/09,P3,Growth,2.0,10.0,232.0,92.0,20.0,120.0,0.0
+Sales,Zscaler,Germany,BY,Munich,21/12/09,Enterprise,Security,0.0,3.0,155.0,103.0,20.0,32.0,0.0
+Sales,Cisco,United States,NY,New York,21/12/08,9,General,5.0,5.0,185.0,185.0,0.0,0.0,0.0
+Sales,Microsoft,United States,FL,Gainesville,21/12/08,65,Dynamics 365,4.0,20.0,275.0,175.0,45.0,55.0,0.0
+Sales,LinkedIn,United States,IL,Chicago,21/12/08,AD2,Talent Solutions,4.0,15.0,145.0,87.0,0.0,58.0,0.0
+Sales,Microsoft,United States,FL,Fort Lauderdale,21/12/08,65,Partner Development,7.0,24.0,330.0,170.0,40.0,120.0,0.0
+Sales,Google,United States,MA,Boston,21/12/08,L6,LCS,8.0,10.0,353.0,147.0,99.0,107.0,0.0
+Sales,Accenture,United States,IL,Chicago,21/12/08,8,Adobe,7.0,7.0,120.0,108.0,0.0,12.0,0.0
+Sales,Walgreens Boots Alliance,United States,CO,Denver,21/12/08,Store Manager,General,8.0,8.0,64.0,60.0,0.0,4.0,0.0
+Sales,Oracle,United States,NY,New York,21/12/07,Manager,Account Manager,0.0,7.0,150.0,75.0,0.0,75.0,0.0
+Sales,UnitedHealth Group,United States,FL,Tampa,21/12/07,L3,Business Development,1.0,3.0,155.0,145.0,10.0,0.0,0.0
+Sales,Yahoo,United States,NY,New York,21/12/07,IC4,General,4.0,5.0,187.0,107.0,0.0,80.0,0.0
+Sales,Keysight,United States,CA,San Francisco,21/12/07,Expert,AE,9.0,12.0,255.0,200.0,15.0,40.0,0.0
+Sales,Amazon,France,IL,Paris,21/12/05,L4,general,2.0,2.0,70.0,54.0,13.0,3.0,0.0
+Sales,Booking.com,India,DL,New Delhi,21/12/03,D,Partner Services,6.0,12.0,20.0,18.0,0.0,3.0,0.0
+Sales,IBM,United States,DC,Washington,21/12/03,Band 8,Presales,0.0,13.0,245.0,185.0,0.0,60.0,0.0
+Sales,Qualtrics,United States,UT,Salt Lake City,21/12/03,L4,General,0.0,3.0,200.0,80.0,40.0,80.0,0.0
+Sales,Cisco,Denmark,SK,Copenhagen,21/12/02,006,General,0.0,0.0,90.0,51.0,5.0,34.0,0.0
+Sales,Nokia,Czech Republic,PR,Prague,21/12/01,11,Sales,13.0,20.0,150.0,111.0,20.0,19.0,0.0
+Sales,Dropbox,United States,CA,San Francisco,21/12/01,L4,Solutions Architecture,5.0,7.0,180.0,130.0,15.0,35.0,0.0
+Sales,Plaid,United States,CA,San Francisco,21/11/30,L5,General,0.0,16.0,266.0,184.0,36.0,46.0,14.0
+Sales,Better Mortgage,United States,NC,Charlotte,21/11/30,L4,Mlo,1.0,5.0,131.0,70.0,1.0,60.0,0.0
+Sales,Better Mortgage,United States,NC,Charlotte,21/11/26,L5,Refinance,2.0,2.0,128.0,76.0,12.0,40.0,0.0
+Sales,VMware,Australia,VI,Melbourne,21/11/25,P4,Professional Services,4.0,11.0,155.0,127.0,6.0,22.0,0.0
+Sales,Google,United States,TX,Dallas,21/11/25,L6,Cloud Sales,3.0,25.0,340.0,170.0,85.0,85.0,0.0
+Sales,Amazon,Germany,BY,Munich,21/11/24,L4,Commercial Sector Sales,2.0,2.0,77.0,58.0,15.0,4.0,0.0
+Sales,Genpact,United States,WA,Seattle,21/11/24,L2,Tech,1.0,7.0,336.0,220.0,50.0,66.0,0.0
+Sales,Apple,United States,NY,New York,21/11/23,ICT2,Retail,4.0,5.0,42.0,40.0,1.0,1.0,0.0
+Sales,Google,United States,NY,New York,21/11/23,L4,Large customer sales,0.0,4.0,204.0,130.0,22.0,52.0,0.0
+Sales,Oracle,United Kingdom,EN,London,21/11/23,IC-1,Lift Implementation,1.0,1.0,72.0,57.0,0.0,15.0,0.0
+Sales,SAP,United States,CA,San Francisco,21/11/23,T1,General,1.0,1.0,120.0,100.0,10.0,10.0,0.0
+Sales,Google,United States,CA,Redwood City,21/11/23,L3,SMB,1.0,6.0,152.0,101.0,16.0,35.0,0.0
+Sales,Amazon,United States,GA,Atlanta,21/11/22,L6,sales general,1.0,10.0,358.0,152.0,62.0,144.0,0.0
+Sales,Apple,Singapore,SG,Singapore,21/11/22,IC3,Sales,10.0,11.0,245.0,120.0,50.0,75.0,0.0
+Sales,Qualtrics,United States,IL,Chicago,21/11/22,Director of Engineering,General,0.0,10.0,275.0,200.0,25.0,50.0,0.0
+Sales,Microsoft,United States,TX,Dallas,21/11/21,62,Data and AI,3.0,8.0,256.0,112.0,34.0,110.0,0.0
+Sales,Adobe,United States,NY,New York,21/11/21,P40,Solutions Consultant,3.0,5.0,183.0,130.0,0.0,53.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/11/20,L5,"AWS, Enterprise Engaged",0.0,3.0,245.0,125.0,40.0,80.0,0.0
+Sales,Arm,United Kingdom,EN,Cambridge,21/11/20,L5,Regional Sales,0.0,8.0,104.0,82.0,3.0,20.0,0.0
+Sales,Google,United States,NY,New York,21/11/19,L3,Ads,0.0,4.0,152.0,101.0,16.0,35.0,0.0
+Sales,Google,United States,NY,New York,21/11/19,L4,Platforms,3.0,8.0,220.0,145.0,20.0,55.0,0.0
+Sales,Twitter,United States,CA,San Francisco,21/11/18,L5,Performance Marketing,2.0,6.0,234.0,143.0,30.0,61.0,0.0
+Sales,Amazon,United States,CA,San Francisco,21/11/18,L5,AWS,0.0,9.0,261.0,150.0,65.0,46.0,0.0
+Sales,Bolt,United States,MD,California,21/11/18,L5,Sales,0.0,5.0,325.0,150.0,75.0,100.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/18,L5,Acct mgmt,1.0,6.0,170.0,100.0,10.0,60.0,0.0
+Sales,Yahoo!,United States,OR,Portland,21/11/18,IC6,Ads,12.0,12.0,270.0,190.0,15.0,65.0,0.0
+Sales,FIS,United States,CA,San Francisco,21/11/17,L4,Payments,2.0,5.0,150.0,95.0,0.0,55.0,0.0
+Sales,LinkedIn,United Kingdom,EN,London,21/11/17,L3,Account Director,5.0,10.0,174.0,100.0,6.0,68.0,0.0
+Sales,Google,United States,TN,Nashville,21/11/16,5,Sales Enablement,6.0,12.0,225.0,130.0,70.0,25.0,0.0
+Sales,Microsoft,United States,CA,San Francisco,21/11/16,L64,Presales,3.0,15.0,302.0,185.0,35.0,82.0,0.0
+Sales,Google,United States,NY,New York,21/11/16,L5,Programmatic/platforms,8.0,10.0,285.0,161.0,31.0,93.0,0.0
+Sales,Wayfair,United Kingdom,EN,London,21/11/16,L4,Category management,0.0,9.0,190.0,121.0,51.0,18.0,0.0
+Sales,F5 Networks,United States,GA,Atlanta,21/11/16,L3,Cyber Security,2.0,10.0,227.0,160.0,27.0,40.0,0.0
+Sales,Juniper Networks,United States,VA,Herndon,21/11/16,5Y,Sr. Associate,0.0,0.0,115.0,81.0,0.0,35.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/15,L4,Demand Generation,1.0,1.0,121.0,75.0,26.0,20.0,0.0
+Sales,Microsoft,United States,TX,Austin,21/11/15,66,Account,6.0,10.0,560.0,200.0,110.0,250.0,0.0
+Sales,HERE Technologies,United States,IL,Chicago,21/11/15,JG 10,Sales Ops,7.0,13.0,175.0,135.0,25.0,15.0,0.0
+Sales,Google,United States,WA,Seattle,21/11/15,L5,Cloud Sales,1.0,10.0,249.0,151.0,75.0,23.0,0.0
+Sales,Insight Global,United States,WA,Seattle,21/11/14,Senior Account Manager,IT,6.0,6.0,480.0,400.0,40.0,40.0,0.0
+Sales,Extreme Networks,United States,FL,Mid Florida,21/11/13,Sr. Sales,Networking Sales,1.0,10.0,245.0,122.0,0.0,123.0,0.0
+Sales,Groupon,United States,IL,Chicago,21/11/12,L6,Non-Local,7.0,8.0,120.0,65.0,0.0,55.0,0.0
+Sales,Unity Technologies,United States,CA,San Francisco,21/11/12,Tech IC5,User Acquisition,3.0,6.0,226.0,96.0,100.0,30.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/11/12,L6,3P,0.0,8.0,275.0,147.0,75.0,53.0,0.0
+Sales,Bounteous,United States,IL,Chicago,21/11/12,C1,Analyst,2.0,2.0,55.0,54.0,0.0,1.0,0.0
+Sales,Palo Alto Networks,United States,NC,Charlotte,21/11/12,Senior Director,Business Strategy,5.0,13.0,420.0,216.0,150.0,54.0,0.0
+Sales,Microsoft,Ireland,DN,Dublin,21/11/11,60,channel,3.0,19.0,114.0,70.0,4.0,40.0,0.0
+Sales,Amazon,United States,CA,San Francisco,21/11/11,L6,Global accounts,3.0,15.0,361.0,150.0,120.0,91.0,0.0
+Sales,Cloudflare,United States,WA,Seattle,21/11/10,L5,general,2.0,20.0,310.0,300.0,10.0,0.0,0.0
+Sales,Cisco,United States,CA,San Francisco,21/11/10,Grade 8,Security,5.0,5.0,129.0,90.0,0.0,39.0,0.0
+Sales,Cloudflare,United States,CA,San Francisco,21/11/09,L1,general,2.0,2.0,180.0,70.0,40.0,70.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/09,L5,Sales,2.0,15.0,203.0,115.0,65.0,23.0,0.0
+Sales,HashiCorp,United States,CA,San Francisco,21/11/09,L1,Business intelligence,2.0,5.0,135.0,135.0,0.0,0.0,0.0
+Sales,Oracle,United States,CA,Santa Monica,21/11/09,M2,Regional Sales Director,9.0,12.0,266.0,126.0,0.0,140.0,0.0
+Sales,Amazon,United States,CA,San Francisco,21/11/09,L6,Account Manager,1.0,12.0,345.0,165.0,30.0,150.0,0.0
+Sales,GitHub,United States,CA,San Francisco,21/11/09,9,Sales Operation,3.0,7.0,255.0,180.0,50.0,25.0,0.0
+Sales,Microsoft,Hungary,BU,Budapest,21/11/07,63,Devices,3.0,12.0,140.0,90.0,15.0,35.0,0.0
+Sales,Microsoft,United States,CA,San Francisco,21/11/07,66,Azure,0.0,12.0,475.0,230.0,180.0,65.0,60.0
+Sales,Google,United States,CA,San Jose,21/11/07,L6,General,4.0,9.0,360.0,180.0,60.0,120.0,0.0
+Sales,Amazon,United States,NY,New York,21/11/06,L7,General,0.0,15.0,590.0,185.0,225.0,180.0,0.0
+Sales,Amazon,France,IL,Paris,21/11/06,L4,SMB/ISV/DNB/ENTMID,1.0,2.0,116.0,100.0,10.0,6.0,0.0
+Sales,Google,United States,NY,New York,21/11/05,L5,general,1.0,10.0,251.0,175.0,50.0,26.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/11/05,L3,Growth,1.0,5.0,90.0,60.0,9.0,21.0,0.0
+Sales,Workday,Canada,AB,Calgary,21/11/05,P3,General,4.0,8.0,130.0,82.0,16.0,32.0,0.0
+Sales,Google,France,IL,Paris,21/11/05,L5,Ads,5.0,14.0,207.0,108.0,35.0,64.0,0.0
+Sales,Salesforce,United States,TX,Dallas,21/11/04,L5,Core,2.0,10.0,190.0,140.0,0.0,50.0,0.0
+Sales,American Airlines,United States,CA,Los Angeles,21/11/03,L4,Account Manager,3.0,10.0,91.0,86.0,0.0,5.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/03,L6,Account Management,4.0,10.0,208.0,101.0,107.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/02,L6,Sales Support,1.0,5.0,360.0,155.0,85.0,120.0,0.0
+Sales,Outreach,United States,WA,Seattle,21/11/02,L2,Solutions Consultant,1.0,1.0,115.0,81.0,0.0,35.0,0.0
+Sales,Pandora,United States,GA,Atlanta,21/11/02,L1,SMB,3.0,6.0,77.0,67.0,0.0,10.0,0.0
+Sales,Microsoft,Greece,AT,Athens,21/11/02,59,Business Applications,6.0,6.0,86.0,65.0,1.0,20.0,0.0
+Sales,Google,United States,CA,Sunnyvale,21/11/02,L7,Sales Engineer,4.0,20.0,510.0,207.0,83.0,220.0,0.0
+Sales,Bloomberg,United States,NY,New York,21/11/01,Relationship Manager,General,8.0,8.0,130.0,120.0,0.0,10.0,0.0
+Sales,Microsoft,United States,NC,Raleigh,21/11/01,58,State & Local Government Sales,4.0,10.0,92.0,70.0,2.0,20.0,0.0
+Sales,Goldman Sachs,United States,NY,New York,21/11/01,Associate,General,2.0,3.0,195.0,125.0,0.0,70.0,0.0
+Sales,Amazon,United States,TX,Dallas,21/11/01,L4,Sales,7.0,17.0,130.0,70.0,60.0,0.0,0.0
+Sales,Accenture,United States,WA,Seattle,21/11/01,6,Market Development,0.0,10.0,235.0,195.0,10.0,30.0,0.0
+Sales,VMware,India,DL,Delhi,21/11/01,P2,Pre sales,4.0,4.0,30.0,30.0,0.0,0.0,0.0
+Sales,Oracle,United States,CA,Santa Monica,21/11/01,IC-2,SaaS,1.0,1.0,67.0,52.0,0.0,15.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/11/01,L6,Aws,2.0,15.0,267.0,155.0,78.0,34.0,245.0
+Sales,Amazon,Canada,BC,Vancouver,21/10/31,L5,sales,1.0,7.0,250.0,115.0,70.0,65.0,0.0
+Sales,Cloudflare,United States,TX,Austin,21/10/31,L1,General,2.0,2.0,157.0,67.0,30.0,60.0,0.0
+Sales,Anheuser-Busch InBev,Canada,ON,Toronto,21/10/31,L3,Field Sales,8.0,11.0,90.0,85.0,0.0,5.0,0.0
+Sales,Genesys,United States,KS,Wichita,21/10/31,L4,Sales Engineer,3.0,6.0,137.0,107.0,0.0,30.0,20.0
+Sales,Amazon,United States,NY,New York,21/10/31,L6,Sales Architect,1.0,15.0,245.0,150.0,50.0,45.0,0.0
+Sales,Amazon Web Services,United States,GA,Atlanta,21/10/30,L6,Sales,2.0,20.0,317.0,160.0,50.0,107.0,0.0
+Sales,Samsung Electronics America,United States,NJ,Ridgefield Park,21/10/30,L5,General,7.0,17.0,169.0,135.0,0.0,34.0,20.0
+Sales,HubSpot,Germany,BE,Berlin,21/10/30,1,General,0.0,1.0,65.0,43.0,8.0,15.0,0.0
+Sales,Seismic,United States,IN,Indianapolis,21/10/30,L4,General,1.0,4.0,75.0,70.0,0.0,5.0,0.0
+Sales,Cisco,India,TS,Hyderabad,21/10/29,Grade 6,Business development,2.0,4.0,17.0,17.0,0.0,0.0,0.0
+Sales,Cisco,United States,DC,Washington,21/10/28,Grade 11,general,1.0,10.0,255.0,184.0,10.0,61.0,0.0
+Sales,Rippling,United States,CA,San Francisco,21/10/28,L2,HCM,2.0,2.0,160.0,140.0,0.0,20.0,0.0
+Sales,Salesforce,United States,TX,Austin,21/10/28,Director,Customer Success,1.0,20.0,272.0,187.0,25.0,60.0,0.0
+Sales,Red Hat,United States,DC,Washington,21/10/28,L3,Genera,13.0,15.0,232.0,175.0,20.0,37.0,0.0
+Sales,Google,United States,NY,New York,21/10/27,L5,General,0.0,11.0,292.0,147.0,57.0,88.0,0.0
+Sales,DocuSign,United States,OH,Cleveland,21/10/27,P3,General,2.0,8.0,190.0,127.0,30.0,33.0,0.0
+Sales,Alteryx,Canada,ON,Toronto,21/10/26,L4,Technical Sales,1.0,3.0,152.0,97.0,15.0,40.0,0.0
+Sales,PepsiCo,India,TS,Hyderabad,21/10/26,L6,Sales Support,0.0,5.0,22.0,20.0,0.0,2.0,0.0
+Sales,Google,United States,NY,New York,21/10/26,L3,General,2.0,3.0,142.0,95.0,14.0,33.0,0.0
+Sales,Orchard,United States,NY,New York,21/10/26,M5,Sales,2.0,10.0,220.0,150.0,50.0,20.0,0.0
+Sales,Salesforce,United States,TX,Dallas,21/10/25,Director,Healthcare,3.0,15.0,270.0,180.0,25.0,65.0,0.0
+Sales,Treasure Data,United States,NY,New York,21/10/25,L4,General,2.0,2.0,209.0,139.0,10.0,60.0,0.0
+Sales,ServiceNow,United States,PA,Philadelphia,21/10/25,IC4,Data Analytics/Business Intelligence,0.0,6.0,192.0,145.0,25.0,22.0,0.0
+Sales,Apple,United States,NY,Rochester,21/10/25,Support 2,General,2.0,2.0,43.0,42.0,2.0,0.0,0.0
+Sales,Microsoft,United States,GA,Atlanta,21/10/25,64,Solutions Specialist,11.0,26.0,211.0,137.0,18.0,56.0,0.0
+Sales,Genpact,United States,NY,New York,21/10/25,Vice President,Healthcare,17.0,19.0,530.0,240.0,50.0,240.0,0.0
+Sales,IBM,United States,NY,New York,21/10/24,Band 6,Summit,0.0,0.0,106.0,96.0,0.0,10.0,0.0
+Sales,Twilio,United States,CA,San Francisco,21/10/23,IC4,Sales,3.0,16.0,375.0,300.0,75.0,0.0,0.0
+Sales,Salesforce,United States,WA,Seattle,21/10/23,4,Sales,2.0,12.0,223.0,144.0,18.0,62.0,0.0
+Sales,Cloudera,United States,CA,Santa Clara,21/10/22,IC5,Big Data,7.0,10.0,298.0,169.0,73.0,56.0,0.0
+Sales,Illumio,United States,TX,Austin,21/10/22,L10 (this is a guess right now),PreSales,0.0,26.0,345.0,217.0,35.0,93.0,0.0
+Sales,Pure Storage,United States,CO,Denver,21/10/22,,General,7.0,25.0,250.0,175.0,0.0,75.0,0.0
+Sales,Oracle,Canada,ON,Toronto,21/10/22,Principal,Marketing Cloud,3.0,3.0,130.0,110.0,0.0,20.0,0.0
+Sales,Office Depot,United States,OH,Cincinnati,21/10/22,L2,SaaS,0.0,7.0,230.0,170.0,20.0,40.0,0.0
+Sales,Salesforce,United States,MA,Boston,21/10/22,L4,Commercial SMB,3.0,5.0,140.0,70.0,0.0,70.0,0.0
+Sales,Amazon,United States,CA,Irvine,21/10/21,L6,AWS,2.0,20.0,315.0,160.0,50.0,105.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/10/21,L3,GCS,1.0,5.0,101.0,70.0,7.0,24.0,0.0
+Sales,Qualcomm,United States,CA,San Diego,21/10/21,Senior Engineer,General,0.0,2.0,114.0,95.0,10.0,9.0,0.0
+Sales,Qubole,United States,CA,San Francisco,21/10/20,L5,sales engineering,3.0,15.0,179.0,169.0,0.0,10.0,0.0
+Sales,Accenture,Netherlands,NH,Amsterdam,21/10/20,L3,Sales,16.0,23.0,380.0,300.0,80.0,0.0,0.0
+Sales,Shopify,Canada,ON,Toronto,21/10/20,L5,AE,0.0,4.0,110.0,80.0,5.0,25.0,0.0
+Sales,Atlassian,United States,CA,San Francisco,21/10/19,P5,Growth Analytics,2.0,5.0,219.0,160.0,35.0,24.0,0.0
+Sales,Amazon,United States,TN,Nashville,21/10/19,L4,Freight,0.0,8.0,105.0,65.0,21.0,19.0,0.0
+Sales,Microsoft,United States,DC,Washington,21/10/19,62,USRI,3.0,3.0,308.0,105.0,8.0,195.0,0.0
+Sales,Atlassian,United States,TX,Austin,21/10/19,L6,Sales Ops,1.0,4.0,160.0,125.0,16.0,19.0,0.0
+Sales,Flyhomes,United States,WA,Seattle,21/10/18,5,General,2.0,8.0,250.0,155.0,70.0,25.0,0.0
+Sales,Salesforce,United States,WA,Seattle,21/10/18,3,General,2.0,2.0,60.0,37.0,0.0,23.0,0.0
+Sales,Amazon,United States,DC,Washington,21/10/15,L6,Customer Success,2.0,20.0,314.0,155.0,116.0,44.0,0.0
+Sales,Uber,Canada,ON,Toronto,21/10/15,L3,Eats,3.0,3.0,69.0,59.0,4.0,6.0,0.0
+Sales,Amazon,United States,NY,New York,21/10/14,L5,Advertising,0.0,9.0,163.0,130.0,19.0,14.0,0.0
+Sales,Temenos,Germany,HE,Frankfurt,21/10/12,L4,Data/Analytics/AI,7.0,10.0,122.0,97.0,16.0,9.0,0.0
+Sales,LiveRamp,United States,NY,New York,21/10/12,C4,General,2.0,10.0,177.0,140.0,7.0,30.0,0.0
+Sales,Google,United States,CA,San Francisco,21/10/12,L4,enterprise,0.0,7.0,213.0,130.0,31.0,52.0,0.0
+Sales,AWS,Germany,BY,Munich,21/10/12,L6,General,2.0,13.0,335.0,115.0,110.0,110.0,0.0
+Sales,Nuance Communications,United States,MA,Burlington,21/10/11,L1,Sales Support,2.0,2.0,71.0,68.0,0.0,3.0,0.0
+Sales,Procter & Gamble,Singapore,SG,Singapore,21/10/11,Graduate,general,0.0,1.0,60.0,48.0,0.0,12.0,0.0
+Sales,Microsoft,India,KA,Bengaluru,21/10/11,63,Azure,7.0,15.0,126.0,81.0,20.0,25.0,0.0
+Sales,HCL Technologies,United States,TX,Dallas,21/10/09,Vice President,Digital Business,5.0,20.0,450.0,350.0,0.0,100.0,0.0
+Sales,Microsoft,United States,CA,San Francisco,21/10/08,65,Sales,14.0,26.0,406.0,190.0,31.0,185.0,0.0
+Sales,Amazon,United States,DC,Washington,21/10/08,L5,General,1.0,5.0,152.0,120.0,20.0,12.0,0.0
+Sales,IBM,United States,TX,Dallas,21/10/07,Band 7,IaaS and PaaS,1.0,1.0,155.0,95.0,0.0,60.0,0.0
+Sales,Twilio,United States,CO,Denver,21/10/07,P3,Solutions Engineering,0.0,7.0,228.0,150.0,60.0,18.0,0.0
+Sales,Thales,United States,CA,Irvine,21/10/07,Manager,Aerospace,11.0,11.0,155.0,135.0,0.0,20.0,0.0
+Sales,Amazon,United States,IN,Indianapolis,21/10/06,L6,General,1.0,14.0,317.0,157.0,50.0,110.0,0.0
+Sales,Hyperscience,United States,NY,New York,21/10/06,L4,Operations,1.0,4.0,141.0,125.0,16.0,0.0,0.0
+Sales,SAP,France,IL,Paris,21/10/06,T2,GB,3.0,3.0,110.0,65.0,10.0,35.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/10/06,L4,Business Development,0.0,20.0,120.0,95.0,25.0,0.0,0.0
+Sales,IBM,United States,TX,Austin,21/10/05,Band 7,Cloud,3.0,3.0,155.0,105.0,0.0,50.0,0.0
+Sales,T-Mobile,United States,FL,Miami,21/10/05,L10,Retail Sales,5.0,5.0,59.0,35.0,2.0,22.0,0.0
+Sales,VMware,India,KA,Bangalore,21/10/05,P3,Customer Experience,3.0,5.0,32.0,26.0,0.0,6.0,0.0
+Sales,Amazon,United States,DC,Washington,21/10/04,L5,Sales - AWS,0.0,9.0,260.0,133.0,64.0,63.0,0.0
+Sales,Zoom,United States,TN,Nashville,21/10/02,ZP3,General,3.0,10.0,362.0,123.0,205.0,34.0,0.0
+Sales,IBM,United States,AZ,Phoenix,21/09/30,Band 8,Application Modernisation,1.0,10.0,240.0,132.0,0.0,108.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/30,L4,Demand Generation,1.0,2.0,128.0,83.0,25.0,20.0,0.0
+Sales,Verizon,United States,FL,Tampa,21/09/30,6,SOLUTION SPECIALIST,4.0,20.0,295.0,175.0,10.0,110.0,0.0
+Sales,Tipalti,United States,CA,San Mateo,21/09/30,EBG,Mid-Market,2.0,2.0,140.0,70.0,0.0,70.0,0.0
+Sales,Salesforce,United States,WA,Seattle,21/09/30,L7,Operations,1.0,13.0,197.0,160.0,13.0,24.0,0.0
+Sales,Amazon,United States,FL,Miami Beach,21/09/29,L7,Business Development,4.0,10.0,360.0,160.0,200.0,0.0,0.0
+Sales,Elastic,United States,SC,Charleston,21/09/28,analyst,quote to cash,2.0,5.0,103.0,89.0,14.0,0.0,0.0
+Sales,Accenture,Brazil,RJ,Rio de Janeiro,21/09/28,Senior Manager,General,7.0,17.0,71.0,60.0,0.0,11.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/09/28,L7,Sales,1.0,20.0,300.0,200.0,50.0,50.0,0.0
+Sales,Cisco,United States,TX,Austin,21/09/28,L10,Internet,2.0,2.0,180.0,135.0,0.0,45.0,0.0
+Sales,IBM,Portugal,LI,Lisbon,21/09/27,Band 7,Services,6.0,6.0,42.0,42.0,0.0,0.0,0.0
+Sales,HPE,Taiwan,TP,Taipei,21/09/27,L2,General,5.0,5.0,32.0,30.0,0.0,2.0,0.0
+Sales,Red Hat,United States,DC,Washington,21/09/27,L2,Linux,3.0,4.0,180.0,94.0,0.0,86.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/09/26,L3,GCS,2.0,2.0,129.0,77.0,25.0,27.0,0.0
+Sales,Amazon,United States,CA,Irvine,21/09/26,L5,Aws,0.0,7.0,124.0,110.0,4.0,10.0,0.0
+Sales,DocuSign,United States,WA,Seattle,21/09/25,P2,General,2.0,2.0,105.0,60.0,25.0,20.0,0.0
+Sales,Cisco,United States,DC,Washington,21/09/25,Grade 9,General,4.0,4.0,164.0,164.0,0.0,0.0,0.0
+Sales,T-Mobile,United States,CA,San Francisco,21/09/25,L2,General,8.0,12.0,53.0,52.0,1.0,0.0,0.0
+Sales,Amazon,China,BJ,Beijing,21/09/24,L6,Advertising,4.0,13.0,191.0,105.0,86.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/24,L6,General,3.0,10.0,226.0,114.0,112.0,0.0,0.0
+Sales,Amazon,United States,DC,Washington,21/09/24,L6,Analytics,1.0,15.0,270.0,155.0,65.0,50.0,0.0
+Sales,Google,United States,CA,San Francisco,21/09/24,Manager (L6),General,2.0,12.0,325.0,175.0,75.0,75.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/23,L6,Retail,4.0,9.0,243.0,144.0,99.0,0.0,0.0
+Sales,Google,Singapore,SG,Pasir Ris,21/09/23,L7,Sales,14.0,21.0,550.0,250.0,75.0,225.0,0.0
+Sales,LinkedIn,United States,NY,New York,21/09/23,Associate Sales Ops,Operations,2.0,4.0,163.0,125.0,25.0,13.0,0.0
+Sales,Rockwell Automation,United States,TX,Houston,21/09/23,,Automation,3.0,3.0,87.0,62.0,0.0,25.0,0.0
+Sales,Microsoft,United States,NY,New York,21/09/22,64,Sales,1.0,9.0,334.0,167.0,30.0,137.0,0.0
+Sales,Facebook,United States,CA,Menlo Park,21/09/22,IC5,General,2.0,6.0,188.0,176.0,2.0,10.0,0.0
+Sales,Sift,United States,CA,San Francisco,21/09/21,IC4,Enterprise,1.0,10.0,300.0,144.0,95.0,62.0,0.0
+Sales,Amazon,United States,IL,Chicago,21/09/21,L6,Enterprise,2.0,10.0,326.0,125.0,143.0,58.0,0.0
+Sales,LinkedIn,United States,CA,San Francisco,21/09/21,L3,Talent solutions,4.0,6.0,275.0,220.0,55.0,0.0,0.0
+Sales,Facebook,United States,CA,San Francisco,21/09/21,L4,Partnerships,0.0,7.0,160.0,145.0,15.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/21,L4,ISR,1.0,3.0,160.0,95.0,20.0,45.0,0.0
+Sales,Insight Global,United States,WA,Spokane,21/09/21,L2,Software,2.0,2.0,46.0,40.0,0.0,6.0,0.0
+Sales,Intel,Israel,HA,Haifa,21/09/20,Grade 10,Business Development,20.0,20.0,285.0,180.0,30.0,75.0,0.0
+Sales,Amazon,China,SH,Shanghai,21/09/19,L5,Business development,2.0,10.0,85.0,60.0,25.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/18,L4,Sales,1.0,2.0,143.0,83.0,21.0,39.0,0.0
+Sales,SAP,United States,CA,San Ramon,21/09/17,T4,S/4HANA Cloud,9.0,15.0,240.0,170.0,25.0,45.0,0.0
+Sales,Cisco,United States,UT,Lehi,21/09/17,L8,Networking Infrastructure,2.0,5.0,160.0,160.0,0.0,0.0,0.0
+Sales,Amazon,United States,CA,Los Angeles,21/09/17,L6,Enterprise Sales,3.0,13.0,412.0,145.0,167.0,100.0,0.0
+Sales,Procore Technologies,United States,FL,Orlando,21/09/17,Director,General,0.0,12.0,237.0,185.0,25.0,27.0,0.0
+Sales,The Home Depot,United States,UT,Ogden,21/09/16,3,Major Appliances,3.0,3.0,38.0,38.0,0.0,0.0,0.0
+Sales,Jamf,United States,WI,Milwaukee,21/09/16,2,Goverment,2.0,5.0,115.0,115.0,0.0,0.0,0.0
+Sales,Facebook,United States,TX,Austin,21/09/16,IC2,General,0.0,1.0,85.0,60.0,5.0,20.0,0.0
+Sales,Intel,United States,CA,Santa Clara,21/09/16,Grade 9,BizDev,2.0,4.0,225.0,145.0,55.0,25.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/09/16,L5,SMB,2.0,8.0,215.0,167.0,37.0,11.0,0.0
+Sales,Google,United States,GA,Atlanta,21/09/16,L6,Cloud,0.0,13.0,350.0,175.0,140.0,35.0,0.0
+Sales,Atos,Germany,BY,Munich,21/09/15,L9,Sales,21.0,23.0,154.0,118.0,0.0,35.0,0.0
+Sales,Faire,United States,CA,San Francisco,21/09/15,L3,General,1.0,1.0,230.0,130.0,100.0,0.0,0.0
+Sales,VMware,United States,TX,Austin,21/09/15,Level 4,Sales,3.0,5.0,118.0,101.0,0.0,18.0,0.0
+Sales,Oracle,United States,CA,San Francisco,21/09/14,IC4,Health,1.0,20.0,220.0,155.0,0.0,65.0,0.0
+Sales,Google,United States,CA,Los Angeles,21/09/14,Manager,#operations,1.0,4.0,135.0,125.0,10.0,0.0,0.0
+Sales,Better Mortgage,United States,CA,San Francisco,21/09/13,L5,Fintech,3.0,3.0,175.0,80.0,15.0,80.0,0.0
+Sales,FireEye,United States,DC,Washington,21/09/13,L5,Federal,4.0,15.0,355.0,165.0,40.0,150.0,0.0
+Sales,IBM,United States,DC,Washington,21/09/12,L8,IBM Technology Garage,0.0,13.0,242.0,182.0,0.0,60.0,0.0
+Sales,Salesforce,United States,IL,Chicago,21/09/12,Architect,Solution engineering,3.0,3.0,130.0,85.0,0.0,45.0,0.0
+Sales,Microsoft,Spain,CT,Barcelona,21/09/10,64,AI and Machine Learning,7.0,13.0,136.0,101.0,18.0,17.0,0.0
+Sales,Apple,United States,CA,Ontario,21/09/10,Support 3,Retail,6.0,10.0,42.0,40.0,2.0,0.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/09/09,L4,Advertising Sales,1.0,1.0,104.0,71.0,4.0,30.0,0.0
+Sales,Google,United States,CA,Redwood City,21/09/09,L3,GCS,0.0,2.0,158.0,101.0,22.0,35.0,0.0
+Sales,Apple,United States,TX,Austin,21/09/08,Support 3,SMB,2.0,8.0,53.0,51.0,2.0,0.0,0.0
+Sales,Amazon,Canada,ON,Toronto,21/09/02,L5,Advertising,2.0,9.0,171.0,80.0,6.0,85.0,0.0
+Sales,Amazon,Switzerland,ZH,Zurich,21/08/31,L5,Public Sector,0.0,6.0,278.0,165.0,23.0,90.0,0.0
+Sales,Microsoft,United States,NC,Raleigh,21/08/29,65,General,0.0,9.0,260.0,165.0,45.0,50.0,0.0
+Sales,Wipro Limited,United States,CA,Mountain View,21/08/28,D1,Sales,1.0,21.0,250.0,185.0,0.0,65.0,0.0
+Sales,Sanofi,New Zealand,CA,Christchurch,21/08/27,L1,Consumer Healthcare,0.0,0.0,60.0,55.0,0.0,5.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/08/26,L5,AWS,1.0,4.0,230.0,170.0,45.0,15.0,0.0
+Sales,cisco,Singapore,SG,Raffles Park,21/08/26,13,Business Development,4.0,16.0,290.0,210.0,30.0,50.0,0.0
+Sales,Google,United States,CA,San Francisco,21/08/25,L4,Account Management,2.0,8.0,223.0,128.0,45.0,50.0,0.0
+Sales,Google,United States,MI,Ann Arbor,21/08/24,L4,Sales SMB,4.0,5.0,171.0,115.0,10.0,46.0,0.0
+Sales,Wipro Limited,United States,CA,Mountain View,21/08/24,5,"Sales, Business Development",5.0,12.0,340.0,160.0,10.0,170.0,0.0
+Sales,Oracle,United States,IL,Chicago,21/08/23,IC-1,Hardware,4.0,4.0,140.0,70.0,0.0,70.0,0.0
+Sales,Twilio,United States,GA,Atlanta,21/08/23,P2,Sales,0.0,3.0,182.0,115.0,39.0,28.0,0.0
+Sales,Google,United States,NY,New York,21/08/20,L3,Sales,4.0,4.0,159.0,101.0,39.0,20.0,0.0
+Sales,Pendo.io,United States,NC,Raleigh,21/08/19,L5,Leadership,6.0,9.0,394.0,147.0,100.0,147.0,0.0
+Sales,Microsoft,Australia,NS,Sydney,21/08/18,62,Sales,5.0,7.0,290.0,160.0,20.0,110.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/08/18,L4,Sales,0.0,4.0,63.0,63.0,0.0,0.0,0.0
+Sales,Keysight,Taiwan,TP,Hsin-chu,21/08/14,Advanced,Key account management,3.0,6.0,76.0,74.0,0.0,2.0,0.0
+Sales,VMware,United Kingdom,EN,London,21/08/13,P5,Development,2.0,15.0,250.0,170.0,15.0,65.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/08/11,L5,Sales,2.0,5.0,243.0,126.0,62.0,55.0,0.0
+Sales,Google,Korea,KG,Seoul,21/08/10,L4,Sales,5.0,5.0,126.0,74.0,36.0,16.0,0.0
+Sales,Splunk,United States,TX,Plano,21/08/08,P2,Sales,1.0,5.0,147.0,105.0,30.0,12.0,0.0
+Sales,Google,United States,WA,Seattle,21/08/07,L3,Generalt,3.0,4.0,145.0,85.0,30.0,30.0,0.0
+Sales,Amazon,United States,NY,New York,21/08/05,L4,Advertising,0.0,2.0,114.0,78.0,4.0,33.0,0.0
+Sales,Apple,United States,TX,Austin,21/08/04,Support 3,Sales,4.0,8.0,55.0,54.0,2.0,0.0,0.0
+Sales,JPMorgan Chase,United States,NY,New York,21/08/01,Vice President,Wealth management,4.0,8.0,125.0,107.0,0.0,18.0,0.0
+Sales,Adobe,Australia,NS,Sydney,21/07/29,p40,Solution Engineering,6.0,12.0,170.0,120.0,20.0,30.0,0.0
+Sales,PhonePe,India,KA,Bangalore,21/07/29,L7,Enterprise sales,2.0,9.0,43.0,42.0,1.0,0.0,0.0
+Sales,Dell Technologies,United States,NY,New York,21/07/28,L9,Sales,11.0,21.0,346.0,173.0,0.0,173.0,0.0
+Sales,Microsoft,United States,GA,Atlanta,21/07/28,62,Sales,3.0,3.0,330.0,114.0,16.0,200.0,0.0
+Sales,Microsoft,Ireland,DN,Dublin,21/07/26,59,Digital / Inside Sales,4.0,6.0,120.0,72.0,5.0,43.0,0.0
+Sales,Accenture,United States,WA,Seattle,21/07/26,L4,Technology,1.0,15.0,420.0,300.0,60.0,60.0,0.0
+Sales,Collective Health,United States,CA,San Francisco,21/07/23,L6,Strategy,2.0,10.0,500.0,225.0,50.0,225.0,0.0
+Sales,Salesforce,United States,IL,Chicago,21/07/23,L7,General,1.0,10.0,260.0,130.0,0.0,130.0,0.0
+Sales,Google,Australia,NS,Sydney,21/07/21,L5,"Google Cloud, Sales,",7.0,11.0,309.0,113.0,25.0,170.0,0.0
+Sales,TripAdvisor,United States,MA,Boston,21/07/20,L1,SMB,1.0,8.0,57.0,40.0,1.0,16.0,0.0
+Sales,JPMorgan Chase,United States,NY,New York,21/07/19,Vice President,Sales,8.0,15.0,200.0,150.0,5.0,45.0,0.0
+Sales,Oracle,Nigeria,LA,Lagos,21/07/18,M3,Applications,5.0,13.0,161.0,81.0,0.0,81.0,0.0
+Sales,Microsoft,United Kingdom,EN,London,21/07/16,62,Sales,5.0,11.0,208.0,115.0,6.0,87.0,0.0
+Sales,DocuSign,United States,CA,San Francisco,21/07/15,P2,Solution Engineer,1.0,5.0,139.0,100.0,14.0,25.0,0.0
+Sales,Microsoft,Singapore,SG,Singapore,21/07/15,64,Sales and Business Development,15.0,21.0,391.0,233.0,27.0,131.0,0.0
+Sales,Google,United States,NY,New York,21/07/13,L3,Sales,5.0,5.0,175.0,101.0,35.0,39.0,0.0
+Sales,Microsoft,Singapore,SG,Singapore,21/07/13,63,Sales,7.0,12.0,280.0,150.0,20.0,110.0,0.0
+Sales,ByteDance,United States,TX,Austin,21/07/12,1-2,SMB Sales Team,0.0,2.0,83.0,64.0,3.0,16.0,0.0
+Sales,Microsoft,United States,CA,Los Angeles,21/07/10,L65,Cloud,8.0,20.0,399.0,169.0,30.0,200.0,0.0
+Sales,Adobe,United States,NY,New York,21/07/09,L5,Sales,2.0,10.0,388.0,191.0,75.0,122.0,0.0
+Sales,Google,United States,NY,New York,21/07/03,L6,General,7.0,16.0,489.0,209.0,100.0,180.0,0.0
+Sales,Ericsson,United States,WA,Seattle,21/06/30,JS8,"BSS, Cloud, Core",18.0,20.0,199.0,166.0,0.0,33.0,0.0
+Sales,UiPath,United States,TX,Texas City,21/06/17,L4,Sales,2.0,2.0,208.0,93.0,100.0,15.0,0.0
+Sales,Microsoft,United States,WA,Bellevue,21/06/16,60,Sales,4.0,4.0,140.0,90.0,10.0,40.0,0.0
+Sales,Google,United States,CA,San Francisco,21/06/15,L4,Ad Sales,5.0,5.0,235.0,140.0,35.0,60.0,0.0
+Sales,HCL Technologies,United States,CA,Sunnyvale,21/06/15,6.2,Sales,3.0,20.0,265.0,190.0,0.0,75.0,0.0
+Sales,3M,United States,MN,Minneapolis,21/06/15,Sales,Sales,2.0,4.0,63.0,50.0,0.0,13.0,0.0
+Sales,Amazon,Australia,NS,Sydney,21/06/12,L5,Sales,0.0,7.0,232.0,123.0,56.0,54.0,0.0
+Sales,Google,United States,NY,New York,21/06/09,L4,Ads,7.0,7.0,218.0,145.0,15.0,58.0,0.0
+Sales,Microsoft,United States,FL,Fort Lauderdale,21/06/09,L63,Customer,1.0,15.0,143.0,130.0,13.0,0.0,0.0
+Sales,Google,United States,CA,Redwood City,21/06/09,L3,Account Strategist,1.0,6.0,142.0,105.0,21.0,16.0,0.0
+Sales,SAP,United States,CA,Palo Alto,21/06/08,T5,Sales,16.0,16.0,320.0,220.0,50.0,50.0,0.0
+Sales,Texas Instruments,Germany,BY,Munich,21/06/07,28,General,2.0,6.0,129.0,97.0,0.0,32.0,0.0
+Sales,Auth0,United States,WA,Seattle,21/06/05,L2,General,2.0,5.0,155.0,68.0,20.0,68.0,0.0
+Sales,IBM,United States,CA,San Francisco,21/06/04,Band 7,Data & AI,2.0,2.0,137.0,122.0,0.0,15.0,0.0
+Sales,Google,United States,NY,New York,21/06/02,L4,Sales,3.0,3.0,184.0,81.0,22.0,81.0,0.0
+Sales,Amazon,Germany,HE,Frankfurt,21/06/01,L6,Sales,2.0,15.0,199.0,108.0,33.0,58.0,0.0
+Sales,JPMorgan Chase,United States,NY,New York,21/05/28,603,Treasury Services,1.0,8.0,215.0,165.0,2.0,50.0,0.0
+Sales,Amazon,United States,IL,Chicago,21/05/27,6,Emerging technologies,4.0,9.0,400.0,140.0,200.0,60.0,0.0
+Sales,Zoom,Netherlands,NH,Amsterdam,21/05/26,L1,Sales,1.0,2.0,115.0,60.0,25.0,30.0,0.0
+Sales,Twitter,Singapore,SG,Singapore,21/05/26,L8,Media ad-sales,0.0,20.0,540.0,273.0,150.0,117.0,0.0
+Sales,AWS,United States,WA,Seattle,21/05/26,L4,Sales,4.0,8.0,251.0,93.0,130.0,29.0,0.0
+Sales,ASML,Netherlands,NB,Veldhoven,21/05/25,10,Sales,2.0,10.0,162.0,137.0,0.0,25.0,0.0
+Sales,Google,United States,WA,Seattle,21/05/22,L6,GTM,1.0,20.0,266.0,170.0,60.0,36.0,0.0
+Sales,DocuSign,United States,WA,Seattle,21/05/18,L3,Sales,3.0,4.0,240.0,80.0,80.0,80.0,0.0
+Sales,Dell Technologies,United States,MA,Boston,21/05/12,M8,Sales,10.0,15.0,470.0,250.0,70.0,150.0,0.0
+Sales,Microsoft,United States,IL,Chicago,21/05/11,62,General,6.0,6.0,262.0,130.0,22.0,110.0,0.0
+Sales,Microsoft,United States,WA,Seattle,21/05/11,64,Health,5.0,20.0,240.0,165.0,35.0,35.0,0.0
+Sales,LinkedIn,United States,CA,San Francisco,21/05/11,RM3,Software,2.0,10.0,260.0,124.0,0.0,140.0,0.0
+Sales,Square,United States,CA,San Francisco,21/05/10,Level 5,Sales,4.0,4.0,210.0,80.0,50.0,80.0,0.0
+Sales,Amazon,Germany,BY,Munich,21/05/07,L4,General,1.0,2.0,90.0,60.0,20.0,10.0,0.0
+Sales,Google,United States,NY,New York,21/05/05,L7,Sales Analysis,7.0,15.0,465.0,195.0,125.0,145.0,0.0
+Sales,Microsoft,United States,MA,Boston,21/05/05,64,general,1.0,21.0,245.0,153.0,20.0,72.0,0.0
+Sales,Google,United States,NY,New York,21/05/05,L4,Cloud,4.0,6.0,279.0,96.0,39.0,144.0,0.0
+Sales,Cisco,United States,NY,New York,21/05/01,9,Sales,10.0,10.0,220.0,110.0,0.0,110.0,0.0
+Sales,Ivanti,United States,MA,Boston,21/05/01,9,Security,3.0,25.0,240.0,120.0,0.0,120.0,0.0
+Sales,Microsoft,Canada,ON,Toronto,21/04/29,61,software,3.0,8.0,175.0,100.0,10.0,65.0,0.0
+Sales,PepsiCo,United States,IL,Chicago,21/04/26,L6,sales management,2.0,2.0,72.0,68.0,0.0,4.0,0.0
+Sales,Amazon,United States,DC,Washington,21/04/25,L6,Sales,2.0,5.0,165.0,140.0,15.0,10.0,0.0
+Sales,Lenovo,United Arab Emirates,DU,Dubai,21/04/24,L8,Supply Chain,3.0,10.0,154.0,144.0,0.0,10.0,0.0
+Sales,upGrad,India,MH,Mumbai,21/04/23,G1,Business Development,1.0,2.0,11.0,11.0,0.0,0.0,0.0
+Sales,Cisco,Spain,MD,Madrid,21/04/21,11,SP,20.0,25.0,180.0,81.0,18.0,81.0,0.0
+Sales,Microsoft,United Kingdom,EN,London,21/04/18,59,Saas,2.0,2.0,90.0,60.0,0.0,30.0,0.0
+Sales,Microsoft,Canada,ON,Toronto,21/04/15,61,Sales,10.0,15.0,200.0,100.0,20.0,80.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/04/15,L7,Sales,4.0,10.0,405.0,135.0,135.0,135.0,0.0
+Sales,IBM,United States,GA,Atlanta,21/04/13,Band 8,Sales Cloud,4.0,7.0,205.0,130.0,0.0,75.0,0.0
+Sales,Instacart,United States,CA,San Francisco,21/04/11,L1,General,0.0,12.0,136.0,108.0,28.0,0.0,0.0
+Sales,Freshworks,Canada,ON,Toronto,21/04/10,L1,Sales,1.0,1.0,60.0,40.0,0.0,20.0,0.0
+Sales,Ingram Micro,United States,CA,Irvine,21/04/09,L5,Sales,6.0,6.0,150.0,95.0,0.0,55.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/04/09,L4,"Strategic Account Services, Retail",0.0,1.0,107.0,63.0,31.0,13.0,0.0
+Sales,Microsoft,United States,TX,Dallas,21/04/07,60,Digital Sales Representative,0.0,2.0,145.0,83.0,5.0,62.0,0.0
+Sales,Amazon,United States,CA,Los Angeles,21/04/06,L4,Advertising,2.0,2.0,138.0,60.0,34.0,45.0,0.0
+Sales,Oracle,United States,CA,Redwood City,21/04/06,L1,Sales,1.0,1.0,50.0,45.0,0.0,5.0,0.0
+Sales,Salesforce,United States,TX,Dallas,21/04/05,L1,SaaS Sales,1.0,2.0,83.0,55.0,5.0,28.0,0.0
+Sales,VMware,United States,TX,Houston,21/04/04,L5,Sales,1.0,10.0,370.0,175.0,20.0,175.0,0.0
+Sales,Infosys,United States,CA,San Francisco,21/03/31,L7,BPO Sales,10.0,15.0,250.0,130.0,0.0,120.0,0.0
+Sales,Microsoft,United States,WA,Bellevue,21/03/31,62,Sales,0.0,6.0,157.0,133.0,11.0,13.0,0.0
+Sales,Instacart,United States,CA,San Francisco,21/03/27,L1,Customer success,0.0,10.0,125.0,105.0,20.0,0.0,0.0
+Sales,Kaseya,United States,FL,Miami,21/03/24,L3,VAR,1.0,9.0,150.0,90.0,0.0,60.0,0.0
+Sales,Oracle,United States,TX,Austin,21/03/24,L1,SaaS Business Development,2.0,2.0,68.0,50.0,0.0,18.0,0.0
+Sales,Oracle,United States,TX,Austin,21/03/24,M2,HCM Sales,5.0,6.0,195.0,95.0,0.0,95.0,0.0
+Sales,LTI,United States,TX,Dallas,21/03/21,L7,Sales,3.0,7.0,180.0,130.0,0.0,50.0,0.0
+Sales,HubSpot,United States,MA,Boston,21/03/20,L1,Sales,3.0,3.0,81.0,76.0,5.0,0.0,0.0
+Sales,Microsoft,Germany,BY,Munich,21/03/20,62,Tag,10.0,10.0,200.0,105.0,35.0,60.0,0.0
+Sales,Microsoft,United States,WA,Seattle,21/03/18,67,Enterprise,11.0,25.0,1.0,227.0,610.0,200.0,0.0
+Sales,Microsoft,United States,WA,Seattle,21/03/18,63,Sales,5.0,11.0,275.0,135.0,30.0,110.0,0.0
+Sales,LinkedIn,United States,CA,San Francisco,21/03/17,L2,General,4.0,8.0,178.0,100.0,2.0,76.0,0.0
+Sales,Box,United States,IL,Chicago,21/03/16,L3,Sales,2.0,10.0,290.0,130.0,30.0,130.0,0.0
+Sales,VMware,United States,CA,San Francisco,21/03/16,P5,Global Accounts,0.0,6.0,303.0,212.0,38.0,53.0,0.0
+Sales,Oracle,Spain,AN,Malaga,21/03/14,IC-0,General,1.0,1.0,45.0,30.0,0.0,15.0,0.0
+Sales,Google,India,HR,Gurgaon,21/03/11,L4,General,5.0,5.0,70.0,42.0,13.0,15.0,0.0
+Sales,Facebook,Ireland,DN,Dublin,21/03/10,IC3,Sales,1.0,5.0,87.0,74.0,6.0,7.0,0.0
+Sales,JPMorgan Chase,United States,WA,Seattle,21/03/09,Vice President,Community Development Banking,1.0,13.0,175.0,150.0,0.0,25.0,0.0
+Sales,Amazon,Singapore,SG,Singapore,21/03/08,L4,Sales,1.0,5.0,117.0,90.0,3.0,24.0,0.0
+Sales,Amazon,United States,CA,San Francisco,21/03/07,L7,Sales,8.0,10.0,450.0,185.0,142.0,123.0,0.0
+Sales,Microsoft,Canada,ON,Toronto,21/03/07,62,Sales,5.0,5.0,133.0,107.0,13.0,13.0,0.0
+Sales,Renesas Electronics,United States,CA,Milpitas,21/03/06,L4,Strategic accounts,4.0,10.0,185.0,110.0,15.0,60.0,0.0
+Sales,Microsoft,Singapore,SG,Singapore,21/03/04,63,General,6.0,11.0,275.0,150.0,30.0,95.0,0.0
+Sales,LinkedIn,India,DL,Delhi,21/03/03,L3,Account Management,3.0,7.0,48.0,35.0,12.0,1.0,0.0
+Sales,Uber,United States,IL,Chicago,21/03/03,L6,B2B,2.0,12.0,315.0,105.0,105.0,105.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/03/01,L5,State & Local Government,0.0,5.0,240.0,120.0,41.0,78.0,0.0
+Sales,Amazon,United States,NC,Charlotte,21/02/25,L7,Enterprise,6.0,15.0,435.0,160.0,100.0,175.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/02/25,L6,Sales,0.0,5.0,275.0,150.0,60.0,65.0,0.0
+Sales,Cisco,Canada,QC,Quebec,21/02/21,L8,Account manager,5.0,19.0,192.0,78.0,34.0,78.0,0.0
+Sales,Google,United Kingdom,EN,London,21/02/21,L6,Sales manager,2.0,15.0,400.0,120.0,80.0,200.0,0.0
+Sales,Amazon,United States,VA,Arlington,21/02/20,L4,General,1.0,2.0,133.0,75.0,25.0,36.0,0.0
+Sales,WestRock,United States,IL,New Lenox,21/02/18,L2,Corrugated,5.0,5.0,90.0,60.0,0.0,30.0,0.0
+Sales,Ibm,United States,NC,Raleigh,21/02/16,10,Sales,4.0,15.0,380.0,200.0,20.0,160.0,0.0
+Sales,Shopify,Canada,ON,Toronto,21/02/15,2,Retail,2.0,5.0,101.0,50.0,19.0,32.0,0.0
+Sales,Infosys,United States,IL,London Mills,21/02/14,Sr Engagement manager,Sales,5.0,15.0,220.0,170.0,0.0,50.0,0.0
+Sales,Amazon,United States,IN,Indianapolis,21/02/12,L6,Specialized Sales,5.0,20.0,376.0,156.0,200.0,20.0,0.0
+Sales,Google,United States,MI,Detroit,21/02/11,L5,"Sales, Customer Onboarding",9.0,15.0,277.0,117.0,76.0,83.0,0.0
+Sales,Amazon,United States,IL,Chicago,21/02/10,L6,Advertising,6.0,15.0,310.0,150.0,10.0,150.0,0.0
+Sales,Google,Brazil,SP,Sao Paulo,21/02/08,L5,sales,3.0,20.0,248.0,88.0,120.0,40.0,0.0
+Sales,Microsoft,United States,IL,Chicago,21/02/07,66,Sales,15.0,25.0,435.0,190.0,90.0,155.0,0.0
+Sales,Microsoft,United States,NY,New York,21/02/03,64,Customer Success,9.0,22.0,253.0,179.0,29.0,45.0,0.0
+Sales,SwissRe,Switzerland,ZH,Zurich,21/02/02,D,Business Development,3.0,14.0,160.0,140.0,0.0,20.0,0.0
+Sales,Google,Australia,NS,Sydney,21/02/01,L2,Sales,1.0,3.0,120.0,89.0,5.0,25.0,0.0
+Sales,Amazon,United States,WA,Seattle,21/01/29,L4,Enterprise,1.0,4.0,161.0,95.0,13.0,53.0,0.0
+Sales,Cisco,United States,NC,Raleigh,21/01/29,Grade 8,Technical Enablement,3.0,3.0,90.0,80.0,0.0,10.0,0.0
+Sales,Google,United Kingdom,EN,London,21/01/28,L4,Ad sales,11.0,11.0,172.0,98.0,30.0,44.0,0.0
+Sales,Amazon,Germany,BY,Munich,21/01/26,L4,Enterprise,1.0,4.0,75.0,53.0,5.0,22.0,0.0
+Sales,Autodesk,United States,TX,Dallas,21/01/25,L4,Enterprise,6.0,16.0,240.0,129.0,20.0,90.0,0.0
+Sales,Dell Technologies,United States,CA,Irvine,21/01/20,L4,Enterprise,6.0,16.0,285.0,135.0,0.0,150.0,0.0
+Sales,Sap,Saudi Arabia,MK,Jeddah,21/01/19,L 2,Enterprise,2.0,8.0,188.0,100.0,5.0,83.0,0.0
+Sales,Amazon,United States,OR,Portland,21/01/18,L4,Growth,1.0,4.0,148.0,82.0,0.0,66.0,0.0
+Sales,Dell,United States,MA,Boston,21/01/14,L3,Enterprise,4.0,9.0,204.0,123.0,0.0,82.0,0.0
+Sales,Google,Ireland,DN,Dublin,21/01/12,L2,Consumer,2.0,3.0,96.0,61.0,15.0,20.0,0.0
+Sales,IBM,United States,TX,Austin,21/01/11,Band 9,Technical,19.0,19.0,200.0,150.0,0.0,50.0,0.0
+Sales,Apple,United Kingdom,EN,Brighton,21/01/08,Specialist,Consumer,2.0,30.0,26.0,26.0,0.0,0.0,0.0
+Sales,Amazon,United States,IL,Chicago,21/01/07,L7,Infrastructure,2.0,16.0,480.0,160.0,280.0,40.0,0.0
+Sales,Salesforce,United States,NY,New York,21/01/04,L4,Consumer,3.0,4.0,139.0,78.0,0.0,61.0,0.0
+Sales,Google,Ireland,DN,Dublin,20/12/29,L3,Growth,3.0,3.0,130.0,77.0,24.0,27.0,0.0
+Sales,Procter & Gamble,Germany,HE,Frankfurt,20/12/28,B3,Customers,9.0,9.0,160.0,135.0,0.0,25.0,0.0
+Sales,Microsoft,United States,CA,Irvine,20/12/24,L66,Enterprise Sales Director,8.0,21.0,440.0,312.0,90.0,40.0,0.0
+Sales,Intel,United States,TX,Austin,20/12/22,84,Infrastructure,9.0,15.0,280.0,100.0,20.0,160.0,0.0
+Sales,IBM,United States,IL,Chicago,20/12/19,Band 9,Product,3.0,11.0,250.0,165.0,0.0,85.0,0.0
+Sales,Google,United States,CA,San Francisco,20/12/19,L5,Growth,3.0,5.0,180.0,100.0,40.0,40.0,0.0
+Sales,IBM,United States,MO,St. Louis,20/12/17,9,Enterprise,5.0,5.0,210.0,100.0,0.0,110.0,0.0
+Sales,Equifax,United States,NC,Charlotte,20/12/16,L5,Growth,1.0,10.0,175.0,125.0,0.0,50.0,0.0
+Sales,Microsoft,United States,TX,Dallas,20/12/15,63,Enterprise,1.0,10.0,225.0,122.0,10.0,93.0,0.0
+Sales,Microsoft,United States,MA,Boston,20/12/15,L5,Technical,14.0,16.0,286.0,194.0,46.0,46.0,0.0
+Sales,Fidelity Investments,United States,NC,Raleigh,20/12/15,Director,Growth,7.0,10.0,231.0,140.0,55.0,36.0,0.0
+Sales,VMware,United States,GA,Atlanta,20/12/15,P3,Sales,3.0,4.0,209.0,100.0,9.0,100.0,0.0
+Sales,IBM,United States,CA,San Francisco,20/12/13,Band 10,Enterprise,15.0,25.0,300.0,200.0,0.0,100.0,0.0
+Sales,Amazon,United States,VA,Arlington,20/12/13,L6,Sales,1.0,13.0,300.0,150.0,75.0,75.0,0.0
+Sales,Amazon,United States,DC,Washington,20/12/11,L5,Enterprise,1.0,6.0,252.0,174.0,43.0,33.0,0.0
+Sales,Iterable,United Kingdom,EN,London,20/12/10,L2,Enterprise,2.0,2.0,167.0,75.0,2.0,90.0,0.0
+Sales,Tata Consultancy Services,United States,NJ,Edison,20/12/09,C4,Growth,15.0,15.0,105.0,93.0,0.0,12.0,0.0
+Sales,eBay,Australia,NS,Sydney,20/12/07,25,Sales,4.0,9.0,217.0,145.0,27.0,45.0,0.0
+Sales,Microsoft,United States,MO,St. Louis,20/12/02,63,Enterprise,4.0,6.0,280.0,130.0,10.0,140.0,0.0
+Sales,Google,United States,CA,San Francisco,20/12/01,L4,Technical,0.0,7.0,275.0,140.0,75.0,60.0,0.0
+Sales,LinkedIn,India,MH,Mumbai,20/11/25,Software Engineer,Growth,0.0,6.0,54.0,30.0,4.0,20.0,0.0
+Sales,Elastic,United States,NY,New York,20/11/25,L5,User Journey,4.0,4.0,168.0,69.0,30.0,69.0,0.0
+Sales,Expedia,United States,FL,Miami,20/11/25,K,Consumer,5.0,12.0,75.0,67.0,0.0,8.0,0.0
+Sales,google,Japan,TY,Tokyo,20/11/24,L5,Production,1.0,1.0,165.0,92.0,11.0,62.0,0.0
+Sales,Google,United States,CA,San Francisco,20/11/24,L2,SaaS,4.0,4.0,242.0,100.0,12.0,130.0,0.0
+Sales,Amazon,United States,NY,New York,20/11/23,L4,Pricing,5.0,5.0,108.0,83.0,25.0,0.0,0.0
+Sales,Microsoft,United States,NY,New York,20/11/23,62,Full Stack,3.0,3.0,180.0,130.0,11.0,39.0,0.0
+Sales,Crowdstrike,United States,CA,Sunnyvale,20/11/22,Corporate Account Executive,Security,1.0,2.0,130.0,60.0,10.0,60.0,0.0
+Sales,Amazon,Germany,BY,Munich,20/11/22,L4,Enterprise,1.0,1.0,77.0,52.0,0.0,25.0,0.0
+Sales,AWS,United States,VA,Herndon,20/11/21,L6,Professional Services,3.0,25.0,327.0,155.0,172.0,0.0,0.0
+Sales,Highspot,United States,WA,Seattle,20/11/21,1,Sales,1.0,1.0,40.0,40.0,0.0,0.0,0.0
+Sales,Twitter,United States,CA,San Francisco,20/11/21,L4,Consumer,1.0,7.0,185.0,120.0,14.0,51.0,0.0
+Sales,Gartner,United States,TX,Dallas,20/11/20,Account Manager,Research & Advisory Services,2.0,9.0,145.0,135.0,0.0,10.0,0.0
+Sales,AWS,United States,CA,San Francisco,20/11/19,L6,Sales,2.0,15.0,340.0,160.0,80.0,100.0,0.0
+Sales,Microsoft,Hong Kong (SAR),HK,Hong Kong,20/11/18,60,Technical Account Management,5.0,5.0,128.0,111.0,9.0,8.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/11/18,65,sales,20.0,20.0,245.0,190.0,20.0,35.0,0.0
+Sales,Ironclad,United States,CA,San Francisco,20/11/16,Business Development Representative (Entry Level Role),Sales,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Sales,Microsoft,Saudi Arabia,RI,Riyadh,20/11/15,62,Sales,6.0,10.0,348.0,170.0,8.0,170.0,0.0
+Sales,Uber,Australia,NS,Sydney,20/11/15,L5,Enterprise,2.0,11.0,280.0,180.0,50.0,50.0,0.0
+Sales,Snowflake,United States,CO,Denver,20/11/14,Corporate account executive,iOS,1.0,2.0,100.0,50.0,0.0,50.0,0.0
+Sales,GitHub,Japan,TY,Tokyo,20/11/14,L3,DevOps,3.0,10.0,150.0,90.0,55.0,5.0,0.0
+Sales,Google,Japan,TY,Tokyo,20/11/14,L3,Inside sales,3.0,10.0,143.0,90.0,50.0,3.0,0.0
+Sales,Airbnb,United States,CA,San Francisco,20/11/13,L3,DevOps,1.0,3.0,160.0,105.0,0.0,55.0,0.0
+Sales,Cisco,United States,NY,New York,20/11/13,Grade 12,Networking,3.0,20.0,330.0,190.0,10.0,130.0,0.0
+Sales,Google,United States,TX,Austin,20/11/13,L4,Sales,3.0,5.0,175.0,87.0,30.0,58.0,0.0
+Sales,GE,United States,TX,Dallas,20/11/11,Senior Leadership Band,Sales,10.0,10.0,164.0,139.0,0.0,25.0,0.0
+Sales,Dell Technologies,Japan,TY,Tokyo,20/11/11,L5,Cloud Service,2.0,10.0,120.0,72.0,0.0,48.0,0.0
+Sales,Google,United States,CA,San Francisco,20/11/11,l4,Security,3.0,5.0,180.0,130.0,30.0,20.0,0.0
+Sales,ServiceNow,United States,MA,Waltham,20/11/10,I5,Mobile (iOS + Android),1.0,6.0,166.0,95.0,30.0,40.0,0.0
+Sales,Salesforce,Ireland,DN,Dublin,20/11/10,Account Executive SMB,other,1.0,4.0,100.0,50.0,0.0,50.0,0.0
+Sales,EY,United States,GA,Atlanta,20/11/09,SM,Data,10.0,15.0,210.0,210.0,0.0,0.0,0.0
+Sales,Intel,United States,WA,Seattle,20/11/09,10,Enterprise,6.0,10.0,310.0,190.0,102.0,17.0,0.0
+Sales,Shopify,Canada,ON,Toronto,20/11/08,5,iOS,1.0,4.0,157.0,87.0,7.0,60.0,0.0
+Sales,Cisco,Canada,ON,Toronto,20/11/07,Grade 8,Sales,7.0,9.0,140.0,110.0,0.0,30.0,0.0
+Sales,Nutanix,United States,WA,Seattle,20/11/06,L3,Distributed Systems (Back-End),6.0,8.0,250.0,235.0,10.0,5.0,0.0
+Sales,Google,United States,MA,Boston,20/11/06,L5,Google cloud,3.0,8.0,271.0,136.0,80.0,55.0,0.0
+Sales,Startups.com,United States,CA,San Francisco,20/11/05,VP,Growth,1.0,12.0,400.0,200.0,200.0,0.0,0.0
+Sales,SAP Concur,United States,WA,Bellevue,20/11/05,L2,sales,10.0,10.0,200.0,100.0,5.0,100.0,0.0
+Sales,AWS,United States,WA,Seattle,20/11/03,L4,Cloud,0.0,1.0,121.0,75.0,5.0,41.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/11/03,L4,Advertising,2.0,2.0,131.0,72.0,23.0,36.0,0.0
+Sales,Uber,United States,IL,Chicago,20/11/03,L5,Logistics/Supply Chain,2.0,11.0,250.0,89.0,73.0,89.0,0.0
+Sales,AT&T,United States,CA,Temecula,20/11/03,Retail Sales Consultant,Mobile (iOS + Android),5.0,7.0,60.0,60.0,0.0,0.0,0.0
+Sales,Microsoft,Australia,NS,Sydney,20/11/02,57,M365,1.0,2.0,107.0,77.0,0.0,29.0,0.0
+Sales,SAP,Korea,KG,Seoul,20/11/02,T3,BDE,2.0,12.0,120.0,100.0,10.0,10.0,0.0
+Sales,Amazon,United States,TX,Austin,20/11/02,L4,Consumer,0.0,0.0,141.0,75.0,26.0,40.0,0.0
+Sales,Google,United States,CA,Sunnyvale,20/11/02,L7,Google cloud,3.0,10.0,420.0,350.0,50.0,25.0,0.0
+Sales,Sumo Logic,United States,CA,Redwood City,20/11/02,Mid Market SMB AE,Security,4.0,4.0,160.0,70.0,0.0,90.0,0.0
+Sales,Samsara,United States,CA,San Francisco,20/11/01,ADR II,Sales,1.0,1.0,100.0,75.0,3.0,25.0,0.0
+Sales,Cisco,Qatar,DA,Doha,20/11/01,L5,Sales,0.0,2.0,60.0,60.0,0.0,0.0,0.0
+Sales,Microsoft,Germany,BE,Berlin,20/10/31,65,ML / AI,6.0,18.0,296.0,173.0,33.0,90.0,0.0
+Sales,Adyen,United States,CA,San Francisco,20/10/31,L1,,4.0,4.0,200.0,175.0,25.0,0.0,0.0
+Sales,Google,United States,CA,Sunnyvale,20/10/31,L6,Data,1.0,10.0,345.0,160.0,25.0,160.0,0.0
+Sales,IBM,United Kingdom,EN,London,20/10/31,Band 7,Data,5.0,5.0,100.0,50.0,0.0,50.0,0.0
+Sales,Intel,United States,OR,Portland,20/10/31,10,Enterprise,6.0,10.0,315.0,180.0,30.0,100.0,0.0
+Sales,GE,United States,MA,Boston,20/10/31,EB,Sales innovstion,4.0,15.0,625.0,240.0,145.0,240.0,0.0
+Sales,Oracle,United States,MA,Burlington,20/10/29,L1,Consumer,1.0,1.0,50.0,50.0,0.0,0.0,0.0
+Sales,Snap,United States,CA,Los Angeles,20/10/29,L2,Sales,1.0,6.0,152.0,115.0,25.0,12.0,0.0
+Sales,Gartner,United States,TX,Dallas,20/10/29,L2,Research and Advisory,2.0,4.0,108.0,76.0,0.0,32.0,0.0
+Sales,State Farm,United States,AZ,Tempe,20/10/29,1,Insurance,4.0,4.0,92.0,42.0,0.0,50.0,0.0
+Sales,Accenture,India,KA,Bangalore,20/10/28,L5,Operations,1.0,3.0,10.0,10.0,0.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/10/28,L5,Enterprise,0.0,8.0,193.0,101.0,60.0,32.0,0.0
+Sales,Dell Technologies,United States,MA,Boston,20/10/27,s8,Account Executive,20.0,20.0,279.0,165.0,0.0,114.0,0.0
+Sales,IBM,United States,TX,Dallas,20/10/27,Band 7,Security,2.0,2.0,185.0,115.0,0.0,70.0,0.0
+Sales,Capgemini,France,IL,Paris,20/10/27,VP,Data,4.0,25.0,440.0,220.0,80.0,140.0,0.0
+Sales,Wipro,United Kingdom,EN,London,20/10/27,C1,Data,1.0,8.0,130.0,110.0,0.0,20.0,0.0
+Sales,Google,United States,IL,Chicago,20/10/27,L4,Analytic,3.0,8.0,220.0,103.0,75.0,42.0,0.0
+Sales,Google,United States,CA,San Francisco,20/10/27,L4,Infrastructure,0.0,5.0,163.0,97.0,25.0,41.0,0.0
+Sales,IBM,United States,NY,New York,20/10/27,Band 7,Enterprise,3.0,3.0,145.0,80.0,0.0,65.0,0.0
+Sales,Okta,United States,DC,Washington,20/10/26,Solutions Engineer,Solutions Engineering,0.0,7.0,180.0,130.0,20.0,30.0,0.0
+Sales,Coursera,India,HR,Gurgaon,20/10/26,M5,Enterprise,2.0,15.0,100.0,92.0,2.0,8.0,0.0
+Sales,Google,United States,CA,San Francisco,20/10/26,Senior Sales Executive,Sales,3.0,12.0,250.0,120.0,30.0,100.0,0.0
+Sales,UiPath,United States,CA,San Diego,20/10/26,Senior,Enterprise,4.0,5.0,600.0,170.0,50.0,380.0,0.0
+Sales,Medtronic,Australia,VI,Melbourne,20/10/26,1,Medical,1.0,1.0,80.0,70.0,0.0,10.0,0.0
+Sales,Oracle,United States,CA,San Diego,20/10/26,M3,Enterprise,7.0,15.0,320.0,150.0,0.0,170.0,0.0
+Sales,Google,United States,CA,San Francisco,20/10/26,L5,Growth,9.0,14.0,321.0,166.0,55.0,100.0,0.0
+Sales,Salesforce,Netherlands,NH,Amsterdam,20/10/25,AE 7,Enterprise sales,2.0,12.0,180.0,90.0,0.0,90.0,0.0
+Sales,Accenture,United States,TX,Austin,20/10/25,L1,Data,1.0,2.0,120.0,110.0,0.0,10.0,0.0
+Sales,Zillow Group,United States,NY,New York,20/10/24,P3,Display advertising,7.0,7.0,147.0,90.0,4.0,50.0,0.0
+Sales,Oracle,Netherlands,NH,Amsterdam,20/10/23,IC3,Sales,3.0,3.0,114.0,57.0,0.0,57.0,0.0
+Sales,Google,United States,NY,New York,20/10/23,L4,Sales,2.0,6.0,191.0,108.0,40.0,43.0,0.0
+Sales,Google,United States,CA,San Francisco,20/10/23,Account executive,Cloud,3.0,3.0,150.0,100.0,5.0,50.0,0.0
+Sales,Splunk,Belgium,BU,Brussels,20/10/22,P4,Security,1.0,8.0,165.0,100.0,30.0,35.0,0.0
+Sales,Jamf,United States,WI,Milwaukee,20/10/22,2,Sales Engineer,1.0,10.0,109.0,85.0,24.0,0.0,0.0
+Sales,Google,Germany,BY,Munich,20/10/20,L6,Infrastructure,1.0,11.0,308.0,170.0,100.0,38.0,0.0
+Sales,Facebook,Brazil,SP,Sao Paulo,20/10/19,IC5,Enterprise,3.0,12.0,300.0,180.0,50.0,70.0,0.0
+Sales,Microsoft,United States,CA,Sunnyvale,20/10/19,64,Operations,1.0,14.0,395.0,183.0,60.0,150.0,0.0
+Sales,Facebook,United Kingdom,EN,London,20/10/19,IC5,Sales,1.0,8.0,205.0,120.0,50.0,30.0,0.0
+Sales,Oracle,United States,CA,Redwood City,20/10/18,IC1,Enterprise,5.0,7.0,170.0,85.0,0.0,85.0,0.0
+Sales,Accenture,Canada,ON,Toronto,20/10/18,L5,DevOps,11.0,11.0,90.0,90.0,0.0,5.0,0.0
+Sales,Synaptics,United States,CA,San Jose,20/10/18,Senior Sales Manager,Technical,3.0,10.0,252.0,172.0,8.0,72.0,0.0
+Sales,IBM,United States,IN,Ireland,20/10/17,l5,ML / AI,1.0,1.0,70.0,50.0,0.0,20.0,0.0
+Sales,Google,United States,CA,Mountain View,20/10/16,L4,Ads,6.0,6.0,250.0,140.0,50.0,60.0,0.0
+Sales,Microsoft,United States,TX,Austin,20/10/14,65,Consulting,5.0,10.0,500.0,160.0,60.0,280.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/10/14,L4,eCommerce,2.0,4.0,120.0,70.0,40.0,10.0,0.0
+Sales,Facebook,United States,CA,San Francisco,20/10/13,IC3,Sales,4.0,6.0,155.0,125.0,15.0,15.0,0.0
+Sales,Vimeo,United States,NY,New York,20/10/13,L1,sales,3.0,3.0,130.0,65.0,0.0,65.0,0.0
+Sales,MathWorks,United States,MA,Natick,20/10/13,L2,ML / AI,2.0,4.0,117.0,110.0,0.0,7.0,0.0
+Sales,Alteryx,United States,CA,Irvine,20/10/12,L3,Data,7.0,8.0,220.0,130.0,0.0,90.0,0.0
+Sales,Amazon,United States,CA,San Francisco,20/10/12,L7,Strategic Sales,6.0,10.0,450.0,185.0,142.0,123.0,0.0
+Sales,Oracle,United States,VA,Reston,20/10/12,Member of Technical Staff,Other,1.0,1.0,75.0,50.0,0.0,25.0,0.0
+Sales,Cloudflare,United Kingdom,EN,London,20/10/10,3,Growth,1.0,9.0,140.0,70.0,1.0,70.0,0.0
+Sales,Cisco,United States,CA,San Francisco,20/10/10,AM3,Data,10.0,15.0,240.0,120.0,1.0,120.0,0.0
+Sales,Yahoo,India,KA,Bengaluru,20/10/09,Senior manager,sales,11.0,11.0,44.0,38.0,3.0,3.0,0.0
+Sales,Amazon,Germany,BY,Munich,20/10/09,L4,Sales,0.0,1.0,70.0,60.0,3.0,10.0,0.0
+Sales,AWS,United States,WA,Seattle,20/10/09,L4,Field Sales,1.0,3.0,160.0,80.0,15.0,65.0,0.0
+Sales,Tesla,United States,CA,Fremont,20/10/09,Sr. Sales Advisor,Internal,2.0,3.0,89.0,65.0,6.0,16.0,0.0
+Sales,Microsoft,United States,PA,Philadelphia,20/10/08,63,Full Stack,1.0,7.0,234.0,150.0,34.0,50.0,0.0
+Sales,Oracle,United States,DC,Washington,20/10/08,IC2,Full Stack,3.0,3.0,115.0,58.0,0.0,58.0,0.0
+Sales,Google,United States,CA,Redwood City,20/10/08,4,App Promo Sales,4.0,8.0,200.0,105.0,45.0,50.0,0.0
+Sales,Hewlett Packard Enterprise,United States,TX,Austin,20/10/07,L4,SAles manager,6.0,22.0,210.0,130.0,0.0,80.0,0.0
+Sales,Zscaler,Switzerland,ZH,Zurich,20/10/06,Regional Sales Manager,Security,2.0,15.0,275.0,125.0,25.0,125.0,0.0
+Sales,Microsoft,United States,VA,Reston,20/10/06,59,Technical Account Manager,0.0,2.0,87.0,78.0,3.0,6.0,0.0
+Sales,Okta,United States,DC,Washington,20/10/05,Solutions Engineer,Solutions Engineering,0.0,7.0,180.0,130.0,20.0,30.0,0.0
+Sales,Salesforce,United States,CA,San Francisco,20/10/05,Senior,All,1.0,8.0,169.0,153.0,0.0,15.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/10/05,L6,iOS,0.0,7.0,180.0,120.0,5.0,55.0,0.0
+Sales,Microsoft,Germany,BY,Munich,20/10/04,57,Full Stack,1.0,1.0,72.0,55.0,3.0,14.0,0.0
+Sales,Indeed,United States,NY,New York,20/10/04,L2,Data,1.0,3.0,95.0,87.0,0.0,8.0,0.0
+Sales,Okta,United States,DC,Washington,20/10/04,L1,Sales,0.0,1.0,95.0,75.0,20.0,0.0,0.0
+Sales,Accenture,Germany,HE,Frankfurt,20/10/04,Business Analyst,DevOps,0.0,0.0,45.0,40.0,0.0,5.0,0.0
+Sales,Chase,United States,NY,New York,20/10/03,Personal Banker II,Sales,2.0,5.0,43.0,41.0,0.0,2.0,0.0
+Sales,Microsoft,Australia,QL,Brisbane,20/10/03,62,Enterprise,11.0,19.0,235.0,135.0,10.0,90.0,0.0
+Sales,Juniper Networks,United States,CA,Sunnyvale,20/10/02,8Y,Site Reliability (SRE),8.0,13.0,195.0,137.0,0.0,60.0,0.0
+Sales,Samsung,United States,CA,San Jose,20/10/02,8,Enterprise,0.0,16.0,350.0,220.0,0.0,130.0,0.0
+Sales,Amazon,United States,NY,New York,20/10/02,L5,IaaS,1.0,7.0,240.0,160.0,20.0,60.0,0.0
+Sales,Microsoft,United States,NY,New York,20/09/30,63,Enterprise Sales,4.0,10.0,340.0,150.0,30.0,160.0,0.0
+Sales,App Annie,Korea,KG,Seoul,20/09/30,L3,Sales,3.0,3.0,58.0,58.0,0.0,0.0,0.0
+Sales,Microsoft,Canada,BC,Vancouver,20/09/30,61,Sales,10.0,20.0,260.0,125.0,10.0,125.0,0.0
+Sales,Google,Mexico,DF,Mexico,20/09/30,L3,Account Executive for New Business,1.0,5.0,45.0,32.0,5.0,5.0,0.0
+Sales,Headspace,United States,CA,Los Angeles,20/09/29,BDR,Mobile (iOS + Android),1.0,1.0,83.0,60.0,3.0,20.0,0.0
+Sales,IBM,United States,GA,Atlanta,20/09/29,Band 6,Technical,2.0,2.0,96.0,78.0,0.0,18.0,0.0
+Sales,Glassdoor,United States,IL,Chicago,20/09/29,L1,Enterprise,1.0,1.0,57.0,57.0,0.0,0.0,0.0
+Sales,Google,United States,CA,Mountain View,20/09/27,L3,Account Management,2.0,3.0,120.0,120.0,0.0,0.0,0.0
+Sales,Twilio,Singapore,SG,Singapore,20/09/27,P3,Sales,2.0,5.0,114.0,102.0,13.0,0.0,0.0
+Sales,Microsoft,United States,DC,Washington,20/09/27,L65,iOS,18.0,18.0,400.0,195.0,125.0,75.0,0.0
+Sales,Accenture,United States,CA,San Francisco,20/09/26,Senior Manager,Enterprise,13.0,13.0,228.0,177.0,19.0,33.0,0.0
+Sales,Cisco,United States,TX,Austin,20/09/26,Grade 10,Sales,0.0,4.0,247.0,144.0,7.0,96.0,0.0
+Sales,Google,United States,TX,Texas City,20/09/26,L3,Sales,0.0,3.0,80.0,75.0,5.0,0.0,0.0
+Sales,Google,United States,NY,New York,20/09/26,L5,Ads,5.0,11.0,292.0,160.0,18.0,112.0,0.0
+Sales,VMware,United States,GA,Atlanta,20/09/25,P1,Renewals,1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Sales,Oracle,United States,CA,Santa Monica,20/09/25,SDR,Cloud,1.0,1.0,78.0,50.0,0.0,23.0,0.0
+Sales,Nationwide,United States,OH,Columbus,20/09/25,L4,Product,1.0,20.0,135.0,60.0,0.0,75.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/09/25,l5,account manager,1.0,7.0,280.0,150.0,65.0,65.0,0.0
+Sales,AWS,United States,CA,Los Angeles,20/09/25,L7,Sales,3.0,17.0,360.0,160.0,100.0,100.0,0.0
+Sales,IBM,United States,TX,Dallas,20/09/24,Band 7,Security,2.0,6.0,185.0,115.0,0.0,70.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/09/24,L4,Growth,0.0,3.0,140.0,80.0,10.0,50.0,0.0
+Sales,IBM,United States,OH,Cincinnati,20/09/23,Band 9,Technical,2.0,17.0,215.0,145.0,0.0,70.0,0.0
+Sales,Dell,Austria,WI,Vienna,20/09/23,S7,Sales,2.0,10.0,180.0,90.0,0.0,90.0,0.0
+Sales,Cisco,United States,NY,New York,20/09/23,Grade 9,Security,3.0,5.0,205.0,98.0,5.0,103.0,0.0
+Sales,Oracle,Australia,NS,Sydney,20/09/22,L7,GSI,1.0,20.0,330.0,180.0,30.0,120.0,0.0
+Sales,Google,United States,TX,Austin,20/09/22,L3,Data,1.0,2.0,75.0,75.0,0.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/09/22,L5,Advertising,4.0,4.0,250.0,85.0,125.0,40.0,0.0
+Sales,Microsoft,United States,GA,Atlanta,20/09/22,64,Data,9.0,9.0,260.0,145.0,25.0,90.0,0.0
+Sales,Indeed,United States,NY,New York,20/09/22,Senior,Account Executive,4.0,4.0,175.0,70.0,4.0,100.0,0.0
+Sales,Lyft,United States,CA,San Francisco,20/09/22,L5,Sales,2.0,12.0,130.0,79.0,4.0,51.0,0.0
+Sales,Cisco,United States,NY,New York,20/09/21,Grade 9,Networking,6.0,7.0,160.0,120.0,0.0,40.0,0.0
+Sales,Salesforce,United States,WA,Seattle,20/09/21,L5,SaaS,3.0,9.0,160.0,80.0,0.0,80.0,0.0
+Sales,Oracle,Japan,TY,Tokyo,20/09/21,Senior Manager,Data,1.0,24.0,265.0,118.0,118.0,29.0,0.0
+Sales,Salesforce,Hong Kong (SAR),HK,Hong Kong,20/09/20,AE 7,Enterprise,2.0,9.0,180.0,90.0,0.0,90.0,0.0
+Sales,PNC,United States,OH,Cincinnati,20/09/20,RM II,Sales,9.0,9.0,225.0,78.0,0.0,150.0,0.0
+Sales,Docusign,United States,WA,Seattle,20/09/19,P3,Sales,3.0,6.0,280.0,80.0,120.0,80.0,0.0
+Sales,Amazon,United States,TX,Austin,20/09/18,L5,Cloud,1.0,7.0,240.0,180.0,60.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/09/18,L5,Sales,2.0,10.0,256.0,132.0,52.0,72.0,0.0
+Sales,Microsoft,Ireland,DN,Dublin,20/09/18,60,Sales,6.0,9.0,126.0,75.0,6.0,45.0,0.0
+Sales,Google,United States,NY,New York,20/09/17,L4,SMB Ad Sales,1.0,4.0,174.0,108.0,16.0,49.0,0.0
+Sales,Amazon,United States,NC,Raleigh,20/09/17,L6,Sales,0.0,10.0,300.0,156.0,46.0,100.0,0.0
+Sales,Stripe,United States,CA,San Francisco,20/09/17,L3,ACCOUNT MANAGEMENT,3.0,8.0,150.0,125.0,0.0,25.0,0.0
+Sales,ORACLE,United States,CA,San Francisco,20/09/16,IC4,Data,5.0,12.0,225.0,125.0,15.0,85.0,0.0
+Sales,Tipalti,United States,CA,San Mateo,20/09/16,SDR,Sales Development,1.0,1.0,85.0,60.0,0.0,25.0,0.0
+Sales,Facebook,United States,CA,San Francisco,20/09/14,IC5,Sales,2.0,5.0,305.0,175.0,30.0,100.0,0.0
+Sales,Amazon,United States,NY,New York,20/09/13,L5,Sales,2.0,14.0,225.0,133.0,35.0,57.0,0.0
+Sales,Globant,United States,CA,San Francisco,20/09/13,Vice president,Growth,0.0,20.0,345.0,215.0,0.0,130.0,0.0
+Sales,Google,India,HR,Gurgaon,20/09/12,L4,Growth,6.0,6.0,63.0,35.0,15.0,13.0,0.0
+Sales,Google,United States,DC,Washington,20/09/12,L6,Cloud,1.0,25.0,310.0,155.0,90.0,65.0,0.0
+Sales,Facebook,Singapore,SG,Singapore,20/09/12,L5,SALES,1.0,8.0,295.0,170.0,15.0,110.0,0.0
+Sales,Microsoft,United States,CA,San Francisco,20/09/12,64,Enterprise Sales,3.0,25.0,270.0,190.0,20.0,60.0,0.0
+Sales,Juniper Networks,Netherlands,NH,Amsterdam,20/09/11,L3,Networking,1.0,1.0,75.0,40.0,0.0,30.0,0.0
+Sales,Cisco,United States,CA,San Francisco,20/09/11,Grade 10,Partners,4.0,6.0,180.0,145.0,10.0,25.0,0.0
+Sales,Google,United States,FL,Jacksonville,20/09/11,L5,Site Reliability (SRE),2.0,5.0,100.0,70.0,0.0,30.0,0.0
+Sales,Accenture,United States,WA,Seattle,20/09/10,Manager,Security,1.0,15.0,280.0,120.0,40.0,120.0,0.0
+Sales,Microsoft,United States,MO,St. Louis,20/09/10,63,Enterprise,4.0,6.0,243.0,130.0,10.0,103.0,0.0
+Sales,Google,Ireland,DN,Dublin,20/09/10,L3,ML / AI,1.0,3.0,94.0,50.0,11.0,33.0,0.0
+Sales,Salesforce,United States,IL,Chicago,20/09/10,Senior Account Executive,Service,1.0,14.0,300.0,150.0,0.0,150.0,0.0
+Sales,Akamai,United States,IL,Chicago,20/09/09,L4,Growth,2.0,5.0,180.0,120.0,0.0,60.0,0.0
+Sales,Cisco,United States,IL,Chicago,20/09/09,Grade 10,Networking,6.0,11.0,226.0,170.0,0.0,56.0,0.0
+Sales,Google,Singapore,SG,Singapore,20/09/09,L3,Adtech,2.0,5.0,77.0,67.0,5.0,10.0,0.0
+Sales,Oracle,United Kingdom,EN,London,20/09/09,IC4,Enterprise,2.0,9.0,157.0,97.0,0.0,60.0,0.0
+Sales,Facebook,United States,NY,New York,20/09/08,IC4,Client Solutions Manager,2.0,5.0,183.0,121.0,22.0,40.0,0.0
+Sales,Groupon,United States,IL,Chicago,20/09/06,Business Development Representative,Marketing,1.0,5.0,52.0,40.0,0.0,13.0,0.0
+Sales,Amazon,United States,TX,Houston,20/09/06,L5,AWS,0.0,10.0,230.0,130.0,46.0,54.0,0.0
+Sales,Amazon,Japan,TY,Tokyo,20/09/06,L6,Sales,4.0,4.0,210.0,120.0,40.0,50.0,0.0
+Sales,ByteDance,United States,WA,Seattle,20/09/05,L1,Operations,1.0,1.0,150.0,125.0,25.0,0.0,0.0
+Sales,Microsoft,Canada,ON,Toronto,20/09/05,60,tech sales,4.0,11.0,206.0,110.0,6.0,90.0,0.0
+Sales,Cisco,United States,CA,San Francisco,20/09/05,Grade 11,Enterprise,12.0,15.0,320.0,170.0,10.0,140.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/09/04,L5,iOS,4.0,4.0,225.0,105.0,60.0,60.0,0.0
+Sales,Twilio,United States,NY,New York,20/09/04,Principal Solutions Engineer,Sales,1.0,5.0,285.0,152.0,95.0,38.0,0.0
+Sales,Paypal,United States,GA,Dublin,20/09/04,L3,Sales,4.0,6.0,120.0,100.0,10.0,10.0,0.0
+Sales,Oracle,United States,TX,Austin,20/09/04,L3,Data,5.0,12.0,176.0,88.0,0.0,88.0,0.0
+Sales,IBM,United States,NY,New York,20/09/04,Band 8,Sales,2.0,15.0,250.0,135.0,0.0,115.0,0.0
+Sales,Amazon,Australia,NS,Sydney,20/09/04,L6,All,1.0,11.0,410.0,200.0,50.0,160.0,0.0
+Sales,Microsoft,United Kingdom,EN,Reading,20/09/03,62,User Journey,3.0,21.0,195.0,120.0,13.0,62.0,0.0
+Sales,Google,Germany,HH,Hamburg,20/09/03,L5,Cloud,8.0,8.0,248.0,87.0,25.0,131.0,0.0
+Sales,LinkedIn,United States,IL,Chicago,20/09/02,SMB,Sales,2.0,2.0,120.0,60.0,2.0,60.0,0.0
+Sales,Oracle,United States,CA,San Diego,20/09/01,IC4,Business Development,6.0,15.0,200.0,120.0,0.0,80.0,0.0
+Sales,Google,United States,CA,San Francisco,20/09/01,L7,Enterprise,10.0,20.0,802.0,182.0,120.0,500.0,0.0
+Sales,Apple,Singapore,SG,Singapore,20/08/30,IC3,iOS,1.0,8.0,128.0,70.0,8.0,50.0,0.0
+Sales,Microsoft,Israel,TA,Tel Aviv,20/08/30,62,Azure Specialist,4.0,20.0,219.0,132.0,9.0,78.0,0.0
+Sales,Turbonomic,United States,CA,San Francisco,20/08/29,L5,Enterprise,6.0,8.0,290.0,140.0,10.0,140.0,0.0
+Sales,Pinterest,United States,CA,San Francisco,20/08/28,L4,Sales,2.0,8.0,190.0,102.0,40.0,48.0,0.0
+Sales,Pinterest,United States,CA,San Francisco,20/08/28,L3,Sales,2.0,7.0,204.0,102.0,0.0,102.0,0.0
+Sales,HubSpot,United States,MA,Cambridge,20/08/27,BDR,Sales,0.0,1.0,50.0,50.0,2.0,0.0,0.0
+Sales,Google,United States,CA,San Francisco,20/08/27,L3,Ad Sales,4.0,4.0,153.0,88.0,30.0,35.0,0.0
+Sales,Amazon,United States,IL,Chicago,20/08/27,L6,AWS,1.0,11.0,300.0,150.0,50.0,100.0,0.0
+Sales,MongoDB,United States,TX,Austin,20/08/27,Corporate Account Executive,Sales,1.0,2.0,138.0,120.0,18.0,0.0,0.0
+Sales,Alibaba,Singapore,SG,Singapore,20/08/26,P8,Public Policy,1.0,15.0,250.0,200.0,40.0,10.0,0.0
+Sales,google,United States,CA,San Francisco,20/08/26,3,Cloud,2.0,7.0,215.0,105.0,40.0,70.0,0.0
+Sales,Wayfair,United States,OR,Eugene,20/08/26,L1,TeleSales,1.0,1.0,100.0,30.0,0.0,71.0,0.0
+Sales,Indeed,United Kingdom,EN,London,20/08/25,L2,National account manager,3.0,5.0,230.0,85.0,15.0,130.0,0.0
+Sales,Compass,United States,NY,New York,20/08/25,Manager,Real estate,5.0,8.0,75.0,50.0,0.0,25.0,0.0
+Sales,Oracle,United States,CA,San Francisco,20/08/25,IC2,Enterprise,2.0,4.0,120.0,100.0,0.0,20.0,0.0
+Sales,Informatica,United States,OH,Columbus,20/08/24,Senior,Data,5.0,6.0,140.0,105.0,0.0,35.0,0.0
+Sales,Google,Japan,TY,Tokyo,20/08/23,L5,Sales,2.0,12.0,190.0,110.0,40.0,40.0,0.0
+Sales,BYJU'S,India,KA,Bangalore,20/08/21,Manager,SALES,3.0,3.0,19.0,19.0,0.0,0.0,0.0
+Sales,Optiv,United States,CA,San Francisco,20/08/21,Client manager,Security,1.0,3.0,120.0,90.0,0.0,30.0,0.0
+Sales,DocuSign,United States,CA,San Francisco,20/08/20,P4,Solution Engineer,1.0,5.0,200.0,150.0,20.0,30.0,0.0
+Sales,Amazon,United States,DC,Washington,20/08/20,L5,sales,0.0,5.0,187.0,125.0,38.0,24.0,0.0
+Sales,Compass,United States,CA,San Francisco,20/08/20,L3,Growth,2.0,10.0,260.0,120.0,20.0,120.0,0.0
+Sales,Microsoft,United States,NY,New York,20/08/18,62,Enterprise,1.0,5.0,257.0,130.0,20.0,107.0,0.0
+Sales,Amazon,India,KA,Bangalore,20/08/18,L6,Infrastructure,3.0,7.0,150.0,90.0,40.0,20.0,0.0
+Sales,Microsoft,Singapore,SG,Singapore,20/08/18,65,Business Development,6.0,20.0,336.0,200.0,36.0,100.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/08/16,67,Sales,1.0,19.0,500.0,230.0,200.0,70.0,0.0
+Sales,Capgemini,United States,NJ,Jersey City,20/08/15,Sr Manager,Sales,7.0,12.0,178.0,140.0,10.0,28.0,0.0
+Sales,Google,United States,MA,Boston,20/08/15,L6,Sales,1.0,12.0,370.0,120.0,70.0,180.0,0.0
+Sales,Google,United States,NY,New York,20/08/15,L6,Sales,1.0,10.0,350.0,120.0,50.0,180.0,0.0
+Sales,Zoom,United Kingdom,EN,London,20/08/14,Senior,Growth,0.0,10.0,300.0,118.0,65.0,118.0,0.0
+Sales,Google,United States,WA,Seattle,20/08/13,L5,Ads,14.0,15.0,304.0,159.0,50.0,95.0,0.0
+Sales,Pinterest,United States,CA,San Francisco,20/08/13,L4,Sales,5.0,7.0,280.0,125.0,30.0,125.0,0.0
+Sales,AWS,United States,ND,Munich,20/08/11,L4,Sales,2.0,4.0,91.0,52.0,10.0,30.0,0.0
+Sales,GE Digital,United States,MA,Boston,20/08/11,EB,Growth,3.0,15.0,650.0,240.0,5.0,405.0,0.0
+Sales,Cloudflare,United States,CA,San Francisco,20/08/11,L1,Networking,1.0,1.0,93.0,60.0,10.0,23.0,0.0
+Sales,Johnson & Johnson,United States,NJ,Skillman,20/08/11,Director,Consumer,3.0,13.0,304.0,204.0,50.0,50.0,0.0
+Sales,Microsoft,United Kingdom,EN,London,20/08/08,63,Account manager,9.0,13.0,270.0,125.0,30.0,115.0,0.0
+Sales,Microsoft,United States,NY,New York,20/08/08,61,Teams,3.0,3.0,165.0,122.0,3.0,40.0,0.0
+Sales,Google,United States,DC,Washington,20/08/07,L6,ML / AI,2.0,20.0,360.0,190.0,90.0,80.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/08/07,L5,Site Reliability (SRE),4.0,7.0,200.0,130.0,70.0,0.0,0.0
+Sales,ByteDance,India,KA,Bangalore,20/08/06,G4,Growth,0.0,3.0,32.0,32.0,0.0,0.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/08/06,67,Full Stack,10.0,20.0,600.0,220.0,200.0,180.0,0.0
+Sales,Microsoft,United States,DC,Washington,20/08/06,61,Sales,3.0,3.0,315.0,110.0,8.0,197.0,0.0
+Sales,Google,United States,TX,Austin,20/08/05,L5,Data,3.0,12.0,320.0,230.0,50.0,40.0,0.0
+Sales,Roche,United States,IN,Indianapolis,20/08/05,11,Mobile (iOS + Android),5.0,5.0,100.0,100.0,0.0,0.0,0.0
+Sales,Snapchat,United States,CA,Los Angeles,20/08/04,L3,Mobile (iOS + Android),2.0,7.0,173.0,108.0,15.0,50.0,0.0
+Sales,Microsoft,United States,DC,Washington,20/08/04,60,Security,1.0,1.0,195.0,95.0,5.0,95.0,0.0
+Sales,Procter & Gamble,Canada,ON,Toronto,20/08/03,L3,,1.0,1.0,52.0,52.0,0.0,0.0,0.0
+Sales,Flexport,United States,CA,San Francisco,20/08/03,M3,None,2.0,8.0,270.0,130.0,50.0,90.0,0.0
+Sales,Google,United States,NY,New York,20/08/03,L4,Cloud,3.0,10.0,224.0,180.0,44.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/08/03,4,Sales,1.0,2.0,156.0,89.0,7.0,60.0,0.0
+Sales,Yelp,United States,NY,New York,20/08/02,Mid Market,Mid Market Account Executive,5.0,5.0,108.0,73.0,5.0,30.0,0.0
+Sales,Amazon,United States,CA,Los Angeles,20/08/02,L7,sales,7.0,20.0,310.0,160.0,150.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/08/02,L4,iOS,1.0,1.0,150.0,100.0,50.0,0.0,0.0
+Sales,Microsoft,United States,PA,Philadelphia,20/08/01,65,Enterprise,4.0,11.0,375.0,147.0,40.0,185.0,0.0
+Sales,Yelp,United States,CA,San Francisco,20/07/31,Account executive,Sales,1.0,3.0,65.0,50.0,0.0,15.0,0.0
+Sales,Twilio,United States,NY,New York,20/07/31,L4,Sales,6.0,8.0,239.0,179.0,0.0,60.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/07/31,67,Full Stack,10.0,21.0,1.0,220.0,560.0,240.0,0.0
+Sales,Refinitiv,United States,DC,Washington,20/07/31,L2,None,3.0,3.0,129.0,107.0,0.0,22.0,0.0
+Sales,Red Hat,United States,NC,Raleigh,20/07/31,L1,Linux,1.0,6.0,140.0,95.0,15.0,30.0,0.0
+Sales,Capgemini,United States,NY,New York,20/07/31,D,Sales,7.0,10.0,215.0,145.0,40.0,30.0,0.0
+Sales,Twilio,Singapore,SG,Singapore,20/07/30,P2,Sales,2.0,4.0,108.0,95.0,13.0,0.0,0.0
+Sales,Amazon,Germany,BE,Berlin,20/07/29,L5,AWS,2.0,6.0,130.0,70.0,25.0,35.0,0.0
+Sales,Amazon,United States,NY,New York,20/07/29,L6,sales,4.0,15.0,442.0,191.0,60.0,191.0,0.0
+Sales,Microsoft,United States,DC,Washington,20/07/28,63,Security,2.0,7.0,220.0,160.0,20.0,40.0,0.0
+Sales,Microsoft,United States,NY,New York,20/07/28,61,Cloud Sales,1.0,3.0,230.0,120.0,50.0,60.0,0.0
+Sales,Microsoft,United States,CA,San Jose,20/07/27,64,Cloud,5.0,7.0,280.0,170.0,35.0,75.0,0.0
+Sales,Molex,United States,CA,Fremont,20/07/27,Account Manager,Hardware manufacturing,4.0,8.0,175.0,130.0,0.0,45.0,0.0
+Sales,Amazon,Japan,TY,Tokyo,20/07/27,L6,Sales,2.0,15.0,165.0,120.0,5.0,40.0,0.0
+Sales,Oracle,United States,CA,Redwood City,20/07/26,IC-2,Full Stack,5.0,5.0,78.0,48.0,0.0,30.0,0.0
+Sales,Microsoft,United States,TX,Austin,20/07/24,64,Sales,4.0,12.0,440.0,160.0,110.0,170.0,0.0
+Sales,Qualtrics,United States,UT,Provo,20/07/24,L3,Sales,1.0,12.0,180.0,87.0,5.0,88.0,0.0
+Sales,Blue Yonder,United States,TX,Dallas,20/07/23,L1,ML / AI,1.0,3.0,100.0,80.0,20.0,0.0,0.0
+Sales,Indeed,United States,NY,New York,20/07/23,Manager,None,3.0,7.0,200.0,200.0,0.0,0.0,0.0
+Sales,Facebook,Singapore,SG,Singapore,20/07/22,L7,Sales,6.0,18.0,240.0,180.0,40.0,20.0,0.0
+Sales,Esri,United States,CA,Redlands,20/07/22,Account Executive,ML / AI,3.0,22.0,215.0,215.0,0.0,0.0,0.0
+Sales,Zendesk,United States,CA,San Francisco,20/07/22,Analyst,Site Reliability (SRE),2.0,2.0,93.0,75.0,15.0,3.0,0.0
+Sales,ExtraHop,United States,VA,Reston,20/07/22,Director,Security,6.0,11.0,250.0,160.0,10.0,80.0,0.0
+Sales,Arista Networks,United States,CA,Santa Clara,20/07/21,L4,Networking,8.0,20.0,350.0,160.0,150.0,40.0,0.0
+Sales,Dropbox,United States,NY,New York,20/07/21,M5,Full Stack,3.0,12.0,300.0,280.0,20.0,0.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/07/21,65,Alliances,6.0,13.0,280.0,144.0,100.0,36.0,0.0
+Sales,TriNet,United States,FL,Sarasota,20/07/21,L2,Sales,3.0,6.0,100.0,48.0,0.0,52.0,0.0
+Sales,Cvent,United States,CA,San Diego,20/07/20,Assistant Team Lead,Salesforce,3.0,4.0,80.0,64.0,0.0,16.0,0.0
+Sales,Amazon,Germany,BY,Munich,20/07/20,l5,Full Stack,0.0,8.0,155.0,90.0,10.0,55.0,0.0
+Sales,Oracle,Canada,QC,Montreal,20/07/19,IC-5,Sales,2.0,8.0,120.0,60.0,0.0,60.0,0.0
+Sales,Google,United States,MI,Lansing,20/07/19,L3,Sales,3.0,3.0,100.0,100.0,0.0,0.0,0.0
+Sales,IBM,United States,TX,Dallas,20/07/18,Band 7,Security,2.0,5.0,185.0,115.0,0.0,70.0,0.0
+Sales,Microsoft,United States,WA,Seattle,20/07/17,65,ML / AI,6.0,10.0,320.0,160.0,20.0,140.0,0.0
+Sales,Amazon,Taiwan,TP,Taipei,20/07/14,L4,eCommerce,2.0,5.0,50.0,20.0,20.0,10.0,0.0
+Sales,Amazon,United States,DC,Washington,20/07/12,L5,Start ups,0.0,2.0,195.0,165.0,0.0,31.0,0.0
+Sales,Google,United States,IL,Chicago,20/07/11,L6,SALES,5.0,15.0,300.0,140.0,60.0,99.0,0.0
+Sales,General Assembly,United States,NY,New York,20/07/09,Manager,Sales,1.0,6.0,90.0,90.0,0.0,0.0,0.0
+Sales,Uber,United States,IL,Chicago,20/07/06,L6,iOS,1.0,15.0,370.0,210.0,118.0,42.0,0.0
+Sales,AWS,Korea,KG,Seoul,20/06/27,L5,sales,1.0,13.0,130.0,95.0,25.0,10.0,0.0
+Sales,Twitter,France,IL,Paris,20/05/12,4,Sales,1.0,7.0,120.0,65.0,10.0,45.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/04/17,IC7,Sales,2.0,20.0,360.0,160.0,120.0,80.0,0.0
+Sales,Wix,United States,NY,New York,20/03/29,Associate,Sales,1.0,3.0,118.0,60.0,8.0,50.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/02/27,L6,Sales,3.0,9.0,260.0,125.0,80.0,55.0,0.0
+Sales,Amazon,United States,WA,Seattle,20/02/25,L4,Full Stack,1.0,1.0,130.0,80.0,20.0,30.0,0.0
+Sales,JPMorgan Chase,United Kingdom,EN,London,20/01/24,Vice President,Sales,8.0,8.0,160.0,121.0,0.0,39.0,0.0
+Sales,Dell Technologies,United States,IL,Chicago,19/10/20,Account Executive 3,Sales,5.0,5.0,416.0,208.0,0.0,208.0,0.0
+Sales,Cisco,United States,NY,New York,19/08/15,Global account manager,Sales,8.0,8.0,280.0,,,,0.0
+Sales,Microsoft,United States,DC,Washington,19/08/14,Senior Manager,Sales,2.0,11.0,207.0,,,,0.0
+Sales,Ericsson,United States,NJ,Piscataway,19/06/27,Senior,Telecom,10.0,13.0,250.0,150.0,20.0,80.0,0.0
+Sales,LinkedIn,United States,CA,San Francisco,19/05/22,Senior Director,Sales,3.0,15.0,500.0,,,,0.0
+Sales,Amazon,Singapore,SG,Singapore,19/04/21,L7,Sales,1.0,15.0,500.0,300.0,100.0,100.0,0.0
+Sales,Amazon,United States,CA,San Francisco,19/03/16,Sales Leader,Sales,1.0,25.0,300.0,200.0,0.0,100.0,0.0
+Sales,Asurion,United States,TX,Dallas,19/03/08,Staff,Client relations,1.5,6.0,90.0,,,,0.0
+Sales,Microsoft,United States,DC,Washington,19/01/27,64,Cloud,4.0,20.0,270.0,165.0,50.0,60.0,0.0
+Sales,Google,United States,CA,San Francisco,18/12/26,L6,Sales,1.0,15.0,518.0,165.0,100.0,253.0,0.0
+Sales,Akamai,United States,WA,Seattle,18/10/09,Vice President,Sales,2.0,25.0,615.0,265.0,250.0,100.0,0.0

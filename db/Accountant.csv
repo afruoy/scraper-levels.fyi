@@ -1,0 +1,395 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Deloitte,Canada,QC,Montreal,22/01/03,Senior Manager,Tax,6.0,6.0,105.0,95.0,0.0,10.0,0
+Accountant,American Airlines,United States,TX,Fort Worth,22/01/03,L4,General,3.0,3.0,85.0,85.0,0.0,0.0,0
+Accountant,Procter & Gamble,United States,OH,Cincinnati,21/12/28,B2,general,5.0,5.0,146.0,130.0,8.0,8.0,0
+Accountant,Liberty Mutual,United States,MA,Boston,21/12/27,17,Finance,3.0,5.0,167.0,145.0,0.0,22.0,0
+Accountant,PwC,Canada,BC,Vancouver,21/12/27,Associate,Tax,0.0,0.0,41.0,41.0,0.0,0.0,0
+Accountant,ExxonMobil,United States,TX,Spring,21/12/22,L23,Upstream,2.0,2.0,95.0,95.0,0.0,0.0,0
+Accountant,Wayfair,United States,MA,Boston,21/12/20,L2,Financial Operations,0.0,3.0,105.0,95.0,0.0,10.0,0
+Accountant,Capital One,United States,TX,Plano,21/12/16,3,Fintech,2.0,20.0,70.0,67.0,0.0,3.0,0
+Accountant,Deloitte Advisory,United States,IL,Chicago,21/12/16,Analyst 1,Assurance,1.0,1.0,78.0,73.0,0.0,5.0,0
+Accountant,Deloitte,United States,CA,San Francisco,21/12/15,Senior Consultant,Tax Accountant,2.0,7.0,124.0,110.0,0.0,14.0,0
+Accountant,Cummins Inc,United States,IN,Columbus,21/12/15,Director,General,10.0,17.0,289.0,191.0,50.0,48.0,0
+Accountant,Deloitte,United States,VA,West McLean,21/12/10,Senior 1,EBP,1.0,3.0,126.0,96.0,0.0,30.0,0
+Accountant,Finastra,United States,TX,Austin,21/12/10,Senior,Tax,1.0,4.0,96.0,87.0,0.0,9.0,0
+Accountant,KPMG,United States,MA,Boston,21/12/09,Director,Risk,10.0,10.0,190.0,175.0,0.0,15.0,0
+Accountant,KPMG,Italy,LA,Rome,21/12/09,L1,accountant,1.0,1.0,17.0,17.0,0.0,0.0,0
+Accountant,PwC,United States,CA,San Jose,21/12/08,Manager,Audit,10.0,10.0,180.0,170.0,0.0,10.0,0
+Accountant,Facebook,United States,CA,Menlo Park,21/12/06,M2,Audit,3.0,12.0,325.0,225.0,45.0,55.0,0
+Accountant,PagerDuty,United States,TN,Franklin,21/12/05,Mid level,General,1.0,5.0,90.0,80.0,10.0,0.0,0
+Accountant,Ernst and Young,United States,CA,Redwood City,21/12/05,L1,Audit and Assurance,1.0,1.0,75.0,70.0,0.0,5.0,0
+Accountant,KPMG,United States,TX,Dallas,21/12/02,Director,Compliance,11.0,11.0,190.0,180.0,0.0,10.0,0
+Accountant,KPMG,United States,TX,Houston,21/11/30,Director,Risk,11.0,11.0,195.0,180.0,0.0,15.0,0
+Accountant,Amazon,United States,WA,Seattle,21/11/26,L6,Finance,0.0,10.0,172.0,130.0,5.0,37.0,0
+Accountant,Microsoft,United States,WA,Seattle,21/11/25,62,Finance,3.0,15.0,155.0,129.0,16.0,10.0,0
+Accountant,Amazon,United States,WA,Seattle,21/11/23,L6.5,Tax,3.0,9.0,195.0,135.0,50.0,10.0,0
+Accountant,Amazon,United States,VA,Arlington,21/11/22,L5,Finance & Business Operations,1.0,7.0,151.0,101.0,30.0,20.0,0
+Accountant,Amazon,United States,WA,Seattle,21/11/18,L6,Finance Program Manager,4.0,10.0,190.0,115.0,75.0,0.0,0
+Accountant,Facebook,United States,TX,Austin,21/11/16,IC5,General,1.0,10.0,186.0,135.0,30.0,21.0,0
+Accountant,Google,United States,CA,Mountain View,21/11/15,L5,Senior Financial Analyst,0.0,6.0,211.0,157.0,30.0,24.0,0
+Accountant,KPMG,United States,UT,Salt Lake City,21/11/12,Senior Consultant,Tax,4.0,4.0,88.0,85.0,0.0,3.0,0
+Accountant,Grant Thornton,United States,TX,Dallas,21/11/12,S3,Audit,4.0,4.0,87.0,79.0,0.0,8.0,0
+Accountant,Grant Thornton,United States,GA,Atlanta,21/11/10,Senior Associate,Tax,2.0,2.0,86.0,83.0,0.0,3.0,0
+Accountant,Citi,United States,FL,Jacksonville,21/11/10,C13,Lead Financial Analyst,7.0,7.0,150.0,135.0,0.0,15.0,0
+Accountant,PwC,United States,CO,Denver,21/11/10,Manager,Deals,5.0,5.0,140.0,124.0,0.0,16.0,0
+Accountant,Grant Thornton,United States,PA,Philadelphia,21/11/09,Senior associate,General,3.0,3.0,90.0,80.0,0.0,10.0,0
+Accountant,Grant Thornton,United States,PA,Philadelphia,21/11/08,A2,General,1.0,1.0,65.0,64.0,0.0,2.0,0
+Accountant,Citi,United States,FL,Jacksonville,21/11/04,Vice President,Finance,7.0,7.0,106.0,99.0,0.0,7.0,0
+Accountant,LinkedIn,United States,CA,Los Angeles,21/11/03,M4,Finance,1.0,5.0,232.0,155.0,46.0,31.0,0
+Accountant,Stripe,United States,CA,San Francisco,21/11/03,L4,Finance,2.0,10.0,455.0,220.0,200.0,35.0,0
+Accountant,Amazon,Ireland,DN,Dublin,21/10/31,L4,Aws,0.0,8.0,113.0,100.0,13.0,0.0,0
+Accountant,Johnson & Johnson,United States,NJ,New Brunswick,21/10/29,Senior Financial Analyst,Supply Chain,2.0,2.0,106.0,96.0,0.0,10.0,0
+Accountant,Crowe,United States,NY,New York,21/10/29,Staff,financial services,0.0,0.0,74.0,72.0,0.0,2.0,0
+Accountant,Google,United States,CA,San Francisco,21/10/28,L4,finance,2.0,2.0,200.0,150.0,30.0,20.0,0
+Accountant,Amazon,India,KA,Bangalore,21/10/25,L6,General,1.0,10.0,56.0,43.0,9.0,4.0,0
+Accountant,Deloitte,United States,LA,New Orleans,21/10/23,Consultant,GPS,1.0,11.0,80.0,80.0,0.0,0.0,0
+Accountant,Unity Technologies,United States,CA,San Francisco,21/10/22,6,Revenue,2.0,4.0,215.0,105.0,110.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,21/10/21,L6,Acoountant,0.0,9.0,206.0,155.0,32.0,19.0,0
+Accountant,Amazon,United States,VA,Arlington,21/10/20,L5,Systems Integration,1.0,5.0,121.0,90.0,19.0,13.0,0
+Accountant,Roku,United States,CA,San Jose,21/10/18,L4,Ads,4.0,7.0,150.0,128.0,23.0,0.0,0
+Accountant,Cognizant,United States,NJ,Bridgewater,21/10/17,L9,Account management,7.0,20.0,298.0,218.0,20.0,60.0,0
+Accountant,Cimpress,United States,MA,Boston,21/10/17,2,Audit,1.0,5.0,80.0,80.0,0.0,0.0,0
+Accountant,Amazon,United States,DC,Washington,21/10/14,L5,Systems integration,6.0,6.0,135.0,98.0,5.0,32.0,0
+Accountant,BDO,United States,CA,San Jose,21/10/13,L5,Audit,3.0,3.0,97.0,92.0,0.0,5.0,0
+Accountant,PlayStation,United States,CA,San Mateo,21/10/12,L5,General,4.0,12.0,177.0,142.0,0.0,35.0,0
+Accountant,Google,United States,CA,San Francisco,21/10/08,L4,Financial Planning & Analysis,3.0,7.0,188.0,128.0,40.0,20.0,0
+Accountant,KPMG,India,KA,Bengaluru,21/10/02,Manager,Auditing,7.0,12.0,41.0,37.0,0.0,4.0,0
+Accountant,Amazon,United States,DC,Washington,21/10/02,L5,General,0.0,8.0,205.0,156.0,29.0,20.0,0
+Accountant,Twitch,United States,CA,San Francisco,21/09/30,L8,Accounting,1.0,20.0,600.0,185.0,115.0,300.0,0
+Accountant,NBCUniversal,United States,DC,Washington,21/09/28,L3,Finance,2.0,4.0,80.0,80.0,0.0,0.0,0
+Accountant,Tesla,United States,UT,Draper,21/09/28,L1,General,0.0,1.0,91.0,78.0,13.0,0.0,0
+Accountant,Microsoft,United States,WA,Seattle,21/09/28,62,Finance,11.0,11.0,162.0,128.0,22.0,12.0,0
+Accountant,Uber,United States,CA,San Francisco,21/09/25,L5,GL,2.0,12.0,265.0,145.0,100.0,20.0,0
+Accountant,PwC,United States,NY,New York,21/09/23,Manager,IT Audit,5.0,5.0,145.0,135.0,0.0,10.0,0
+Accountant,Nike,United States,OR,Portland,21/09/20,S,Finance,15.0,18.0,449.0,254.0,110.0,85.0,0
+Accountant,Microsoft,United States,WA,Redmond,21/09/20,62,General,9.0,12.0,159.0,127.0,19.0,13.0,0
+Accountant,Blend,United States,CA,San Francisco,21/09/15,IC2,General,1.0,5.0,105.0,100.0,0.0,5.0,0
+Accountant,Google,United States,CA,Los Angeles,21/09/10,L5,Accounting,0.0,8.0,183.0,135.0,28.0,20.0,0
+Accountant,Baker Hughes,United States,TX,Houston,21/09/01,Lead,Treasury,3.0,3.0,94.0,86.0,0.0,8.0,0
+Accountant,Adobe,United States,CA,San Jose,21/09/01,M60,Accounting,4.0,23.0,405.0,210.0,130.0,65.0,0
+Accountant,Amazon,United States,WA,Seattle,21/08/31,L4,Accounting,0.0,0.0,87.0,67.0,10.0,10.0,0
+Accountant,amazon,United States,CA,Los Angeles,21/08/30,L6.5,Device,0.0,11.0,223.0,155.0,6.0,62.0,0
+Accountant,KPMG,Israel,TA,Tel Aviv,21/08/30,Senior Consultant,General,0.0,3.0,41.0,41.0,0.0,0.0,0
+Accountant,KPMG,Canada,AB,Edmonton,21/08/28,Staff Accountant,Audit/Assurance,0.0,0.0,37.0,36.0,0.0,1.0,0
+Accountant,US Navy,United States,CA,San Diego,21/08/25,GS14,Defense,4.0,10.0,155.0,149.0,0.0,6.0,0
+Accountant,Amazon,United States,CA,Sunnyvale,21/08/24,L5,Finance,1.0,4.0,120.0,102.0,18.0,0.0,0
+Accountant,Capital One,United States,VA,Richmond,21/08/20,Principal Associate,Ab,2.0,7.0,111.0,101.0,2.0,8.0,0
+Accountant,Bank of America,United States,NC,Charlotte,21/08/18,B5,Wealth management,2.0,2.0,87.0,82.0,0.0,5.0,0
+Accountant,Facebook,United States,CA,Menlo Park,21/08/15,IC5,General,2.0,8.0,235.0,165.0,45.0,25.0,0
+Accountant,Gap,India,AP,Hyderabad,21/08/13,22,FInance,2.0,8.0,70.0,50.0,12.0,8.0,0
+Accountant,Databricks,United States,CA,San Francisco,21/08/13,Senior Revenue Accountant,Revenue Operations,1.0,7.0,126.0,125.0,0.0,1.0,0
+Accountant,PwC,United States,FL,Tampa,21/08/12,L1,Tax,1.0,1.0,56.0,56.0,0.0,0.0,0
+Accountant,Google,United States,CA,Mountain View,21/08/12,2,Finance,0.0,2.0,185.0,125.0,30.0,30.0,0
+Accountant,EY,United States,MA,Boston,21/08/09,S1,IT Risk,1.0,3.0,80.0,78.0,0.0,2.0,0
+Accountant,Kpmg,United States,CA,La Canada Flintridge,21/08/09,L3,Networking,2.0,3.0,75.0,75.0,0.0,0.0,0
+Accountant,Apple,Kuwait,KU,Kuwait,21/08/07,1,General,5.0,5.0,120.0,50.0,50.0,20.0,0
+Accountant,Facebook,United States,IL,Chicago,21/08/07,IC6,Accounting,3.0,12.0,325.0,175.0,100.0,50.0,0
+Accountant,Grant Thornton,United States,WI,Milwaukee,21/08/04,Manager,ASC 740,8.0,8.0,103.0,100.0,0.0,3.0,0
+Accountant,Ernst and Young,United States,CA,San Jose,21/08/04,Manager,Transfer Pricing,5.0,5.0,155.0,120.0,0.0,35.0,0
+Accountant,Deloitte,United States,IL,Chicago,21/08/04,Consultant 1,International Tax,0.0,0.0,64.0,62.0,0.0,2.0,0
+Accountant,Facebook,United States,CA,Menlo Park,21/08/04,IC5,Accounting,2.0,5.0,227.0,154.0,50.0,23.0,0
+Accountant,Amazon,United States,VA,Arlington,21/08/03,L7,Finance,2.0,10.0,380.0,160.0,220.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,21/08/03,L5,Data,1.0,5.0,130.0,95.0,15.0,20.0,0
+Accountant,Amazon,United States,WA,Seattle,21/08/02,L7,Support,8.0,18.0,400.0,160.0,240.0,0.0,0
+Accountant,eBay,United States,CA,San Jose,21/08/02,L28,Finance,3.0,15.0,363.0,230.0,75.0,58.0,0
+Accountant,BDO,United States,VA,Arlington,21/08/01,Senior,Other,2.0,2.0,78.0,78.0,0.0,0.0,0
+Accountant,EY,Luxembourg,LU,Luxembourg,21/08/01,Assistant 1,FAAS,0.0,0.0,46.0,46.0,0.0,0.0,0
+Accountant,LogMeIn,United States,MA,Boston,21/07/29,P2,Accounting,2.0,4.0,63.0,60.0,0.0,3.0,0
+Accountant,Schneider Electric,United States,TN,Nashville,21/07/25,Director of Finance,Director of Finance,10.0,20.0,180.0,150.0,0.0,30.0,0
+Accountant,Applied Materials,United States,CA,Santa Clara,21/07/24,B4,FP&A,0.0,6.0,200.0,145.0,26.0,29.0,0
+Accountant,Amazon,United States,WA,Seattle,21/07/24,L7,iOS,2.0,16.0,300.0,160.0,140.0,0.0,0
+Accountant,Ernst and Young,United States,NY,New York,21/07/24,A2,diligence,0.0,1.0,85.0,85.0,0.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,21/07/22,L5,International,1.0,3.0,102.0,86.0,10.0,6.0,0
+Accountant,Google,United States,CA,Sunnyvale,21/07/22,L5,Revenue,3.0,8.0,214.0,142.0,43.0,29.0,0
+Accountant,Salesforce,United States,NY,New York,21/07/22,Associate,Site Reliability (SRE),1.0,3.0,100.0,80.0,10.0,10.0,0
+Accountant,Disney,United States,CA,Los Angeles,21/07/20,Senior Manager,Audit,3.0,8.0,170.0,150.0,0.0,20.0,0
+Accountant,ADP,United States,VA,Norfolk,21/07/18,1,Finance,0.0,0.0,61.0,61.0,0.0,0.0,0
+Accountant,Deloitte,United States,IL,Chicago,21/07/16,Associate,tax,1.0,1.0,67.0,65.0,0.0,2.0,0
+Accountant,Cisco,United States,CA,San Jose,21/07/15,Grade 6,Finance,2.0,3.0,106.0,91.0,4.0,11.0,0
+Accountant,Amazon,United States,WA,Seattle,21/07/15,L5,Finance,2.0,6.0,105.0,80.0,0.0,25.0,0
+Accountant,Reddit,United States,CA,San Francisco,21/07/13,Staff Accountant,General,1.0,3.0,65.0,60.0,0.0,5.0,0
+Accountant,Chevron,United States,CA,Los Angeles,21/07/12,L5,Data,11.0,11.0,160.0,140.0,0.0,20.0,0
+Accountant,Amazon,United States,WA,Seattle,21/07/10,L4,General,0.0,0.0,91.0,68.0,21.0,2.0,0
+Accountant,AbbVie,United States,IL,North Chicago,21/07/10,18,General,4.0,7.0,140.0,125.0,10.0,5.0,0
+Accountant,Ernst and Young,United States,OH,Cincinnati,21/07/09,Staff,Trust tax,1.0,1.0,55.0,55.0,0.0,0.0,0
+Accountant,Amazon,United States,MN,Minneapolis,21/07/04,L7,Geny,3.0,15.0,185.0,160.0,25.0,0.0,0
+Accountant,PNC,United States,PA,Pittsburgh,21/07/03,L3,Broker-dealet,5.0,5.0,67.0,67.0,0.0,0.0,0
+Accountant,Amazon,Luxembourg,LU,Luxembourg,21/07/03,L6,Finance,7.0,10.0,135.0,120.0,15.0,0.0,0
+Accountant,KPMG,United States,CA,Los Angeles,21/07/02,Senior,Valuation,4.0,4.0,100.0,97.0,0.0,3.0,0
+Accountant,Moss Adams,United States,TX,Dallas,21/07/02,Staff,Audit,1.0,1.0,68.0,68.0,0.0,2.0,0
+Accountant,Amazon,United States,WA,Seattle,21/07/02,L8,Tax,4.0,24.0,450.0,160.0,290.0,0.0,0
+Accountant,Bank of America,United States,NC,Charlotte,21/07/01,Band 5,Finance,2.0,2.0,90.0,82.0,0.0,8.0,0
+Accountant,Deloitte,United States,CA,San Jose,21/06/30,1,Audit,1.0,1.0,70.0,70.0,0.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,21/06/28,L7,Amazon,4.0,19.0,298.0,160.0,130.0,8.0,0
+Accountant,Amazon,United States,WA,Seattle,21/06/26,L7,Finance,4.0,15.0,240.0,155.0,85.0,0.0,0
+Accountant,Amazon,United States,VA,Arlington,21/06/25,L6,Accounting,0.0,6.0,161.0,130.0,31.0,0.0,0
+Accountant,Deloitte,United States,CA,Los Angeles,21/06/24,Senior Manager,Audit,5.0,5.0,75.0,75.0,0.0,5.0,0
+Accountant,Ernst and Young,United States,WA,Seattle,21/06/24,Staff 1,Other,1.0,1.0,63.0,63.0,0.0,0.0,0
+Accountant,Jet Propulsion Laboratory,United States,CA,Pasadena,21/06/22,L2,General,5.0,5.0,69.0,69.0,0.0,0.0,0
+Accountant,Waymo,United States,CA,Mountain View,21/06/22,L4,Operations,2.0,6.0,190.0,135.0,35.0,20.0,0
+Accountant,Walmart,United States,AR,Bentonville,21/06/20,86,Finance,4.0,10.0,180.0,127.0,25.0,30.0,0
+Accountant,PwC,India,KA,Bangalore,21/06/19,Senior Associate,Audit,5.0,5.0,22.0,20.0,0.0,2.0,0
+Accountant,KPMG,United States,NY,New York,21/06/19,A1,Accounting,0.0,0.0,73.0,66.0,0.0,7.0,0
+Accountant,JLL,United States,CA,Los Angeles,21/06/18,P3,Finance,5.0,5.0,90.0,83.0,0.0,8.0,0
+Accountant,U.S. Bank,United States,WI,Milwaukee,21/06/18,Pay Grade 11,Alternative Investments,0.0,3.0,68.0,65.0,0.0,3.0,0
+Accountant,Deloitte,United States,CA,San Jose,21/06/18,Manager,Auditing,2.0,7.0,109.0,107.0,0.0,2.0,0
+Accountant,New Relic,United States,CA,San Francisco,21/06/17,Manager,Corporate Accounting,3.0,5.0,155.0,125.0,20.0,10.0,0
+Accountant,Microsoft,United States,WA,Redmond,21/06/16,62,Compliance,3.0,9.0,150.0,125.0,10.0,12.0,0
+Accountant,Deloitte,United States,CA,San Jose,21/06/16,Consultant,iOS,0.0,4.0,85.0,85.0,0.0,0.0,0
+Accountant,Google,United States,CA,Mountain View,21/06/16,L1,General,1.0,1.0,100.0,78.0,12.0,10.0,0
+Accountant,JPMorgan Chase,United Kingdom,SC,Edinburgh,21/06/14,601,General operation,4.0,6.0,54.0,50.0,0.0,4.0,0
+Accountant,Deutsche Bank,United States,NY,New York,21/06/08,VP,Cib,9.0,12.0,215.0,180.0,0.0,35.0,0
+Accountant,Convoy,United States,WA,Seattle,21/06/04,Senior Accountant,General,0.0,7.0,110.0,95.0,15.0,5.0,0
+Accountant,WeWork,United States,CA,San Francisco,21/06/04,Director,Tech,2.0,15.0,225.0,225.0,0.0,0.0,0
+Accountant,WeWork,United States,CA,San Francisco,21/06/04,Manager,Technology,2.0,10.0,200.0,175.0,1.0,25.0,0
+Accountant,Amazon,United States,WA,Seattle,21/06/01,L5,Finance,1.0,10.0,125.0,100.0,15.0,10.0,0
+Accountant,Google,United States,WA,Seattle,21/05/31,L6,Finance,10.0,10.0,150.0,125.0,25.0,0.0,0
+Accountant,Facebook,United States,TX,Austin,21/05/29,IC5,Audit,2.0,13.0,200.0,134.0,47.0,19.0,0
+Accountant,KPMG,United States,CA,Sacramento,21/05/29,Senior Associate,Private Equity,4.0,4.0,80.0,80.0,0.0,5.0,0
+Accountant,Apple,United States,CA,Cupertino,21/05/25,IC3,Finance,2.0,6.0,130.0,100.0,20.0,10.0,0
+Accountant,Deloitte,United States,IL,Chicago,21/05/22,Staff,m&a,0.0,0.0,61.0,61.0,0.0,0.0,0
+Accountant,WarnerMedia,United States,CA,Burbank,21/05/22,Manager,General,5.0,7.0,102.0,96.0,0.0,6.0,0
+Accountant,Square,United States,CA,San Francisco,21/05/22,Level 3,Finance,4.0,10.0,148.0,98.0,50.0,0.0,0
+Accountant,Hitachi Vantara,United States,CA,Santa Clara,21/05/18,M1,,2.0,8.0,150.0,125.0,0.0,25.0,0
+Accountant,Deloitte Advisory,United States,VA,Arlington,21/05/15,Senior Consultant,Audit Readiness,3.0,8.0,108.0,103.0,0.0,6.0,0
+Accountant,RBC,Canada,ON,Toronto,21/05/13,Analyst,IFRS 17,1.0,2.0,47.0,47.0,0.0,0.0,0
+Accountant,Morgan Stanley,United States,NY,New York,21/05/11,Associate,Finance,1.0,3.0,115.0,115.0,0.0,0.0,0
+Accountant,BDO,United States,CA,San Francisco,21/05/11,L4,Tax,2.0,4.0,86.0,85.0,0.0,1.0,0
+Accountant,Airbnb,United States,CA,San Francisco,21/05/10,G9,Accounting,2.0,5.0,191.0,145.0,17.0,29.0,0
+Accountant,Amazon,United States,WA,Seattle,21/05/08,L6,General,1.0,7.0,146.0,117.0,0.0,29.0,0
+Accountant,Cepheid,United States,CA,Sunnyvale,21/05/06,,FP&A,2.0,5.0,130.0,120.0,0.0,10.0,0
+Accountant,Aptiv,United States,MI,Detroit,21/05/05,L3,Auditing,6.0,15.0,305.0,212.0,40.0,53.0,0
+Accountant,KPMG,United States,CA,Los Angeles,21/05/03,A2,Audit,2.0,2.0,65.0,65.0,0.0,2.0,0
+Accountant,Amazon,United States,WA,Seattle,21/04/30,L6,Tax,0.0,8.0,160.0,140.0,20.0,0.0,0
+Accountant,PwC,United States,MA,Boston,21/04/29,Senior Associate,Accounting,3.0,3.0,75.0,75.0,0.0,0.0,0
+Accountant,Google,United States,CA,Sunnyvale,21/04/28,L5,General,3.0,12.0,280.0,160.0,85.0,35.0,0
+Accountant,Salesforce,United States,CA,San Francisco,21/04/28,L3,Accounting,3.0,4.0,124.0,113.0,0.0,11.0,0
+Accountant,Capital One,United States,VA,Richmond,21/04/25,L3,accountant,5.0,6.0,115.0,105.0,0.0,10.0,0
+Accountant,Ebay,United States,CA,San Jose,21/04/22,L27,Controller,2.0,12.0,292.0,181.0,75.0,36.0,0
+Accountant,PwC,Saudi Arabia,RI,Riyadh,21/04/21,L2,Mobile (iOS + Android),2.0,2.0,45.0,45.0,0.0,3.0,0
+Accountant,KPMG,Canada,BC,Vancouver,21/04/19,Tax Specialist,tax,1.0,4.0,54.0,54.0,0.0,0.0,0
+Accountant,Goldman Sachs,United States,NY,New York,21/04/17,Analyst,Controllers,0.0,0.0,95.0,75.0,0.0,20.0,0
+Accountant,Microsoft,United States,WA,Seattle,21/04/13,61,Finance,2.0,7.0,140.0,120.0,8.0,12.0,0
+Accountant,BDO,Ireland,DN,Dublin,21/04/13,Entry level,Tax,0.0,0.0,31.0,30.0,0.0,1.0,0
+Accountant,C3.ai,United States,CA,Redwood City,21/04/13,Senior Accountant,General,0.0,3.0,100.0,95.0,0.0,5.0,0
+Accountant,Ripple,United States,CA,San Francisco,21/04/12,Entry Level,Financial reporting,1.0,3.0,100.0,87.0,5.0,9.0,0
+Accountant,Salesforce,United States,CA,San Francisco,21/04/10,L5,Finance,2.0,17.0,349.0,255.0,30.0,64.0,0
+Accountant,Ernst and Young,United States,NY,New York,21/04/09,L1,Technical Accounting,1.0,1.0,75.0,70.0,0.0,5.0,0
+Accountant,PwC,United States,CA,San Jose,21/04/08,Experienced Associate,Assurance,2.0,2.0,70.0,70.0,0.0,3.0,0
+Accountant,PwC,United States,NY,New York,21/04/07,Associate,Financial Services,0.0,0.0,65.0,65.0,0.0,0.0,0
+Accountant,Grant Thornton,United States,CA,San Francisco,21/04/07,Senior Asspciate I,Technical Accounting,0.0,3.0,95.0,90.0,0.0,5.0,0
+Accountant,Moss Adams,United States,CA,Campbell,21/04/07,Manager,Tax Accountant,5.0,5.0,134.0,126.0,0.0,8.0,0
+Accountant,Moss Adams,United States,CA,Campbell,21/04/07,Senior Manager,Tax,7.0,10.0,167.0,155.0,0.0,12.0,0
+Accountant,CBRE,United States,TX,Austin,21/04/06,Senior,Idk,3.0,8.0,110.0,100.0,0.0,10.0,0
+Accountant,Lockheed Martin,United States,CO,Denver,21/04/06,L5,Finance,15.0,15.0,175.0,163.0,0.0,12.0,0
+Accountant,Amazon,United States,WA,Seattle,21/04/05,L6,General,0.0,7.0,146.0,117.0,0.0,29.0,0
+Accountant,KPMG,India,KA,Bangalore,21/04/05,L2,finance/accounts,5.0,15.0,60.0,60.0,0.0,0.0,0
+Accountant,Google,United States,WA,Seattle,21/04/04,L3,general,0.0,1.0,75.0,50.0,10.0,15.0,0
+Accountant,Grant Thornton,United States,VA,Arlington,21/04/03,New Grad,Tax,0.0,1.0,64.0,62.0,0.0,2.0,0
+Accountant,Expedia,United States,WA,Seattle,21/04/01,K,Accountant,1.0,1.0,80.0,80.0,0.0,0.0,0
+Accountant,KPMG,United States,MA,Boston,21/03/27,Manager,Consulting,5.0,11.0,115.0,110.0,0.0,5.0,0
+Accountant,PwC,United States,UT,Salt Lake City,21/03/24,Associate,Auditor,1.0,1.0,52.0,52.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,NY,New York,21/03/19,S1,Auditing,3.0,3.0,76.0,76.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,NY,New York,21/03/19,Senior Associate,FAAS,1.0,5.0,120.0,115.0,0.0,5.0,0
+Accountant,Grant Thornton,United States,IL,Chicago,21/03/09,S1,Tax,2.0,2.0,65.0,65.0,0.0,3.0,0
+Accountant,Amazon,United States,CA,Los Angeles,21/03/09,L6,Studios,5.0,5.0,155.0,110.0,45.0,0.0,0
+Accountant,Unity Technologies,United States,CA,San Jose,21/03/08,Sr Manager,Auditor,0.0,10.0,248.0,150.0,98.0,0.0,0
+Accountant,PwC,United States,WA,Seattle,21/03/08,Associate,Advisory,0.0,0.0,58.0,58.0,0.0,0.0,0
+Accountant,Amazon,United States,CO,Denver,21/03/07,L5,Warehouse Operation,1.0,1.0,100.0,83.0,0.0,17.0,0
+Accountant,Google,United States,CA,Sunnyvale,21/03/07,L5,General,3.0,7.0,217.0,142.0,45.0,29.0,0
+Accountant,JUUL Labs,Ukraine,KC,Kiev,21/03/05,M4,FP&A,2.0,12.0,89.0,58.0,19.0,12.0,0
+Accountant,Ernst and Young,Hong Kong (SAR),HK,Hong Kong,21/03/05,staff accountant,Assurance,0.0,0.0,30.0,30.0,0.0,0.0,0
+Accountant,ServiceNow,United States,CA,San Francisco,21/03/04,IC2,Financial Planning and Analysis,2.0,2.0,102.0,89.0,4.0,9.0,0
+Accountant,eBay,United States,CA,San Jose,21/03/03,26,Finance,3.0,10.0,220.0,160.0,40.0,20.0,0
+Accountant,PWC,United States,NY,New York,21/03/02,Associate,Tax,1.0,1.0,60.0,60.0,0.0,0.0,0
+Accountant,Expeditors,United States,WA,Seattle,21/02/25,Staff,Accounting,1.0,5.0,65.0,65.0,0.0,2.0,0
+Accountant,Siemens,United States,NY,New York,21/02/23,L6,Finance Manager,11.0,14.0,226.0,180.0,10.0,36.0,0
+Accountant,Honda,United States,OH,Marysville,21/02/23,Unk,Cost accting,4.0,9.0,68.0,63.0,0.0,5.0,0
+Accountant,JPMorgan Chase,United States,NY,New York,21/02/22,Analyst,Private equity,0.0,2.0,72.0,70.0,0.0,2.0,0
+Accountant,PwC,United States,NY,New York,21/02/21,Experienced Associate,Assurance,1.0,1.0,64.0,64.0,0.0,1.0,0
+Accountant,The RealReal,United States,CA,San Francisco,21/02/21,Senior,General Ledger,2.0,7.0,104.0,100.0,4.0,0.0,0
+Accountant,ATCO,Canada,AB,Edmonton,21/02/20,P2,CPA,7.0,9.0,56.0,56.0,2.0,0.0,0
+Accountant,Goldman Sachs,United States,NJ,Jersey City,21/02/20,L3,Controllers,11.0,16.0,200.0,163.0,0.0,42.0,0
+Accountant,Ernst and Young,United States,GA,Atlanta,21/02/16,Associate,General,0.0,2.0,68.0,68.0,0.0,5.0,0
+Accountant,Disney,United States,CA,Los Angeles,21/02/15,Senior Financial Accounting Analyst,Entertainment,3.0,3.0,85.0,85.0,0.0,0.0,0
+Accountant,Citi,United States,NY,New York,21/02/14,C15,CPA,5.0,10.0,250.0,200.0,0.0,50.0,0
+Accountant,The Home Depot,United States,GA,Atlanta,21/02/14,Supervisor,Project Lead,1.0,5.0,94.0,92.0,0.0,2.0,0
+Accountant,KPMG,United States,WA,Seattle,21/02/10,Senior,Accounting,2.0,4.0,100.0,90.0,0.0,10.0,0
+Accountant,PwC,United States,CA,San Francisco,21/02/08,Associate,A1,1.0,1.0,67.0,63.0,0.0,4.0,0
+Accountant,General Dynamics,Canada,ON,London,21/02/04,3,Accounting,0.0,5.0,58.0,58.0,0.0,0.0,0
+Accountant,ExxonMobil,United States,TX,Spring,21/02/03,L2,Controllers,2.0,2.0,73.0,73.0,0.0,0.0,0
+Accountant,L3Harris,United States,TX,Arlington,21/02/03,Associate,iOS,0.0,4.0,59.0,59.0,0.0,0.0,0
+Accountant,Indeed,United States,CA,San Francisco,21/02/02,Manager,Finance,1.0,8.0,300.0,200.0,40.0,60.0,0
+Accountant,Tesco,United Kingdom,EN,London,21/02/02,L1,Android,0.0,2.0,44.0,44.0,0.0,1.0,0
+Accountant,Northern Trust,United States,IL,Chicago,21/01/31,L1,Audit,3.0,6.0,78.0,75.0,0.0,3.0,0
+Accountant,KPMG,United States,WA,Seattle,21/01/28,Senior associate,Deal Advisory and Strategy,1.0,3.0,90.0,90.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,GA,Atlanta,21/01/22,Staff,Internal,1.0,1.0,58.0,58.0,0.0,3.0,0
+Accountant,Deloitte,United States,IL,Chicago,21/01/21,Senior Consultant,Accounting,1.0,4.0,95.0,88.0,0.0,7.0,0
+Accountant,Ernst and Young,United States,IL,Chicago,21/01/19,Senior 3,Audit,3.0,3.0,85.0,80.0,0.0,5.0,0
+Accountant,Chevron,United States,TX,Houston,21/01/15,PSG20,Internal,4.0,4.0,115.0,102.0,0.0,14.0,0
+Accountant,Ernst and Young,United States,MA,Boston,21/01/13,Senior,M&A,1.0,4.0,106.0,100.0,0.0,6.0,0
+Accountant,Accenture,United States,TX,Austin,21/01/12,11,Operations,3.0,4.0,46.0,46.0,0.0,1.0,0
+Accountant,Arm,United States,CA,San Jose,21/01/12,Grade 7,royalties,3.0,18.0,316.0,201.0,60.0,60.0,0
+Accountant,Google,Japan,TY,Tokyo,21/01/08,L6,Product,1.0,1.0,262.0,121.0,20.0,121.0,0
+Accountant,Amazon,United States,WA,Seattle,21/01/06,L5,Sox speacialist,0.0,6.0,113.0,86.0,0.0,25.0,0
+Accountant,Micron,Taiwan,TA,Taoyuan,21/01/03,P4,Production,10.0,10.0,50.0,38.0,5.0,7.0,0
+Accountant,Goldman Sachs,United Kingdom,EN,London,21/01/02,Associate,Internal,3.0,8.0,95.0,92.0,0.0,3.0,0
+Accountant,Deloitte,United States,MA,Boston,21/01/01,Associate,Audit,0.0,0.0,62.0,62.0,0.0,0.0,0
+Accountant,PwC,United States,CA,Los Angeles,21/01/01,S1,Tax,1.0,3.0,80.0,78.0,0.0,2.0,0
+Accountant,JPmorgan Chase,United States,OH,Columbus,20/12/31,502,Financial Controller,3.0,3.0,50.0,50.0,0.0,0.0,0
+Accountant,JPmorgan Chase,United States,TX,Dallas,20/12/31,406,Reconciliation Specialist,2.0,2.0,39.0,39.0,0.0,0.0,0
+Accountant,JPmorgan Chase,United States,TX,Dallas,20/12/31,Contractor,Specialist,1.0,1.0,28.0,28.0,0.0,0.0,0
+Accountant,PwC,United States,CA,San Jose,20/12/28,Experienced associate,Assurance/Audit,2.0,2.0,63.0,63.0,0.0,0.0,0
+Accountant,Deloitte,United States,GA,Atlanta,20/12/24,Manager,Tax,5.0,5.0,90.0,90.0,0.0,5.0,0
+Accountant,Zillow,United States,WA,Seattle,20/12/22,S5,Corporate Accounting,1.0,10.0,69.0,66.0,3.0,0.0,0
+Accountant,Square,United States,CA,San Francisco,20/12/19,L5,Operations,3.0,6.0,170.0,120.0,50.0,0.0,0
+Accountant,Cimpress,United States,MA,Boston,20/12/18,L3,Operations,6.0,12.0,108.0,108.0,0.0,0.0,0
+Accountant,Deloitte,Canada,MB,Winnipeg,20/12/16,Manager,Advisory,7.0,7.0,101.0,91.0,0.0,10.0,0
+Accountant,Ernst and Young,United States,CA,Irvine,20/12/14,Staff 1,Audit,0.0,0.0,63.0,63.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,IL,Chicago,20/12/11,S2,Deals,1.0,3.0,100.0,90.0,0.0,15.0,0
+Accountant,Kpmg,United States,CT,Hartford,20/12/11,A2,Audit,1.0,1.0,62.0,62.0,0.0,0.0,0
+Accountant,Couchbase,United States,CA,Santa Clara,20/12/10,Accounting Manager,Financial Reporting,1.0,15.0,163.0,130.0,20.0,13.0,0
+Accountant,AIG,United States,NY,New York,20/12/09,L2,Operations,13.0,13.0,74.0,70.0,0.0,4.0,0
+Accountant,Deloitte,United States,TX,Austin,20/12/08,S3,Technical,4.0,4.0,76.0,72.0,0.0,4.0,0
+Accountant,Cimpress,United States,MA,Boston,20/12/02,Manager,Internal,5.0,10.0,110.0,110.0,0.0,0.0,0
+Accountant,PwC,United States,NY,New York,20/12/01,Senior Associate,Technical,4.0,4.0,103.0,102.0,0.0,2.0,0
+Accountant,Capital Group,United States,VA,Norfolk,20/11/28,L4,Analytic,2.0,6.0,103.0,76.0,0.0,27.0,0
+Accountant,Noom,United States,NY,New York,20/11/27,Manager,Operations,0.0,8.0,160.0,150.0,10.0,0.0,0
+Accountant,Sunrun,United States,CA,Los Angeles,20/11/25,1,Android,1.0,1.0,30.0,30.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,MA,Boston,20/11/25,Senior Consultant,M&A,1.0,4.0,102.0,95.0,0.0,7.0,0
+Accountant,Microsoft,United States,WA,Seattle,20/11/24,63,Analytic,12.0,15.0,185.0,140.0,21.0,24.0,0
+Accountant,PepsiCo,United States,NY,New York,20/11/18,L9,Finance,4.0,10.0,112.0,100.0,0.0,12.0,0
+Accountant,Ernst and Young,United States,CA,Irvine,20/11/18,A1,Audit,0.0,0.0,63.0,63.0,0.0,0.0,0
+Accountant,KPMG,United States,WA,Seattle,20/11/17,L1,iOS,1.0,1.0,72.0,65.0,0.0,7.0,0
+Accountant,KPMG,Taiwan,TP,Taipei,20/11/15,L1,Other,0.0,1.0,34.0,34.0,0.0,0.0,0
+Accountant,Oracle,United States,WA,Seattle,20/11/13,IC-4,Networking,1.0,7.0,130.0,130.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,IL,Chicago,20/11/05,S3,Audit,5.0,5.0,75.0,75.0,0.0,0.0,0
+Accountant,Google,United States,NY,New York,20/11/03,L6,finance,5.0,15.0,234.0,150.0,74.0,10.0,0
+Accountant,Ernst and Young,United States,IL,Chicago,20/11/03,Senior Consultant,Tax,3.0,4.0,94.0,87.0,0.0,2.0,0
+Accountant,Google,United States,CA,San Francisco,20/11/03,L6,Finance,0.0,15.0,274.0,194.0,41.0,39.0,0
+Accountant,Philips,United States,WA,Seattle,20/11/01,L8,Enterprise,5.0,10.0,140.0,110.0,0.0,30.0,0
+Accountant,Bristol Myers Squibb,United States,NJ,Princeton,20/10/31,Manager,Technical,0.0,10.0,152.0,125.0,7.0,20.0,0
+Accountant,BDO,United States,CA,San Jose,20/10/31,L3,Finance,2.0,2.0,71.0,69.0,0.0,2.0,0
+Accountant,Ernst and Young,United States,TX,Houston,20/10/28,Manager,Audit,7.0,7.0,107.0,103.0,0.0,4.0,0
+Accountant,JPMorgan Chase,India,MH,Mumbai,20/10/27,601,Operations,2.0,2.0,80.0,80.0,0.0,1.0,0
+Accountant,New Relic,United States,CA,San Francisco,20/10/27,Senior Accounting Manager,Accounting,5.0,10.0,210.0,160.0,30.0,20.0,0
+Accountant,Best Buy,United States,MN,Minneapolis,20/10/26,Senior Accountant,Internal,4.0,9.0,91.0,83.0,0.0,8.0,0
+Accountant,Ascension,United States,IN,Indianapolis,20/10/22,1,Operations,1.0,5.0,77.0,70.0,0.0,7.0,0
+Accountant,Google,United States,CT,Hartford,20/10/21,L2,Production,0.0,3.0,52.0,52.0,0.0,1.0,0
+Accountant,PwC,United States,DC,Washington,20/10/20,Manager,Tax,7.0,7.0,135.0,116.0,0.0,23.0,0
+Accountant,Grant Thornton,United Kingdom,EN,Bristol,20/10/19,Associate,Public Sector Audit,1.0,1.0,32.0,32.0,0.0,0.0,0
+Accountant,KPMG,Poland,MZ,Warsaw,20/10/18,Consultant,Analytic,2.0,2.0,20.0,17.0,0.0,3.0,0
+Accountant,Amobee,United States,CA,Redwood City,20/10/17,Revenue Analyst,Revenue Accounting,1.0,4.0,75.0,69.0,0.0,7.0,0
+Accountant,Deloitte,United States,CA,San Francisco,20/10/16,Senior Assistant,Technical,1.0,1.0,71.0,71.0,0.0,0.0,0
+Accountant,Tesla,United States,CA,San Jose,20/10/16,1,accounting,2.0,4.0,94.0,78.0,16.0,0.0,0
+Accountant,Deloitte,United States,MA,Boston,20/10/15,Manager,Operations,1.0,7.0,165.0,155.0,0.0,10.0,0
+Accountant,Google,United Arab Emirates,SH,Sharjah,20/10/14,L3,jk,19.0,19.0,100.0,70.0,20.0,10.0,0
+Accountant,PwC,United States,CA,Los Angeles,20/10/12,Senior Associate,Audit,3.0,3.0,79.0,75.0,0.0,4.0,0
+Accountant,Deloitte,United States,CA,San Francisco,20/10/07,Senior Manager,Technical,4.0,10.0,185.0,175.0,0.0,10.0,0
+Accountant,Amazon,United States,WA,Seattle,20/10/07,L7,Operations,10.0,17.0,350.0,150.0,200.0,0.0,0
+Accountant,Wayfair,United States,MA,Boston,20/10/07,L1,business,1.0,2.0,46.0,46.0,0.0,5.0,0
+Accountant,Nutanix,United States,CA,San Jose,20/10/05,,Distributed Systems (Back-End),2.0,5.0,110.0,98.0,12.0,0.0,0
+Accountant,RSM US,United States,IL,Chicago,20/10/04,Staff 1,Tax,0.0,0.0,66.0,62.0,0.0,4.0,0
+Accountant,Google,United States,CA,San Diego,20/10/02,L3,iOS,1.0,1.0,120.0,90.0,20.0,10.0,0
+Accountant,Instacart,United States,CA,San Francisco,20/10/02,L3,Operations,1.0,3.0,92.0,77.0,15.0,0.0,0
+Accountant,Nvidia,United States,CA,Santa Clara,20/10/01,IC4,Finance,8.0,10.0,175.0,135.0,40.0,0.0,0
+Accountant,KPMG,United States,CA,San Francisco,20/10/01,Senior Associate,Deal Advisory and Strategy,1.0,3.0,90.0,90.0,0.0,0.0,0
+Accountant,Visa,United States,CA,San Francisco,20/10/01,Director,Investor Relations,6.0,12.0,190.0,150.0,20.0,20.0,0
+Accountant,Facebook,United States,CA,Menlo Park,20/09/26,M2,Operations,1.0,15.0,330.0,220.0,60.0,50.0,0
+Accountant,RSM,United States,TX,Houston,20/09/25,Supervisor,tax,3.0,5.0,85.0,80.0,0.0,5.0,0
+Accountant,PwC,United States,TX,Dallas,20/09/25,2,Valuation,1.0,1.0,65.0,65.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,CA,San Francisco,20/09/25,A1,Assurance,0.0,0.0,68.0,68.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,CA,Los Angeles,20/09/24,Manager,Accounting,7.0,7.0,126.0,120.0,0.0,6.0,0
+Accountant,Teradata,Australia,NS,Sydney,20/09/23,Senior Manager,Analytic,1.0,15.0,121.0,121.0,0.0,0.0,0
+Accountant,PwC,United States,PA,Philadelphia,20/09/23,Associate,Audit,1.0,1.0,58.0,57.0,0.0,1.0,0
+Accountant,Ernst and Young,Canada,ON,Toronto,20/09/23,Senior Accountant,Audit - Financial Services,2.0,2.0,43.0,43.0,0.0,0.0,0
+Accountant,Deloitte,United Kingdom,SC,Glasgow,20/09/22,Senior Associate,Audit,2.0,2.0,28.0,28.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,NC,Raleigh,20/09/22,A1,Unsure,0.0,0.0,54.0,54.0,0.0,0.0,0
+Accountant,Grant Thornton,United States,NY,New York,20/09/22,A2,Android,1.0,1.0,70.0,70.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,CA,Irvine,20/09/22,Senior 2,Cyber Consultant,4.0,4.0,101.0,95.0,0.0,6.0,0
+Accountant,Moss Adams,United States,CA,Stockton,20/09/22,L1,Assurance,1.0,4.0,60.0,60.0,0.0,0.0,0
+Accountant,Moss Adams,United States,WA,Seattle,20/09/22,Staff 1,Analytic,1.0,1.0,57.0,52.0,0.0,5.0,0
+Accountant,Ernst and Young,United States,MD,Baltimore,20/09/22,Senior 2,Technical,3.0,3.0,73.0,73.0,0.0,0.0,0
+Accountant,RSM,United States,FL,St. Petersburg,20/09/22,Audit Associate,Operations,1.0,1.0,54.0,54.0,0.0,0.0,0
+Accountant,University of Washington,United States,WA,Seattle,20/09/22,Staff,Operations,2.0,7.0,61.0,61.0,0.0,0.0,0
+Accountant,Deloitte,United States,VA,Richmond,20/09/22,associate 1/Staff 1,Audit,0.0,0.0,55.0,55.0,0.0,0.0,0
+Accountant,Ernst and Young,Canada,ON,Toronto,20/09/22,S1,Assurance,1.0,3.0,61.0,61.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,NY,New York,20/09/22,Staff 1,Operations,0.0,1.0,65.0,65.0,0.0,0.0,0
+Accountant,BDO,United States,CO,Denver,20/09/22,Experienced Senior,Tax Accounting Services,1.0,4.0,76.0,75.0,0.0,2.0,0
+Accountant,PwC,United States,TX,Dallas,20/09/22,Associate,Financial Services,0.0,0.0,57.0,55.0,0.0,2.0,0
+Accountant,Ernst and Young,Canada,ON,Toronto,20/09/22,Staff 2,Financial Services,2.0,2.0,41.0,41.0,0.0,0.0,0
+Accountant,Deloitte,United States,UT,Salt Lake City,20/09/22,Consultant 1,Tax,0.0,0.0,55.0,55.0,0.0,0.0,0
+Accountant,RSM US,United States,OH,Cleveland,20/09/22,Associate,State and Local Tax,1.0,1.0,56.0,55.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,MI,Detroit,20/09/22,S2,Tax,1.0,1.0,59.0,59.0,0.0,0.0,0
+Accountant,Deloitte,United States,NC,Charlotte,20/09/22,Staff 2,iOS,2.0,2.0,57.0,57.0,0.0,0.0,0
+Accountant,RSM,United States,CT,Stamford,20/09/22,Supervisor 1,Product,2.0,3.0,94.0,90.0,0.0,5.0,0
+Accountant,Ernst and Young,United States,VA,Richmond,20/09/22,Assurance Manager,Assurance,5.0,5.0,80.0,80.0,0.0,1.0,0
+Accountant,Deloitte,United Kingdom,EN,Bristol,20/09/22,Q4,Public Audit,0.0,0.0,25.0,24.0,0.0,1.0,0
+Accountant,Citi,United Kingdom,NI,Belfast,20/09/22,C11,Finance,2.0,4.0,41.0,41.0,0.0,2.0,0
+Accountant,PwC,United States,MA,Boston,20/09/22,L1,Assurance,1.0,1.0,60.0,60.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,CA,San Francisco,20/09/22,Staff 1,tax,0.0,0.0,68.0,68.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,CA,San Diego,20/09/22,Staff 2,Assurance,1.0,1.0,65.0,65.0,0.0,0.0,0
+Accountant,KPMG,Canada,BC,Vancouver,20/09/22,Staff Accountant,Audit,1.0,1.0,43.0,43.0,0.0,0.0,0
+Accountant,KPMG,United States,TX,Dallas,20/09/22,Tax Senior Associate,International Tax,3.0,3.0,80.0,74.0,0.0,6.0,0
+Accountant,KPMG,United States,MO,St. Louis,20/09/22,Associate,Tax,1.0,1.0,54.0,54.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,NY,New York,20/09/22,Senior 3,Diligence,5.0,5.0,102.0,102.0,0.0,0.0,0
+Accountant,Deloitte,United States,CA,Los Angeles,20/09/22,Tax Consultant 1,Tax,1.0,1.0,64.0,64.0,0.0,0.0,0
+Accountant,KPMG,United States,AK,Anchorage,20/09/22,Associate,Audit,1.0,1.0,64.0,59.0,0.0,5.0,0
+Accountant,Ernst and Young,United States,NY,New York,20/09/22,1,Android,1.0,1.0,100.0,90.0,0.0,10.0,0
+Accountant,PwC,United States,WA,Seattle,20/09/22,Senior Associate,Assurance,4.0,4.0,75.0,71.0,0.0,4.0,0
+Accountant,Netflix,United States,CA,Los Gatos,20/09/22,Manager,Operations,3.0,5.0,278.0,265.0,13.0,0.0,0
+Accountant,Netflix,United States,CA,Los Gatos,20/09/22,Manager,Operations,3.0,5.0,263.0,250.0,13.0,0.0,0
+Accountant,Cambia Health Solutions,United States,OR,Portland,20/09/21,Management,Operations,10.0,10.0,136.0,120.0,0.0,16.0,0
+Accountant,Robert Half,United States,WA,Seattle,20/09/19,SPS,Senior accountant,1.0,5.0,78.0,78.0,0.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,20/09/17,L5,Internal,0.0,2.0,103.0,85.0,0.0,18.0,0
+Accountant,JLL,United States,IL,Chicago,20/09/17,Accounting Associate,Finance/Accounting work,2.0,2.0,58.0,58.0,0.0,0.0,0
+Accountant,Sonder,United States,CA,San Francisco,20/09/15,Manager,Internal,1.0,7.0,160.0,150.0,10.0,0.0,0
+Accountant,KPMG,Canada,BC,Vancouver,20/09/15,Senior Accountant,Tax,1.0,3.0,44.0,44.0,0.0,0.0,0
+Accountant,Chegg,United States,CA,Santa Clara,20/09/09,Senior,Product,3.0,10.0,130.0,100.0,30.0,0.0,0
+Accountant,Amdocs,United States,IN,Indianapolis,20/09/05,3,Infrastructure,6.0,7.0,70.0,70.0,0.0,0.0,0
+Accountant,DocuSign,United States,CA,San Francisco,20/09/05,P4,Business,1.0,4.0,148.0,118.0,25.0,5.0,0
+Accountant,Google,India,MH,Mumbai,20/09/05,L3,Operations,3.0,3.0,10.0,1.0,5.0,3.0,0
+Accountant,Google,United States,CA,San Francisco,20/09/05,L4,Finance,5.0,10.0,150.0,140.0,0.0,10.0,0
+Accountant,T-mobile,United States,WA,Seattle,20/09/04,L8,Enterprise,3.0,10.0,148.0,120.0,10.0,18.0,0
+Accountant,PwC,United States,TX,Austin,20/09/02,Senior Associate,accounting advisory,4.0,4.0,100.0,93.0,0.0,8.0,0
+Accountant,Ernst and Young,United States,IN,Indianapolis,20/09/01,L1,iOS,1.0,1.0,50.0,50.0,0.0,0.0,0
+Accountant,Tencent,China,HU,WUHAN,20/09/01,T2,Android,3.0,3.0,60.0,50.0,0.0,10.0,0
+Accountant,Zuora,United States,CA,Redwood City,20/08/29,Senior Accountant,Accounting,0.0,3.0,110.0,100.0,3.0,8.0,0
+Accountant,Ernst and Young,United States,IL,Chicago,20/08/26,4,Tax,4.0,4.0,83.0,83.0,0.0,2.0,0
+Accountant,Ernst and Young,United States,NY,New York,20/08/25,L5,Consumer,1.0,8.0,135.0,115.0,0.0,18.0,0
+Accountant,PwC,United States,NY,New York,20/08/25,Senior Associate - Assurance,Assurance,2.0,2.0,86.0,81.0,0.0,5.0,0
+Accountant,Stitch Fix,United States,CA,San Francisco,20/08/22,M1,Technical,2.0,8.0,193.0,150.0,43.0,0.0,0
+Accountant,GE,United States,WI,Milwaukee,20/08/22,Professional Band,Internal,0.0,0.0,72.0,67.0,0.0,5.0,0
+Accountant,Abbott,United States,CA,Alameda,20/08/21,16,iOS,4.0,4.0,120.0,105.0,0.0,15.0,0
+Accountant,PwC,United States,MA,Boston,20/08/20,Associate,Audit,1.0,1.0,60.0,60.0,0.0,1.0,0
+Accountant,Oracle,United States,CA,Los Angeles,20/08/20,L2,Android,2.0,2.0,200.0,200.0,0.0,0.0,0
+Accountant,Uber,United States,CA,San Francisco,20/08/18,L6,Audit,4.0,12.0,305.0,180.0,75.0,50.0,0
+Accountant,amazon,United States,VA,Arlington,20/08/17,L4,Internal,1.0,12.0,50.0,36.0,10.0,4.0,0
+Accountant,Microsoft,United States,WA,Seattle,20/08/17,62,Finance manager,5.0,5.0,140.0,120.0,10.0,10.0,0
+Accountant,ZS,United States,IL,Evanston,20/08/17,L2,Operations,2.0,5.0,87.0,80.0,0.0,7.0,0
+Accountant,Google,United States,NY,New York,20/08/17,L3,Analytic,0.0,1.0,200.0,180.0,20.0,0.0,0
+Accountant,Rackspace,United States,TX,San Antonio,20/08/13,Sr. Tax,Operations,2.0,8.0,81.0,76.0,0.0,5.0,0
+Accountant,Carbon,United States,CA,Redwood City,20/08/12,L3,Accounting and revenue,3.0,20.0,425.0,250.0,100.0,75.0,0
+Accountant,Microsoft,United States,WA,Redmond,20/08/10,65,Internal,2.0,15.0,273.0,193.0,42.0,38.0,0
+Accountant,Adobe,United States,CA,San Jose,20/08/10,L4,Internal,1.0,10.0,200.0,150.0,30.0,15.0,0
+Accountant,JPMorgan Chase,United States,NY,New York,20/08/10,Vice President,Internal,4.0,5.0,129.0,110.0,0.0,15.0,0
+Accountant,KPMG,United Kingdom,EN,Cambridge,20/08/08,Assistant Manager,Technical,2.0,3.0,57.0,54.0,0.0,3.0,0
+Accountant,American Express,United States,NY,New York,20/08/07,Manager,Operations,3.0,3.0,114.0,97.0,0.0,17.0,0
+Accountant,Microsoft,United States,WA,Seattle,20/08/07,62,Finance,2.0,12.0,170.0,142.0,13.0,15.0,0
+Accountant,KPMG,United States,CA,Los Angeles,20/08/04,A1,Tax,0.0,1.0,61.0,61.0,0.0,0.0,0
+Accountant,ABB,Saudi Arabia,RI,Riyadh,20/08/03,L3,finance,1.0,1.0,50.0,50.0,0.0,0.0,0
+Accountant,Sabre,United States,TX,Southlake,20/08/02,L1,Accounting,5.0,5.0,83.0,78.0,0.0,5.0,0
+Accountant,Ernst & Young,United States,TX,Houston,20/08/02,A1,Auditor,1.0,1.0,58.0,56.0,0.0,2.0,0
+Accountant,PwC,United States,WA,Seattle,20/08/02,Associate 1,Audit,0.0,0.0,57.0,57.0,0.0,1.0,0
+Accountant,Ernst and Young,United States,CA,San Francisco,20/08/01,Senior 3,FAAS,1.0,4.0,111.0,101.0,0.0,10.0,0
+Accountant,BDO,United States,CA,San Francisco,20/07/30,3,Tax,3.0,4.0,75.0,72.0,0.0,3.0,0
+Accountant,Google,United States,CA,San Francisco,20/07/30,L3,International Tax,1.0,3.0,200.0,170.0,20.0,10.0,0
+Accountant,KPMG,United States,CA,San Francisco,20/07/30,S3,Senior Associate,5.0,5.0,102.0,92.0,0.0,10.0,0
+Accountant,Eaton,United States,CA,Irvine,20/07/29,L5,Finance,6.0,15.0,230.0,180.0,10.0,40.0,0
+Accountant,PwC,United Kingdom,EN,London,20/07/28,L5,Advisory,6.0,6.0,80.0,80.0,0.0,0.0,0
+Accountant,Johnson & Johnson,United States,NJ,New Brunswick,20/07/26,SFA,iOS,2.0,4.0,87.0,80.0,0.0,7.0,0
+Accountant,PwC,United States,PA,Philadelphia,20/07/23,Associate,Accountant,0.0,0.0,68.0,68.0,0.0,0.0,0
+Accountant,Apple,United States,CA,Santa Clara,20/07/20,M3,Distributed Systems (Back-End),5.0,15.0,150.0,100.0,30.0,20.0,0
+Accountant,Deloitte,United States,MA,Boston,20/07/16,senior,Tax,1.0,5.0,110.0,110.0,0.0,0.0,0
+Accountant,Nordstrom,United States,WA,Seattle,20/07/15,L7,Finance,2.0,3.0,74.0,74.0,0.0,0.0,0
+Accountant,Etsy,United States,NY,New York,20/07/13,Staff,Accounting,1.0,2.0,83.0,71.0,5.0,7.0,0

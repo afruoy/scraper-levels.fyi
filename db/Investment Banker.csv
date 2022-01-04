@@ -1,0 +1,231 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Investment Banker,Deutsche Bank,United States,NY,New York,21/12/30,Summer Analyst,Rotational,1.0,1.0,110.0,85.0,0.0,25.0,0
+Investment Banker,Balyasny Asset Management L.P.,United States,IL,Chicago,21/12/24,Principal,Quant,13.0,13.0,1.0,425.0,350.0,500.0,0
+Investment Banker,RBC,United States,NY,New York,21/12/23,AD,General,2.0,10.0,390.0,250.0,60.0,80.0,0
+Investment Banker,Wells Fargo,United States,NY,New York,21/12/23,L1,M&A,1.0,1.0,178.0,100.0,0.0,78.0,0
+Investment Banker,Goldman Sachs,Hong Kong (SAR),HK,Hong Kong,21/12/22,Analyst,IB,2.0,2.0,125.0,100.0,0.0,25.0,0
+Investment Banker,Evercore,United States,CA,San Francisco,21/12/19,Analyst 2,M&A,2.0,2.0,255.0,130.0,0.0,125.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/12/17,Managing Director,General,4.0,13.0,1.0,350.0,150.0,500.0,0
+Investment Banker,Wells Fargo,United States,NC,Charlotte,21/12/16,3,Quant,3.0,3.0,195.0,150.0,0.0,45.0,0
+Investment Banker,Morgan Stanley,United Kingdom,EN,London,21/12/15,Vice President,Quantitative research,3.0,6.0,206.0,166.0,0.0,40.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/12/08,Analyst,TMT,1.0,1.0,130.0,80.0,0.0,50.0,0
+Investment Banker,Barclays,United States,NY,New York,21/11/29,Analyst,Coverage,1.0,1.0,175.0,115.0,0.0,60.0,0
+Investment Banker,Citi,United States,NY,New York,21/11/22,V2,Investment Banking,5.0,10.0,500.0,225.0,0.0,275.0,0
+Investment Banker,CIBC,Canada,ON,Toronto,21/11/21,Investment Banking Analyst,Infrastructure,2.0,2.0,160.0,85.0,0.0,75.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/11/17,Associate,IBD,0.0,4.0,225.0,175.0,0.0,50.0,0
+Investment Banker,Evercore,United States,CA,San Francisco,21/11/08,Analyst 2,M&A Advisory,2.0,2.0,255.0,130.0,0.0,125.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/11/08,Associate,Ib,4.0,4.0,230.0,130.0,80.0,20.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/11/07,Analyst,Market research,1.0,1.0,127.0,102.0,0.0,25.0,0
+Investment Banker,TD bank,Canada,ON,Toronto,21/11/02,Level5,Stock settlement,2.0,2.0,49.0,44.0,3.0,3.0,0
+Investment Banker,Allianz,Germany,HE,Frankfurt,21/10/31,VP,Investment Management,8.0,8.0,180.0,110.0,0.0,70.0,0
+Investment Banker,UBS,United States,NY,New York,21/10/31,Associate Director,General,3.0,11.0,145.0,110.0,0.0,35.0,0
+Investment Banker,Credit Suisse,United Kingdom,EN,London,21/10/29,Associate 3,Sector analyst,4.0,6.0,171.0,158.0,0.0,13.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,21/10/28,Vice President,Equity sales/trading,8.0,10.0,220.0,175.0,0.0,45.0,0
+Investment Banker,Barclays,United States,NY,New York,21/10/27,Director,Quant,10.0,20.0,320.0,220.0,0.0,100.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/10/24,Executive Director,General,0.0,15.0,600.0,300.0,30.0,270.0,0
+Investment Banker,NetApp,United States,CA,San Jose,21/10/22,M3,Corporate Development,0.0,8.0,135.0,130.0,0.0,5.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,21/10/20,Associate,Prime Services,6.0,6.0,170.0,140.0,0.0,30.0,0
+Investment Banker,Evercore,United States,NY,New York,21/10/12,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,NY,New York,21/10/01,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/29,Analyst 2,M&A,2.0,2.0,255.0,130.0,0.0,125.0,0
+Investment Banker,Evercore,United States,TX,Houston,21/09/29,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,CA,Menlo Park,21/09/27,Analyst 1,M&A,1.0,1.0,250.0,120.0,0.0,130.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,CA,Menlo Park,21/09/27,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Associate 1,M&A,4.0,4.0,345.0,185.0,0.0,160.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Analyst 3,M&A,3.0,3.0,275.0,140.0,0.0,135.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Analyst 2,M&A,2.0,2.0,255.0,130.0,0.0,125.0,0
+Investment Banker,Evercore,United States,NY,New York,21/09/27,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/09/22,602,Finance,3.0,3.0,160.0,130.0,0.0,30.0,0
+Investment Banker,HSBC,India,KA,Bangalore,21/09/17,AVP,Quantitative analyst,3.0,6.0,59.0,49.0,0.0,10.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/09/06,Associate,Sales and trading,3.0,3.0,220.0,140.0,0.0,80.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/09/05,Vice President,general,3.0,10.0,249.0,200.0,4.0,45.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/08/27,Analyst,Mergers & Acquisitions,0.0,0.0,165.0,100.0,0.0,65.0,0
+Investment Banker,KPMG,India,KA,Bengaluru,21/08/25,Manager,Derivative pricing,1.0,8.0,48.0,47.0,0.0,1.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/08/24,Analyst,General,0.0,0.0,95.0,85.0,0.0,10.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/08/22,Analyst,Investment Banking,1.0,1.0,165.0,90.0,0.0,75.0,0
+Investment Banker,Goldman Sachs,Colombia,CU,Usaquen,21/08/21,Analyst,Investment banking,3.0,4.0,460.0,460.0,0.0,0.0,0
+Investment Banker,Goldman Sachs,United States,CA,San Francisco,21/08/20,Analyst,TMT,0.0,0.0,200.0,110.0,0.0,90.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/08/17,L4,Investment,3.0,3.0,180.0,120.0,20.0,40.0,0
+Investment Banker,UBS,United States,NY,New York,21/08/16,Analyst,LevFin,0.0,0.0,92.0,90.0,0.0,2.0,0
+Investment Banker,Barclays,India,MH,Mumbai,21/08/09,Analyst,Investment banker,1.0,3.0,121.0,61.0,0.0,60.0,0
+Investment Banker,Barclays,United States,NY,New York,21/08/08,Assistant Vice-President,Leveraged Finance,2.0,2.0,280.0,200.0,0.0,80.0,0
+Investment Banker,Citibank,United States,NY,New York,21/08/05,AN1,Debt,1.0,1.0,145.0,85.0,0.0,60.0,0
+Investment Banker,Ernst and Young,United States,NY,New York,21/08/05,Manager,Quantitative Finance,4.0,8.0,170.0,156.0,0.0,14.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,21/07/30,Analyst,mergers and acquisitions,0.0,0.0,160.0,95.0,0.0,65.0,0
+Investment Banker,J.P. Morgan,India,KA,Bangalore,21/07/28,A1,Investment Banker,1.0,2.0,30.0,25.0,0.0,5.0,0
+Investment Banker,Barclays,United States,NY,New York,21/07/28,Analyst,finance,0.0,0.0,110.0,100.0,10.0,0.0,0
+Investment Banker,Citi,United States,NY,New York,21/07/26,Vice President,M&A,6.0,10.0,570.0,275.0,0.0,295.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/07/22,Summer Analyst,General,0.0,0.0,85.0,85.0,0.0,0.0,0
+Investment Banker,Jefferies,United States,NY,New York,21/07/21,Analyst,S&T,0.0,0.0,125.0,85.0,0.0,40.0,0
+Investment Banker,Bank of america,United States,MA,Boston,21/07/20,5,Production,3.0,3.0,165.0,105.0,40.0,20.0,0
+Investment Banker,Barclays,United States,NY,New York,21/07/14,Vice President,General,6.0,6.0,180.0,153.0,0.0,27.0,0
+Investment Banker,Credit Suisse,United States,CA,San Francisco,21/07/10,ASO,Tech,3.0,7.0,400.0,225.0,0.0,175.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/07/09,Year 1,Healthcare Coverage,1.0,1.0,140.0,85.0,0.0,55.0,0
+Investment Banker,JPMorgan Chase,United States,TX,Dallas,21/07/08,601,General,8.0,8.0,52.0,38.0,1.0,15.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,21/07/08,L4,tech research,2.0,10.0,330.0,175.0,60.0,95.0,0
+Investment Banker,Goldman Sachs,United States,TX,Dallas,21/07/01,L1,General,3.0,3.0,150.0,100.0,20.0,30.0,0
+Investment Banker,Goldman Sachs,United States,CA,Los Angeles,21/06/30,Associate,General,3.0,3.0,220.0,105.0,0.0,115.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,21/06/28,AVP,Investment Banking Technology,4.0,7.0,105.0,105.0,0.0,0.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,21/06/24,Analyst,General,2.0,2.0,155.0,90.0,0.0,60.0,0
+Investment Banker,Barclays,United States,NY,New York,21/06/23,Analyst,finance,1.0,1.0,200.0,100.0,0.0,100.0,0
+Investment Banker,Deutsche Bank,India,MH,Mumbai,21/06/17,AVP,Risk,1.0,6.0,50.0,48.0,0.0,2.0,0
+Investment Banker,JP Morgan,United States,NY,New York,21/06/17,Vice president,risk management,5.0,5.0,350.0,200.0,0.0,150.0,0
+Investment Banker,Truist,United States,NY,New York,21/06/15,1,FIG,0.0,0.0,135.0,85.0,0.0,50.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/06/14,Analyst,capital markets,1.0,1.0,95.0,85.0,0.0,10.0,0
+Investment Banker,Citi,United States,NY,New York,21/06/09,SVP,HNW,5.0,8.0,350.0,175.0,0.0,175.0,0
+Investment Banker,KeyBank,United States,CA,San Francisco,21/06/09,Vice President,Healthcare,1.0,8.0,425.0,225.0,0.0,200.0,0
+Investment Banker,Morgan Stanley,Canada,ON,Toronto,21/06/08,Analyst,Generalist,1.0,1.0,147.0,90.0,0.0,57.0,0
+Investment Banker,JP Morgan,India,MH,Mumbai,21/06/04,Associate,Quantitative Research,3.0,3.0,51.0,33.0,0.0,18.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/05/24,502,Asset Management,0.0,0.0,115.0,85.0,0.0,30.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/05/23,Vice President,Desk Strategist,10.0,10.0,210.0,157.0,0.0,53.0,0
+Investment Banker,Barclays,United States,NY,New York,21/05/22,Director,Derivatives,7.0,7.0,900.0,300.0,300.0,300.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/05/13,Associate,Sales & Trading,1.0,4.0,370.0,190.0,30.0,150.0,0
+Investment Banker,Barclays,United States,NY,New York,21/05/06,Analyst,general,0.0,0.0,150.0,85.0,0.0,65.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/05/03,Vice President,General,9.0,9.0,530.0,230.0,100.0,200.0,0
+Investment Banker,JPMorgan Chase,Canada,ON,Toronto,21/04/22,L3,equity portfolio,5.0,8.0,160.0,80.0,20.0,60.0,0
+Investment Banker,UBS,United States,NY,New York,21/04/21,Analyst,Global Industrials Group,2.0,2.0,153.0,100.0,0.0,53.0,0
+Investment Banker,Evercore,United States,NY,New York,21/04/21,Analyst,Restructuring,0.0,0.0,180.0,95.0,0.0,85.0,0
+Investment Banker,Deutsche Bank,United States,NY,New York,21/04/18,Associate,Structured Finance,3.0,3.0,299.0,115.0,14.0,170.0,0
+Investment Banker,Barclays,United States,NY,New York,21/04/16,Assistant Vice-President,Investment Banking,2.0,5.0,285.0,175.0,0.0,110.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/04/11,Associate,FIG,2.0,2.0,250.0,125.0,0.0,125.0,0
+Investment Banker,U.S. Bank,United States,WA,Seattle,21/04/08,Vice President,Corporate Banking,3.0,10.0,300.0,135.0,0.0,165.0,0
+Investment Banker,RBC,United States,NY,New York,21/04/02,Associate 3,Municipal Finance,6.0,6.0,240.0,160.0,0.0,80.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/04/01,Analyst,ECM,1.0,1.0,135.0,85.0,0.0,50.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/03/25,Analyst,M&A,1.0,1.0,190.0,85.0,0.0,105.0,0
+Investment Banker,Barclays,United States,NY,New York,21/03/09,Vice President,Markets,6.0,6.0,166.0,133.0,0.0,33.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/02/23,603,Trading,18.0,23.0,194.0,134.0,6.0,54.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,21/02/20,Investment Banking Analyst,CRG,1.0,1.0,125.0,85.0,0.0,40.0,0
+Investment Banker,Credit Suisse,United States,CA,San Francisco,21/02/18,Analyst,Finance,1.0,1.0,140.0,85.0,0.0,55.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/02/17,Associate L2,Mobile (iOS + Android),4.0,4.0,275.0,150.0,0.0,125.0,0
+Investment Banker,Credit Suisse,Hong Kong (SAR),HK,Hong Kong,21/02/16,VP,Trading,3.0,7.0,235.0,180.0,0.0,55.0,0
+Investment Banker,Deutsche Bank,United States,NY,New York,21/02/09,Associate,Structured Credit,4.0,4.0,300.0,115.0,0.0,185.0,0
+Investment Banker,JPMorgan Chase,India,MH,Mumbai,21/02/05,junior analyst,IB,0.0,0.0,19.0,14.0,0.0,5.0,0
+Investment Banker,Goldman Sachs,United States,NJ,Jersey City,21/02/02,Vice President,product control,12.0,12.0,137.0,127.0,0.0,5.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/01/28,Analyst,S&T,0.0,0.0,75.0,75.0,0.0,0.0,0
+Investment Banker,JP morgan Chase,United States,NY,New York,21/01/23,Vice President,Investment Banker,6.0,6.0,600.0,400.0,0.0,200.0,0
+Investment Banker,UBS,United States,NY,New York,21/01/22,Associate Director,Private Markets,2.0,12.0,214.0,150.0,0.0,64.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/01/21,502,Growth,3.0,3.0,155.0,95.0,0.0,60.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,21/01/19,Vice President,Analytic,1.0,3.0,260.0,160.0,0.0,100.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/01/18,Analyst,Analytic,1.0,1.0,200.0,80.0,0.0,120.0,0
+Investment Banker,JPMorgan Chase,United Kingdom,EN,London,21/01/17,602,Risk,1.0,4.0,141.0,109.0,0.0,32.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/01/16,Managing Director,Technical,15.0,15.0,1.0,400.0,0.0,700.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/01/12,1,Analytic,1.0,1.0,150.0,80.0,0.0,70.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,21/01/06,Analyst,AFG,0.0,0.0,115.0,85.0,0.0,30.0,0
+Investment Banker,Wells Fargo,United States,NY,New York,21/01/06,L1,Technical,1.0,1.0,135.0,85.0,0.0,50.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,21/01/04,Analyst,Private Equity,2.0,4.0,165.0,110.0,0.0,55.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,21/01/04,Vice President,Analytic,2.0,10.0,290.0,200.0,15.0,75.0,0
+Investment Banker,Citi,United States,NY,New York,21/01/01,Associate,Product,4.0,4.0,210.0,150.0,0.0,60.0,0
+Investment Banker,Citi,United States,NY,New York,20/12/24,Vice President,Teader,5.0,5.0,435.0,175.0,0.0,260.0,0
+Investment Banker,Nasdaq,United States,MN,New York Mills,20/12/22,L3,Data,2.0,5.0,200.0,100.0,50.0,50.0,0
+Investment Banker,Google,United States,NY,New York,20/12/14,L3,ML / AI,2.0,3.0,192.0,132.0,32.0,28.0,0
+Investment Banker,Goldman Sachs,Germany,HE,Frankfurt,20/12/10,Analyst,Data,3.0,3.0,210.0,150.0,0.0,60.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/12/02,Managing Director,Analytic,15.0,17.0,1.0,200.0,100.0,1.0,0
+Investment Banker,Citi,United States,NY,New York,20/11/27,Vice President,M&A,9.0,9.0,650.0,300.0,0.0,350.0,0
+Investment Banker,Barclays,United States,NY,New York,20/11/26,Assistant Vice-President,Consumer,0.0,3.0,150.0,125.0,0.0,25.0,0
+Investment Banker,Evercore,United States,CA,Menlo Park,20/11/25,Associate,Tech M&A,0.0,5.0,300.0,160.0,0.0,140.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/11/21,Analyst,M&A,0.0,0.0,150.0,85.0,0.0,65.0,0
+Investment Banker,Citi,Germany,HE,Frankfurt,20/11/21,Analyst,Analytic,1.0,1.0,120.0,80.0,0.0,40.0,0
+Investment Banker,Citi,United States,NY,New York,20/11/17,Associate,Coverage,2.0,2.0,285.0,175.0,30.0,80.0,0
+Investment Banker,UBS,United States,NY,New York,20/11/13,Analyst,Consumer,0.0,0.0,80.0,80.0,0.0,2.0,0
+Investment Banker,Union Bank,United States,CA,Los Angeles,20/11/12,Director,Operations,8.0,15.0,260.0,185.0,0.0,75.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/10/30,Analyst,Enterprise,2.0,2.0,85.0,85.0,0.0,0.0,0
+Investment Banker,BlackRock,United States,CA,San Francisco,20/10/24,Director,Technical,8.0,10.0,270.0,200.0,10.0,60.0,0
+Investment Banker,Wells Fargo,United States,NC,Charlotte,20/10/21,Associate 1,Investment Banking,1.0,1.0,250.0,150.0,0.0,100.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,20/10/19,Director,Operations,6.0,9.0,230.0,185.0,0.0,45.0,0
+Investment Banker,Citi,United States,NY,New York,20/10/17,L3,Product,1.0,1.0,140.0,90.0,0.0,50.0,0
+Investment Banker,HSBC,United States,NY,New York,20/10/15,L1,Finance,1.0,1.0,135.0,90.0,0.0,45.0,0
+Investment Banker,HSBC,United States,FL,Miami,20/09/29,L6,Product,3.0,10.0,250.0,150.0,0.0,100.0,0
+Investment Banker,Citizens Bank,United States,MA,Boston,20/09/29,Analyst 2,Debt,2.0,2.0,145.0,95.0,0.0,50.0,0
+Investment Banker,Barclays,United States,NY,New York,20/09/26,Vice President,DCM,7.0,7.0,440.0,240.0,0.0,200.0,0
+Investment Banker,Scotiabank,Canada,ON,Toronto,20/09/21,5,Analytic,3.0,5.0,320.0,120.0,20.0,180.0,0
+Investment Banker,BNP Paribas,United States,NY,New York,20/09/21,VP,Trading,3.0,9.0,390.0,225.0,0.0,165.0,0
+Investment Banker,UBS,United States,NY,New York,20/09/18,AO,Data,2.0,2.0,120.0,120.0,0.0,0.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,20/09/17,Analyst,Technical,1.0,1.0,150.0,100.0,0.0,50.0,0
+Investment Banker,Macquarie,United States,NY,New York,20/09/03,Associate 2,iOS,3.0,5.0,215.0,175.0,0.0,40.0,0
+Investment Banker,Morningstar,United States,IL,Chicago,20/08/31,Analyst,Analytic,1.0,1.0,65.0,60.0,0.0,5.0,0
+Investment Banker,Citi,United Kingdom,EN,London,20/08/29,Analyst 1,Product,1.0,1.0,115.0,67.0,0.0,48.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/08/28,Associate,Product,2.0,3.0,225.0,125.0,0.0,100.0,0
+Investment Banker,Bank of America,United States,CA,San Francisco,20/08/26,Associate,Other,3.0,3.0,130.0,100.0,0.0,30.0,0
+Investment Banker,Facebook,United States,CA,Menlo Park,20/08/24,L5 Finance,Analytic,2.0,5.0,230.0,180.0,20.0,30.0,0
+Investment Banker,citi,United States,NY,New York,20/08/24,Senior Associate,Coverage,2.0,2.0,270.0,150.0,30.0,90.0,0
+Investment Banker,Barclays,United States,NY,New York,20/08/22,Assistant Vice-President,Analytic,2.0,4.0,140.0,125.0,0.0,15.0,0
+Investment Banker,Barclays,United States,NY,New York,20/08/12,Vice President,Markets,0.0,10.0,315.0,200.0,0.0,115.0,0
+Investment Banker,Equifax,United States,GA,Atlanta,20/08/10,L3,API Development (Back-End),1.0,1.0,50.0,50.0,0.0,0.0,0
+Investment Banker,Nomura,United States,NY,New York,20/08/10,Analyst,Equity Research,2.0,3.0,130.0,110.0,0.0,20.0,0
+Investment Banker,Citi,United States,NY,New York,20/08/08,Associate,IBD,4.0,4.0,300.0,150.0,0.0,150.0,0
+Investment Banker,UBS,United States,NY,New York,20/08/07,Associate Director,IBD,3.0,3.0,300.0,150.0,0.0,150.0,0
+Investment Banker,Credit Suisse,United States,NY,New York,20/08/05,L2,Finance,2.0,2.0,143.0,85.0,0.0,58.0,0
+Investment Banker,Deutsche Bank,India,MH,Mumbai,20/08/03,Assistant Vice President,Risk,0.0,5.0,48.0,46.0,0.0,3.0,0
+Investment Banker,Google,Russia,MC,Moscow,20/08/01,Product Manager 3,Android,1.0,1.0,200.0,100.0,1.0,100.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,20/07/26,Associate,Other,1.0,5.0,150.0,150.0,0.0,0.0,0
+Investment Banker,Bank of america,United States,NY,New York,20/07/26,3,iOS,2.0,6.0,120.0,110.0,0.0,10.0,0
+Investment Banker,Blackstone,United States,NY,New York,20/07/20,Associate,iOS,0.0,2.0,250.0,125.0,0.0,125.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/07/18,Analyst,banker,2.0,2.0,100.0,90.0,0.0,10.0,0
+Investment Banker,Citi,Japan,TY,Tokyo,20/07/08,Vice President,Valuation,7.0,18.0,100.0,100.0,0.0,0.0,0
+Investment Banker,UBS,United Kingdom,EN,London,20/07/04,Director,Wealth Management,5.0,18.0,250.0,169.0,0.0,81.0,0
+Investment Banker,Evercore,United States,NY,New York,20/06/29,Analyst,finance,1.0,1.0,169.0,95.0,0.0,74.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,20/06/16,Analyst,iOS,0.0,0.0,150.0,85.0,10.0,55.0,0
+Investment Banker,UBS,United States,NY,New York,20/06/11,Associate Director,IB,3.0,3.0,300.0,150.0,0.0,150.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/06/11,Analyst,Finance,0.0,0.0,145.0,85.0,0.0,60.0,0
+Investment Banker,Intercom,United States,MI,Indian River,20/06/06,Senior Principal Product Engineer,Android,8.0,10.0,120.0,100.0,10.0,10.0,0
+Investment Banker,MUFG,United States,NY,New York,20/05/18,Analyst,Finance,1.0,1.0,105.0,85.0,0.0,20.0,0
+Investment Banker,UBS,United States,NY,New York,20/05/12,Analyst,M&A,1.0,1.0,145.0,85.0,0.0,60.0,0
+Investment Banker,Citi,Singapore,SG,Singapore,20/05/11,Svp,Banker,6.0,10.0,280.0,200.0,0.0,80.0,0
+Investment Banker,Citi,United States,NY,New York,20/04/21,Analyst,IB,1.0,1.0,150.0,85.0,0.0,65.0,0
+Investment Banker,Capital One,United States,NY,New York,20/04/11,Principal Associate,Full Stack,3.0,4.0,140.0,90.0,0.0,50.0,0
+Investment Banker,Evercore,United States,CA,Menlo Park,20/03/11,Senior Analyst,IB,2.0,2.0,249.0,105.0,0.0,145.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/03/06,Analyst,Investment banking,1.0,1.0,127.0,90.0,2.0,35.0,0
+Investment Banker,Barclays,United States,NY,New York,20/03/03,Analyst,Industry M&A,0.0,1.0,150.0,85.0,0.0,65.0,0
+Investment Banker,Barclays,United Kingdom,EN,London,20/02/20,Vice President,Quant,5.0,10.0,190.0,162.0,0.0,28.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/02/11,Vice President,Investment Banking,4.0,4.0,445.0,210.0,35.0,200.0,0
+Investment Banker,Barclays,United States,NY,New York,20/02/06,Investment Banking Analyst,none,1.0,1.0,160.0,85.0,0.0,75.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/02/01,Analyst,iOS,1.0,1.0,150.0,90.0,0.0,60.0,0
+Investment Banker,Citi,United States,NY,New York,20/01/22,Analyst,00,1.0,1.0,200.0,110.0,0.0,90.0,0
+Investment Banker,JPMC,United States,TX,Houston,20/01/19,Vice President,Credit Risk,10.0,15.0,164.0,119.0,0.0,44.0,0
+Investment Banker,ptg,Korea,KG,Seoul,20/01/18,5,real estate,3.0,3.0,330.0,200.0,30.0,100.0,0
+Investment Banker,ptg,Korea,KG,Seoul,20/01/18,5,real estate,3.0,3.0,330.0,200.0,30.0,100.0,0
+Investment Banker,ptg,Korea,KG,Seoul,20/01/18,5,real estate,3.0,3.0,330.0,200.0,30.0,100.0,0
+Investment Banker,ptg,Korea,KG,Seoul,20/01/18,5,real estate,3.0,3.0,330.0,200.0,30.0,100.0,0
+Investment Banker,Goldman Sachs,Singapore,SG,Singapore,20/01/16,Vice President,iOS,8.0,15.0,250.0,210.0,10.0,30.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,20/01/13,Associate,IBD,4.0,4.0,230.0,150.0,10.0,70.0,0
+Investment Banker,Evercore,United States,CA,Menlo Park,19/12/25,Analyst,Tag,1.0,1.0,175.0,95.0,0.0,80.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NC,Charlotte,19/12/02,Director,Full Stack,8.0,10.0,400.0,200.0,50.0,150.0,0
+Investment Banker,Citi,United States,NY,New York,19/11/23,Associate,Sales,4.0,4.0,495.0,145.0,0.0,350.0,0
+Investment Banker,RBC,United States,NY,New York,19/11/16,1ST YEAR ASSOCIATE,TRADING,4.0,4.0,235.0,175.0,0.0,60.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,19/11/15,Vice President,Strat,6.0,7.0,300.0,200.0,0.0,100.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,19/11/10,Associate,Banking,5.0,7.0,250.0,150.0,0.0,100.0,0
+Investment Banker,Barclays,United States,NY,New York,19/10/25,Analyst,Investment Banking,1.0,1.0,170.0,90.0,0.0,80.0,0
+Investment Banker,Barclays,United States,NY,New York,19/10/25,Analyst,Investment Banking,1.0,1.0,170.0,90.0,0.0,80.0,0
+Investment Banker,JPMorgan Chase,United States,CA,San Francisco,19/10/02,Analyst,Investment Banking,1.0,2.0,225.0,110.0,0.0,115.0,0
+Investment Banker,Citi,United States,NY,New York,19/09/08,Vice President,Finance,3.0,8.0,1.0,600.0,0.0,1.1,0
+Investment Banker,BNP Paribas,United States,NY,New York,19/08/21,Vice President,Legal,4.0,9.0,248.0,196.0,0.0,52.0,0
+Investment Banker,Citi,United States,NY,New York,19/08/19,Associate,M&A,4.0,6.0,475.0,200.0,0.0,275.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,19/08/14,Analyst,strat,3.0,3.0,185.0,115.0,0.0,70.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,19/06/28,2,trader,5.0,5.0,200.0,150.0,0.0,50.0,0
+Investment Banker,CIBC,Canada,AB,Calgary,19/06/17,Manager,RE,1.0,10.0,119.0,90.0,7.0,22.0,0
+Investment Banker,Citi,United States,NY,New York,19/06/17,Associate,Real Estate,5.0,5.0,310.0,135.0,0.0,175.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,19/06/16,Vice President,Corporate strategy,1.0,8.0,225.0,,,,0
+Investment Banker,Barclays,United States,NY,New York,19/06/16,Assistant Vice-President,Asset management,6.0,6.0,300.0,165.0,35.0,100.0,0
+Investment Banker,Morgan Stanley,United States,NY,New York,19/06/16,Associate,ML / AI,0.0,3.0,225.0,170.0,0.0,55.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,19/06/15,Associate,PM,3.0,6.0,305.0,155.0,0.0,150.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,CA,Palo Alto,19/06/15,Director,iOS,5.0,9.0,650.0,,,,0
+Investment Banker,Jefferies,United States,IL,Chicago,19/06/15,Associate,Networking,4.0,4.0,350.0,175.0,10.0,165.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,19/04/28,Associate,trading,1.0,3.0,135.0,85.0,0.0,45.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,19/04/16,604,Mobile (iOS + Android),14.0,14.0,625.0,325.0,0.0,300.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,19/04/15,Associate,ML / AI,0.0,0.0,150.0,125.0,0.0,25.0,0
+Investment Banker,Bank of America Merrill Lynch,United States,NY,New York,19/03/15,Vice President,ML / AI,3.0,12.0,390.0,,,,0
+Investment Banker,Morgan Stanley,United States,NY,New York,19/02/02,Analyst 2,TMT,1.0,1.0,140.0,90.0,0.0,50.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,19/01/27,Analyst,Mergers,1.0,3.0,150.0,100.0,30.0,20.0,0
+Investment Banker,Citi,United States,NY,New York,19/01/24,Analyst,Credit,2.0,2.0,150.0,,,,0
+Investment Banker,Goldman Sachs,Hong Kong (SAR),HK,Hong Kong,19/01/23,Executive Director / Vice-President,Data Science,1.0,8.0,350.0,200.0,50.0,100.0,0
+Investment Banker,JPMorgan Chase,United States,NY,New York,19/01/16,A0,Post MBA,0.0,0.0,200.0,150.0,0.0,50.0,0
+Investment Banker,RBS,United Kingdom,EN,London,19/01/05,Vice President,Web Development (Front-End),1.0,8.0,250.0,150.0,60.0,40.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,18/10/20,Associate,Real Estate,5.0,5.0,235.0,125.0,0.0,110.0,0
+Investment Banker,Goldman Sachs,India,KA,Bangalore,18/09/05,Vice President,Full Stack,4.5,20.0,221.0,,,,0
+Investment Banker,Citi,United States,NY,New York,18/08/16,Associate,Quantitative analysis,1.0,0.0,150.0,,,,0
+Investment Banker,IBM,United States,NY,New York,18/07/29,Manager,Security,3.0,5.0,185.0,,,,0
+Investment Banker,Goldman Sachs,United States,NY,New York,18/07/11,Associate,Strategist,4.0,4.0,235.0,,,,0
+Investment Banker,Google,United States,CA,Sunnyvale,18/07/07,7,Finance,1.0,15.0,400.0,,,,0
+Investment Banker,JP Morgan Chase,United States,CA,San Francisco,18/05/17,,Analyst,0.0,0.0,120.0,,,,0

@@ -1,0 +1,675 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,DoorDash,United States,AZ,Phoenix,22/01/03,E5,Sales,2.0,8.0,140.0,120.0,20.0,0.0,0.0
+Recruiter,Adyen,Netherlands,NH,Amsterdam,22/01/03,L3,University,3.0,13.0,97.0,97.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,TX,Austin,22/01/03,IC4,Technical,1.0,2.0,179.0,112.0,50.0,17.0,0.0
+Recruiter,Amazon,United States,CO,Denver,22/01/03,L5,Technical,0.0,7.0,142.0,105.0,23.0,15.0,0.0
+Recruiter,Google,United States,PA,Pittsburgh,22/01/02,L3,Technical,0.0,5.0,112.0,112.0,0.0,0.0,0.0
+Recruiter,Atlassian,United States,CA,San Francisco,22/01/02,P5,Technical,1.0,7.0,194.0,143.0,30.0,21.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,22/01/02,L4,Technical,1.0,1.0,75.0,59.0,10.0,6.0,0.0
+Recruiter,Amazon,United States,WA,Redmond,22/01/01,L6,Technical,2.0,22.0,220.0,150.0,50.0,20.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/12/31,IC5,Technical,3.0,9.0,208.0,145.0,35.0,28.0,0.0
+Recruiter,Zoox,United States,CA,Foster City,21/12/29,L2,Technical,1.0,2.0,134.0,100.0,34.0,0.0,0.0
+Recruiter,Amazon,Canada,ON,Toronto,21/12/27,L4,Technical,0.0,8.0,94.0,70.0,9.0,15.0,0.0
+Recruiter,Stripe,Italy,AB,Pescara,21/12/26,L3,Technical,1.0,1.0,31.0,30.0,1.0,0.0,0.0
+Recruiter,Nvidia,United States,WA,Seattle,21/12/26,IC3,Technical,0.0,0.0,300.0,200.0,100.0,0.0,0.0
+Recruiter,Facebook,United States,LA,New Orleans,21/12/22,IC4,Technical,0.0,10.0,131.0,107.0,14.0,11.0,0.0
+Recruiter,Appian,United States,DC,Washington,21/12/21,L2,Technical,1.0,6.0,93.0,82.0,6.0,5.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/12/21,IC4,Technical,1.0,4.0,136.0,112.0,13.0,11.0,0.0
+Recruiter,Samsara,United States,CA,San Francisco,21/12/21,L2,Sales,0.0,2.0,103.0,80.0,15.0,8.0,0.0
+Recruiter,Facebook,United States,CA,Los Angeles,21/12/21,Entry Level,Technical,0.0,0.0,70.0,70.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Jose,21/12/21,L5,Technical,1.0,3.0,158.0,110.0,30.0,18.0,0.0
+Recruiter,Rivian,United States,CA,Palo Alto,21/12/21,RIV 7,Technical,1.0,15.0,315.0,200.0,75.0,40.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/12/17,L5,Leadership,2.0,3.0,99.0,83.0,10.0,6.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/12/17,0,University,0.0,1.0,60.0,60.0,0.0,0.0,0.0
+Recruiter,Twitter,United States,CA,San Francisco,21/12/17,L5,R4R,1.0,5.0,158.0,120.0,20.0,18.0,0.0
+Recruiter,Twitter,United States,CA,San Francisco,21/12/17,L5,G&A,3.0,5.0,185.0,145.0,20.0,20.0,0.0
+Recruiter,Okta,United States,CA,San Francisco,21/12/17,L4,Technical,1.0,10.0,165.0,130.0,22.0,13.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,21/12/16,L5,Technical,2.0,10.0,205.0,155.0,30.0,20.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/12/15,L5,Technical,3.0,3.0,115.0,81.0,34.0,0.0,0.0
+Recruiter,Google,United States,NY,New York,21/12/15,L5,Technical,16.0,16.0,248.0,168.0,50.0,30.0,0.0
+Recruiter,Google,United States,CA,San Francisco,21/12/15,L3,Operations,1.0,4.0,145.0,105.0,24.0,16.0,0.0
+Recruiter,Samsara,United States,CA,San Francisco,21/12/14,R3,Marketing,2.0,6.0,135.0,105.0,20.0,10.0,0.0
+Recruiter,Cruise,United States,CA,San Francisco,21/12/13,L5,Technical,3.0,10.0,240.0,175.0,13.0,52.0,0.0
+Recruiter,Facebook,United States,TX,Houston,21/12/10,IC3,Technical,0.0,0.0,112.0,92.0,10.0,10.0,0.0
+Recruiter,Starbucks,United States,WA,Seattle,21/12/10,23,Non tech,3.0,10.0,108.0,99.0,4.0,5.0,0.0
+Recruiter,Slalom,United States,TX,Dallas,21/12/10,Director,Technical,7.0,10.0,197.0,150.0,0.0,47.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/12/09,E5,Technical,0.0,8.0,205.0,159.0,23.0,24.0,0.0
+Recruiter,LinkedIn,United States,CA,San Francisco,21/12/08,5,Leadership,3.0,10.0,207.0,158.0,25.0,24.0,0.0
+Recruiter,Opendoor,United States,AZ,Tempe,21/12/08,L3,Operations,1.0,5.0,143.0,90.0,52.0,1.0,0.0
+Recruiter,Twilio,United States,TX,Austin,21/12/08,L3,Sales,1.0,3.0,112.0,92.0,10.0,10.0,0.0
+Recruiter,DoorDash,United States,CA,San Francisco,21/12/07,P3,Sales,1.0,6.0,185.0,150.0,35.0,0.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/12/06,IC6,Technical,0.0,20.0,251.0,180.0,35.0,36.0,0.0
+Recruiter,Amazon,United Kingdom,EN,London,21/12/06,L5,Technical,2.0,5.0,70.0,49.0,21.0,0.0,0.0
+Recruiter,Better Mortgage,United States,NY,New York,21/12/06,L3,Sourcing,1.0,1.0,90.0,87.0,0.0,3.0,0.0
+Recruiter,ViacomCBS,United States,CA,Los Angeles,21/12/03,Senior,Technical,2.0,5.0,130.0,130.0,0.0,0.0,0.0
+Recruiter,Carbon,United States,CA,Redwood City,21/12/03,P4,Technical,1.0,10.0,205.0,170.0,35.0,0.0,0.0
+Recruiter,Facebook,United States,MN,Minneapolis,21/12/02,L3,iOS,0.0,3.0,115.0,95.0,10.0,10.0,0.0
+Recruiter,Gopuff,United States,CA,San Francisco,21/12/02,L5,Technical,0.0,6.0,147.0,127.0,20.0,0.0,0.0
+Recruiter,Google,United States,PA,Pittsburgh,21/12/02,L5,Technical,8.0,12.0,183.0,135.0,20.0,28.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/12/01,IC5,University,1.0,12.0,200.0,150.0,25.0,25.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/11/30,L5,Technical,3.0,5.0,150.0,100.0,50.0,0.0,0.0
+Recruiter,TEKsystems,United States,IL,Chicago,21/11/29,,Technical,6.0,6.0,85.0,70.0,0.0,15.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/11/29,L4,University,0.0,3.0,150.0,123.0,15.0,12.0,0.0
+Recruiter,Robinhood,United States,TX,Austin,21/11/29,L2,Operations,1.0,3.0,108.0,94.0,5.0,9.0,0.0
+Recruiter,Unity Technologies,United Kingdom,EN,London,21/11/29,L3,Technical,0.0,5.0,89.0,89.0,0.0,0.0,0.0
+Recruiter,Amazon,Canada,ON,Toronto,21/11/29,L5,Technical,4.0,8.0,135.0,95.0,40.0,0.0,0.0
+Recruiter,Facebook,United States,TX,Dallas,21/11/29,L5,Leadership,0.0,8.0,178.0,138.0,20.0,20.0,0.0
+Recruiter,Lime,United States,NY,Amsterdam,21/11/24,L4,Operations,0.0,2.0,89.0,78.0,3.0,8.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/11/24,L3,Technical,1.0,1.0,110.0,110.0,0.0,0.0,0.0
+Recruiter,Netflix,United States,CA,Los Gatos,21/11/23,Only one level across Netflix,University,0.0,0.0,350.0,200.0,0.0,150.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/11/23,IC3,Leadership,0.0,1.0,112.0,95.0,7.0,10.0,0.0
+Recruiter,Zillow,United States,CA,Los Angeles,21/11/23,M3,Technical,4.0,12.0,180.0,160.0,20.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/11/23,IC3,Leadership,0.0,2.0,116.0,99.0,8.0,10.0,0.0
+Recruiter,Microsoft Corporation,United States,VA,Reston,21/11/22,62,Operations,2.0,12.0,169.0,140.0,15.0,14.0,0.0
+Recruiter,Verizon,United States,DC,Washington,21/11/22,T7,Sales,2.0,11.0,100.0,88.0,4.0,8.0,0.0
+Recruiter,Facebook,United States,CA,Sacramento,21/11/21,IC4,RECRUITER,1.0,10.0,132.0,112.0,10.0,10.0,0.0
+Recruiter,Facebook,United States,MD,Baltimore,21/11/18,L5,Leadership,0.0,8.0,180.0,140.0,20.0,20.0,0.0
+Recruiter,Uber,India,KA,Bangalore,21/11/18,L3,Technical,1.0,5.0,24.0,21.0,1.0,2.0,0.0
+Recruiter,Atlassian,Australia,NS,Sydney,21/11/18,P4,Technical,2.0,4.0,136.0,88.0,40.0,8.0,0.0
+Recruiter,Intuit,Canada,ON,Toronto,21/11/17,Senior Recruiter,Technical,1.0,6.0,165.0,95.0,60.0,10.0,0.0
+Recruiter,Klaviyo,United States,MA,Boston,21/11/17,L3,Technical,2.0,10.0,165.0,125.0,40.0,0.0,0.0
+Recruiter,Tableau Software,United States,WA,Seattle,21/11/17,5,Sales,0.0,3.0,110.0,100.0,0.0,10.0,0.0
+Recruiter,Atlassian,Australia,NS,Sydney,21/11/17,P4,Technical,1.0,5.0,99.0,80.0,11.0,8.0,0.0
+Recruiter,Snap,United Kingdom,EN,London,21/11/16,L2,All areas,0.0,2.0,75.0,60.0,9.0,6.0,0.0
+Recruiter,Microsoft,United States,NC,Charlotte,21/11/15,62,Technical,1.0,8.0,144.0,122.0,12.0,10.0,0.0
+Recruiter,JPMorgan Chase,United States,IL,Chicago,21/11/13,Senior Associate,University,2.0,6.0,80.0,74.0,0.0,6.0,0.0
+Recruiter,Twilio,United States,CA,San Francisco,21/11/12,L3,People,1.0,10.0,230.0,185.0,15.0,30.0,0.0
+Recruiter,McKinsey,United States,NY,Boston,21/11/12,2,Technical,2.0,20.0,130.0,130.0,0.0,0.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,21/11/12,L5B,Technical,2.0,10.0,180.0,135.0,35.0,10.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,21/11/12,Recruiter,Technical,1.0,10.0,139.0,117.0,12.0,10.0,0.0
+Recruiter,Salesforce,United States,DC,Washington,21/11/11,L4,Technical,1.0,5.0,115.0,115.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,NY,New York,21/11/11,IC5,Technical,2.0,10.0,250.0,150.0,60.0,40.0,0.0
+Recruiter,Google,United States,WA,Seattle,21/11/10,L3,Technical,1.0,3.0,135.0,98.0,22.0,15.0,0.0
+Recruiter,Yext,United States,NY,New York,21/11/10,1,HR,1.0,5.0,127.0,115.0,12.0,0.0,0.0
+Recruiter,Accenture,United States,CO,Denver,21/11/10,L10,Technical,2.0,6.0,85.0,82.0,0.0,3.0,0.0
+Recruiter,Amazon,United States,TX,Bedford,21/11/10,IC4,Technical,0.0,5.0,126.0,116.0,10.0,0.0,0.0
+Recruiter,Salesforce,United States,WA,Seattle,21/11/10,L4,Technical,0.0,9.0,108.0,108.0,0.0,0.0,0.0
+Recruiter,Google,United States,GA,Atlanta,21/11/10,L5,Leadership,0.0,10.0,328.0,215.0,88.0,25.0,52.0
+Recruiter,Oracle,Romania,BU,Bucharest,21/11/09,IC-4,Technical,6.0,10.0,30.0,30.0,0.0,0.0,0.0
+Recruiter,Shopee,Singapore,SG,Singapore,21/11/09,Associate,University,1.0,1.0,63.0,54.0,0.0,9.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/11/08,IC5,ML / AI,1.0,6.0,201.0,153.0,25.0,23.0,0.0
+Recruiter,ByteDance,United Kingdom,EN,London,21/11/07,2.1,Technical,1.0,7.0,98.0,82.0,5.0,10.0,0.0
+Recruiter,Facebook,United States,WA,Redmond,21/11/06,IC5,Technical,3.0,7.0,202.0,150.0,30.0,22.0,0.0
+Recruiter,Box,United States,TX,Austin,21/11/05,L5,Sales,2.0,5.0,116.0,95.0,21.0,0.0,0.0
+Recruiter,Google,United States,CA,San Jose,21/11/05,L5,Technical,4.0,9.0,216.0,135.0,52.0,30.0,0.0
+Recruiter,Google,United States,NY,New York,21/11/04,L5,Technical,0.0,9.0,230.0,167.0,38.0,25.0,0.0
+Recruiter,The Voleon Group,United States,CA,Berkeley,21/11/04,L5,Technical,5.0,15.0,210.0,130.0,0.0,80.0,0.0
+Recruiter,Amazon,United States,NY,New York,21/11/03,L5,Technical,2.0,5.0,130.0,100.0,30.0,0.0,0.0
+Recruiter,Stripe,United States,NY,New York,21/11/03,L3,Technical,0.0,6.0,236.0,160.0,52.0,24.0,0.0
+Recruiter,Salesforce,United States,TX,Austin,21/11/02,L5,Technical,1.0,3.0,120.0,110.0,0.0,10.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/11/02,6,Technical,6.0,7.0,208.0,123.0,85.0,0.0,0.0
+Recruiter,Coinbase,United States,TX,Austin,21/11/02,IC5,Technical,1.0,8.0,219.0,124.0,50.0,45.0,0.0
+Recruiter,Parity Technologies,Germany,BE,Berlin,21/10/31,L1,Technical,1.0,1.0,92.0,81.0,9.0,2.0,25.0
+Recruiter,Microsoft,United States,WA,Redmond,21/10/30,L59,University,1.0,7.0,54.0,54.0,0.0,0.0,0.0
+Recruiter,Netflix,United States,CA,San Francisco,21/10/29,Senior,Technical,1.0,8.0,258.0,253.0,0.0,5.0,0.0
+Recruiter,Amazon,United States,UT,Ogden,21/10/29,L3,Technical,1.0,1.0,71.0,71.0,0.0,0.0,0.0
+Recruiter,Coinbase,United States,CA,San Diego,21/10/29,IC5,Technical,0.0,14.0,195.0,132.0,50.0,13.0,0.0
+Recruiter,Intel,United States,AZ,Phoenix,21/10/29,Grade 9,Technical,10.0,20.0,230.0,165.0,25.0,40.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/10/27,L5,Technical,0.0,3.0,131.0,95.0,21.0,15.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/10/27,l4 Technical Recruiter,Technical,1.0,8.0,200.0,160.0,40.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/10/27,L4,Technical,1.0,6.0,200.0,160.0,40.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/10/27,L5,Sourcing,2.0,5.0,117.0,80.0,27.0,10.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/10/27,L6,Technical,2.0,20.0,220.0,145.0,35.0,40.0,0.0
+Recruiter,Qualtrics,United States,WA,Seattle,21/10/26,L3,University,2.0,3.0,94.0,82.0,8.0,4.0,0.0
+Recruiter,Highspot,United States,WA,Seattle,21/10/26,Manager,Leadership,4.0,7.0,150.0,150.0,0.0,0.0,0.0
+Recruiter,GE Digital,United States,NY,New York,21/10/26,SPB,Technical,2.0,10.0,194.0,164.0,0.0,30.0,0.0
+Recruiter,Lyft,United States,NY,New York,21/10/26,L5,Technical,4.0,6.0,163.0,121.0,40.0,2.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/10/22,63,Leadership,3.0,10.0,220.0,150.0,50.0,20.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/10/22,IC5,Technical,2.0,4.0,191.0,158.0,10.0,24.0,0.0
+Recruiter,Facebook,United States,IL,Chicago,21/10/22,IC5,Technical,3.0,10.0,184.0,142.0,20.0,22.0,0.0
+Recruiter,HashiCorp,United States,CA,South San Francisco,21/10/20,M3,Operations,2.0,10.0,223.0,180.0,25.0,18.0,0.0
+Recruiter,Endava,Germany,BE,Berlin,21/10/20,senior,Technical,1.0,4.0,48.0,48.0,0.0,0.0,0.0
+Recruiter,Amazon,Canada,BC,Vancouver,21/10/20,L6,Technical,4.0,9.0,114.0,85.0,29.0,0.0,0.0
+Recruiter,6sense,United States,PA,Philadelphia,21/10/20,L5,Technical,0.0,12.0,154.0,120.0,10.0,24.0,0.0
+Recruiter,Elastic,Netherlands,NH,Amsterdam,21/10/19,IC5,Technical,1.0,8.0,80.0,70.0,10.0,0.0,0.0
+Recruiter,HBO,United States,NY,New York,21/10/18,L2,Technical,1.0,3.0,132.0,120.0,0.0,12.0,0.0
+Recruiter,Capital One,United States,VA,West McLean,21/10/18,Principal Associate,Technical,2.0,9.0,115.0,107.0,0.0,8.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,21/10/17,IC4,Technical,3.0,10.0,282.0,171.0,78.0,33.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/10/15,L4,University,3.0,4.0,150.0,126.0,18.0,6.0,0.0
+Recruiter,Shopify,Canada,ON,Waterloo,21/10/15,L6,Technical,3.0,3.0,83.0,70.0,8.0,5.0,0.0
+Recruiter,DoorDash,United States,CA,San Francisco,21/10/14,L6,Technical,1.0,7.0,275.0,175.0,100.0,0.0,0.0
+Recruiter,"Toast, Inc.",United States,MA,Boston,21/10/14,p3,Leadership,1.0,5.0,116.0,105.0,0.0,11.0,0.0
+Recruiter,Deutsche Bank,United States,FL,Jacksonville,21/10/13,Entry,Finance,1.0,1.0,62.0,62.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/10/13,L3,Technical,3.0,5.0,123.0,103.0,10.0,10.0,0.0
+Recruiter,Rivian,United States,CA,Irvine,21/10/11,RIV 5,Technical,2.0,6.0,112.0,105.0,7.0,0.0,0.0
+Recruiter,Amazon,United States,FL,Jacksonville,21/10/08,L6,Recruiting,2.0,15.0,200.0,140.0,60.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/10/08,L5,Technical,6.0,7.0,190.0,130.0,60.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/10/07,L5,Technical,5.0,8.0,150.0,110.0,40.0,0.0,0.0
+Recruiter,Box,United States,CA,Redwood City,21/10/06,L7,Operations,3.0,8.0,208.0,155.0,50.0,3.0,0.0
+Recruiter,Oracle,United States,CA,Los Angeles,21/10/06,IC-3,Technical,3.0,8.0,113.0,110.0,0.0,3.0,0.0
+Recruiter,Box,United States,CA,Redwood City,21/10/04,L7,Leadership,2.0,20.0,275.0,195.0,75.0,5.0,0.0
+Recruiter,Tesla,United States,CA,Fremont,21/10/02,L4,Recruiting,1.0,6.0,140.0,115.0,25.0,0.0,0.0
+Recruiter,Databricks,United States,CA,San Francisco,21/10/01,L6,Technical,1.0,15.0,352.0,185.0,137.0,30.0,0.0
+Recruiter,Uber,United States,TX,Lake Dallas,21/09/30,l2,sourcer,0.0,0.0,81.0,70.0,3.0,8.0,0.0
+Recruiter,Robinhood,United States,CA,Menlo Park,21/09/29,L2,Technical,1.0,3.0,139.0,119.0,20.0,0.0,0.0
+Recruiter,Dropbox,United States,CA,San Francisco,21/09/28,L4,Recruiting,4.0,9.0,275.0,184.0,51.0,40.0,0.0
+Recruiter,Plaid,United States,CA,San Francisco,21/09/28,Entry,Recruiting Coordinator,0.0,0.0,78.0,78.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,OR,Portland,21/09/28,IC4,Android,0.0,4.0,137.0,112.0,13.0,12.0,0.0
+Recruiter,Amazon,United States,TX,Dallas,21/09/23,L5,Technical,0.0,20.0,104.0,100.0,4.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/09/22,L4,Operations,2.0,3.0,81.0,62.0,12.0,7.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/09/22,IC6,Technical,7.0,10.0,259.0,180.0,55.0,24.0,0.0
+Recruiter,Amazon,United States,CA,Los Angeles,21/09/21,L5,Technical,0.0,4.0,120.0,91.0,17.0,13.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/09/21,L5,Technical,0.0,12.0,120.0,120.0,0.0,0.0,0.0
+Recruiter,Wayfair,United States,DC,Washington,21/09/21,L2,Technical,1.0,10.0,110.0,100.0,0.0,10.0,0.0
+Recruiter,GoDaddy,United States,AZ,Tempe,21/09/21,L5,Technical,8.0,12.0,215.0,135.0,60.0,20.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/09/20,IC3,Technical,1.0,3.0,118.0,99.0,9.0,10.0,0.0
+Recruiter,Wayfair,United States,FL,Tampa,21/09/16,L2,TECH,1.0,3.0,102.0,102.0,0.0,0.0,0.0
+Recruiter,Google,United States,GA,Atlanta,21/09/16,L5,Technical,7.0,10.0,228.0,150.0,51.0,28.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/09/14,60,Technical,1.0,6.0,148.0,108.0,25.0,15.0,0.0
+Recruiter,Electronic Arts,United States,CA,San Francisco,21/09/14,Senior SE 2,Technical,1.0,15.0,180.0,140.0,25.0,15.0,0.0
+Recruiter,Roblox,United States,CA,San Mateo,21/09/13,IC2,Technical,2.0,3.0,184.0,94.0,90.0,0.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/09/11,62,University,4.0,6.0,165.0,130.0,20.0,15.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/09/09,L6,Technical,6.0,15.0,204.0,145.0,28.0,31.0,0.0
+Recruiter,Match Group,United States,NY,New York,21/09/07,Lead Recruiter,Recruiting,1.0,15.0,169.0,135.0,20.0,14.0,0.0
+Recruiter,Facebook,United States,PA,Philadelphia,21/09/07,IC4,University,0.0,6.0,136.0,112.0,13.0,11.0,0.0
+Recruiter,Roblox,United States,CA,San Mateo,21/09/03,IC4,Operations,0.0,8.0,204.0,168.0,36.0,0.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/09/03,58,University,1.0,1.0,96.0,83.0,4.0,9.0,0.0
+Recruiter,Facebook,United States,FL,Florahome,21/09/03,IC5,Technical,2.0,10.0,184.0,140.0,20.0,24.0,0.0
+Recruiter,ABC,United States,NV,Las Vegas,21/09/03,L4,Sales,1.0,16.0,185.0,185.0,0.0,0.0,0.0
+Recruiter,Stripe,United States,CA,Los Angeles,21/09/03,L2,Technical,0.0,5.0,171.0,125.0,33.0,13.0,0.0
+Recruiter,Microsoft,United States,GA,Atlanta,21/09/02,60,University,5.0,5.0,145.0,105.0,25.0,15.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/09/02,IC5,Technical,7.0,16.0,236.0,180.0,28.0,28.0,0.0
+Recruiter,Amazon,United States,TX,Austin,21/09/01,L6,Leadership,2.0,15.0,197.0,143.0,54.0,0.0,0.0
+Recruiter,Verizon,United States,CA,San Francisco,21/09/01,Senior,Sales,3.0,6.0,111.0,96.0,5.0,10.0,0.0
+Recruiter,Zoom,United States,FL,Orlando,21/09/01,ZP3,Technical,1.0,9.0,154.0,115.0,30.0,9.0,0.0
+Recruiter,Cruise,United States,WA,Seattle,21/09/01,L5,Technical,1.0,13.0,208.0,150.0,13.0,45.0,0.0
+Recruiter,Dropbox,United States,CA,San Francisco,21/08/31,L4,Technical,3.0,5.0,215.0,146.0,39.0,29.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/08/30,L5,Technical,6.0,6.0,136.0,100.0,36.0,0.0,0.0
+Recruiter,Cruise,United States,NY,New York,21/08/30,L4,Technical,0.0,6.0,230.0,165.0,15.0,50.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/08/29,IC5,Design,2.0,8.0,258.0,160.0,50.0,48.0,0.0
+Recruiter,Facebook,United States,NY,New York,21/08/27,L6,Leadership,8.0,8.0,235.0,190.0,25.0,20.0,0.0
+Recruiter,Amazon,United States,TX,Austin,21/08/27,L6,Technical,5.0,15.0,272.0,151.0,121.0,0.0,0.0
+Recruiter,DoorDash,United States,CA,San Francisco,21/08/27,P4,Sales,1.0,6.0,183.0,150.0,33.0,0.0,0.0
+Recruiter,Opendoor,United States,NY,New York,21/08/26,L4,Recruiting,1.0,6.0,200.0,149.0,26.0,25.0,0.0
+Recruiter,Google,United States,TX,Austin,21/08/26,L4,Sourcing,6.0,10.0,162.0,110.0,35.0,17.0,0.0
+Recruiter,Facebook,United States,IL,Chicago,21/08/25,IC5,Technical,3.0,10.0,184.0,142.0,20.0,22.0,0.0
+Recruiter,Amazon,United States,CA,Los Angeles,21/08/25,L4,Technical,0.0,3.0,121.0,75.0,30.0,16.0,0.0
+Recruiter,ADP,United States,FL,Orlando,21/08/24,CBM08,Technical,4.0,12.0,106.0,97.0,0.0,9.0,0.0
+Recruiter,Robinhood,United States,NY,New York,21/08/24,L1,Technical,1.0,5.0,90.0,90.0,0.0,0.0,0.0
+Recruiter,Uber,Netherlands,NH,Amsterdam,21/08/24,L4,Technical,3.0,6.0,113.0,80.0,20.0,13.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/08/23,IC4,Technical,1.0,6.0,172.0,128.0,22.0,22.0,0.0
+Recruiter,Dropbox,United States,TX,Austin,21/08/23,IC2,Technical,2.0,7.0,114.0,100.0,8.0,6.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/08/23,62,Other,6.0,8.0,165.0,130.0,20.0,15.0,0.0
+Recruiter,Amazon,United States,NY,New York,21/08/21,L6,Technical,10.0,25.0,255.0,145.0,110.0,0.0,0.0
+Recruiter,MongoDB,United States,IN,Indianapolis,21/08/20,Software Engineer,Technical,1.0,4.0,159.0,120.0,15.0,24.0,0.0
+Recruiter,Uber,United States,TX,Austin,21/08/20,L4,Technical,5.0,9.0,144.0,116.0,18.0,10.0,0.0
+Recruiter,Uber,United States,TX,Dallas,21/08/20,L3,Technical,1.0,1.0,93.0,70.0,15.0,8.0,0.0
+Recruiter,Robinhood,United States,CA,Menlo Park,21/08/19,L3,Technical,2.0,11.0,250.0,180.0,40.0,30.0,0.0
+Recruiter,Twitter,United States,GA,Atlanta,21/08/19,L6,Technical,1.0,13.0,166.0,126.0,20.0,20.0,0.0
+Recruiter,Cruise,United States,CA,San Francisco,21/08/19,L5,Technical,2.0,8.0,185.0,127.0,20.0,38.0,0.0
+Recruiter,Airbus,United States,CA,Sunnyvale,21/08/19,3,Technical,3.0,15.0,204.0,185.0,0.0,19.0,0.0
+Recruiter,Uber,United States,TX,Dallas,21/08/19,L3,Technical,0.0,0.0,87.0,75.0,4.0,9.0,0.0
+Recruiter,TikTok,United States,CA,Los Angeles,21/08/18,2-1,Technical,0.0,5.0,152.0,115.0,8.0,29.0,0.0
+Recruiter,GitHub,United States,IL,Chicago,21/08/18,8,Technical,0.0,4.0,143.0,115.0,18.0,10.0,0.0
+Recruiter,Wayfair,United States,MA,Boston,21/08/18,L3,Technical,0.0,20.0,153.0,110.0,26.0,17.0,0.0
+Recruiter,Amazon,United States,CA,Los Angeles,21/08/17,L5,Technical,3.0,12.0,150.0,95.0,55.0,0.0,0.0
+Recruiter,Apple,United States,CA,Cupertino,21/08/17,IC5,R&D,15.0,18.0,315.0,193.0,100.0,22.0,0.0
+Recruiter,Microsoft,United States,WA,Redmond,21/08/17,61,Technical,0.0,13.0,160.0,125.0,22.0,13.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/08/15,L5,Operations,0.0,10.0,141.0,110.0,17.0,14.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/08/14,IC5,Technical,10.0,10.0,174.0,154.0,20.0,0.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,21/08/14,L60,Technical,0.0,3.0,130.0,115.0,5.0,10.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/08/13,L4,Technical,3.0,5.0,195.0,135.0,40.0,20.0,0.0
+Recruiter,Uber,United States,IL,Chicago,21/08/13,4,Corporate,2.0,7.0,118.0,99.0,8.0,11.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/08/12,5,Technical,1.0,4.0,120.0,90.0,15.0,15.0,0.0
+Recruiter,DoorDash,United States,NY,New York,21/08/12,IC3,Sales,0.0,3.0,112.0,112.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,GA,Atlanta,21/08/11,L4,Technical,1.0,5.0,98.0,98.0,0.0,0.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,21/08/10,IC4,Product,1.0,10.0,164.0,137.0,13.0,14.0,0.0
+Recruiter,Human Interest,United States,CA,San Francisco,21/08/06,L2,Technical,2.0,2.0,112.0,110.0,2.0,0.0,0.0
+Recruiter,Match Group,United States,NY,New York,21/08/06,Lead,Talent Acquisition,1.0,17.0,170.0,135.0,20.0,15.0,0.0
+Recruiter,MongoDB,United States,IN,Indianapolis,21/08/06,Recruiter,Technical,1.0,4.0,164.0,120.0,20.0,24.0,0.0
+Recruiter,Unity Technologies,United Kingdom,EN,Brighton,21/08/05,Tech IC6,Technical,1.0,8.0,112.0,77.0,35.0,0.0,0.0
+Recruiter,TuSimple,United States,CA,San Diego,21/08/05,L3,Technical,1.0,4.0,75.0,63.0,0.0,12.0,0.0
+Recruiter,PayPal,United States,CA,Los Angeles,21/08/04,T23,Technical,1.0,5.0,130.0,100.0,20.0,10.0,0.0
+Recruiter,JPMorgan Chase,United States,OH,Columbus,21/08/04,602,Finance,5.0,6.0,81.0,78.0,0.0,3.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/08/03,L4,Technical,0.0,12.0,165.0,125.0,21.0,19.0,0.0
+Recruiter,Tesla,United States,TX,Austin,21/08/03,P2,Technical,1.0,7.0,104.0,91.0,13.0,0.0,0.0
+Recruiter,Google,United States,TX,Austin,21/07/31,L5,Technical,3.0,15.0,207.0,132.0,55.0,20.0,0.0
+Recruiter,Amazon,United States,IL,Chicago,21/07/30,L5,Technical,1.0,9.0,68.0,68.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/07/29,L6,Exec Recruiting,5.0,10.0,295.0,131.0,164.0,0.0,0.0
+Recruiter,Amazon,United States,MD,Baltimore,21/07/28,L5,Technical,2.0,10.0,135.0,95.0,10.0,30.0,0.0
+Recruiter,Riviera Partners,United States,MA,Boston,21/07/28,Principal,Leadership,1.0,25.0,250.0,90.0,0.0,160.0,0.0
+Recruiter,TuSimple,United States,CA,San Diego,21/07/28,L3,Technical,1.0,3.0,80.0,70.0,0.0,10.0,0.0
+Recruiter,Color,United States,CA,San Francisco,21/07/23,L3,Technical,1.0,4.0,115.0,115.0,0.0,0.0,0.0
+Recruiter,Apple,United States,CA,Santa Clara,21/07/22,ICT5,Technical,0.0,6.0,220.0,220.0,0.0,0.0,0.0
+Recruiter,Zillow,United States,WA,Seattle,21/07/22,P4,Technical,3.0,12.0,147.0,131.0,16.0,0.0,0.0
+Recruiter,Datadog,United States,NY,New York,21/07/21,L3,University,0.0,2.0,115.0,100.0,15.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/07/21,IC3,Technical,2.0,4.0,114.0,99.0,10.0,5.0,0.0
+Recruiter,Dropbox,United States,CA,San Francisco,21/07/19,L3,Technical,2.0,7.0,171.0,140.0,10.0,21.0,0.0
+Recruiter,Verkada,United States,CA,San Mateo,21/07/19,L5,Technical,1.0,11.0,160.0,160.0,0.0,0.0,0.0
+Recruiter,PlayVS,United States,CA,Los Angeles,21/07/19,IC5,General,1.0,9.0,150.0,135.0,15.0,0.0,0.0
+Recruiter,Facebook,Singapore,SG,Singapore,21/07/19,IC3,,0.0,6.0,78.0,66.0,5.0,7.0,0.0
+Recruiter,Facebook,Singapore,SG,Singapore,21/07/19,IC4,Technical,0.0,8.0,94.0,80.0,6.0,8.0,0.0
+Recruiter,Facebook,Singapore,SG,Singapore,21/07/19,IC3,Corporate,1.0,6.0,68.0,58.0,4.0,6.0,0.0
+Recruiter,Facebook,Singapore,SG,Singapore,21/07/19,IC4,Corporate,2.0,8.0,101.0,83.0,10.0,8.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/07/17,IC5,Product,1.0,9.0,179.0,138.0,20.0,21.0,0.0
+Recruiter,Facebook,United States,CA,Los Angeles,21/07/16,IC4,Leadership,0.0,5.0,153.0,125.0,15.0,13.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/07/15,L5,Technical,1.0,4.0,120.0,85.0,10.0,25.0,0.0
+Recruiter,Facebook,United States,NY,New York,21/07/14,L5,Technical,2.0,12.0,260.0,160.0,60.0,40.0,0.0
+Recruiter,Lyft,United States,NY,New York,21/07/13,L4,Business,4.0,6.0,128.0,100.0,28.0,0.0,0.0
+Recruiter,Indeed,United States,TX,Austin,21/07/12,L3,Technical,3.0,7.0,155.0,125.0,10.0,20.0,0.0
+Recruiter,Checkr,United States,CA,San Francisco,21/07/12,L3,Technical,1.0,5.0,150.0,130.0,20.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/07/10,IC5,Technical,3.0,7.0,260.0,160.0,50.0,50.0,0.0
+Recruiter,HBO,United States,CA,Los Angeles,21/07/07,,Technical,1.0,4.0,130.0,115.0,0.0,12.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/07/06,L4,Technical,3.0,3.0,81.0,69.0,12.0,1.0,0.0
+Recruiter,Google,United Kingdom,EN,London,21/07/06,L5,Technical,5.0,10.0,220.0,125.0,60.0,35.0,0.0
+Recruiter,Indeed,United States,TX,Austin,21/07/03,L3,Leadership,3.0,10.0,175.0,125.0,25.0,25.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/07/02,L4,Operations,2.0,9.0,136.0,113.0,12.0,11.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/07/02,L6,Technical,3.0,5.0,184.0,123.0,56.0,5.0,0.0
+Recruiter,Verizon,United States,NJ,Basking Ridge,21/07/01,T7,Technical,5.0,26.0,130.0,113.0,5.0,13.0,0.0
+Recruiter,Atlassian,United States,CA,San Francisco,21/06/30,P5,Technical,3.0,6.0,175.0,130.0,25.0,20.0,0.0
+Recruiter,ByteDance,United States,CA,Mountain View,21/06/29,2-1,Technical,1.0,5.0,128.0,102.0,0.0,26.0,0.0
+Recruiter,Microsoft,India,KA,Bengaluru,21/06/28,60,Operations,1.0,10.0,42.0,36.0,4.0,4.0,0.0
+Recruiter,Atlassian,United States,CA,San Francisco,21/06/27,P5,Human Resources,3.0,6.0,175.0,130.0,25.0,20.0,0.0
+Recruiter,Apple,United States,CA,Sunnyvale,21/06/26,IC3,University,4.0,8.0,120.0,108.0,10.0,6.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,21/06/25,IC3,Technical,3.0,4.0,138.0,110.0,17.0,11.0,0.0
+Recruiter,Uber,Netherlands,NH,Amsterdam,21/06/24,L4,sales,2.0,5.0,114.0,81.0,20.0,13.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/06/23,L5,Technical,1.0,6.0,144.0,90.0,44.0,10.0,0.0
+Recruiter,Facebook,United Kingdom,EN,London,21/06/23,IC5,Technical,4.0,10.0,190.0,154.0,15.0,21.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,21/06/23,IC4,Distributed Systems (Back-End),2.0,8.0,154.0,126.0,15.0,13.0,0.0
+Recruiter,Sourcegraph,United States,TX,Austin,21/06/22,L2,Operations,0.0,2.0,130.0,100.0,30.0,0.0,0.0
+Recruiter,Google,United States,CA,San Francisco,21/06/22,L4,Leadership,3.0,11.0,240.0,125.0,90.0,22.0,0.0
+Recruiter,Amazon,United States,TX,Austin,21/06/21,L5,Technical,1.0,4.0,115.0,100.0,5.0,10.0,0.0
+Recruiter,Amazon,United States,CA,San Diego,21/06/18,L6,Technical,2.0,6.0,187.0,124.0,64.0,0.0,0.0
+Recruiter,Atlassian,India,KA,Bengaluru,21/06/16,P5,Technical,1.0,8.0,35.0,23.0,9.0,4.0,0.0
+Recruiter,Raytheon,United States,MA,Boston,21/06/16,M4,staffin,5.0,15.0,153.0,142.0,0.0,11.0,0.0
+Recruiter,Robinhood,United States,TX,Austin,21/06/15,L3,Operations,0.0,10.0,150.0,118.0,20.0,12.0,0.0
+Recruiter,Clearbanc,Canada,ON,Toronto,21/06/15,L2,Talent,1.0,1.0,90.0,75.0,15.0,0.0,0.0
+Recruiter,Dropbox,United States,TX,Austin,21/06/14,M7,Head of TA,4.0,18.0,620.0,300.0,200.0,120.0,0.0
+Recruiter,Google,United States,GA,Atlanta,21/06/12,L4,Recruiting,14.0,14.0,148.0,120.0,10.0,18.0,0.0
+Recruiter,VMware,Bulgaria,SF,Sofia,21/06/11,P3,Technical,1.0,4.0,22.0,22.0,0.0,0.0,0.0
+Recruiter,Shopify,Canada,ON,Toronto,21/06/11,L6,Commercial,4.0,4.0,100.0,90.0,10.0,0.0,0.0
+Recruiter,Shopify,Canada,ON,Toronto,21/06/10,L5,Technical,3.0,4.0,57.0,52.0,5.0,0.0,0.0
+Recruiter,Netflix,United States,CA,Los Gatos,21/06/09,Only one level across Netflix,Technical,1.0,8.0,156.0,156.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/06/09,IC6,Leadership,4.0,15.0,265.0,190.0,35.0,38.0,0.0
+Recruiter,UnitedHealth Group,United States,MN,Eden Prairie,21/06/08,28,Technical,1.0,5.0,125.0,115.0,0.0,10.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/06/07,L6,Technical,2.0,9.0,190.0,123.0,67.0,0.0,0.0
+Recruiter,DoorDash,United States,CA,Los Angeles,21/06/05,P4,Technical,1.0,6.0,193.0,160.0,33.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/06/05,L4,Technical,1.0,6.0,165.0,128.0,18.0,19.0,0.0
+Recruiter,Facebook,United States,WA,Redmond,21/06/04,L4,Technical,3.0,5.0,194.0,131.0,37.0,26.0,0.0
+Recruiter,WeWork,United States,CA,San Francisco,21/06/03,Director,Leadership,2.0,15.0,255.0,225.0,1.0,30.0,0.0
+Recruiter,Sisense,United States,CA,San Francisco,21/06/03,L1,Recruiting,3.0,5.0,85.0,85.0,3.0,0.0,0.0
+Recruiter,Momentive.ai,United States,OR,Portland,21/06/02,P4,Technical,2.0,11.0,156.0,119.0,20.0,17.0,0.0
+Recruiter,Robinhood,United States,CA,Menlo Park,21/06/01,L3,Technical,1.0,5.0,145.0,145.0,0.0,0.0,0.0
+Recruiter,Robinhood,United States,CA,Menlo Park,21/06/01,L2,Technical,1.0,4.0,115.0,115.0,0.0,0.0,0.0
+Recruiter,Google,United States,WA,Seattle,21/06/01,L4,Technical,3.0,10.0,212.0,120.0,70.0,22.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/05/26,L5,Technical,1.0,6.0,116.0,90.0,5.0,25.0,0.0
+Recruiter,Google,United States,WA,Seattle,21/05/26,L3,Technical,3.0,3.0,146.0,96.0,32.0,18.0,0.0
+Recruiter,Amazon,United States,CA,San Diego,21/05/25,L4,Technical,0.0,3.0,94.0,82.0,7.0,5.0,0.0
+Recruiter,Google,United States,WA,Seattle,21/05/24,L4,Technical,0.0,4.0,161.0,120.0,23.0,18.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/05/23,L5,Recruiting,5.0,10.0,240.0,155.0,62.0,23.0,0.0
+Recruiter,Walmart,United States,NY,New York,21/05/20,L3,Technical,2.0,3.0,94.0,78.0,2.0,14.0,0.0
+Recruiter,Indeed,United States,TX,Austin,21/05/18,L2,Technical,2.0,5.0,135.0,98.0,17.0,20.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/05/14,L5,Technical,4.0,15.0,220.0,165.0,40.0,20.0,0.0
+Recruiter,Lowe's,United States,NC,Charlotte,21/05/11,Grade 44,Human Resources,2.0,12.0,108.0,98.0,0.0,10.0,0.0
+Recruiter,PlayVS,United States,CA,Los Angeles,21/05/11,l1,Technical,1.0,1.0,71.0,60.0,1.0,10.0,0.0
+Recruiter,Netflix,United States,CA,Los Angeles,21/05/10,Only one level across Netflix,Technical,1.0,7.0,220.0,220.0,0.0,0.0,0.0
+Recruiter,Brex,United States,CA,San Francisco,21/05/10,L2,Technical,0.0,2.0,135.0,128.0,7.0,0.0,0.0
+Recruiter,Clover Health,United States,CA,San Francisco,21/05/07,6,Technical,4.0,10.0,245.0,190.0,30.0,25.0,0.0
+Recruiter,Google,India,KA,Bangalore,21/05/06,L3,Technical,1.0,7.0,29.0,18.0,9.0,3.0,0.0
+Recruiter,Amazon,United States,CA,San Diego,21/05/05,L6,Corporate Development,5.0,20.0,225.0,145.0,80.0,0.0,0.0
+Recruiter,Roku,United States,CA,San Jose,21/05/05,L5,Technical,2.0,25.0,225.0,200.0,25.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/05/04,L3,Technical,1.0,3.0,108.0,98.0,5.0,5.0,0.0
+Recruiter,LivePerson,United States,CO,Boulder,21/05/01,L3,Operations,1.0,20.0,163.0,132.0,20.0,13.0,0.0
+Recruiter,Amazon,United States,GA,Atlanta,21/04/28,L5,Sales,2.0,8.0,117.0,88.0,17.0,13.0,0.0
+Recruiter,Western Governors University,United States,WA,Seattle,21/04/28,L3,Sales,5.0,15.0,90.0,90.0,0.0,2.0,0.0
+Recruiter,Yandex,Russia,SP,Saint Petersburg,21/04/27,G15,Technical,1.0,11.0,27.0,24.0,0.0,3.0,0.0
+Recruiter,Renesas Electronics,United States,CA,San Francisco,21/04/27,L3,HR,1.0,2.0,85.0,70.0,5.0,10.0,0.0
+Recruiter,Amazon,United States,AZ,Phoenix,21/04/27,L3,Technical,1.0,2.0,86.0,86.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,TN,Nashville,21/04/26,L5,Technical,1.0,6.0,96.0,76.0,14.0,6.0,0.0
+Recruiter,GE Digital,United States,MA,Boston,21/04/24,Leader,Leadership,10.0,20.0,210.0,175.0,0.0,35.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/04/23,IC4,Technical,1.0,6.0,141.0,118.0,11.0,12.0,0.0
+Recruiter,Coursera,United States,CA,San Francisco,21/04/22,L3,Technical,2.0,8.0,235.0,129.0,100.0,6.0,0.0
+Recruiter,Confluent,United States,CA,San Francisco,21/04/22,Ic5,Sales,3.0,10.0,315.0,200.0,100.0,15.0,0.0
+Recruiter,IBM,United States,TX,Plano,21/04/21,9,Leadership,4.0,10.0,149.0,146.0,3.0,0.0,0.0
+Recruiter,Audible,United States,NJ,Newark,21/04/20,L6,Technical,2.0,10.0,180.0,130.0,50.0,0.0,0.0
+Recruiter,Box,United States,CA,Redwood City,21/04/16,L3,Technical,2.0,3.0,70.0,70.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,MA,Boston,21/04/16,L5,Technical,2.0,6.0,116.0,97.0,19.0,0.0,0.0
+Recruiter,Clever,United States,CA,San Francisco,21/04/15,L#,Technical,1.0,5.0,125.0,120.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Los Angeles,21/04/15,L4,Technical,0.0,9.0,153.0,123.0,17.0,12.0,0.0
+Recruiter,RSM US,United States,CA,Los Angeles,21/04/14,Manager,Leadership,2.0,7.0,154.0,140.0,0.0,14.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/04/14,IC5,Technical,3.0,7.0,230.0,160.0,40.0,30.0,0.0
+Recruiter,Two Sigma,United States,NY,New York,21/04/13,,University,2.0,2.0,95.0,85.0,0.0,10.0,0.0
+Recruiter,Amazon,United States,DC,Washington,21/04/13,L5,Technical,2.0,8.0,150.0,130.0,20.0,0.0,0.0
+Recruiter,Amazon,United States,TX,Austin,21/04/12,L4,Technical,1.0,3.0,92.0,72.0,10.0,10.0,0.0
+Recruiter,Coinbase,United States,CA,San Francisco,21/04/12,L4,Technical,0.0,4.0,135.0,120.0,15.0,0.0,0.0
+Recruiter,Twitter,United States,WA,Seattle,21/04/09,L6,Technical,2.0,10.0,210.0,150.0,40.0,20.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/04/07,L5,Technical,2.0,4.0,120.0,78.0,34.0,8.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,21/04/07,3,Technical,3.0,6.0,125.0,95.0,20.0,10.0,0.0
+Recruiter,Redfin,United States,WA,Seattle,21/04/07,L4,Technical,2.0,10.0,160.0,130.0,10.0,20.0,0.0
+Recruiter,TuSimple,United States,CA,San Diego,21/04/06,8,Technical,1.0,25.0,250.0,200.0,25.0,25.0,0.0
+Recruiter,Facebook,United States,CA,Los Angeles,21/04/02,IC4,Recruiting,1.0,5.0,164.0,130.0,19.0,15.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/04/01,L6,Technical,1.0,21.0,346.0,170.0,96.0,80.0,0.0
+Recruiter,Amazon,United States,CA,Sacramento,21/03/31,L6,Sales,4.0,20.0,178.0,136.0,42.0,0.0,0.0
+Recruiter,Roblox,United States,CA,San Mateo,21/03/30,IC5,Technical,1.0,20.0,450.0,195.0,250.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/03/29,L3,iOS,2.0,2.0,110.0,95.0,5.0,5.0,0.0
+Recruiter,Accruent,India,KA,Bangalore,21/03/26,P17,Technical,1.0,10.0,29.0,28.0,0.0,1.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/03/25,3,Technical,2.0,4.0,130.0,105.0,17.0,9.0,0.0
+Recruiter,Coinbase,United States,CA,San Francisco,21/03/25,IC5,Technical,1.0,6.0,170.0,145.0,25.0,0.0,0.0
+Recruiter,Facebook,United States,TX,Austin,21/03/21,L4,Technical,1.0,5.0,126.0,108.0,8.0,10.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,21/03/15,L4,Technical,4.0,5.0,148.0,112.0,20.0,13.0,0.0
+Recruiter,Salesforce,United States,CA,San Francisco,21/03/12,L7,Technical,2.0,6.0,167.0,145.0,0.0,22.0,0.0
+Recruiter,Northrop Grumman,United States,CA,Los Angeles,21/03/12,L2,Technical,1.0,6.0,71.0,71.0,0.0,4.0,0.0
+Recruiter,Nordstrom,United States,IL,Chicago,21/03/11,15,Technical,1.0,16.0,82.0,82.0,0.0,0.0,0.0
+Recruiter,Twitter,United Kingdom,EN,London,21/03/11,L5,Technical,5.0,5.0,52.0,52.0,0.0,0.0,0.0
+Recruiter,Color,United States,CA,Burlingame,21/03/10,L3,Technical,1.0,5.0,148.0,135.0,13.0,0.0,0.0
+Recruiter,Netflix,United States,CA,Los Gatos,21/03/10,,Technical,2.0,7.0,222.0,222.0,0.0,0.0,0.0
+Recruiter,Google,United States,WA,Seattle,21/03/09,L4,Technical,2.0,3.0,145.0,120.0,25.0,0.0,0.0
+Recruiter,Farfetch,United States,NY,New York,21/03/08,P2,Operations,1.0,2.0,85.0,60.0,20.0,5.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/03/04,L5,Technical,3.0,5.0,107.0,95.0,6.0,5.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/03/04,L4,Technical,2.0,3.0,88.0,88.0,0.0,0.0,0.0
+Recruiter,Shopify,Canada,ON,Toronto,21/03/03,L5,Technical,3.0,3.0,67.0,52.0,15.0,0.0,0.0
+Recruiter,Facebook,Canada,BC,Vancouver,21/03/01,IC5,Technical,0.0,8.0,170.0,135.0,15.0,20.0,0.0
+Recruiter,Mastercard,United States,MO,St. Louis,21/02/27,L6,University,2.0,7.0,143.0,110.0,5.0,28.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/02/27,L6,Other,1.0,9.0,136.0,136.0,0.0,0.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/02/26,Manager (L6),Technical,10.0,10.0,300.0,170.0,96.0,34.0,0.0
+Recruiter,Amazon,United States,GA,Atlanta,21/02/26,L5,Technical,0.0,3.0,124.0,86.0,16.0,25.0,0.0
+Recruiter,ByteDance,United States,CA,Los Angeles,21/02/25,2-2,Operations,1.0,10.0,185.0,148.0,0.0,37.0,0.0
+Recruiter,Microsoft,United States,WA,Redmond,21/02/25,61,Technical,2.0,10.0,130.0,100.0,20.0,10.0,0.0
+Recruiter,Korn Ferry,United States,TX,Dallas,21/02/18,Senior Recruiter,Technical,2.0,15.0,120.0,110.0,0.0,10.0,0.0
+Recruiter,Amazon,United Kingdom,EN,London,21/02/17,L5,Technical,4.0,5.0,97.0,76.0,13.0,5.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/02/17,L5,Technical,3.0,3.0,97.0,75.0,18.0,4.0,0.0
+Recruiter,Tesla,United States,CA,Fremont,21/02/16,P2,Technical,1.0,2.0,115.0,90.0,25.0,0.0,0.0
+Recruiter,HomeAdvisor,United States,CO,Denver,21/02/16,Associate,Technical,1.0,2.0,78.0,72.0,0.0,6.0,0.0
+Recruiter,Tesla,United States,DC,Washington,21/02/12,M4,Energy,2.0,10.0,464.0,209.0,150.0,105.0,0.0
+Recruiter,Mozilla,United States,CA,San Francisco,21/02/11,P3,Technical,1.0,8.0,133.0,118.0,0.0,15.0,0.0
+Recruiter,Uber,United States,PA,Pittsburgh,21/02/11,5a,Technical,4.0,15.0,270.0,150.0,100.0,20.0,0.0
+Recruiter,Salesforce,United States,GA,Atlanta,21/02/09,Grade 8,Technical,2.0,7.0,183.0,150.0,10.0,23.0,0.0
+Recruiter,ByteDance,United States,CA,San Jose,21/02/08,1-2,Technical,0.0,2.0,100.0,78.0,0.0,22.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,21/02/07,G8,Technical,1.0,10.0,240.0,155.0,62.0,23.0,0.0
+Recruiter,Affirm,United States,NY,Brooklyn,21/02/07,L6,Technical,2.0,6.0,333.0,132.0,202.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,21/02/06,IC6,Marketing,3.0,16.0,385.0,199.0,122.0,60.0,0.0
+Recruiter,NBCUniversal,United States,NY,New York,21/02/06,L2,Technical,3.0,10.0,108.0,105.0,0.0,5.0,0.0
+Recruiter,Microsoft,United States,VA,Reston,21/02/06,Senior Manager,Technical,1.0,25.0,203.0,165.0,20.0,18.0,0.0
+Recruiter,Amazon,United States,CA,Irvine,21/02/05,L5,Talent Acquisition,0.0,6.0,126.0,95.0,18.0,13.0,0.0
+Recruiter,Procore Technologies,United States,TX,Austin,21/02/05,IC5,Technical,2.0,13.0,157.0,143.0,0.0,14.0,0.0
+Recruiter,Amazon,United States,NY,New York,21/02/05,L6,Operations,1.0,10.0,245.0,145.0,50.0,50.0,0.0
+Recruiter,The Walt Disney Company,United States,CA,Burbank,21/01/30,Sr. Recruiter,Operations,3.0,9.0,115.0,115.0,0.0,0.0,0.0
+Recruiter,amazon,United States,WA,Seattle,21/01/29,L6,Technical,6.0,15.0,180.0,116.0,64.0,0.0,0.0
+Recruiter,Amazon,United States,NY,New York,21/01/28,L5,Technical,2.0,15.0,146.0,95.0,41.0,10.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,21/01/27,L6,Technical,6.0,15.0,260.0,175.0,85.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/01/27,L5,Technical,5.0,5.0,135.0,85.0,50.0,0.0,0.0
+Recruiter,Johnson & Johnson,United States,FL,Tampa,21/01/26,24,Technical,2.0,5.0,69.0,65.0,0.0,4.0,0.0
+Recruiter,Palo Alto Networks,United States,CA,Santa Clara,21/01/25,L2,Technical,1.0,15.0,201.0,160.0,25.0,16.0,0.0
+Recruiter,Deloitte,United States,NY,New York,21/01/23,L5,Operations,10.0,29.0,134.0,130.0,0.0,2.0,0.0
+Recruiter,Amazon,United States,TX,Austin,21/01/21,L6,Technical,5.0,14.0,217.0,137.0,57.0,20.0,0.0
+Recruiter,Google,United States,CA,Mountain View,21/01/20,Manager (L6),Technical,3.0,12.0,340.0,220.0,68.0,55.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,21/01/13,E5,Technical,1.0,5.0,230.0,150.0,50.0,30.0,0.0
+Recruiter,Slack,United States,CA,San Francisco,21/01/12,L5,Technical,3.0,6.0,335.0,165.0,145.0,25.0,0.0
+Recruiter,Slack,United States,CA,San Francisco,21/01/12,G05,Technical,2.0,10.0,238.0,160.0,54.0,24.0,0.0
+Recruiter,Facebook,United States,IL,Chicago,21/01/08,IC5,Technical,3.0,18.0,218.0,124.0,70.0,24.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,21/01/05,L5,Operations,1.0,3.0,120.0,88.0,15.0,18.0,0.0
+Recruiter,Wells Fargo,United States,CA,San Francisco,20/12/30,Sr recruiter,Technical,10.0,19.0,140.0,123.0,0.0,17.0,0.0
+Recruiter,RingCentral,United States,CA,San Mateo,20/12/23,5,Recruiting,4.0,5.0,158.0,97.0,50.0,9.0,0.0
+Recruiter,Google,United States,TX,Austin,20/12/23,L4,People Operations,3.0,9.0,196.0,113.0,54.0,30.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,20/12/17,L2,Technical,2.0,3.0,113.0,98.0,5.0,10.0,0.0
+Recruiter,IMC,United States,CA,San Diego,20/12/16,L4,Technical,0.0,5.0,300.0,200.0,0.0,100.0,0.0
+Recruiter,Amazon,United States,TX,Austin,20/12/16,L5,Technical,2.0,4.0,110.0,92.0,15.0,5.0,0.0
+Recruiter,Highspot,United States,WA,Seattle,20/12/15,33,Technical,2.0,6.0,130.0,110.0,20.0,0.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,20/12/12,59,Sales,2.0,2.0,102.0,87.0,4.0,11.0,0.0
+Recruiter,Facebook,United States,TX,Austin,20/12/11,IC5,Operations,5.0,10.0,236.0,165.0,38.0,33.0,0.0
+Recruiter,Segment,United States,CA,San Francisco,20/12/07,L3,Technical,2.0,5.0,250.0,155.0,100.0,0.0,0.0
+Recruiter,Cognizant,United States,NJ,Teaneck,20/12/05,Senior Manager,Technical,7.0,16.0,150.0,125.0,0.0,25.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,20/12/02,L5A,Technical,2.0,10.0,206.0,136.0,50.0,20.0,0.0
+Recruiter,Facebook,United States,TX,Austin,20/12/02,L4,Technical,3.0,5.0,143.0,117.0,11.0,15.0,0.0
+Recruiter,amazon,Canada,ON,Toronto,20/12/01,l5,Technical,3.0,10.0,105.0,82.0,15.0,10.0,0.0
+Recruiter,Boston Consulting Group,United States,CA,San Francisco,20/12/01,Level,Technical,3.0,7.0,162.0,145.0,0.0,17.0,0.0
+Recruiter,Spotify,United States,NY,New York,20/11/25,Recruiter,Technical,3.0,5.0,130.0,115.0,15.0,0.0,0.0
+Recruiter,Compass,United States,NY,New York,20/11/25,IC4,Technical,2.0,8.0,187.0,135.0,27.0,25.0,0.0
+Recruiter,Google,United States,NY,New York,20/11/24,L3,Technical,2.0,4.0,140.0,105.0,16.0,19.0,0.0
+Recruiter,LiveRamp,United States,CA,San Francisco,20/11/23,L2,Sales,3.0,5.0,118.0,105.0,13.0,0.0,0.0
+Recruiter,Ascension,United States,FL,Jacksonville,20/11/20,Mid,Healthcare,0.0,5.0,72.0,72.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/11/18,L4,Full Stack,5.0,5.0,110.0,65.0,45.0,0.0,0.0
+Recruiter,Facebook,United States,NY,New York,20/11/18,M1,ML / AI,7.0,8.0,260.0,185.0,35.0,40.0,0.0
+Recruiter,EverQuote,United States,MA,Cambridge,20/11/18,4,Manager,4.0,4.0,160.0,130.0,30.0,0.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/11/17,L5,Technical,2.0,8.0,155.0,120.0,35.0,0.0,0.0
+Recruiter,Visa,United States,CA,Palo Alto,20/11/17,L5,Human Researouces,2.0,8.0,128.0,119.0,0.0,9.0,0.0
+Recruiter,Glovo,Spain,CT,Barcelona,20/11/15,Principal,Distributed Systems (Back-End),2.0,10.0,75.0,45.0,18.0,12.0,0.0
+Recruiter,Google,United States,TX,Austin,20/11/13,L4,Full Stack,2.0,10.0,152.0,115.0,20.0,20.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/11/13,IC4,Full Stack,2.0,5.0,131.0,110.0,10.0,11.0,0.0
+Recruiter,Atlassian,United States,TX,Austin,20/11/13,P4,iOS,2.0,6.0,122.0,93.0,20.0,9.0,0.0
+Recruiter,Facebook,United Kingdom,EN,London,20/11/13,IC5,Site Reliability (SRE),4.0,9.0,151.0,118.0,15.0,18.0,0.0
+Recruiter,Red Ventures,United States,NC,Charlotte,20/11/12,Senior,Digital,4.0,8.0,100.0,100.0,0.0,0.0,0.0
+Recruiter,Apple,United States,CA,Cupertino,20/11/12,IC5,Recruitment,3.0,10.0,200.0,150.0,40.0,10.0,0.0
+Recruiter,Reddit,United States,WA,Seattle,20/11/11,L3,Eng,1.0,3.0,150.0,120.0,30.0,0.0,0.0
+Recruiter,Infor,United States,CA,San Francisco,20/11/11,Senior,Other,12.0,15.0,190.0,173.0,0.0,17.0,0.0
+Recruiter,MathWorks,United States,MA,Natick,20/11/10,L2,Technical,2.0,5.0,88.0,82.0,0.0,6.0,0.0
+Recruiter,Amazon,United States,MA,Boston,20/11/10,L6,ML / AI,5.0,25.0,330.0,160.0,170.0,0.0,0.0
+Recruiter,Google,United States,NY,New York,20/11/09,L4,Operations,2.0,6.0,166.0,121.0,27.0,18.0,0.0
+Recruiter,Mission Lane,United States,VA,Richmond,20/11/09,P3,Operations,1.0,5.0,115.0,90.0,7.0,18.0,0.0
+Recruiter,Facebook,Canada,BC,Vancouver,20/11/09,IC4,Data,0.0,5.0,127.0,106.0,10.0,11.0,0.0
+Recruiter,H&M,Israel,TA,Tel Aviv,20/11/09,L1,Sales,0.0,3.0,36.0,34.0,0.0,0.0,0.0
+Recruiter,Stripe,United States,WA,Seattle,20/11/06,L3,Engineering,2.0,9.0,208.0,138.0,50.0,20.0,0.0
+Recruiter,DoorDash,United States,CA,San Francisco,20/11/05,P3,Operations,0.0,7.0,135.0,120.0,15.0,0.0,0.0
+Recruiter,Oracle,United States,WA,Seattle,20/11/05,IC-5,Technical,10.0,13.0,180.0,100.0,0.0,80.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/11/03,L4,Distributed Systems (Back-End),2.0,4.0,98.0,77.0,20.0,0.0,0.0
+Recruiter,Yahoo,United States,NY,New York,20/11/02,L2,ALL,1.0,3.0,80.0,75.0,0.0,5.0,0.0
+Recruiter,Google,United States,NY,New York,20/11/02,L3,Technical,3.0,4.0,180.0,140.0,30.0,10.0,0.0
+Recruiter,Cruise,United States,CA,San Francisco,20/11/02,L3,Distributed Systems (Back-End),2.0,5.0,155.0,125.0,15.0,15.0,0.0
+Recruiter,Wayfair,United States,MA,Boston,20/10/31,L3,Technical,3.0,6.0,135.0,95.0,26.0,10.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/10/30,L4,Full Stack,1.0,3.0,90.0,70.0,10.0,10.0,0.0
+Recruiter,GitHub,United States,CA,San Francisco,20/10/30,L4,iOS,2.0,7.0,210.0,160.0,25.0,25.0,0.0
+Recruiter,GSK,United States,PA,Philadelphia,20/10/29,8,University,4.0,6.0,81.0,75.0,0.0,6.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/10/29,E4,Infrastructure,3.0,8.0,177.0,133.0,31.0,13.0,0.0
+Recruiter,Redfin,United States,WA,Seattle,20/10/29,Manager 3,Technical,8.0,13.0,136.0,118.0,6.0,12.0,0.0
+Recruiter,Hulu,United States,CA,Los Angeles,20/10/28,3,Distributed Systems (Back-End),2.0,6.0,117.0,93.0,3.0,19.0,0.0
+Recruiter,Apple,United States,CA,San Francisco,20/10/28,ICT5,API Development (Back-End),10.0,15.0,328.0,190.0,100.0,38.0,0.0
+Recruiter,Google,United States,CA,Mountain View,20/10/28,L6,Technical,2.0,10.0,315.0,210.0,50.0,55.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/10/27,L6,Networking,3.0,9.0,358.0,152.0,206.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/10/27,L5,Recruiter,2.0,15.0,120.0,90.0,30.0,0.0,0.0
+Recruiter,Lyft,United States,NY,New York,20/10/27,L4,G&A,1.0,6.0,129.0,111.0,18.0,0.0,0.0
+Recruiter,Facebook,United States,MA,Boston,20/10/27,L4,Technical,1.0,7.0,147.0,120.0,15.0,12.0,0.0
+Recruiter,Salesforce,United States,TX,Dallas,20/10/25,4,Distributed Systems (Back-End),1.0,15.0,150.0,120.0,20.0,10.0,0.0
+Recruiter,Google,United States,CA,San Francisco,20/10/24,L3,Mobile (iOS + Android),1.0,3.0,122.0,92.0,16.0,14.0,0.0
+Recruiter,Amazon,United States,WA,Bellevue,20/10/24,L6,Hardware,1.0,20.0,200.0,150.0,50.0,0.0,0.0
+Recruiter,Intel,United States,AZ,Phoenix,20/10/23,Grade 5,data center,1.0,4.0,83.0,76.0,7.0,3.0,0.0
+Recruiter,Facebook,United Kingdom,EN,London,20/10/23,IC4,Distributed Systems (Back-End),3.0,8.0,120.0,95.0,13.0,10.0,0.0
+Recruiter,Unity,United States,WA,Seattle,20/10/23,L6,ML / AI,7.0,15.0,200.0,175.0,20.0,5.0,0.0
+Recruiter,Google,United States,CA,Mountain View,20/10/23,L5,DevOps,5.0,20.0,226.0,151.0,52.0,23.0,0.0
+Recruiter,Snap,United States,CA,Los Angeles,20/10/22,L2,Distributed Systems (Back-End),2.0,5.0,137.0,107.0,20.0,11.0,0.0
+Recruiter,Facebook,Ireland,DN,Dublin,20/10/22,IC4,Technical,3.0,8.0,105.0,92.0,4.0,9.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/10/22,l4,Technical,4.0,6.0,145.0,130.0,5.0,10.0,0.0
+Recruiter,Facebook,United States,TX,Austin,20/10/20,IC3,Technical,1.0,3.0,125.0,94.0,20.0,10.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/10/20,E3,Technical,1.0,5.0,134.0,100.0,12.0,22.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/10/20,L6,Technical,1.0,20.0,290.0,200.0,50.0,40.0,0.0
+Recruiter,Google,United States,TX,Austin,20/10/19,L3,,1.0,3.0,85.0,85.0,0.0,0.0,0.0
+Recruiter,Google,United States,TX,Austin,20/10/19,l4,Technical,2.0,8.0,150.0,100.0,45.0,5.0,0.0
+Recruiter,Amazon,United States,NC,Garner,20/10/18,L4,Operations,0.0,20.0,61.0,48.0,5.0,8.0,0.0
+Recruiter,Two Sigma,United States,NY,New York,20/10/16,L1,ML / AI,1.0,3.0,125.0,125.0,0.0,0.0,0.0
+Recruiter,Accenture,Canada,ON,Toronto,20/10/16,11,University,2.0,4.0,56.0,56.0,0.0,0.0,0.0
+Recruiter,Netflix,United States,CA,Los Gatos,20/10/16,Senior,Technical,4.0,5.0,189.0,180.0,9.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/10/15,L6,Operations,2.0,10.0,183.0,140.0,20.0,23.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/10/15,E4,Distributed Systems (Back-End),2.0,12.0,208.0,140.0,40.0,28.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/10/14,L6,Technical,4.0,8.0,250.0,132.0,120.0,0.0,0.0
+Recruiter,F5,United States,CA,San Jose,20/10/14,Senior,Full Cycle Recruiter,1.0,8.0,154.0,135.0,10.0,14.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/10/13,IC4,Web Development (Front-End),1.0,6.0,157.0,125.0,19.0,13.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/10/13,L6,Mobile (iOS + Android),2.0,11.0,220.0,150.0,40.0,30.0,0.0
+Recruiter,Square,United States,CA,San Francisco,20/10/13,L3,Data,2.0,4.0,140.0,99.0,40.0,0.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/10/13,L8,University Recruiting,2.0,6.0,152.0,122.0,20.0,10.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/10/13,IC5,Leadership,4.0,15.0,240.0,170.0,45.0,25.0,0.0
+Recruiter,LinkedIn,United States,CA,Sunnyvale,20/10/12,Recruiter 1,Technical,2.0,4.0,121.0,110.0,0.0,11.0,0.0
+Recruiter,Slalom,United States,CO,Denver,20/10/12,Analyst,Talent Acquisition,2.0,4.0,65.0,55.0,0.0,12.0,0.0
+Recruiter,VMware,United States,TN,Franklin,20/10/10,Senior Technical Recruiter,HR,2.0,8.0,146.0,125.0,0.0,21.0,0.0
+Recruiter,Western Digital,Israel,HM,Kfar saba,20/10/10,L3,Hr,1.0,3.0,46.0,46.0,0.0,0.0,0.0
+Recruiter,Grainger,United States,IL,Lake Forest,20/10/10,1,Full Stack,2.0,5.0,110.0,95.0,0.0,15.0,0.0
+Recruiter,Facebook,United States,MA,Boston,20/10/09,L3,Distributed Systems (Back-End),1.0,3.0,120.0,100.0,12.0,10.0,0.0
+Recruiter,Bumble,United States,TX,Austin,20/10/09,L5,ALL,1.0,15.0,105.0,95.0,0.0,10.0,0.0
+Recruiter,Google,United States,TX,Austin,20/10/09,L3,Technical,2.0,4.0,160.0,90.0,47.0,23.0,0.0
+Recruiter,Salesforce,United States,CA,San Francisco,20/10/08,L6,Technical,1.0,5.0,149.0,135.0,0.0,14.0,0.0
+Recruiter,Instacart,United States,CA,Los Angeles,20/10/08,Tech recruiter 2,Technical,1.0,5.0,83.0,83.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/10/08,E5,Technical,0.0,9.0,203.0,155.0,25.0,23.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/10/08,G9,G&A,3.0,7.0,200.0,149.0,30.0,22.0,0.0
+Recruiter,Tiktok,United States,CA,Los Angeles,20/10/08,2-1,Marketing,1.0,7.0,180.0,136.0,10.0,34.0,0.0
+Recruiter,AWS,Canada,ON,Toronto,20/10/07,L5,Sales,1.0,7.0,87.0,87.0,0.0,0.0,0.0
+Recruiter,Google,United States,CA,Mountain View,20/10/07,L3,Design,1.0,5.0,115.0,115.0,0.0,0.0,0.0
+Recruiter,Apple,United States,CA,Cupertino,20/10/07,IC5,Design,15.0,15.0,343.0,193.0,100.0,50.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/10/06,IC4,Product Management,2.0,8.0,157.0,125.0,20.0,12.0,0.0
+Recruiter,Accenture,United States,WA,Seattle,20/10/06,CL9,Site Reliability (SRE),11.0,20.0,113.0,113.0,0.0,4.0,0.0
+Recruiter,Apple,United States,TX,Austin,20/10/06,ICT3,DevOps,2.0,7.0,115.0,110.0,3.0,2.0,0.0
+Recruiter,Better.com,United States,NY,New York,20/10/05,level 4,University,1.0,8.0,165.0,150.0,10.0,5.0,0.0
+Recruiter,Waymo,United States,CA,Mountain View,20/10/03,L3,ML / AI,0.0,3.0,145.0,110.0,19.0,17.0,0.0
+Recruiter,Visa,United States,TX,Austin,20/10/02,Analyst,Recruiter,2.0,10.0,120.0,110.0,0.0,10.0,0.0
+Recruiter,Improbable,United Kingdom,EN,London,20/10/01,3,Site Reliability (SRE),0.0,6.0,110.0,90.0,20.0,0.0,0.0
+Recruiter,Facebook,United States,DC,Washington,20/09/30,L3,Technical,1.0,3.0,119.0,101.0,8.0,10.0,0.0
+Recruiter,Wayfair,United States,MA,Boston,20/09/30,2,Backend,2.0,4.0,88.0,69.0,12.0,7.0,0.0
+Recruiter,Facebook,United States,MA,Boston,20/09/29,L3,Technical,1.0,3.0,130.0,100.0,15.0,15.0,0.0
+Recruiter,Optimizely,United States,CA,San Francisco,20/09/29,L6,Recruiting,6.0,13.0,210.0,210.0,0.0,0.0,0.0
+Recruiter,Google,United States,CA,San Francisco,20/09/29,L3,Product,2.0,4.0,150.0,100.0,25.0,20.0,0.0
+Recruiter,Google,United States,TX,Austin,20/09/28,L5,Technical,6.0,6.0,235.0,130.0,75.0,30.0,0.0
+Recruiter,Amazon,United States,WA,Bellevue,20/09/27,L6,Technical,1.0,20.0,200.0,150.0,48.0,0.0,0.0
+Recruiter,Microsoft,India,KA,Bangalore,20/09/27,IC3,Sales,1.0,10.0,68.0,35.0,23.0,10.0,0.0
+Recruiter,Intel,United States,AZ,Chandler,20/09/25,Grade 7,sourcer,3.0,12.0,98.0,85.0,5.0,8.0,0.0
+Recruiter,Amazon,United States,TX,Dallas,20/09/25,Level 2,Production,1.0,4.0,69.0,64.0,0.0,5.0,0.0
+Recruiter,Cognizant,United States,NJ,Teaneck,20/09/24,Manager,Full Stack,3.0,3.0,84.0,81.0,0.0,3.0,0.0
+Recruiter,Adobe,United States,CA,San Francisco,20/09/23,L3,Sales,3.0,5.0,182.0,120.0,50.0,12.0,0.0
+Recruiter,Netflix,United States,CA,San Francisco,20/09/23,Senior,other,4.0,9.0,300.0,300.0,0.0,0.0,0.0
+Recruiter,Epsilon,United States,TX,Irving,20/09/22,Senior,Technical,6.0,12.0,101.0,101.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/22,L5,Tech Recruiting,2.0,7.0,114.0,90.0,3.0,22.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/09/21,IC5,Technical,1.0,7.0,210.0,160.0,25.0,24.0,0.0
+Recruiter,Godaddy,United States,WA,Seattle,20/09/21,4,Technical,6.0,10.0,210.0,150.0,50.0,10.0,0.0
+Recruiter,VMware,United States,FL,Orlando,20/09/21,P4,Sales,2.0,15.0,135.0,135.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/17,L4,Networking,1.0,3.0,90.0,90.0,0.0,0.0,0.0
+Recruiter,BD,United States,TX,Houston,20/09/17,L3,TALENT ACQUISITION,4.0,8.0,68.0,68.0,0.0,0.0,0.0
+Recruiter,Facebook,Canada,BC,Vancouver,20/09/17,IC4,Technical,0.0,6.0,125.0,106.0,8.0,10.0,0.0
+Recruiter,Couchbase,United States,CA,Santa Clara,20/09/17,9,Sales,1.0,32.0,203.0,180.0,5.0,23.0,0.0
+Recruiter,Lyft,United States,CA,San Francisco,20/09/16,6,Distributed Systems (Back-End),2.0,5.0,170.0,130.0,40.0,0.0,0.0
+Recruiter,Audible,United States,NJ,Newark,20/09/16,L5,Technical,1.0,5.0,150.0,90.0,60.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,20/09/16,L4,Technical,1.0,2.0,111.0,84.0,12.0,15.0,0.0
+Recruiter,Pinterest,United States,CA,San Francisco,20/09/14,L6,Technical,3.0,12.0,320.0,195.0,125.0,0.0,0.0
+Recruiter,Amazon,United States,TX,Dallas,20/09/13,L1,Operations,0.0,5.0,50.0,50.0,2.0,1.0,0.0
+Recruiter,Google,Japan,TY,Tokyo,20/09/13,L2,Technical,1.0,3.0,65.0,50.0,10.0,7.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/12,L4,Technical,1.0,2.0,86.0,85.0,1.0,0.0,0.0
+Recruiter,Dropbox,United States,WA,Seattle,20/09/11,1,Distributed Systems (Back-End),3.0,3.0,82.0,75.0,5.0,2.0,0.0
+Recruiter,Audible,United States,NJ,Newark,20/09/11,L5,Technical,2.0,5.0,130.0,100.0,30.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,20/09/11,L7,ML / AI,2.0,12.0,350.0,185.0,165.0,0.0,0.0
+Recruiter,TEKsystems,United States,FL,Orlando,20/09/11,L1,Data,3.0,3.0,70.0,50.0,5.0,12.0,0.0
+Recruiter,LinkedIn,United States,KY,Louisville,20/09/10,L6,Sales,4.0,8.0,152.0,121.0,13.0,19.0,0.0
+Recruiter,Bloomberg,United States,NY,New York,20/09/10,Recruiter,Technical,3.0,3.0,110.0,110.0,0.0,5.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/10,L5,Tech recruiting,3.0,3.0,130.0,76.0,54.0,0.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/09/10,L3,Technical,2.0,6.0,150.0,120.0,30.0,0.0,0.0
+Recruiter,Dropbox,United States,CA,San Francisco,20/09/10,IC3,Distributed Systems (Back-End),2.0,6.0,159.0,129.0,11.0,19.0,0.0
+Recruiter,Google,United States,TX,Austin,20/09/09,L4,Technical,2.0,10.0,143.0,105.0,20.0,18.0,0.0
+Recruiter,Gartner,United Kingdom,EN,London,20/09/09,L1,admin and supportive roles,1.0,2.0,50.0,48.0,0.0,2.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/09,L4,Recruiting Coordinator,1.0,4.0,65.0,55.0,10.0,0.0,0.0
+Recruiter,ServiceTitan,United States,CA,Los Angeles,20/09/08,l3,Lead Talent,2.0,8.0,161.0,140.0,0.0,21.0,0.0
+Recruiter,Google,United States,CA,San Francisco,20/09/08,L4,Networking,2.0,5.0,170.0,120.0,40.0,10.0,0.0
+Recruiter,Mastercard,Canada,BC,Vancouver,20/09/07,L6,Full Stack,2.0,7.0,132.0,120.0,0.0,12.0,0.0
+Recruiter,Thumbtack,United States,CA,San Francisco,20/09/04,L5,Technical,0.0,7.0,150.0,150.0,0.0,0.0,0.0
+Recruiter,Coinbase,United States,CA,San Francisco,20/09/03,L4,Recruiter,1.0,5.0,135.0,120.0,15.0,0.0,0.0
+Recruiter,Amazon,United States,TX,Houston,20/09/03,L5,Operations,1.0,8.0,118.0,84.0,6.0,28.0,0.0
+Recruiter,Amazon,United States,TX,Austin,20/09/03,L6,Executive,1.0,11.0,197.0,137.0,32.0,28.0,0.0
+Recruiter,New Relic,United States,MA,Boston,20/09/03,L3,Sales,2.0,7.0,146.0,128.0,11.0,6.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/09/03,L5,Technical,1.0,5.0,99.0,99.0,0.0,0.0,0.0
+Recruiter,Gemini,United States,NY,New York,20/09/03,L5,Technical,2.0,9.0,213.0,185.0,0.0,28.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/09/02,L4,Distributed Systems (Back-End),1.0,1.0,110.0,80.0,30.0,0.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,20/09/01,L5B,Technical,3.0,10.0,222.0,160.0,40.0,22.0,0.0
+Recruiter,iHerb,United States,CA,Irvine,20/08/30,L3,Technical,4.0,7.0,120.0,103.0,15.0,7.0,0.0
+Recruiter,Verizon,United States,CA,Walnut Creek,20/08/30,7T,Sales,2.0,5.0,97.0,88.0,5.0,9.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/08/29,L5,API Development (Back-End),1.0,3.0,130.0,95.0,5.0,30.0,0.0
+Recruiter,Wayfair,United States,MA,Boston,20/08/28,L3,Full Stack,3.0,6.0,128.0,95.0,24.0,10.0,0.0
+Recruiter,Netflix,United States,CA,Los Gatos,20/08/28,Senior,Engineering,4.0,5.0,250.0,250.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/08/28,IC5,Data Center,3.0,15.0,240.0,170.0,35.0,35.0,0.0
+Recruiter,Twilio,United States,CO,Denver,20/08/27,M3,Finance,6.0,9.0,190.0,130.0,60.0,0.0,0.0
+Recruiter,Starbucks,United States,WA,Seattle,20/08/27,Senior Recruiter,HR,2.0,17.0,144.0,132.0,12.0,0.0,0.0
+Recruiter,VMware,United States,WA,Seattle,20/08/27,Senior Recruiter,Technical,2.0,6.0,140.0,120.0,0.0,20.0,0.0
+Recruiter,Zendesk,United States,WI,Madison,20/08/27,PA,All,1.0,1.0,51.0,45.0,6.0,0.0,0.0
+Recruiter,Epsilon,United States,TX,Dallas,20/08/27,Senior,Technical,6.0,10.0,101.0,101.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,TX,Austin,20/08/25,L5,Distributed Systems (Back-End),1.0,6.0,115.0,91.0,0.0,24.0,0.0
+Recruiter,Google,United States,WA,Seattle,20/08/25,L4,API Development (Back-End),1.0,10.0,150.0,110.0,30.0,10.0,0.0
+Recruiter,Google,United States,CA,Sunnyvale,20/08/25,Sr,Android,2.0,4.0,140.0,120.0,20.0,0.0,0.0
+Recruiter,Cruise,United States,CA,San Francisco,20/08/23,L4,Technical,1.0,7.0,180.0,123.0,20.0,37.0,0.0
+Recruiter,Facebook,Ireland,DN,Dublin,20/08/22,L3,Tech Recruiter,1.0,3.0,85.0,71.0,5.0,7.0,0.0
+Recruiter,Klaviyo,United States,MA,Boston,20/08/21,Senior Technical Recruiter,Human Resources,1.0,6.0,130.0,105.0,25.0,0.0,0.0
+Recruiter,Squarespace,United States,NY,New York,20/08/21,L3,Recruiting,2.0,6.0,110.0,100.0,5.0,0.0,0.0
+Recruiter,Amazon,United States,CA,Palo Alto,20/08/21,L4,UX Design,1.0,5.0,101.0,85.0,0.0,15.0,0.0
+Recruiter,Netflix,United States,CA,Los Angeles,20/08/20,Senior,Marketing,4.0,15.0,300.0,240.0,60.0,0.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,20/08/20,L5,Technical,2.0,4.0,136.0,102.0,20.0,14.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/08/20,E4,Technical,0.0,5.0,157.0,121.0,20.0,16.0,0.0
+Recruiter,Nvidia,United States,CA,San Jose,20/08/20,L2,iOS,3.0,10.0,160.0,120.0,20.0,20.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/08/20,L6,Technical,1.0,12.0,157.0,137.0,20.0,0.0,0.0
+Recruiter,Uber,United States,CA,San Francisco,20/08/19,L4,Operations,2.0,7.0,175.0,141.0,19.0,15.0,0.0
+Recruiter,Uber,India,KA,Bengaluru,20/08/19,L6,Technical,1.0,17.0,250.0,125.0,100.0,20.0,0.0
+Recruiter,Lyft,United States,CA,San Francisco,20/08/19,L4,Hardware,1.0,4.0,205.0,120.0,85.0,0.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/08/19,L4 Sourcer,Technical,1.0,8.0,150.0,125.0,13.0,13.0,0.0
+Recruiter,Expedia,United States,WA,Seattle,20/08/18,L3,Technology recruitment,1.0,12.0,135.0,135.0,0.0,0.0,0.0
+Recruiter,Instacart,United States,CA,San Francisco,20/08/18,6,Technical,1.0,20.0,195.0,195.0,0.0,0.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/08/18,L9,Full Stack,2.0,8.0,220.0,160.0,35.0,25.0,0.0
+Recruiter,Google,Japan,TY,Tokyo,20/08/18,L4,Tech Staffing,2.0,5.0,139.0,84.0,38.0,17.0,0.0
+Recruiter,Google,United States,CA,Mountain View,20/08/18,L5,ML / AI,8.0,10.0,220.0,154.0,45.0,21.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/08/17,IC3,Distributed Systems (Back-End),3.0,5.0,116.0,97.0,10.0,9.0,0.0
+Recruiter,TEKsystems,United States,CO,Colorado Springs,20/08/17,Recruiting Lead,Technical,8.0,8.0,180.0,75.0,53.0,53.0,0.0
+Recruiter,Cruise,United States,CA,San Francisco,20/08/17,M1,Technical,1.0,11.0,278.0,200.0,18.0,60.0,0.0
+Recruiter,Amazon,United States,TX,Austin,20/08/15,L5,Security,2.0,3.0,112.0,92.0,20.0,1.0,0.0
+Recruiter,Google,United States,CA,San Francisco,20/08/14,L3,Technical,2.0,4.0,200.0,150.0,30.0,20.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/08/14,L5,Distributed Systems (Back-End),1.0,10.0,140.0,120.0,12.0,8.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/08/14,IC4,ML / AI,2.0,5.0,138.0,118.0,10.0,10.0,0.0
+Recruiter,Riviera Partners,United States,NY,New York,20/08/13,Principal,Technical,2.0,4.0,156.0,77.0,0.0,79.0,0.0
+Recruiter,Splunk,United States,CA,San Francisco,20/08/13,P3,ML / AI,3.0,6.0,160.0,160.0,0.0,0.0,0.0
+Recruiter,Amazon,United States,MA,Boston,20/08/13,L5,iOS,1.0,7.0,135.0,90.0,17.0,28.0,0.0
+Recruiter,Amazon,United States,DC,Washington,20/08/11,L6,Tech,3.0,10.0,180.0,121.0,60.0,0.0,0.0
+Recruiter,Deloitte,United States,CO,Denver,20/08/11,Lead,Technical,1.0,21.0,135.0,135.0,0.0,0.0,0.0
+Recruiter,MessageBird,Netherlands,NH,Amsterdam,20/08/11,L3,G&A,2.0,5.0,61.0,56.0,5.0,0.0,0.0
+Recruiter,eBay,United States,CA,San Jose,20/08/07,27,Technical,1.0,12.0,190.0,190.0,0.0,0.0,0.0
+Recruiter,Google,United States,CA,San Francisco,20/08/07,L3,Business,3.0,5.0,173.0,113.0,40.0,20.0,0.0
+Recruiter,Airbnb,Singapore,SG,Singapore,20/08/04,L9,Full Stack,1.0,8.0,164.0,116.0,31.0,17.0,0.0
+Recruiter,Amazon,United States,CA,San Jose,20/08/03,L5,ML / AI,2.0,13.0,170.0,105.0,0.0,65.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/08/01,L4,Non tech,0.0,4.0,80.0,80.0,0.0,0.0,0.0
+Recruiter,CoreLogic,United States,CA,Irvine,20/08/01,Senior,Recruiting,2.0,5.0,130.0,130.0,0.0,0.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/08/01,G8,University,2.0,6.0,137.0,122.0,10.0,5.0,0.0
+Recruiter,McKinsey,United States,CA,San Francisco,20/07/31,Executive recruiter,EP,4.0,9.0,160.0,143.0,17.0,0.0,0.0
+Recruiter,Amazon,United States,TX,Dallas,20/07/29,L6,Executive Recruitment,7.0,9.0,251.0,132.0,119.0,0.0,0.0
+Recruiter,Facebook,United States,IL,Chicago,20/07/29,IC3,Sourcing,0.0,3.0,106.0,92.0,5.0,10.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,20/07/29,5,tech other,1.0,4.0,105.0,90.0,15.0,0.0,0.0
+Recruiter,Facebook,United Kingdom,EN,London,20/07/28,E4,Distributed Systems (Back-End),1.0,6.0,80.0,68.0,10.0,7.0,0.0
+Recruiter,Amazon,United States,LA,New Orleans,20/07/28,L5,Security,2.0,3.0,114.0,93.0,15.0,5.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/07/24,L7,Core Tech,9.0,15.0,410.0,160.0,250.0,0.0,0.0
+Recruiter,Qualia,United States,CA,Los Angeles,20/07/23,Sr.,Recruiter,1.0,14.0,160.0,160.0,4.0,0.0,0.0
+Recruiter,Roblox,United States,CA,San Mateo,20/07/23,IC4,Full Stack,1.0,6.0,199.0,144.0,55.0,0.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/07/22,IC6,Software,2.0,15.0,269.0,180.0,53.0,36.0,0.0
+Recruiter,IBM,United States,MA,Cambridge,20/07/22,7,Consulting,2.0,8.0,105.0,105.0,0.0,0.0,0.0
+Recruiter,Comcast,United States,PA,Philadelphia,20/07/22,Professional 3,Networking,4.0,6.0,105.0,93.0,4.0,8.0,0.0
+Recruiter,Facebook,United States,CA,Menlo Park,20/07/22,L5 Product Manager,Product Leadership,3.0,11.0,199.0,160.0,15.0,24.0,0.0
+Recruiter,Better.com,United States,NY,New York,20/07/21,Senior Recruiter,recruiter,1.0,5.0,136.0,115.0,6.0,15.0,0.0
+Recruiter,Comcast,United States,CA,Sunnyvale,20/07/21,Senior Technical Recruiter,HR,0.0,8.0,135.0,130.0,1.0,1.0,0.0
+Recruiter,Uber,Brazil,SP,Sao Paulo,20/07/21,L3,Full Stack,0.0,5.0,29.0,27.0,2.0,1.0,0.0
+Recruiter,Coinbase,United States,CA,San Francisco,20/07/21,IC4,Recruiter,1.0,5.0,135.0,120.0,15.0,0.0,0.0
+Recruiter,Affirm,United States,CA,San Francisco,20/07/19,L5,None,2.0,4.0,135.0,120.0,15.0,0.0,0.0
+Recruiter,PayPal,United States,CA,Los Angeles,20/07/18,L22,Analytics,1.0,2.0,92.0,72.0,13.0,7.0,0.0
+Recruiter,Slalom,United States,WA,Seattle,20/07/17,Manager,Full Stack,3.0,10.0,103.0,85.0,0.0,18.0,0.0
+Recruiter,Google,United States,TX,Austin,20/07/17,L3,Product Design,3.0,5.0,130.0,90.0,25.0,15.0,0.0
+Recruiter,Uber,Singapore,SG,Singapore,20/07/17,L5A,Generalist,2.0,12.0,202.0,152.0,25.0,25.0,0.0
+Recruiter,Twitter,United States,CA,San Francisco,20/07/17,L5,Other,1.0,7.0,165.0,130.0,15.0,20.0,0.0
+Recruiter,Qualia,United States,CA,San Francisco,20/07/17,L4,Full Stack (Infra > mid > mobile,1.0,7.0,160.0,150.0,5.0,0.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/07/15,L8,Distributed Systems (Back-End),2.0,6.0,189.0,149.0,40.0,0.0,0.0
+Recruiter,Coinbase,United States,CA,San Francisco,20/07/14,5,Recruiter,3.0,8.0,180.0,145.0,35.0,0.0,0.0
+Recruiter,Goldman Sachs,United States,TX,Dallas,20/07/12,Senior Analyst,Campus Recruiting,1.0,3.0,80.0,75.0,0.0,5.0,0.0
+Recruiter,Apple,United States,CA,Cupertino,20/07/11,ICT5,Recruiting,3.0,20.0,270.0,180.0,60.0,30.0,0.0
+Recruiter,Booking.com,Netherlands,NH,Amsterdam,20/07/10,Senior Recruiter,Site Reliability (SRE),3.0,7.0,67.0,57.0,0.0,6.0,0.0
+Recruiter,Google,United States,CA,Mountain View,20/07/10,L5,Non tech recruiting,6.0,8.0,250.0,150.0,65.0,35.0,0.0
+Recruiter,Amazon,United States,CO,Denver,20/07/08,L5,Distributed Systems (Back-End),2.0,7.0,120.0,90.0,30.0,0.0,0.0
+Recruiter,Amazon,United States,WA,Seattle,20/07/08,L6,Engineering,5.0,20.0,121.0,121.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,WA,Seattle,20/07/08,IC4,ML / AI,2.0,5.0,141.0,119.0,10.0,12.0,0.0
+Recruiter,Indeed,United States,TX,Austin,20/07/07,Senior,Product/UX,2.0,5.0,125.0,108.0,5.0,15.0,0.0
+Recruiter,Charles Schwab,United States,NC,Raleigh,20/07/07,Staff,API Development (Back-End),7.0,10.0,55.0,55.0,0.0,0.0,0.0
+Recruiter,Microsoft,United States,WA,Seattle,20/07/07,62,General,3.0,12.0,150.0,130.0,9.0,16.0,0.0
+Recruiter,Rally Health,United States,CO,Denver,20/07/07,M3,Recruiting,2.0,7.0,155.0,130.0,5.0,20.0,0.0
+Recruiter,Flexport,United States,NY,New York,20/07/02,P3,Recruiting,1.0,7.0,125.0,100.0,15.0,10.0,0.0
+Recruiter,Airbnb,United States,CA,San Francisco,20/07/02,9,R&D,2.0,7.0,275.0,160.0,100.0,15.0,0.0
+Recruiter,Amazon,United States,CA,San Francisco,20/07/02,L4,Technical Recruiting,1.0,2.0,151.0,84.0,52.0,15.0,0.0
+Recruiter,VMware,United States,CA,Palo Alto,20/07/01,Senior staffing partner,Networking,8.0,10.0,200.0,160.0,10.0,30.0,0.0
+Recruiter,Wayfair,United States,MA,Boston,20/07/01,L2,Full Stack,2.0,4.0,96.0,84.0,4.0,8.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/07/01,IC3,Recruiter,2.0,4.0,120.0,100.0,12.0,10.0,0.0
+Recruiter,Autodesk,United States,CA,San Francisco,20/07/01,Grade 10,Business,5.0,5.0,110.0,93.0,7.0,7.0,0.0
+Recruiter,Google,United States,TX,Austin,20/07/01,L4,Full Stack,2.0,7.0,160.0,110.0,30.0,17.0,0.0
+Recruiter,Facebook,United States,NY,New York,20/07/01,L2,R4R,0.0,5.0,182.0,150.0,20.0,12.0,0.0
+Recruiter,Amazon,United States,NY,New York,20/07/01,L6,Distributed Systems (Back-End),1.0,6.0,194.0,150.0,5.0,40.0,0.0
+Recruiter,Facebook,Canada,BC,Vancouver,20/06/22,IC4,Recruiter,0.0,5.0,124.0,106.0,8.0,10.0,0.0
+Recruiter,Google,United States,CA,Palo Alto,20/05/16,L4,People management,5.0,5.0,150.0,100.0,20.0,30.0,0.0
+Recruiter,LinkedIn,United States,CA,San Francisco,20/05/14,Recruiter 2,Tech Recruiting,0.0,4.0,145.0,120.0,14.0,12.0,0.0
+Recruiter,Roku,United States,CA,San Jose,20/02/27,Support,Leadership,4.0,1.0,105.0,100.0,5.0,0.0,0.0
+Recruiter,Facebook,United States,NY,New York,20/02/14,IC5,Design Recruiter,4.0,8.0,191.0,150.0,18.0,23.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,20/02/03,IC4,TPM,2.0,6.0,160.0,130.0,20.0,10.0,0.0
+Recruiter,Google,United States,CA,Mountain View,19/08/30,L3,recruiting,1.0,5.0,132.0,,,,0.0
+Recruiter,Amazon,United States,VA,Herndon,19/07/15,L6,Recruiter,4.0,15.0,235.0,120.0,115.0,0.0,0.0
+Recruiter,Apple,United States,CA,Cupertino,19/02/08,ic4,Hardware,2.0,10.0,170.0,165.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,18/12/31,5,Recruiting,1.0,13.0,230.0,,,,0.0
+Recruiter,Google,United States,CA,San Francisco,18/11/28,L4,ML / AI,5.0,7.0,110.0,,,,0.0

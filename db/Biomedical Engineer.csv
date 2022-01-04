@@ -1,0 +1,57 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Biomedical Engineer,Philips,United States,MA,Boston,21/12/30,50,Project Management,1.0,1.0,90.0,85.0,0.0,4.0,0
+Biomedical Engineer,Philips,United States,MA,Cambridge,21/12/17,70,"Human factors, usability, clinical trials",5.0,10.0,134.0,118.0,0.0,16.0,0
+Biomedical Engineer,Philips,United States,MA,Cambridge,21/12/16,60,Artificial Intelligence,0.0,0.0,146.0,133.0,0.0,13.0,0
+Biomedical Engineer,Medtronic,United States,CA,San Jose,21/11/10,Engineer,Research and development,3.0,5.0,112.0,103.0,0.0,9.0,0
+Biomedical Engineer,Medtronic,United States,MN,Minneapolis,21/11/07,L5,System Integration,5.0,7.0,150.0,130.0,0.0,20.0,0
+Biomedical Engineer,Philips,United States,MA,Cambridge,21/10/30,70,CA,3.0,5.0,144.0,125.0,0.0,19.0,0
+Biomedical Engineer,Varian Medical Systems,United States,CA,Palo Alto,21/10/24,L2,General,2.0,3.0,108.0,105.0,0.0,3.0,0
+Biomedical Engineer,Johnson & Johnson,United States,PA,Spring House,21/10/20,Engineer 2,Biotech,1.0,3.0,88.0,84.0,0.0,5.0,0
+Biomedical Engineer,PathAI,United States,NY,New York,21/10/20,L2,AI,0.0,1.0,163.0,130.0,23.0,10.0,0
+Biomedical Engineer,PathAI,United States,NY,New York,21/10/06,L1,Machine learning,0.0,0.0,150.0,130.0,20.0,0.0,0
+Biomedical Engineer,Roche,United States,AZ,Tucson,21/09/29,Engineer,Systems Integration,1.0,2.0,80.0,80.0,0.0,0.0,0
+Biomedical Engineer,Medtronic,United States,MN,Minnesota City,21/09/17,Senior Engineer,Neuromodulation,3.0,4.0,127.0,115.0,0.0,12.0,0
+Biomedical Engineer,Sanofi,United States,MA,Boston,21/09/16,L1-2,Bioreactor Support,2.0,6.0,94.0,85.0,0.0,9.0,0
+Biomedical Engineer,GE Healthcare,Canada,ON,Toronto,21/08/31,,"biomedical engineering technologist, medical electronics",10.0,18.0,70.0,65.0,2.0,3.0,0
+Biomedical Engineer,Merck,United States,VA,Elkton,21/08/23,P2,General,2.0,2.0,95.0,89.0,0.0,6.0,0
+Biomedical Engineer,Johnson & Johnson,United States,CA,Redwood City,21/08/10,Engineer 3,robotics,0.0,3.0,145.0,133.0,0.0,12.0,0
+Biomedical Engineer,Abbott,United States,GA,Atlanta,21/07/24,Senior,Medical devices,4.0,4.0,117.0,117.0,0.0,0.0,0
+Biomedical Engineer,Amgen,United States,CA,Thousand Oaks,21/06/30,GCF5,Biotechnology,2.0,12.0,135.0,105.0,20.0,10.0,0
+Biomedical Engineer,Medtronic,United States,MN,Minneapolis,21/06/15,L4,Operations,4.0,7.0,124.0,108.0,4.0,12.0,0
+Biomedical Engineer,Intuitive,United States,CA,Sunnyvale,21/05/29,L2,Quality/Post Market,1.0,4.0,137.0,95.0,28.0,14.0,0
+Biomedical Engineer,Medtronic,Ireland,GY,Galway,21/04/14,R&D Engineer 1,General,0.0,0.0,48.0,45.0,0.0,3.0,0
+Biomedical Engineer,Amgen,United States,CA,Thousand Oaks,21/04/08,L4,automation,4.0,4.0,110.0,94.0,4.0,12.0,0
+Biomedical Engineer,Thermo Fisher Scientific,United States,CA,South San Francisco,21/04/06,Staff engineer,General,0.0,6.0,173.0,155.0,0.0,18.0,0
+Biomedical Engineer,Philips,United States,WA,Seattle,21/04/01,50,Medical Devices,3.0,6.0,89.0,85.0,0.0,4.0,0
+Biomedical Engineer,Medtronic,United States,CO,Boulder,21/03/11,Senior Engineer,Quality,8.0,15.0,126.0,116.0,1.0,10.0,0
+Biomedical Engineer,Zimmer Biomet,United States,NJ,Parsippany,21/03/07,Z12,Quality,2.0,2.0,72.0,66.0,0.0,7.0,0
+Biomedical Engineer,Johnson & Johnson,United States,CA,Santa Ana,21/03/02,L2,Surgical Vision Medical Device Manufacturing,2.0,2.0,79.0,79.0,0.0,0.0,0
+Biomedical Engineer,Medtronic,United States,CT,North Haven,21/02/18,Engineer 1,General,0.0,0.0,69.0,65.0,0.0,4.0,0
+Biomedical Engineer,Merck,United States,VA,Elkton,21/02/14,p2,Process Development,1.0,3.0,98.0,90.0,0.0,8.0,0
+Biomedical Engineer,Medtronic,United States,TN,Memphis,21/01/20,L1,Product,1.0,3.0,68.0,65.0,0.0,3.0,0
+Biomedical Engineer,Verily Life Sciences,United States,CA,South San Francisco,20/12/18,L5,Product,5.0,12.0,330.0,180.0,120.0,30.0,0
+Biomedical Engineer,Danaher,United States,WA,Seattle,20/12/03,P2,Technical,9.0,9.0,129.0,123.0,0.0,6.0,0
+Biomedical Engineer,Sanofi,United States,PA,Swiftwater,20/11/18,L2,Operations,1.0,7.0,140.0,125.0,0.0,15.0,0
+Biomedical Engineer,Johnson and Johnson,United States,CA,Irvine,20/11/14,L5,Technical,8.0,20.0,225.0,170.0,25.0,30.0,0
+Biomedical Engineer,Medtronic,United States,MN,Minneapolis,20/10/20,Associate Engineer,Product,2.0,2.0,72.0,72.0,0.0,0.0,0
+Biomedical Engineer,Johnson & Johnson,United States,CA,Santa Ana,20/09/23,Principal Engineer,Quality,2.0,16.0,166.0,141.0,0.0,25.0,0
+Biomedical Engineer,Stryker,United States,CA,San Jose,20/09/21,L11,Operations,3.0,10.0,122.0,105.0,0.0,17.0,0
+Biomedical Engineer,Apple,United States,CA,Cupertino,20/09/19,IC4,Operations,1.0,15.0,228.0,170.0,50.0,8.0,0
+Biomedical Engineer,Amgen,United States,CA,Los Angeles,20/08/15,L5,Operations,3.0,10.0,138.0,108.0,10.0,20.0,0
+Biomedical Engineer,google,United States,CA,San Francisco,20/08/13,L4,DevOps,5.0,5.0,200.0,150.0,40.0,10.0,0
+Biomedical Engineer,Amgen,United States,CA,Thousand Oaks,20/07/28,L5,Quality,2.0,5.0,140.0,110.0,15.0,15.0,0
+Biomedical Engineer,Siemens Healthineers,United States,WA,Issaquah,20/06/30,Senior,Acoustic ultrasound,13.0,13.0,120.0,107.0,4.0,9.0,0
+Biomedical Engineer,GE Healthcare,United States,MA,Marlborough,20/05/23,II,BMET,0.0,5.0,90.0,90.0,0.0,0.0,0
+Biomedical Engineer,Abbott,United States,CA,Menlo Park,20/05/05,Product Development Engineer Grade 14,Medical Device R&D,2.0,2.0,92.0,92.0,0.0,4.0,0
+Biomedical Engineer,Philips,United States,MA,Andover,20/01/29,Senior,Testing (SDET),3.0,8.0,107.0,102.0,0.0,5.0,0
+Biomedical Engineer,Abbott,United States,CA,Menlo Park,19/10/01,Grade 14,Research and Development,2.0,2.0,100.0,90.0,0.0,10.0,0
+Biomedical Engineer,Stryker,United States,CO,Denver,19/09/21,Staff,Compliance,1.0,4.0,110.0,100.0,0.0,10.0,0
+Biomedical Engineer,Intuitive Surgical,United States,CA,Sunnyvale,19/09/18,Senior Mechanical Engineer,Mechanical Instruments,7.0,7.0,200.0,140.0,30.0,30.0,0
+Biomedical Engineer,Medtronic,United States,CA,Irvine,19/07/19,Senior Engineer,"medical device, R&D, research, development, devices,",5.0,5.0,106.0,96.0,0.0,10.0,0
+Biomedical Engineer,Amgen,United States,CA,Thousand Oaks,19/06/18,L6,Process Development,12.0,19.0,240.0,,,,0
+Biomedical Engineer,Edwards Lifesciences,United States,CA,Irvine,19/06/16,E1,TDP Eningeer,3.0,2.0,84.0,72.0,8.0,4.0,0
+Biomedical Engineer,Medtronic,United States,CA,Los Angeles,19/06/15,Senior,R&D,4.0,6.0,105.0,95.0,0.0,10.0,0
+Biomedical Engineer,Johnson and Johnson,United States,FL,Jacksonville,19/06/15,Engineer 1,Automation Engineering,0.5,1.0,60.0,60.0,0.0,5.0,0
+Biomedical Engineer,Johnson and Johnson,United States,CA,Santa Clara,19/04/23,3,Regulatory affairs,2.0,5.0,100.0,,,,0
+Biomedical Engineer,Abbott,United States,MN,Minneapolis,18/12/04,Principal Engineer,Med device,10.0,10.0,165.0,,,,0
+Biomedical Engineer,Medtronic,Israel,TA,Tel Aviv,18/11/01,S53,Medical,4.0,4.0,94.0,,,,0

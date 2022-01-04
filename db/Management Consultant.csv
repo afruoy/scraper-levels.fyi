@@ -1,0 +1,1442 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,McKinsey,United States,NY,New York,22/01/03,Associate,Digital,3.0,6.0,204.0,174.0,0.0,30.0,0.0
+Management Consultant,Qualtrics,United States,UT,Orem,22/01/03,L5,Delivery,7.0,9.0,180.0,130.0,30.0,20.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,22/01/03,L1,Aa,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,BCG,United States,DC,Washington,22/01/02,2,Enterprise Solutions,1.0,6.0,190.0,155.0,0.0,35.0,0.0
+Management Consultant,Arcadis,United States,AZ,Phoenix,22/01/01,7,Technology,9.0,9.0,98.0,96.0,0.0,2.0,0.0
+Management Consultant,PwC,United States,MA,Boston,21/12/31,L4,Technology,4.0,7.0,183.0,171.0,0.0,12.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,21/12/31,Experienced Associate,HealthCare (Clinical Transformation),3.0,3.0,94.0,90.0,0.0,4.0,0.0
+Management Consultant,Bain,United Arab Emirates,DU,Dubai,21/12/31,Associate Consultant,General,0.0,0.0,85.0,70.0,0.0,15.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/12/30,New Grad,Financial Services Organization,0.0,0.0,93.0,85.0,0.0,8.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/12/30,Business Analyst,Generalist,1.0,1.0,155.0,130.0,0.0,25.0,0.0
+Management Consultant,KPMG,Canada,ON,Toronto,21/12/30,B6,Workday,3.0,11.0,186.0,165.0,0.0,21.0,0.0
+Management Consultant,Oliver Wyman,Canada,ON,Toronto,21/12/30,SC2,generalist,0.0,3.0,94.0,86.0,0.0,8.0,0.0
+Management Consultant,ZS,United States,WA,Seattle,21/12/29,L,Strategy,1.0,1.0,95.0,90.0,0.0,5.0,0.0
+Management Consultant,Alvarez & Marsal,Hong Kong (SAR),HK,Hong Kong,21/12/29,Analyst,Data Analytic,1.0,1.0,357.0,276.0,0.0,81.0,0.0
+Management Consultant,ZS,United States,PA,Philadelphia,21/12/29,Consultant,Strategy,1.0,7.0,184.0,169.0,0.0,15.0,0.0
+Management Consultant,ZS,United States,IL,Chicago,21/12/28,Associate Consultant,Pharma,3.0,3.0,101.0,95.0,0.0,6.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/12/27,L11 (CDP Analyst),"Applied Intelligence, New Grad, CDP",0.0,1.0,66.0,59.0,0.0,8.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,21/12/27,Senior Business Analyst,Ops,2.0,2.0,200.0,100.0,0.0,100.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,21/12/26,Senior Associate,Advisory,0.0,2.0,190.0,160.0,0.0,30.0,0.0
+Management Consultant,Ernst and Young,India,MH,Mumbai,21/12/25,Senior Consultant,Government and Public Sector,4.0,6.0,23.0,19.0,0.0,3.0,0.0
+Management Consultant,LEK,United States,IL,Chicago,21/12/25,Senior Associate Consultant,General,3.0,3.0,208.0,135.0,0.0,73.0,0.0
+Management Consultant,Wells Fargo,United States,IA,Des Moines,21/12/24,L6,Agile,9.0,18.0,212.0,163.0,2.0,47.0,0.0
+Management Consultant,Condé Nast,United Kingdom,EN,London,21/12/24,L3,Operations,1.0,30.0,175.0,175.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/12/23,L10,General,1.0,1.0,91.0,88.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/12/23,Senior Consultant,Cloud Engineering,4.0,5.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/12/23,Associate,General,0.0,0.0,90.0,85.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/12/23,L5,Supply chain,4.0,19.0,295.0,240.0,35.0,20.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/12/23,Senior Consultant,Omnia AI,1.0,2.0,84.0,78.0,0.0,6.0,0.0
+Management Consultant,Capital One,United States,DC,Washington,21/12/22,Associate,Strategy,0.0,0.0,111.0,102.0,3.0,7.0,0.0
+Management Consultant,Deloitte,United States,VA,West McLean,21/12/22,Consultant,Cloud,1.0,3.0,135.0,120.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/12/22,Manager,Strategy,1.0,10.0,212.0,178.0,0.0,35.0,0.0
+Management Consultant,IBM,United States,GA,Atlanta,21/12/22,Band 7,General,5.0,5.0,125.0,120.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/12/22,Consultant,Utilities,0.0,3.0,143.0,135.0,3.0,5.0,0.0
+Management Consultant,Deloitte,Israel,TA,Tel Aviv,21/12/22,Senior Consultant,Human Capital Consulting,5.0,5.0,68.0,68.0,0.0,0.0,0.0
+Management Consultant,Deloitte Advisory,United States,CA,Sacramento,21/12/22,Manager,Technology,8.0,15.0,200.0,175.0,0.0,25.0,0.0
+Management Consultant,Dell Technologies,United States,TX,Austin,21/12/22,L9,Strategy and Operations,3.0,10.0,178.0,155.0,0.0,23.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/12/21,L8,Marketing,4.0,4.0,103.0,96.0,0.0,7.0,0.0
+Management Consultant,Capgemini,United Kingdom,EN,London,21/12/21,C1,Management Consultant,2.0,2.0,50.0,48.0,0.0,2.0,0.0
+Management Consultant,NTT DATA,United States,GA,Atlanta,21/12/21,Entry,General,0.0,0.0,82.0,72.0,0.0,10.0,0.0
+Management Consultant,Grant Thornton,United States,IL,Chicago,21/12/21,Manager,Transformation,2.0,4.0,134.0,124.0,0.0,10.0,0.0
+Management Consultant,BCG Digital Ventures,United States,NY,New York,21/12/21,Senior Designer,Design Strategy,3.0,10.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,EY-Parthenon,Germany,BY,Munich,21/12/21,Consultant C3,General,2.0,2.0,104.0,90.0,0.0,14.0,0.0
+Management Consultant,Deloitte,Netherlands,NH,Amsterdam,21/12/21,Analyst,Supply Chain,1.0,1.0,43.0,43.0,0.0,0.0,0.0
+Management Consultant,LEK,United States,MA,Boston,21/12/21,Associate,General,0.0,0.0,120.0,90.0,0.0,30.0,0.0
+Management Consultant,Nvidia,United States,CA,San Francisco,21/12/21,M3,ESG,4.0,15.0,265.0,180.0,85.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/12/21,Consultant,PAS,1.0,1.0,93.0,88.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/12/21,Experienced Associate,M&A,1.0,1.0,96.0,90.0,0.0,6.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/12/21,Senior Associate,Human centered design,3.0,3.0,140.0,117.0,0.0,23.0,0.0
+Management Consultant,ZS,United States,NJ,Princeton,21/12/20,Associate Consultant,General,4.0,6.0,160.0,144.0,0.0,16.0,0.0
+Management Consultant,Crowe,United States,CA,Los Angeles,21/12/20,L3,Internal Audit,1.0,7.0,165.0,150.0,0.0,15.0,0.0
+Management Consultant,Deloitte,Luxembourg,LU,Luxembourg,21/12/19,Manager,"Investment Management, Finance",6.0,6.0,99.0,82.0,0.0,17.0,0.0
+Management Consultant,IQVIA,United States,NY,New York,21/12/18,Consultant,General,0.0,3.0,152.0,132.0,0.0,20.0,0.0
+Management Consultant,BCG,United States,MA,Boston,21/12/18,Associate,General,0.0,0.0,126.0,100.0,0.0,26.0,0.0
+Management Consultant,BCG,United States,DC,Washington,21/12/18,Associate,General,1.0,1.0,121.0,100.0,0.0,21.0,0.0
+Management Consultant,Cognizant,United States,AZ,Phoenix,21/12/17,Manager,Banking,10.0,16.0,105.0,100.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,PA,Philadelphia,21/12/17,Senior Manager,Strategy & Consulting,11.0,12.0,220.0,186.0,0.0,34.0,0.0
+Management Consultant,PwC,Saudi Arabia,RI,Riyadh,21/12/16,Senior Associate,"Technology, Digital",5.0,5.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,NY,New York,21/12/16,Lead Associate,Cyber,10.0,10.0,184.0,169.0,0.0,15.0,0.0
+Management Consultant,Alvarez & Marsal,United States,NY,New York,21/12/16,Senior Director,Restructuring,7.0,12.0,650.0,250.0,0.0,400.0,0.0
+Management Consultant,Mastercard,Malaysia,KL,Kuala Lumpur,21/12/16,Consultant,Data Analysis,0.0,3.0,38.0,34.0,0.0,3.0,0.0
+Management Consultant,BCG,Singapore,SG,Singapore,21/12/16,Associate,General,1.0,1.0,59.0,51.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,PA,Harrisburg,21/12/15,Manager,Manager,6.0,10.0,139.0,135.0,0.0,4.0,0.0
+Management Consultant,BCG,United States,NY,New York,21/12/15,Associate,General,0.0,0.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,TX,Dallas,21/12/15,Senior Associate,Finance accounting,1.0,2.0,107.0,105.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/12/15,Senior Consultant,Strategy,5.0,5.0,111.0,106.0,0.0,5.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,21/12/14,Associate Consultant,General,0.0,1.0,123.0,100.0,0.0,23.0,0.0
+Management Consultant,Capgemini,United States,TX,Dallas,21/12/14,C1,SAP OTC,4.0,4.0,105.0,100.0,0.0,5.0,0.0
+Management Consultant,McKinsey,United States,MA,Boston,21/12/14,Senior Business Analyst,Practice,4.0,11.0,162.0,122.0,10.0,30.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,21/12/14,Senior Associate,General,0.0,2.0,215.0,160.0,30.0,25.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/12/13,Manager,HR,2.0,10.0,195.0,165.0,0.0,30.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/12/13,Director,Financial Services,6.0,15.0,210.0,200.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/12/13,Senior Manager,Strategy,7.0,12.0,298.0,248.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/12/12,2,Customer and Marketing,2.0,8.0,123.0,117.0,0.0,6.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/12/10,Consultant,Treasury,1.0,1.0,80.0,76.0,0.0,4.0,0.0
+Management Consultant,Verizon,United States,NJ,Basking Ridge,21/12/10,V6,Enterprise,2.0,10.0,171.0,134.0,10.0,27.0,0.0
+Management Consultant,Accenture,United States,MA,Boston,21/12/10,L10,General,0.0,2.0,93.0,93.0,0.0,0.0,0.0
+Management Consultant,Cognizant,United States,TX,Texas City,21/12/09,Associate Director,AI & Analytics,13.0,16.0,190.0,167.0,0.0,23.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/12/09,Consultant,General,1.0,1.0,110.0,90.0,0.0,20.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,21/12/09,Lead Associate,Design Strategist,3.0,7.0,175.0,175.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,CA,San Francisco,21/12/09,Partner,Strategy,6.0,8.0,622.0,244.0,0.0,378.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/12/09,Senior Consultant,C&M,1.0,7.0,205.0,165.0,0.0,40.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/12/08,Band 6,Technology Transformation,1.0,1.0,61.0,61.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/12/08,Senior Consultant,Cybersecurity,2.0,2.0,120.0,113.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/12/08,Manager,M&A,4.0,6.0,198.0,168.0,0.0,30.0,0.0
+Management Consultant,Slalom,United States,NY,New York,21/12/08,L4,Salesforce,4.0,5.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,WA,Seattle,21/12/07,Associate,Generalist,0.0,0.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,Oliver Wyman,United States,GA,Atlanta,21/12/07,Consultant,Actuarial,6.0,6.0,230.0,110.0,0.0,120.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/12/06,Consultant,Consultant,1.0,4.0,160.0,130.0,0.0,30.0,0.0
+Management Consultant,IBM,United Kingdom,EN,London,21/12/06,Band 7,Cloud,3.0,3.0,83.0,80.0,0.0,3.0,0.0
+Management Consultant,Gopuff,United States,PA,Philadelphia,21/12/06,Director,General,3.0,6.0,306.0,180.0,90.0,36.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/12/04,Senior Consultant,Operations Transformation,1.0,10.0,158.0,149.0,0.0,9.0,0.0
+Management Consultant,Accenture,United States,MA,Boston,21/12/04,L7,Salesforce,6.0,6.0,201.0,189.0,0.0,12.0,0.0
+Management Consultant,Deloitte Advisory,Australia,VI,Melbourne,21/12/04,Senior Analyst,Cyber Security,3.0,4.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,CA,Los Angeles,21/12/04,Project Leader,Generalist,5.0,10.0,320.0,211.0,29.0,80.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/12/04,Consultant,Supply Chain,0.0,0.0,120.0,105.0,0.0,15.0,0.0
+Management Consultant,AlixPartners,United States,CA,San Francisco,21/12/03,Vice President,General,3.0,5.0,210.0,150.0,0.0,60.0,0.0
+Management Consultant,Bain,United States,GA,Atlanta,21/12/02,AC1,General,0.0,0.0,138.0,100.0,0.0,38.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/12/02,Associate Principal,Data Governance,4.0,4.0,331.0,187.0,0.0,144.0,0.0
+Management Consultant,CapTech,United States,GA,Atlanta,21/12/02,Sr. Consultant,BSA/Project Manager/ Product Owner,3.0,3.0,98.0,90.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/12/02,L10,General,1.0,1.0,91.0,88.0,0.0,3.0,0.0
+Management Consultant,McKinsey,United States,CA,Los Angeles,21/12/01,Associate,General,1.0,1.0,210.0,165.0,0.0,45.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/12/01,Senior Business Analyst,General,9.0,12.0,233.0,168.0,15.0,50.0,0.0
+Management Consultant,PwC,United Arab Emirates,DU,Dubai,21/12/01,Director,Digital / IT,1.0,14.0,202.0,192.0,0.0,10.0,0.0
+Management Consultant,Mastercard,United States,NY,Purchase,21/12/01,L9,consulting,1.0,1.0,94.0,85.0,0.0,9.0,0.0
+Management Consultant,Deloitte,Switzerland,ZH,Zurich,21/11/30,Consultant,Monitor Deloite,2.0,2.0,123.0,114.0,0.0,9.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/11/30,Consultant,Technology,0.0,6.0,204.0,170.0,0.0,34.0,0.0
+Management Consultant,Capco,Canada,ON,Toronto,21/11/30,L5,General,10.0,14.0,165.0,145.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,NC,Charlotte,21/11/30,Senior Manager,General,10.0,10.0,197.0,179.0,0.0,18.0,0.0
+Management Consultant,PwC,United Arab Emirates,DU,Dubai,21/11/30,Director,IT,1.0,14.0,202.0,192.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,21/11/30,Consultant,Technology,0.0,0.0,91.0,83.0,0.0,8.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/11/29,Associate,Deals,0.0,0.0,90.0,85.0,0.0,5.0,0.0
+Management Consultant,KPMG,Canada,ON,Toronto,21/11/29,Managing Director,M&A,2.0,15.0,500.0,350.0,0.0,150.0,0.0
+Management Consultant,McKinsey,United Kingdom,EN,London,21/11/29,6,Associate partner,1.0,9.0,210.0,150.0,0.0,60.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/11/29,Senior Consultant,General,5.0,5.0,81.0,75.0,0.0,6.0,0.0
+Management Consultant,Ernst and Young,United States,CT,Hartford,21/11/28,M3,Manager,4.0,11.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,BCG,Russia,MC,Moscow,21/11/27,Project Leader,Consulting,5.0,7.0,180.0,140.0,0.0,40.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/11/26,Manager,Strategy,9.0,9.0,250.0,215.0,0.0,35.0,0.0
+Management Consultant,World Wide Technology,United States,NY,New York,21/11/26,Analyst,Big Data,2.0,2.0,84.0,78.0,0.0,6.0,0.0
+Management Consultant,McKinsey,United States,WA,Seattle,21/11/26,Engagement Manager,Consulting,3.0,7.0,320.0,200.0,0.0,120.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/11/26,manage consultant,SAP,5.0,8.0,100.0,100.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/11/24,L10,General,1.0,1.0,91.0,88.0,0.0,3.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,21/11/24,Experienced Associate,Clinical Transformation,3.0,3.0,89.0,86.0,0.0,3.0,0.0
+Management Consultant,Oliver Wyman,United States,NY,New York,21/11/24,Senior Consultant,General,1.0,1.0,110.0,90.0,0.0,20.0,0.0
+Management Consultant,Deloitte,India,AP,Hyderabad,21/11/23,Senior Consultant,Consultant,0.0,8.0,60.0,53.0,0.0,7.0,0.0
+Management Consultant,SmartNews,China,SH,Shanghai,21/11/23,L5,CSO,1.0,5.0,145.0,80.0,50.0,15.0,0.0
+Management Consultant,PwC,United States,DC,Washington,21/11/23,Manager,Healthcare Analytics,0.0,6.0,228.0,171.0,27.0,30.0,0.0
+Management Consultant,ZS,United States,WA,Seattle,21/11/22,Associate Consultant,Marketing,0.0,5.0,150.0,137.0,0.0,14.0,0.0
+Management Consultant,RSM US,United States,NV,Las Vegas,21/11/22,Entry,General,0.0,0.0,60.0,54.0,0.0,6.0,0.0
+Management Consultant,KPMG,United States,MA,Boston,21/11/22,Director,Deal Advisory & Strategy,3.0,20.0,300.0,270.0,0.0,30.0,0.0
+Management Consultant,Capgemini,United States,NY,New York,21/11/22,D1,General,3.0,10.0,200.0,180.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/11/22,Analyst,Strategy,0.0,0.0,100.0,100.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/11/21,Senior Consultant,Data Analytics,7.0,8.0,145.0,140.0,0.0,5.0,0.0
+Management Consultant,Virtusa,Netherlands,NH,Amsterdam,21/11/20,L6,Technology Consulting,9.0,11.0,104.0,104.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/11/20,Senior Manager,Security,11.0,11.0,357.0,267.0,16.0,74.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/11/20,Senior Manager,AI,4.0,20.0,235.0,200.0,0.0,35.0,0.0
+Management Consultant,IBM,United Kingdom,EN,Manchester,21/11/19,Associate Engineer,Project Manager,0.0,0.0,43.0,43.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/11/19,Consultant,GPS,2.0,2.0,83.0,78.0,0.0,5.0,0.0
+Management Consultant,EY,Japan,TY,Tokyo,21/11/19,Associate,Strategy Consulting,1.0,5.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/11/19,Manager,CBO,3.0,15.0,240.0,220.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/11/18,L7,General,5.0,8.0,203.0,183.0,0.0,20.0,0.0
+Management Consultant,HubSpot,United States,MA,Boston,21/11/18,Manager,General,5.0,10.0,133.0,120.0,13.0,0.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/11/18,Experienced Associate,Risk,2.0,2.0,92.0,90.0,0.0,2.0,0.0
+Management Consultant,Amazon,United States,NY,New York,21/11/18,L5,General,2.0,8.0,212.0,155.0,57.0,0.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,21/11/18,Senior Manager,SAP,10.0,18.0,265.0,203.0,0.0,62.0,0.0
+Management Consultant,Accenture,Germany,NW,Dusseldorf,21/11/17,Manager,Tech Advisory,8.0,8.0,117.0,101.0,0.0,16.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/11/17,Senior Consultant,S&o,4.0,6.0,225.0,160.0,0.0,65.0,0.0
+Management Consultant,PwC,United States,TX,Houston,21/11/17,Associate,Genera;,0.0,0.0,88.0,80.0,0.0,8.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Dallas,21/11/17,Senior Consultant,Cybersecurity,0.0,6.0,190.0,180.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/11/17,Associate,strategy,0.0,6.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,Accenture,India,MH,Mumbai,21/11/17,9,Banking,1.0,5.0,44.0,39.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/11/17,L9,Applied Intelligence,2.0,2.0,130.0,126.0,0.0,4.0,0.0
+Management Consultant,McKinsey,United States,CO,Denver,21/11/16,Associate,Consulting,0.0,6.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,Allianz,Germany,BY,Munich,21/11/16,L4,Finance,5.0,12.0,118.0,94.0,0.0,24.0,0.0
+Management Consultant,KPMG,United States,CA,San Francisco,21/11/16,Senior Consultant,Customer,5.0,5.0,111.0,111.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,Costa Mesa,21/11/16,Senior Consultant,Application Management,0.0,19.0,154.0,154.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,NC,Charlotte,21/11/15,L9,Strategy and Consulting,4.0,9.0,121.0,115.0,0.0,6.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/11/15,L6,General,11.0,11.0,300.0,235.0,25.0,40.0,0.0
+Management Consultant,Slalom,United States,NJ,Jersey City,21/11/14,L2,Consulting,2.0,4.0,120.0,110.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/11/14,Senior Consultant,Business Transformation,0.0,4.0,180.0,170.0,0.0,10.0,0.0
+Management Consultant,Atlassian,United States,WA,Seattle,21/11/14,P6,Strategy & BizOps,0.0,7.0,290.0,200.0,60.0,30.0,0.0
+Management Consultant,Accenture,India,HR,Gurgaon,21/11/14,7,General,3.0,7.0,35.0,31.0,0.0,4.0,0.0
+Management Consultant,Teradata,United States,CA,San Francisco,21/11/13,Director,Strategy,0.0,12.0,400.0,300.0,50.0,50.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/11/12,Senior Consultant,Data & Analytics,3.0,3.0,143.0,136.0,0.0,7.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/11/12,Band 7,Corporate Strategy,1.0,6.0,173.0,168.0,0.0,5.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/11/12,L1,Data,0.0,0.0,80.0,64.0,10.0,6.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/11/12,Senior Consultant,Infor WFM,3.0,9.0,165.0,142.0,0.0,23.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/11/11,Senior Manager,People M&A,3.0,11.0,206.0,191.0,0.0,15.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/11/11,Senior Consultant,Experience Design,2.0,2.0,105.0,105.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,TX,Dallas,21/11/11,Associate,Technology Consulting,0.0,0.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,Amazon,United States,WA,Seattle,21/11/11,L5,General,0.0,7.0,111.0,95.0,16.0,0.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,21/11/11,M2,Technology Consulting,6.0,6.0,200.0,179.0,0.0,21.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/11/11,Manager,Growth Strategy,3.0,7.0,200.0,180.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/11/10,Manager,Strategy,6.0,8.0,201.0,161.0,0.0,40.0,0.0
+Management Consultant,Deloitte,Portugal,LI,Lisbon,21/11/10,L5,Banking,2.0,3.0,18.0,18.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/11/10,Senior Analyst,Consulting development program,1.0,1.0,108.0,101.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/11/10,,Supply Chain,1.0,2.0,88.0,83.0,0.0,5.0,0.0
+Management Consultant,Grant Thornton,United States,PA,Philadelphia,21/11/10,L4,Transformation,5.0,5.0,115.0,105.0,0.0,10.0,0.0
+Management Consultant,BCG,Canada,ON,Toronto,21/11/10,Consultant,General,3.0,3.0,161.0,145.0,0.0,16.0,0.0
+Management Consultant,Tata Consultancy Services,United States,NJ,Edison,21/11/10,C3A,General,0.0,13.0,138.0,130.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/11/10,7,Technology Strategy,6.0,6.0,205.0,192.0,0.0,13.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/11/10,Manager,General,3.0,7.0,177.0,163.0,0.0,14.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/11/09,Senior Manager,General,10.0,10.0,310.0,250.0,20.0,40.0,0.0
+Management Consultant,Accenture,United States,CA,San Jose,21/11/09,level 9,Data Science,2.0,2.0,131.0,126.0,0.0,5.0,0.0
+Management Consultant,KPMG,Canada,ON,Toronto,21/11/09,Consultant,General,0.0,0.0,55.0,55.0,0.0,0.0,0.0
+Management Consultant,Stripe,United States,FL,Miami,21/11/09,L4,strategy,1.0,10.0,500.0,300.0,150.0,50.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/11/09,Consultant,Financial Services,2.0,2.0,152.0,126.0,0.0,26.0,0.0
+Management Consultant,KPMG,United States,GA,Atlanta,21/11/09,Associate,Supply Chain,0.0,0.0,82.0,77.0,0.0,5.0,0.0
+Management Consultant,EXL,India,HR,Gurgaon,21/11/09,C2,analytics,2.0,7.0,32.0,32.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,DC,Washington,21/11/09,Senior Manager,Customer,5.0,8.0,212.0,184.0,0.0,28.0,0.0
+Management Consultant,Grant Thornton,United States,DC,Washington,21/11/08,Manager,"Strategic communications, change management, facilitation",4.0,15.0,114.0,114.0,0.0,0.0,0.0
+Management Consultant,Grant Thornton,United States,DC,Washington,21/11/08,Experienced Associate (A2),Transformation,1.0,1.0,88.0,78.0,0.0,10.0,0.0
+Management Consultant,Deloitte,Ireland,DN,Dublin,21/11/08,Analyst,RPA,0.0,0.0,38.0,37.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,MA,Boston,21/11/08,L7,Financial Services,4.0,6.0,175.0,163.0,2.0,11.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/11/08,Associate,M&A,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,NC,Charlotte,21/11/08,Associate,Core Banking & Payments,0.0,0.0,74.0,69.0,0.0,5.0,0.0
+Management Consultant,Grant Thornton,United States,CA,San Francisco,21/11/08,Sr. Manager,Cybersecurity,2.0,11.0,280.0,250.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/11/07,Analyst,General,1.0,1.0,85.0,84.0,0.0,1.0,0.0
+Management Consultant,Grant Thornton,Ireland,DN,Dublin,21/11/07,Assistant Manager,General,5.0,5.0,75.0,65.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/11/07,Analyst,CDP,0.0,2.0,97.0,87.0,0.0,10.0,0.0
+Management Consultant,Alvarez & Marsal,United States,TX,Houston,21/11/07,Manager,CPI,0.0,7.0,135.0,120.0,0.0,15.0,0.0
+Management Consultant,Grant Thornton,United States,DC,Washington,21/11/07,A2,Public Sector Advisory,2.0,4.0,72.0,72.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,CO,Colorado Springs,21/11/07,Director,Advisory,6.0,12.0,210.0,200.0,0.0,10.0,0.0
+Management Consultant,BCG,Denmark,SK,Copenhagen,21/11/06,Associate,Digital,0.0,0.0,115.0,105.0,0.0,10.0,0.0
+Management Consultant,Crowe,United States,IL,Chicago,21/11/06,Staff Consultant,Healthcare,1.0,1.0,76.0,71.0,0.0,5.0,0.0
+Management Consultant,McKinsey,United States,TX,Houston,21/11/06,Associate,Management Consultant,0.0,5.0,220.0,175.0,0.0,45.0,0.0
+Management Consultant,PwC,India,KA,Bengaluru,21/11/06,Manager,Social sector,2.0,8.0,30.0,28.0,0.0,2.0,0.0
+Management Consultant,EY-Parthenon,United States,MA,Boston,21/11/06,L1,General,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Deloitte Advisory,United States,IL,Chicago,21/11/05,Senior Manager,Analytics automation,8.0,11.0,210.0,190.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/11/05,level 9,strategy,4.0,4.0,108.0,108.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/11/05,Senior Consultant,Management consultant,0.0,5.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,Accenture,Switzerland,ZH,Zurich,21/11/04,11,General,2.0,2.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/11/04,Consultant,Cloud Engineering,1.0,5.0,129.0,115.0,0.0,14.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/11/04,Analyst,Change Management,1.0,1.0,93.0,82.0,3.0,8.0,0.0
+Management Consultant,Slalom,United States,DC,Washington,21/11/03,SC,Salesforce,2.0,6.0,155.0,145.0,0.0,10.0,0.0
+Management Consultant,Amazon,United States,TN,Nashville,21/11/03,L5,Security,2.0,8.0,184.0,148.0,36.0,0.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/11/03,L7,Growth,0.0,15.0,220.0,200.0,0.0,20.0,10.0
+Management Consultant,Accenture,United States,NC,Charlotte,21/11/03,Senior Manager,Strategy and Consulting,2.0,20.0,300.0,250.0,10.0,40.0,0.0
+Management Consultant,Accenture,Canada,QC,Montreal,21/11/03,L12,Accenture Strategy - New Grad,0.0,0.0,83.0,73.0,0.0,10.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,21/11/03,Senior Consultant,CIO Advisory,1.0,8.0,123.0,115.0,0.0,8.0,0.0
+Management Consultant,Nokia,United States,NJ,Jersey City,21/11/02,G17,innovation,6.0,14.0,202.0,140.0,20.0,42.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/11/02,Manager,Technology Consulting,5.0,5.0,176.0,158.0,0.0,18.0,0.0
+Management Consultant,OYO,India,DL,New Delhi,21/11/02,Manager,Business,2.0,4.0,32.0,30.0,2.0,0.0,0.0
+Management Consultant,KPMG,United States,AZ,Phoenix,21/11/02,Manager,Deal Advisory & Strategy,0.0,10.0,225.0,205.0,0.0,20.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/11/02,Consultant,Consultant,0.0,5.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/11/02,Consultant,Strategy,1.0,1.0,50.0,50.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,TX,Dallas,21/11/02,Senior Associate,Business,1.0,5.0,160.0,150.0,0.0,10.0,0.0
+Management Consultant,Mercer,United States,NY,New York,21/11/02,Analyst,Consulting,1.0,1.0,70.0,63.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,MI,Detroit,21/11/02,Consultant,General,3.0,3.0,104.0,97.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/11/02,Senior Manager,Strategy,6.0,12.0,290.0,233.0,0.0,57.0,0.0
+Management Consultant,Accenture,Switzerland,ZH,Zurich,21/11/01,Senior Analyst,Aws,8.0,8.0,98.0,98.0,0.0,0.0,0.0
+Management Consultant,NTT DATA,United States,TX,Houston,21/11/01,L3,IT,2.0,13.0,149.0,136.0,0.0,14.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/11/01,,Integrative,0.0,2.0,127.0,115.0,0.0,12.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/11/01,Manager,IT,1.0,13.0,172.0,162.0,0.0,10.0,0.0
+Management Consultant,PwC,Hong Kong (SAR),HK,Hong Kong,21/11/01,Associate,Business,0.0,0.0,25.0,25.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,CA,Los Angeles,21/10/31,Associate,General,0.0,0.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,MI,Detroit,21/10/31,Manager,Core Business Operations,0.0,8.0,175.0,165.0,0.0,10.0,65.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/10/31,Manager,General,3.0,9.0,175.0,162.0,0.0,13.0,0.0
+Management Consultant,ZS Associates,United States,NY,New York,21/10/31,L3,Decision Analytics,1.0,1.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Strategy&,United States,IL,Chicago,21/10/31,Senior Manager,Healthcare,3.0,8.0,298.0,228.0,0.0,70.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/10/30,Manager,Strategy & Analytics,4.0,15.0,169.0,140.0,0.0,29.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,21/10/29,Senior Consultant,Strategy,0.0,10.0,170.0,150.0,0.0,20.0,0.0
+Management Consultant,McKinsey,Singapore,SG,Singapore,21/10/29,Engagement Manager,Digital,4.0,8.0,205.0,150.0,0.0,55.0,0.0
+Management Consultant,Deloitte Advisory,United States,VA,Arlington,21/10/29,Consultant,Energy,3.0,5.0,86.0,86.0,0.0,0.0,0.0
+Management Consultant,IBM,United States,NC,Durham,21/10/28,B8,Procurement,5.0,5.0,110.0,110.0,0.0,0.0,0.0
+Management Consultant,Strategy&,United States,NY,New York,21/10/27,Senior Consultant,consulting,0.0,7.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,HSBC,United States,NY,New York,21/10/27,,General,8.0,10.0,185.0,170.0,0.0,15.0,0.0
+Management Consultant,PwC,United States,GA,Atlanta,21/10/27,Associate,Tech Consultant,0.0,0.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/10/27,Staff 2,Tech,1.0,2.0,90.0,90.0,0.0,0.0,0.0
+Management Consultant,JPMorgan Chase,United States,NY,New York,21/10/26,Analyst,Digital Strategy,2.0,2.0,77.0,72.0,0.0,5.0,0.0
+Management Consultant,Capgemini,United States,CA,San Francisco,21/10/26,D2,I&D,1.0,10.0,250.0,230.0,0.0,20.0,0.0
+Management Consultant,Dataminr,United States,NY,New York,21/10/25,L4,Corporate Development,1.0,3.0,170.0,125.0,30.0,15.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/10/25,Senior Consultant,Implementation Supply Chain,2.0,3.0,69.0,64.0,0.0,5.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/10/25,Associate,General,3.0,10.0,254.0,194.0,0.0,60.0,0.0
+Management Consultant,Ernst and Young,United States,WA,Seattle,21/10/25,Senior Consultant,Supply Chain,1.0,7.0,175.0,168.0,0.0,7.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,21/10/23,L6,Strategy,3.0,16.0,398.0,231.0,105.0,62.0,0.0
+Management Consultant,IBM,United States,CA,San Francisco,21/10/23,Band 8,Commerce,5.0,13.0,175.0,175.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/10/22,Manager,Business Consulting Finance,2.0,9.0,223.0,203.0,0.0,20.0,0.0
+Management Consultant,Amazon,United States,NC,Charlotte,21/10/22,L7,General,0.0,25.0,235.0,160.0,75.0,0.0,0.0
+Management Consultant,KPMG,United States,CO,Denver,21/10/22,Analyst,Strategy,0.0,0.0,80.0,69.0,0.0,11.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/10/22,L9,General,5.0,5.0,120.0,108.0,10.0,2.0,0.0
+Management Consultant,WorkBoard,United States,CA,Redwood City,21/10/22,L4,General,0.0,5.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/10/21,Consultant,Technology,2.0,4.0,135.0,100.0,0.0,35.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,21/10/21,Senior Consultant,Cyber Security,1.0,5.0,180.0,140.0,0.0,40.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/10/20,Engagement Manager,General,2.0,10.0,260.0,190.0,0.0,70.0,0.0
+Management Consultant,Ernst and Young,United States,MI,Detroit,21/10/20,Consultant,CyberSecurity,0.0,1.0,86.0,83.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/10/20,Manager,M&A,3.0,14.0,217.0,182.0,0.0,35.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/10/20,M2A,Operations,0.0,9.0,183.0,163.0,0.0,20.0,0.0
+Management Consultant,AT Kearney,United States,NY,New York,21/10/20,Principal,General,8.0,13.0,400.0,235.0,0.0,165.0,0.0
+Management Consultant,Google,Singapore,SG,Singapore,21/10/19,L7,Strategy,0.0,10.0,362.0,260.0,50.0,52.0,0.0
+Management Consultant,ZS,United States,MA,Boston,21/10/19,Consultant,Life Sciences,2.0,5.0,205.0,185.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,PA,Philadelphia,21/10/19,Associate,Cybersecurity technology consulting,0.0,0.0,78.0,78.0,0.0,0.0,0.0
+Management Consultant,BCG,Korea,KG,Seoul,21/10/19,Associate,Strategy,1.0,1.0,100.0,80.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,Canada,ON,Toronto,21/10/18,Manager,Cybersecurity Strategy,2.0,8.0,121.0,112.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/10/17,Senior Manager,Strategy and Consulting,2.0,20.0,305.0,250.0,20.0,35.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/10/17,Manager,Supply Chain,3.0,9.0,195.0,165.0,0.0,30.0,0.0
+Management Consultant,Indeed,United States,TX,Austin,21/10/17,L4,Strategy & Ops,3.0,6.0,115.0,90.0,13.0,12.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/10/16,Specialist,Management Consultant,0.0,6.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,Ernst and Young,United States,WA,Seattle,21/10/16,Manager,Advisory,1.0,4.0,160.0,148.0,0.0,12.0,0.0
+Management Consultant,SAP,United States,PA,Philadelphia,21/10/15,T4,Go-to-market,6.0,12.0,221.0,174.0,6.0,41.0,0.0
+Management Consultant,Slalom,United States,CA,San Francisco,21/10/15,L3,Strategy,5.0,7.0,162.0,152.0,0.0,10.0,0.0
+Management Consultant,BCG,United States,NY,New York,21/10/15,Consultant,Strategy,0.0,0.0,210.0,175.0,0.0,35.0,0.0
+Management Consultant,Salesforce,United States,IL,Chicago,21/10/14,Senior Manager,Consumer Goods Cloud,0.0,8.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/10/14,Analyst,Generalist,0.0,0.0,95.0,85.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,CA,Irvine,21/10/13,Manager,Cybersecurity Consulting under Technology Consulting,0.0,23.0,218.0,198.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/10/13,Senior Manager,Senior Manager,9.0,15.0,245.0,190.0,0.0,55.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,21/10/13,Senior Consultant,Cloud Engineering,3.0,5.0,83.0,80.0,0.0,3.0,0.0
+Management Consultant,Ericsson,United States,GA,Atlanta,21/10/13,JS8,Telecom,7.0,20.0,187.0,163.0,0.0,24.0,0.0
+Management Consultant,RSM US,United States,TX,Dallas,21/10/13,A1,Consulting,0.0,0.0,70.0,68.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,CA,Costa Mesa,21/10/13,Manager,Consulting,7.0,10.0,210.0,170.0,0.0,40.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/10/13,Senior Consultant,Technical,3.0,4.0,142.0,134.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/10/13,Senior Consultant,Technology,5.0,5.0,145.0,110.0,0.0,35.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/10/13,Engagement Manager,General,5.0,5.0,279.0,189.0,0.0,90.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/10/12,Consultant,Technology Strategy,1.0,2.0,153.0,128.0,0.0,25.0,0.0
+Management Consultant,KPMG,United States,CA,San Francisco,21/10/12,Senior Consultant,Finance Transformation,4.0,4.0,128.0,120.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/10/11,L10,Consulting analyst,2.0,3.0,90.0,89.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,21/10/11,L7,Manager,6.0,7.0,163.0,153.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/10/11,Analyst,Human Capital,0.0,0.0,86.0,80.0,0.0,6.0,0.0
+Management Consultant,KPMG,United States,CO,Denver,21/10/11,Analyst,General,0.0,0.0,69.0,69.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/10/11,DC Manager,A&C,10.0,10.0,160.0,150.0,0.0,10.0,0.0
+Management Consultant,JPMorgan Chase,United States,NY,New York,21/10/11,Vice President,Strategy,0.0,5.0,220.0,150.0,10.0,60.0,0.0
+Management Consultant,Google,United States,NY,New York,21/10/10,L5,Product,1.0,11.0,207.0,156.0,28.0,23.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/10/10,Consultant,General,0.0,3.0,129.0,115.0,0.0,14.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,21/10/10,Manager,Finance,6.0,6.0,153.0,145.0,0.0,8.0,0.0
+Management Consultant,Oliver Wyman,United States,TX,Houston,21/10/09,Consultant,General,0.0,0.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/10/09,Senior Manager,Mergers,0.0,18.0,291.0,223.0,28.0,40.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/10/08,Manager,Finance Investment Banking,4.0,11.0,106.0,103.0,0.0,3.0,0.0
+Management Consultant,Tiger Analytics,India,TN,Chennai,21/10/08,L3,Analytics,5.0,8.0,20.0,20.0,0.0,0.0,0.0
+Management Consultant,Mercer,United States,TX,Dallas,21/10/08,Principal,HR,3.0,5.0,180.0,150.0,0.0,30.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,21/10/07,Manager,M&A,6.0,8.0,196.0,148.0,0.0,48.0,0.0
+Management Consultant,Amazon,United States,CA,San Francisco,21/10/07,L7,GTM Strategy,2.0,10.0,344.0,185.0,116.0,43.0,0.0
+Management Consultant,Oliver Wyman,United States,NY,New York,21/10/07,Consultant,Private Capital,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Deloitte Advisory,United States,PA,Philadelphia,21/10/06,Manager,Finance,5.0,9.0,186.0,153.0,0.0,33.0,0.0
+Management Consultant,Google,United States,CA,San Francisco,21/10/05,L5,Hardware,2.0,5.0,236.0,169.0,42.0,25.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/10/04,Manager,IT - ERP,8.0,8.0,201.0,165.0,0.0,36.0,0.0
+Management Consultant,Amazon,India,KA,Bangalore,21/10/04,L4,Proserv Security,0.0,6.0,37.0,30.0,7.0,0.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/10/03,Consultant,Generalist,3.0,3.0,215.0,175.0,13.0,27.0,0.0
+Management Consultant,Amazon,United States,WA,Seattle,21/10/03,L6,Security,1.0,20.0,200.0,150.0,50.0,0.0,0.0
+Management Consultant,Guidehouse,United States,CA,Los Angeles,21/10/02,Director C6,Consulting,6.0,13.0,250.0,210.0,0.0,40.0,0.0
+Management Consultant,McKinsey,Canada,ON,Toronto,21/10/02,Associate,Digital,0.0,3.0,182.0,158.0,0.0,24.0,0.0
+Management Consultant,Amazon,United States,NY,New York,21/10/02,L7,General,2.0,10.0,325.0,185.0,63.0,77.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/10/01,Associate Principal,General,6.0,9.0,395.0,229.0,35.0,131.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/10/01,Senior Manager,Consulting,4.0,15.0,325.0,275.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/10/01,Consultant,Tech.,1.0,3.0,99.0,90.0,0.0,9.0,0.0
+Management Consultant,Medtronic,United States,CA,Los Angeles,21/10/01,Director,Acquisitions,5.0,12.0,260.0,200.0,0.0,60.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/09/30,Manager,National security account,0.0,18.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/09/30,Manager,Data & Analytics,4.0,8.0,177.0,167.0,0.0,10.0,0.0
+Management Consultant,JPMorgan Chase,United States,TX,Dallas,21/09/30,Senior Associate,Strategy,2.0,7.0,167.0,117.0,5.0,45.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/09/29,Senior Consultant,General,4.0,4.0,128.0,113.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,CO,Denver,21/09/29,Managing Director (L4),Technology,11.0,11.0,461.0,290.0,113.0,58.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/09/29,Experienced Associate,ML,0.0,1.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/09/28,Consultant,M&A,2.0,4.0,112.0,92.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,CA,Sacramento,21/09/28,Analyst,General,1.0,1.0,88.0,78.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,Australia,NS,Sydney,21/09/26,S3,Strategy and Transactions,1.0,3.0,82.0,75.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/09/25,Senior Consultant,SAP EAM,0.0,4.0,140.0,125.0,0.0,15.0,0.0
+Management Consultant,FTI Consulting,United States,IL,Chicago,21/09/25,1,Financial Due Diligence,0.0,0.0,72.0,72.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/09/24,Associate Consultant,General,1.0,1.0,135.0,105.0,0.0,30.0,0.0
+Management Consultant,Pariveda Solutions,United States,CA,San Francisco,21/09/24,VM3,Practice Leader,10.0,30.0,485.0,480.0,5.0,0.0,0.0
+Management Consultant,Slalom,United States,GA,Atlanta,21/09/23,Principal,Digital Transformation,2.0,8.0,173.0,155.0,0.0,18.0,0.0
+Management Consultant,EY-Parthenon,Canada,ON,Toronto,21/09/23,L2,Strategy,2.0,2.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,BDO,United States,NY,New York,21/09/22,Director,"Banking, Finance, Consulting",4.0,16.0,265.0,250.0,0.0,15.0,0.0
+Management Consultant,PwC,United States,TX,Dallas,21/09/22,Senior Associate,"Healthcare, M&A, MBA",2.0,9.0,177.0,160.0,0.0,17.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/09/21,Senior Consultant,Analytics,0.0,3.0,152.0,134.0,0.0,18.0,0.0
+Management Consultant,Capgemini,United States,IL,Chicago,21/09/21,L1,General,0.0,0.0,73.0,68.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/09/21,Senior Consultant,S&A,2.0,7.0,202.0,168.0,0.0,34.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,21/09/21,Senior Manager,General,10.0,10.0,230.0,210.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/09/20,Consultant,General,2.0,2.0,83.0,78.0,0.0,5.0,0.0
+Management Consultant,Nisum,United States,CA,San Francisco,21/09/20,L4,General,0.0,16.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/09/19,Associate,Tech,0.0,0.0,88.0,80.0,0.0,8.0,0.0
+Management Consultant,Ernst and Young,United States,PA,Philadelphia,21/09/19,Senior Consultant,Analytics,0.0,4.0,125.0,125.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/09/18,manager,Analytics,4.0,10.0,195.0,170.0,0.0,25.0,0.0
+Management Consultant,McKinsey & Company,United States,NY,New York,21/09/18,Associate Partner,Digital,5.0,25.0,457.0,302.0,0.0,155.0,0.0
+Management Consultant,Microsoft,Italy,LO,Milano,21/09/18,57,Azure Cloud & AI,0.0,0.0,50.0,43.0,1.0,6.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/09/17,Senior Consultant,TMT,1.0,6.0,202.0,167.0,0.0,35.0,0.0
+Management Consultant,IBM,United States,TX,Dallas,21/09/17,Band C,general,16.0,22.0,690.0,420.0,150.0,120.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/09/17,Manager,Consulting,1.0,5.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,Deloitte,Canada,AB,Calgary,21/09/17,Analyst,Cloud Engineering,0.0,0.0,53.0,51.0,0.0,2.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Dallas,21/09/17,Manager,Privacy,2.0,14.0,202.0,184.0,0.0,18.0,0.0
+Management Consultant,AT Kearney,United States,MA,Boston,21/09/17,Partner,Strategy,9.0,11.0,1.0,325.0,90.0,600.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/09/16,Senior Manager,Supply chain,12.0,12.0,260.0,212.0,18.0,30.0,0.0
+Management Consultant,Cognizant,United States,CA,San Francisco,21/09/16,Manager,General,3.0,8.0,140.0,125.0,0.0,15.0,0.0
+Management Consultant,Slalom,United States,WA,Seattle,21/09/16,Principal,General,6.0,10.0,180.0,170.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/09/15,Senior Consultant,SAP,4.0,5.0,132.0,115.0,0.0,16.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,21/09/15,Manager,General,7.0,7.0,380.0,220.0,0.0,160.0,0.0
+Management Consultant,KPMG,United States,DC,Washington,21/09/15,Senior Consultant,Financial Services,1.0,3.0,110.0,105.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,NJ,Hoboken,21/09/15,Senior Manager,Technology Operations,12.0,12.0,201.0,190.0,0.0,11.0,0.0
+Management Consultant,Google,United States,FL,Miami,21/09/14,L6,Operations and Support,1.0,20.0,258.0,173.0,75.0,10.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/09/14,Consultant,General,2.0,2.0,89.0,89.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,CA,Los Angeles,21/09/14,Consultant,Finance,2.0,2.0,80.0,77.0,0.0,3.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/09/14,Consultant,Strategy,1.0,10.0,202.0,180.0,0.0,22.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/09/13,1,Tech,0.0,0.0,92.0,80.0,0.0,12.0,0.0
+Management Consultant,McKinsey,United Kingdom,EN,London,21/09/12,Associate,General,2.0,9.0,144.0,120.0,0.0,24.0,0.0
+Management Consultant,KPMG,United States,CA,San Francisco,21/09/12,Senior Consultant,Risk,4.0,4.0,103.0,95.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/09/12,6,CAL,7.0,25.0,330.0,275.0,30.0,25.0,0.0
+Management Consultant,FTI Consulting,United States,IL,Chicago,21/09/11,L4,Finance,2.0,14.0,238.0,193.0,0.0,45.0,0.0
+Management Consultant,Slalom,United States,MA,Boston,21/09/10,L1,General,1.0,1.0,80.0,74.0,0.0,6.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/09/10,Consultant,EPM,1.0,2.0,130.0,110.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/09/10,Engagement Manager,Management consultant,4.0,10.0,220.0,170.0,0.0,50.0,0.0
+Management Consultant,Infosys,United States,TX,Houston,21/09/09,7,Energy,16.0,18.0,262.0,196.0,0.0,66.0,0.0
+Management Consultant,Ernst and Young,India,WB,Kolkata,21/09/09,Senior Consultant,Climate Change and Energy,0.0,5.0,25.0,22.0,0.0,2.0,0.0
+Management Consultant,Slalom,United States,GA,Atlanta,21/09/09,Associate,ML / AI,0.0,1.0,98.0,92.0,0.0,6.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/09/09,Senior Manager,Consulting,3.0,15.0,250.0,190.0,0.0,60.0,0.0
+Management Consultant,AWS,United States,WA,Seattle,21/09/09,L7,Cloud,2.0,20.0,500.0,160.0,233.0,107.0,0.0
+Management Consultant,Bayer,United States,NJ,Whippany,21/09/08,1.3,Internal Consulting,2.0,11.0,172.0,145.0,0.0,26.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/09/08,Analyst,GPS,0.0,0.0,88.0,78.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/09/07,Senior Manager,Travel Hospitality,6.0,22.0,350.0,275.0,0.0,75.0,0.0
+Management Consultant,Slalom,United States,IL,Chicago,21/09/07,Associate,Business,0.0,0.0,73.0,68.0,0.0,5.0,0.0
+Management Consultant,Capgemini,Sweden,ST,Stockholm,21/09/07,C,General,2.0,2.0,70.0,63.0,0.0,7.0,0.0
+Management Consultant,cerner,United States,MO,Kansas City,21/09/06,1,revenue cycle,1.0,1.0,52.0,52.0,0.0,0.0,0.0
+Management Consultant,Amazon,Spain,MD,Madrid,21/09/06,L5,Operations,0.0,8.0,78.0,66.0,11.0,0.0,0.0
+Management Consultant,Bain,United States,GA,Atlanta,21/09/05,Associate Consultant,General,0.0,0.0,125.0,100.0,10.0,15.0,0.0
+Management Consultant,IBM,United Kingdom,EN,London,21/09/05,Band 6,Analytics,1.0,1.0,63.0,63.0,0.0,0.0,0.0
+Management Consultant,KPMG,Australia,QL,Brisbane,21/09/04,Associate Director,General,3.0,8.0,139.0,134.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/09/03,Manager,Technology,3.0,7.0,192.0,152.0,0.0,40.0,0.0
+Management Consultant,Deloitte consulting,United States,CO,Denver,21/09/02,Senior consultant,Finance strategy,5.0,5.0,175.0,135.0,0.0,40.0,0.0
+Management Consultant,Strategy by PwC,United States,CA,San Francisco,21/09/02,M2,General,4.0,8.0,280.0,207.0,0.0,73.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/09/01,Associate,Finance Strategy,1.0,1.0,93.0,90.0,0.0,3.0,0.0
+Management Consultant,KPMG,United States,PA,Philadelphia,21/09/01,Senior Associate,Finance,0.0,3.0,125.0,120.0,0.0,5.0,0.0
+Management Consultant,Workday,United States,GA,Atlanta,21/09/01,P4,Consulting,2.0,7.0,155.0,118.0,20.0,17.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/08/31,Senior Consultant,Financial Due Diligence,2.0,6.0,125.0,118.0,0.0,7.0,0.0
+Management Consultant,BCG,United States,WA,Seattle,21/08/30,Principal,General,5.0,5.0,350.0,225.0,0.0,125.0,0.0
+Management Consultant,Oracle,Canada,ON,Toronto,21/08/30,IC-1,Implementation,0.0,0.0,66.0,60.0,0.0,6.0,0.0
+Management Consultant,Bain,United States,NY,New York,21/08/30,Consultant,General,1.0,7.0,195.0,165.0,0.0,30.0,0.0
+Management Consultant,Microsoft,Singapore,SG,Raffles Park,21/08/30,64,Strategy,2.0,20.0,280.0,207.0,35.0,38.0,0.0
+Management Consultant,Slalom,United States,WA,Seattle,21/08/30,L7,Management,3.0,17.0,365.0,250.0,0.0,115.0,0.0
+Management Consultant,Accenture,United States,TX,Austin,21/08/29,Consultant,OCM,3.0,3.0,108.0,104.0,0.0,3.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/08/29,Senior Consultant,Workforce Transformation,2.0,3.0,70.0,69.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/08/28,Consultant,Change Management,0.0,8.0,134.0,127.0,0.0,7.0,0.0
+Management Consultant,Randstad,United States,GA,Atlanta,21/08/28,L3,Pricing,4.0,10.0,130.0,120.0,10.0,0.0,0.0
+Management Consultant,McKinsey,United States,GA,Atlanta,21/08/28,Associate,General,2.0,6.0,228.0,183.0,0.0,45.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/08/28,Associate,Strategy,4.0,5.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,McKinsey,United States,WA,Seattle,21/08/27,Associate,Consulting,0.0,0.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,Ernst and Young,United States,GA,Atlanta,21/08/27,Staff Consultant,General,1.0,2.0,90.0,86.0,0.0,4.0,0.0
+Management Consultant,Tata Consultancy Services,United States,CT,Hartford,21/08/27,C4,BRM,17.0,21.0,171.0,150.0,0.0,21.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,21/08/27,EM,Generalist,4.0,9.0,280.0,200.0,0.0,80.0,0.0
+Management Consultant,Deloitte,United States,OH,Cincinnati,21/08/26,Analyst,Life sciences,2.0,6.0,97.0,93.0,0.0,5.0,0.0
+Management Consultant,Nordstrom,United States,WA,Seattle,21/08/26,Director,strategy,5.0,10.0,310.0,200.0,50.0,60.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/08/26,11,Federal,0.0,0.0,77.0,75.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/08/25,Manager,Cyber,0.0,7.0,170.0,170.0,0.0,0.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,21/08/25,Associate,Government Acquisition & Contracting,0.0,14.0,155.0,155.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,MN,Minneapolis,21/08/25,Senior Associate,Finance,0.0,5.0,135.0,110.0,0.0,25.0,0.0
+Management Consultant,Ernst and Young,United States,MA,Boston,21/08/23,Manager,Management Consultant,5.0,7.0,151.0,148.0,0.0,3.0,0.0
+Management Consultant,IBM,United States,PA,Pittsburgh,21/08/23,Band 8,Data Science,2.0,4.0,143.0,130.0,0.0,13.0,0.0
+Management Consultant,Ernst and Young,United States,VA,Falls Church,21/08/22,Senior Manager,M&A Consulting,6.0,12.0,260.0,235.0,0.0,25.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/08/22,Associate Consultant,General,0.0,0.0,105.0,90.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/08/22,L7,Innovation,2.0,7.0,190.0,175.0,0.0,15.0,0.0
+Management Consultant,Swiggy,India,KA,Bangalore,21/08/21,11,Strategy,3.0,11.0,211.0,141.0,50.0,20.0,0.0
+Management Consultant,Oliver Wyman,United States,MA,Boston,21/08/21,Partner,General,16.0,16.0,450.0,280.0,0.0,170.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/08/20,Engagement Manager,Healthcare,5.0,5.0,280.0,190.0,0.0,90.0,0.0
+Management Consultant,Slalom,United States,MO,St. Louis,21/08/20,Senior Director,UX,3.0,15.0,235.0,195.0,0.0,40.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,21/08/20,Consultant,Cloud Strategy,1.0,3.0,130.0,115.0,0.0,15.0,0.0
+Management Consultant,Mixpanel,India,KA,Bangalore,21/08/20,L3,General,1.0,8.0,42.0,41.0,0.0,1.0,0.0
+Management Consultant,McKinsey,United Arab Emirates,DU,Dubai,21/08/20,Engagement Manager,Strategy,3.0,11.0,215.0,165.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,IA,Iowa City,21/08/20,Consulting Manager,#Big4,5.0,13.0,129.0,124.0,0.0,5.0,0.0
+Management Consultant,Tata Consultancy Services,United States,NY,New York,21/08/19,C3B,Project Management,3.0,12.0,150.0,144.0,0.0,6.0,0.0
+Management Consultant,ZS,United States,WA,Seattle,21/08/19,Associate,General,1.0,1.0,117.0,105.0,0.0,12.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/08/19,L7,Change Management,5.0,16.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/08/19,Senior Manager,FS,7.0,14.0,250.0,240.0,0.0,10.0,0.0
+Management Consultant,JPMorgan Chase,United States,TX,Dallas,21/08/19,Vice President,Projects,17.0,17.0,175.0,175.0,0.0,0.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/08/19,Principal,General,1.0,10.0,225.0,200.0,25.0,0.0,0.0
+Management Consultant,KPMG,United States,TX,Dallas,21/08/19,Consultant,Life Sciences,2.0,3.0,85.0,80.0,0.0,5.0,0.0
+Management Consultant,PWC,United States,TX,Dallas,21/08/19,Senior Associate,DDV,0.0,9.0,170.0,155.0,0.0,15.0,0.0
+Management Consultant,Ernst and Young,United States,MA,Boston,21/08/18,Senior Consultant,Financial Advisory Services,0.0,4.0,155.0,145.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/08/18,Senior Manager,Digital Transformation,6.0,15.0,330.0,215.0,0.0,115.0,0.0
+Management Consultant,Uber,United States,IL,Chicago,21/08/17,L4,Strategy,2.0,5.0,139.0,114.0,25.0,0.0,0.0
+Management Consultant,BCG,United States,NY,New York,21/08/17,L1,General,0.0,0.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,Accenture,Germany,BE,Berlin,21/08/16,L7,"Accenture Technology, Salesforce (SFBG group)",4.0,8.0,91.0,85.0,0.0,7.0,0.0
+Management Consultant,PwC,United States,TX,Houston,21/08/16,Senior Associate,Cybersecurity,3.0,15.0,130.0,123.0,0.0,7.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Houston,21/08/15,Senior Consultant,Security,0.0,6.0,187.0,170.0,0.0,17.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,TX,Houston,21/08/15,Senior Consultant,Strategy & Analytics,6.0,6.0,160.0,134.0,0.0,27.0,0.0
+Management Consultant,McKinsey,United States,DC,Washington,21/08/13,Associate,Operations,0.0,4.0,183.0,165.0,0.0,18.0,0.0
+Management Consultant,Oracle,United States,OR,Portland,21/08/13,L3,NetSuite,2.0,10.0,123.0,103.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/08/13,Manager,Cybersecurity,5.0,5.0,150.0,138.0,0.0,12.0,0.0
+Management Consultant,FTI Consulting,United States,CA,Los Angeles,21/08/12,L2,Data Analyst,4.0,4.0,125.0,115.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/08/12,Senior Consultant,Internal Strategy,2.0,6.0,160.0,152.0,0.0,8.0,0.0
+Management Consultant,Adobe,United States,IL,Chicago,21/08/12,L3,CX,3.0,8.0,149.0,118.0,10.0,21.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,MD,Fort George G Meade,21/08/11,Associate,General,3.0,8.0,129.0,128.0,0.0,1.0,0.0
+Management Consultant,AT Kearney,United States,NY,New York,21/08/11,Manager,Business Strategy,3.0,7.0,250.0,195.0,10.0,45.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/08/11,Senior Associate,Cybersecurity,2.0,5.0,135.0,120.0,0.0,15.0,0.0
+Management Consultant,IBM,India,MH,Mumbai,21/08/11,Band 8,Design,0.0,14.0,57.0,52.0,0.0,4.0,0.0
+Management Consultant,SAP,Australia,NS,Sydney,21/08/11,T3,General,2.0,5.0,123.0,115.0,0.0,8.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,21/08/10,42,Strategy and Transactions,2.0,5.0,105.0,100.0,0.0,5.0,0.0
+Management Consultant,ZS,United States,NY,New York,21/08/10,Associate,Business Operations,0.0,0.0,106.0,98.0,0.0,8.0,0.0
+Management Consultant,KPMG,United States,TX,Houston,21/08/10,Director,Transformation Delivery,6.0,11.0,172.0,162.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,GA,Atlanta,21/08/10,Consultant,Technology risk,0.0,0.0,63.0,58.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/08/09,L4,Strategy,3.0,3.0,220.0,176.0,0.0,44.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/08/09,Consultant,General,1.0,4.0,119.0,108.0,0.0,11.0,0.0
+Management Consultant,TSMC,United States,CA,San Jose,21/08/08,33,Po placement,2.0,8.0,85.0,70.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/08/08,Senior Consultant,Technology,2.0,12.0,132.0,122.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/08/07,Manager,Technology,1.0,13.0,277.0,231.0,0.0,46.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/08/07,SA1,Cybersecurity,1.0,5.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,Mercer,United States,KY,Louisville,21/08/06,Associate,Compensation and Benefits,2.0,2.0,91.0,83.0,0.0,8.0,0.0
+Management Consultant,KPMG,United States,CO,Denver,21/08/06,Manager,General,6.0,11.0,142.0,132.0,0.0,10.0,0.0
+Management Consultant,Oliver Wyman,United Kingdom,EN,London,21/08/06,Consultant,General,0.0,0.0,76.0,66.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,NJ,Parsippany,21/08/06,Manager,Lifesciences,3.0,10.0,133.0,121.0,0.0,12.0,0.0
+Management Consultant,ZS Associates,United States,MD,Bethesda,21/08/05,Associate,Consulting,0.0,1.0,104.0,95.0,0.0,9.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/08/05,Band 10,General,2.0,15.0,330.0,240.0,30.0,60.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/08/05,Analyst,Strategy & Analytics,0.0,0.0,86.0,80.0,0.0,6.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/08/05,Manager,Sap,4.0,10.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/08/05,Senior Consultant,Org transformation,1.0,7.0,160.0,140.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,21/08/05,Manager,Cyber,4.0,4.0,99.0,93.0,0.0,6.0,0.0
+Management Consultant,Deloitte,United States,PA,Philadelphia,21/08/05,Manager,Sales Force Effectiveness,0.0,10.0,210.0,180.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/08/05,Senior Consultant,S&A,0.0,8.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,KPMG,United States,MA,Boston,21/08/04,Senior Consultant,Financial Services,0.0,4.0,128.0,120.0,0.0,8.0,0.0
+Management Consultant,IBM,United States,CA,Los Angeles,21/08/03,Band 9,Business Intelligence,10.0,13.0,182.0,182.0,0.0,0.0,0.0
+Management Consultant,Brillio,United States,IL,Chicago,21/08/03,Senior Engineer,Analytics,3.0,11.0,147.0,147.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/08/03,L1,Technology Consulting,0.0,0.0,98.0,91.0,0.0,7.0,0.0
+Management Consultant,BCG,Singapore,SG,Singapore,21/08/03,Principal,Management Consulting,6.0,6.0,260.0,160.0,0.0,100.0,0.0
+Management Consultant,Capgemini,United States,NY,New York,21/08/03,A4,API Development (Back-End),1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/08/01,6,Strategy,7.0,7.0,338.0,250.0,18.0,70.0,0.0
+Management Consultant,SAP Concur,United States,MN,Minneapolis,21/07/30,T2,Implementation,2.0,9.0,75.0,66.0,3.0,7.0,0.0
+Management Consultant,Accenture,United States,CA,San Jose,21/07/30,Consultant,Compliance,0.0,2.0,160.0,140.0,0.0,20.0,0.0
+Management Consultant,American Airlines,United States,TX,Austin,21/07/30,L6,Technology and operations,10.0,17.0,153.0,148.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/07/30,Senior Consultant,Wealth management,3.0,3.0,115.0,98.0,0.0,17.0,0.0
+Management Consultant,Deloitte Advisory,United States,NJ,Jersey City,21/07/29,Senior Consultant,Cyber Identity,5.0,5.0,123.0,109.0,0.0,14.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/07/29,9,Strategy,0.0,7.0,150.0,122.0,0.0,28.0,0.0
+Management Consultant,PWC,United States,TX,Austin,21/07/29,M1C,Advisory,0.0,5.0,193.0,152.0,0.0,41.0,0.0
+Management Consultant,Guidehouse,United States,DC,Washington,21/07/28,L3,COMMUNICATIONS,3.0,10.0,127.0,122.0,0.0,5.0,0.0
+Management Consultant,Bain,United Arab Emirates,DU,Dubai,21/07/28,Consultant,General,3.0,5.0,190.0,158.0,0.0,32.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/07/28,CL9,SAP,3.0,3.0,118.0,118.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NV,Las Vegas,21/07/28,Senior Consultant,Oracle HCM Cloud,1.0,25.0,185.0,160.0,0.0,25.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/07/27,Consultant,Product,2.0,2.0,96.0,86.0,0.0,10.0,0.0
+Management Consultant,Amazon,United States,IL,Chicago,21/07/27,L6,AWS Cloud,0.0,14.0,287.0,157.0,80.0,50.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/07/26,Manager,M&A,7.0,7.0,220.0,150.0,0.0,70.0,0.0
+Management Consultant,MetLife,India,UP,Noida,21/07/26,Grade 12,Project Management,5.0,15.0,60.0,55.0,0.0,5.0,0.0
+Management Consultant,Accenture,India,DL,Delhi,21/07/26,L9,BFSI,0.0,5.0,50.0,40.0,0.0,10.0,0.0
+Management Consultant,Facebook,Belgium,BU,Brussels,21/07/25,E6,Facebook,1.0,8.0,165.0,160.0,5.0,0.0,0.0
+Management Consultant,Gartner,Canada,ON,Toronto,21/07/24,Consultant,IT Strategy,2.0,2.0,95.0,86.0,0.0,9.0,0.0
+Management Consultant,Amazon,Germany,BE,Berlin,21/07/23,L6,automotive,1.0,20.0,180.0,130.0,50.0,0.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,21/07/22,Senior Consultant,General,1.0,5.0,85.0,83.0,0.0,2.0,0.0
+Management Consultant,Ernst and Young,United States,NJ,Hoboken,21/07/22,Consultant,SAP,0.0,0.0,93.0,85.0,0.0,8.0,0.0
+Management Consultant,Capgemini,United States,GA,Atlanta,21/07/22,A4,CRM Systems,1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,VT,Londonderry,21/07/21,L5,Consulting,10.0,15.0,158.0,158.0,0.0,0.0,0.0
+Management Consultant,ZS,United States,CA,San Francisco,21/07/21,Associate,General,1.0,1.0,118.0,103.0,0.0,15.0,0.0
+Management Consultant,Bristol Myers Squibb,Taiwan,KH,Kaohsiung,21/07/20,L1,Achieve target,5.0,7.0,60.0,40.0,0.0,20.0,0.0
+Management Consultant,Salesforce,United States,DC,Washington,21/07/19,Senior Director,CSG,3.0,20.0,300.0,234.0,8.0,58.0,0.0
+Management Consultant,FTI Consulting,United States,NY,New York,21/07/19,4,strategic communications,8.0,8.0,200.0,170.0,0.0,30.0,0.0
+Management Consultant,BCG,United States,TX,Dallas,21/07/19,Project Leader,General,3.0,8.0,280.0,210.0,0.0,70.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/07/18,Senior Consultant,Cyber,3.0,3.0,110.0,95.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/07/18,Partner,Strategy,15.0,20.0,950.0,600.0,0.0,350.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/07/17,9,Financial crime,2.0,8.0,99.0,97.0,0.0,2.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/07/16,Senior Consultant,Strategy consulting,2.0,2.0,187.0,170.0,0.0,17.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/07/16,Senior Consultant,Enterprise Performance,3.0,10.0,148.0,140.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,MI,Detroit,21/07/15,Manager,Energy,5.0,5.0,133.0,133.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,21/07/15,Consultant,Mergers & Acquisitions,2.0,2.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,McKinsey,Germany,BE,Berlin,21/07/14,Associate,Software Engineering and Architecture,1.0,4.0,120.0,105.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/07/14,Senior Analyst,Digital Product Management,2.0,2.0,89.0,85.0,0.0,4.0,0.0
+Management Consultant,Ernst and Young,United States,OR,Portland,21/07/13,Senior Consultant,Data Analytics,7.0,8.0,122.0,120.0,0.0,2.0,0.0
+Management Consultant,McKinsey,Singapore,SG,Singapore,21/07/13,Engagement Manager,General,3.0,6.0,184.0,145.0,0.0,39.0,0.0
+Management Consultant,KPMG,Canada,ON,Toronto,21/07/13,Senior Consultant,Healthcare,3.0,3.0,93.0,93.0,0.0,0.0,0.0
+Management Consultant,Slalom,United States,CA,Palo Alto,21/07/12,Consultant,Data,2.0,4.0,125.0,125.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/07/12,Senior Consultant,Data Science,4.0,4.0,151.0,131.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,CA,San Jose,21/07/12,Senior Manager,TMT M&A,5.0,10.0,215.0,193.0,0.0,22.0,0.0
+Management Consultant,Ernst and Young,United States,PA,Philadelphia,21/07/11,Senior Consultant,Technology,4.0,4.0,97.0,97.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/07/10,Manager,Commerce,1.0,14.0,185.0,167.0,0.0,17.0,0.0
+Management Consultant,Cox Enterprises,United States,GA,Atlanta,21/07/09,L1,General,1.0,3.0,83.0,75.0,0.0,8.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/07/09,Director,HR,10.0,33.0,310.0,280.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,21/07/09,Consultant,Supply Chain,2.0,2.0,95.0,90.0,0.0,5.0,0.0
+Management Consultant,IBM,United States,TX,Dallas,21/07/09,Band 8,Workday Consultant,3.0,20.0,168.0,167.0,0.0,1.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,21/07/08,AC2,General,2.0,2.0,125.0,95.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/07/07,Manager,Analytics,1.0,8.0,207.0,180.0,0.0,27.0,0.0
+Management Consultant,Bain,United States,GA,Atlanta,21/07/05,Associate Consultant,Consulting,0.0,0.0,115.0,90.0,10.0,15.0,0.0
+Management Consultant,ZS,United States,NY,New York,21/07/05,Consultant,General,0.0,3.0,198.0,178.0,0.0,20.0,0.0
+Management Consultant,Deloitte,India,KA,Bangalore,21/07/04,Consultant,Analytics,2.0,2.0,14.0,12.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/07/02,Consultant,Supply Chain,0.0,8.0,108.0,105.0,0.0,3.0,0.0
+Management Consultant,Morgan Stanley,United States,PA,Philadelphia,21/07/01,Associate,Wealth Management,1.0,5.0,60.0,60.0,0.0,0.0,0.0
+Management Consultant,Morgan Stanley,United States,PA,Philadelphia,21/07/01,L1,Wealth Management,1.0,5.0,60.0,60.0,0.0,0.0,0.0
+Management Consultant,Slalom,United States,CA,Walnut Creek,21/07/01,Senior Consultant,Consulting,4.0,10.0,186.0,174.0,0.0,12.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/06/30,7,Product Strategy,7.0,8.0,120.0,97.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,DC,Washington,21/06/30,Manager,Technology Consulting,2.0,7.0,176.0,156.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/06/30,Consultant,Consultant,0.0,2.0,112.0,107.0,0.0,5.0,0.0
+Management Consultant,Slalom,United States,TX,Dallas,21/06/30,L4,Program and Project Management,1.0,11.0,155.0,145.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,21/06/29,Manager,Digital,6.0,6.0,155.0,145.0,0.0,10.0,0.0
+Management Consultant,PwC,United Kingdom,EN,Watford,21/06/29,Manager,Assurance l,3.0,5.0,82.0,74.0,0.0,8.0,0.0
+Management Consultant,Accenture,India,KA,Bangalore,21/06/29,L7,Industry X,0.0,15.0,75.0,57.0,0.0,18.0,0.0
+Management Consultant,PwC,United States,CA,San Jose,21/06/28,Senior Manager,Mergers & Acquisitions,5.0,10.0,225.0,193.0,0.0,32.0,0.0
+Management Consultant,FTI Consulting,United States,NY,New York,21/06/28,L4,Cybersecurity,3.0,20.0,290.0,280.0,0.0,10.0,0.0
+Management Consultant,Deloitte,Denmark,SK,Copenhagen,21/06/28,Manager,M&A Consulting,5.0,6.0,159.0,139.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,OH,Toledo,21/06/27,L7,Security,0.0,9.0,266.0,190.0,26.0,50.0,0.0
+Management Consultant,Guidehouse,United States,DC,Washington,21/06/27,Senior Consultant,Project Management,2.0,6.0,108.0,98.0,0.0,10.0,0.0
+Management Consultant,Amazon,United States,TN,Nashville,21/06/26,L4,WHS,0.0,25.0,150.0,140.0,10.0,0.0,0.0
+Management Consultant,PwC,Japan,TY,Tokyo,21/06/26,Associate,Technology,2.0,5.0,70.0,55.0,0.0,15.0,0.0
+Management Consultant,Microsoft,United States,NY,New York,21/06/25,66,Digital Strategy,10.0,30.0,340.0,220.0,60.0,60.0,0.0
+Management Consultant,Accenture,United States,FL,Miami,21/06/25,Senior Manager,Strategy Consulting,10.0,10.0,240.0,223.0,3.0,14.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/06/24,Senior Consultant,Human Capital- Organization Transformation,4.0,15.0,121.0,117.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/06/24,Analyst,Core Business Operations,0.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,PwC,Australia,NS,Sydney,21/06/24,Senior Associate,Financial Services & Banking,0.0,2.0,72.0,72.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/06/24,Consultant,GPS,2.0,2.0,91.0,87.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,21/06/24,Manager,Technology strategy,3.0,7.0,174.0,174.0,0.0,0.0,0.0
+Management Consultant,Cognizant,United States,CA,San Francisco,21/06/23,Senior Associate,GENERAL,4.0,7.0,73.0,65.0,0.0,8.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/06/23,Senior Associate,Technology Consulting,6.0,6.0,125.0,119.0,0.0,6.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/06/23,Manager,Data and Analytics,12.0,14.0,160.0,157.0,0.0,3.0,0.0
+Management Consultant,Deloitte,Germany,BE,Berlin,21/06/23,Consultant,Engineering,0.0,3.0,61.0,58.0,0.0,3.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/06/23,L3,Consultant,0.0,0.0,94.0,84.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/06/22,Senior Consultant,GPS,3.0,6.0,113.0,105.0,0.0,8.0,0.0
+Management Consultant,Google,United States,CA,San Francisco,21/06/22,L5,General,0.0,7.0,252.0,173.0,53.0,26.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,21/06/22,Senior Manager,Cyber Security,10.0,10.0,110.0,110.0,0.0,2.0,0.0
+Management Consultant,West Monroe,United States,WA,Seattle,21/06/20,C2,Mergers and Acquisitions,1.0,5.0,98.0,95.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/06/20,Manager,"Tech Strategy, AI",12.0,12.0,234.0,182.0,0.0,52.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/06/20,Senior Manager,Analytics,10.0,11.0,250.0,235.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/06/19,Senior Manager,GPS Analytics & Cognitive,8.0,15.0,225.0,185.0,0.0,40.0,0.0
+Management Consultant,EY-Parthenon,United States,CA,Los Angeles,21/06/18,S4,TSE,2.0,8.0,183.0,183.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/06/18,Associate Consultant,General,0.0,0.0,110.0,90.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,TX,Dallas,21/06/18,Engagement Manager,Energy,3.0,7.0,300.0,190.0,0.0,110.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,IL,Chicago,21/06/18,L6,Consulting,7.0,13.0,176.0,148.0,0.0,23.0,0.0
+Management Consultant,CGI,United States,TX,Austin,21/06/17,Director,ERP,15.0,15.0,162.0,152.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,GA,Atlanta,21/06/17,Consultant,Technology Consulting,0.0,0.0,84.0,77.0,0.0,8.0,0.0
+Management Consultant,PwC,Canada,ON,Ottawa,21/06/16,Manager,HR,0.0,4.0,117.0,107.0,0.0,10.0,0.0
+Management Consultant,Cisco,United States,CA,San Francisco,21/06/16,Grade 11,Alliance,0.0,15.0,276.0,205.0,40.0,31.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/06/15,Senior Consultant,Analytics,2.0,5.0,110.0,95.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/06/15,Manager,Financial Services,13.0,13.0,205.0,180.0,0.0,25.0,0.0
+Management Consultant,IQVIA,United States,PA,Philadelphia,21/06/15,Engagement Manager,Sales Force Effectiveness,3.0,10.0,149.0,137.0,0.0,13.0,0.0
+Management Consultant,Smartsheet,United States,WA,Seattle,21/06/15,L3,Software Implementation,2.0,2.0,94.0,71.0,13.0,10.0,0.0
+Management Consultant,HPE,United States,CA,San Jose,21/06/15,L7,General,2.0,11.0,307.0,220.0,52.0,35.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/06/14,Senior Associate,General,1.0,3.0,152.0,127.0,0.0,25.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/06/14,7,Utilities,4.0,12.0,149.0,138.0,2.0,10.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/06/14,Band 8,Digital sales,2.0,5.0,191.0,186.0,0.0,5.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/06/14,Band 8,Consulting,2.0,5.0,186.0,186.0,0.0,5.0,0.0
+Management Consultant,Workday,United States,IL,Chicago,21/06/12,M5,General,6.0,15.0,310.0,170.0,90.0,50.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/06/12,Senior Consultant,GPS,5.0,8.0,128.0,114.0,0.0,14.0,0.0
+Management Consultant,Deloitte Consulting,United States,VA,Arlington,21/06/11,senior consultant,Strategy,3.0,10.0,129.0,123.0,0.0,6.0,0.0
+Management Consultant,Accenture,United States,TX,Dallas,21/06/11,Manager,ERP,2.0,8.0,178.0,162.0,0.0,16.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/06/11,Engagement Manager,Digital,5.0,7.0,325.0,215.0,0.0,110.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,21/06/11,Manager,M&A,4.0,7.0,225.0,190.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/06/10,Senior Manager,EP-Oracle,18.0,18.0,260.0,205.0,0.0,54.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/06/10,Senior Manager,Strategy,5.0,7.0,190.0,160.0,0.0,30.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/06/09,Analyst,Cloud,1.0,2.0,65.0,62.0,0.0,3.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/06/09,Consultant,Life science,3.0,3.0,112.0,107.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/06/09,Manager,Salesforce,8.0,12.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,Guidehouse,United States,CA,San Francisco,21/06/08,L2,Energy,1.0,2.0,83.0,82.0,0.0,2.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/06/08,Senior Manager,M&A,6.0,19.0,169.0,157.0,0.0,12.0,0.0
+Management Consultant,Mastercard,Singapore,SG,Singapore,21/06/08,L6,@salary,2.0,11.0,182.0,155.0,1.0,27.0,0.0
+Management Consultant,Gartner,United States,IL,Chicago,21/06/08,Consultant,General,2.0,9.0,138.0,125.0,0.0,13.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/06/08,Manager,Product Management,4.0,7.0,153.0,138.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,VA,Alexandria,21/06/07,L6,TO,1.0,15.0,260.0,210.0,30.0,20.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/06/06,Manager,Strategy,6.0,6.0,203.0,168.0,0.0,35.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/06/06,11,Strategy,0.0,0.0,85.0,80.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,VA,Fairfax,21/06/06,Senior Manager,Corporate Finance,8.0,12.0,247.0,222.0,0.0,25.0,0.0
+Management Consultant,Mercer,United States,CA,San Francisco,21/06/05,Associate,Health & Benefits,2.0,2.0,97.0,92.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,21/06/05,10,Cloud Advisory,4.0,4.0,120.0,115.0,0.0,5.0,0.0
+Management Consultant,Western Digital,United States,CA,San Jose,21/06/04,L4,Business Management,12.0,12.0,169.0,136.0,13.0,20.0,0.0
+Management Consultant,Microsoft,United States,MI,Detroit,21/06/04,64,Business management,1.0,25.0,186.0,159.0,24.0,3.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/06/03,Analyst,Strategy & Operations,2.0,3.0,90.0,85.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/06/03,Senior Manager,Cloud Migrations,9.0,15.0,226.0,160.0,0.0,66.0,0.0
+Management Consultant,Mastercard,United States,VA,Arlington,21/06/03,L9,Data and Services,1.0,1.0,94.0,85.0,0.0,9.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,21/06/03,L2,General,1.0,1.0,115.0,95.0,0.0,20.0,0.0
+Management Consultant,Truist,United States,GA,Atlanta,21/06/03,L6,Internal consultant,2.0,2.0,73.0,73.0,0.0,0.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/06/01,Consultant,Mergers & Acquisitions,2.0,2.0,58.0,58.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/06/01,Senior Consultant,Oracle,5.0,5.0,117.0,107.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/06/01,Senior Manager,Data and Analytics,8.0,15.0,211.0,176.0,0.0,35.0,0.0
+Management Consultant,CGI Group,Sweden,VG,Gothenburg,21/06/01,L3,Scrum | Agile,2.0,4.0,56.0,56.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/05/31,Consultant,General,2.0,2.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/05/31,Manager,Data & Analytics,6.0,6.0,130.0,130.0,0.0,2.0,0.0
+Management Consultant,Amazon,India,KA,Bengaluru,21/05/30,L7,Finance,1.0,12.0,135.0,100.0,25.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Dallas,21/05/30,Associate Director,Consulting,1.0,12.0,300.0,275.0,0.0,25.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/05/28,Associate 2,Financial Services Solution (FSS),2.0,2.0,78.0,76.0,0.0,2.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/05/28,L3,Strategy,1.0,1.0,103.0,88.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/05/27,Senior Consultant,Consulting,1.0,5.0,170.0,160.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,CT,Hartford,21/05/26,CL9,T&O Human Capital,3.0,12.0,98.0,94.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/05/25,Senior Manager,Strategy,7.0,10.0,280.0,220.0,0.0,60.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/05/24,Senior Manager,Analytics and Cognitive,11.0,16.0,250.0,200.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/05/24,Manager,Tech Strategy / Finance,6.0,12.0,172.0,142.0,0.0,30.0,0.0
+Management Consultant,Morgan Stanley,United States,CA,San Francisco,21/05/23,Associate,Finance,1.0,3.0,250.0,200.0,25.0,25.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,21/05/22,Associate Consultant,Generalist,0.0,0.0,88.0,80.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/05/22,Sr Consultant,GPS,2.0,25.0,137.0,120.0,0.0,17.0,0.0
+Management Consultant,Deloitte,Australia,VI,Melbourne,21/05/22,Senior Consultant,Business strategy,4.0,4.0,71.0,71.0,0.0,0.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/05/22,Senior Business Analyst,operations,1.0,5.0,195.0,165.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,CT,Hartford,21/05/21,Consultant,Talent & Organization,4.0,4.0,120.0,103.0,12.0,5.0,0.0
+Management Consultant,Bain,Australia,NS,Sydney,21/05/19,Manager,General,2.0,8.0,172.0,125.0,0.0,47.0,0.0
+Management Consultant,Amazon,United States,WA,Seattle,21/05/17,L5,General,0.0,10.0,128.0,90.0,22.0,16.0,0.0
+Management Consultant,Bain,United States,MA,Boston,21/05/16,Manager,General,3.0,8.0,252.0,180.0,24.0,48.0,0.0
+Management Consultant,Deloitte,United States,NC,Charlotte,21/05/16,Manager,Customer and Marketing,6.0,11.0,215.0,185.0,0.0,30.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/05/16,Associate,General,1.0,5.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,Amazon,United States,NY,New York,21/05/15,L7,Security,0.0,21.0,585.0,185.0,400.0,0.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/05/14,Manager,Risk and controls,4.0,8.0,132.0,117.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/05/14,11,Consulting,1.0,1.0,100.0,87.0,3.0,10.0,0.0
+Management Consultant,KPMG,United States,CA,Los Angeles,21/05/14,Senior Manager,Consulting,7.0,20.0,200.0,200.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Dallas,21/05/14,Senior Manager,cloud,2.0,6.0,325.0,220.0,30.0,75.0,0.0
+Management Consultant,Salesforce,Finland,ES,Helsinki,21/05/13,Director,General,3.0,20.0,289.0,174.0,80.0,35.0,0.0
+Management Consultant,ZS,United States,IL,Evanston,21/05/13,Associate,Pharma,1.0,2.0,98.0,90.0,0.0,8.0,0.0
+Management Consultant,IBM,United States,IL,Chicago,21/05/13,Band 7,SAP,1.0,5.0,100.0,100.0,0.0,2.0,0.0
+Management Consultant,Alvarez & Marsal,United States,NY,New York,21/05/12,Associate,Consultant,1.0,4.0,145.0,85.0,0.0,60.0,0.0
+Management Consultant,Dell Technologies,United States,TX,Austin,21/05/12,I9,Internal Strategy,0.0,9.0,222.0,185.0,9.0,28.0,0.0
+Management Consultant,Ernst and Young,Canada,ON,Toronto,21/05/12,Consultant,Human capital,2.0,2.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/05/12,Senior Director,General,6.0,10.0,250.0,226.0,0.0,24.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,21/05/12,L5,Finance,1.0,15.0,300.0,270.0,10.0,20.0,0.0
+Management Consultant,KPMG,United States,CA,Los Angeles,21/05/11,Associate,General,1.0,3.0,92.0,85.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/05/11,Senior Consultant,Human Capital,2.0,10.0,177.0,150.0,0.0,27.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/05/10,Senior Associate,General,2.0,7.0,119.0,107.0,0.0,9.0,0.0
+Management Consultant,Amazon,Luxembourg,LU,Luxembourg,21/05/10,L5,Programme,0.0,10.0,139.0,115.0,24.0,0.0,0.0
+Management Consultant,Accenture,United States,MI,Detroit,21/05/09,L9,Industry,5.0,5.0,118.0,108.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/05/09,Associate,general,1.0,1.0,200.0,165.0,0.0,30.0,0.0
+Management Consultant,KPMG,Canada,NS,Halifax,21/05/09,L4,Technology Consulting,2.0,8.0,59.0,57.0,0.0,2.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/05/09,Manager,Transaction,6.0,6.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/05/08,Engagement Manager,Management Consultant,4.0,9.0,310.0,210.0,0.0,100.0,0.0
+Management Consultant,Amazon,Luxembourg,LU,Luxembourg,21/05/07,L7,Programme Manager,0.0,10.0,139.0,115.0,4.0,24.0,0.0
+Management Consultant,Accenture,United States,TX,Dallas,21/05/07,7,High tech,2.0,16.0,283.0,190.0,53.0,40.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/05/06,Senior Manager,Supply Chain,9.0,10.0,209.0,199.0,0.0,10.0,0.0
+Management Consultant,PwC,India,WB,Kolkata,21/05/06,Associate,GRID,0.0,0.0,15.0,15.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/05/05,Senior Consultant,Data Delivery,10.0,10.0,130.0,120.0,0.0,10.0,0.0
+Management Consultant,Strategy by PwC,United States,IL,Chicago,21/05/05,Associate,TMT,0.0,0.0,100.0,85.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,21/05/05,9,AI,3.0,3.0,101.0,91.0,2.0,3.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,21/05/04,AM 1,Risk Advisory,2.0,2.0,53.0,53.0,0.0,3.0,0.0
+Management Consultant,IBM,United Kingdom,EN,London,21/05/03,Band 7,General,3.0,3.0,73.0,73.0,0.0,0.0,0.0
+Management Consultant,ZS,India,MH,Pune,21/05/02,Associate,Associate,0.0,0.0,12.0,9.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,21/05/01,Consultant,Strategy & Analytics,1.0,5.0,120.0,115.0,0.0,5.0,0.0
+Management Consultant,Amazon,United States,DC,Washington,21/05/01,L7,Professional Services,1.0,24.0,440.0,160.0,280.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Dallas,21/05/01,Consultant,"Customer, Sales & Service",2.0,2.0,98.0,94.0,2.0,3.0,0.0
+Management Consultant,KPMG,United States,TX,Dallas,21/04/29,Senior Consultant,Finance Transformation,5.0,5.0,110.0,105.0,0.0,5.0,0.0
+Management Consultant,Microsoft,United States,GA,Atlanta,21/04/29,63,General,1.0,15.0,175.0,135.0,20.0,20.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,21/04/29,Senior Consultant,Commercial,4.0,5.0,105.0,101.0,0.0,4.0,0.0
+Management Consultant,Korn Ferry,United States,CA,San Francisco,21/04/29,Senior Principal,Talent,3.0,15.0,220.0,200.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,21/04/28,Manager,Strategy,7.0,7.0,248.0,198.0,20.0,30.0,0.0
+Management Consultant,Boston Consulting Group,United States,WA,Seattle,21/04/28,Associate,General,0.0,1.0,113.0,90.0,0.0,23.0,0.0
+Management Consultant,DataArt,United Kingdom,EN,London,21/04/27,L6,Finance,20.0,20.0,242.0,157.0,35.0,50.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/04/27,Senior Manager,Strategy,5.0,10.0,238.0,223.0,0.0,15.0,0.0
+Management Consultant,ZS,United States,NY,New York,21/04/27,Associate Consultant,Business Technology,3.0,3.0,131.0,118.0,0.0,13.0,0.0
+Management Consultant,PwC,United States,OH,Cleveland,21/04/27,Senior Manager,Operations Transformation,3.0,9.0,183.0,173.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,CA,Los Angeles,21/04/27,Senior Consultant,Analytics,5.0,5.0,130.0,125.0,0.0,5.0,0.0
+Management Consultant,Pwc,United States,NY,New York,21/04/26,Senior Manager,Digital Transformation,1.0,8.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,Smartsheet,United States,WA,Seattle,21/04/26,l2,General,0.0,2.0,108.0,85.0,10.0,10.0,0.0
+Management Consultant,PwC,United Arab Emirates,DU,Dubai,21/04/24,Associate,General,2.0,2.0,48.0,48.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/04/23,Senior Consultant,Government and Public Service,2.0,6.0,120.0,113.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/04/22,Senior Consultant,General,6.0,8.0,192.0,150.0,0.0,42.0,0.0
+Management Consultant,Arcadis,United States,GA,Atlanta,21/04/22,Grade 8,Digital transformation,5.0,5.0,108.0,108.0,0.0,0.0,0.0
+Management Consultant,Workday,United States,CA,San Francisco,21/04/21,P5,Industry,6.0,15.0,245.0,160.0,45.0,40.0,0.0
+Management Consultant,Amazon,Mexico,DF,Mexico,21/04/21,L6 SDM,Vender management,0.0,16.0,223.0,150.0,63.0,11.0,0.0
+Management Consultant,Microsoft,United States,CA,San Francisco,21/04/21,59,microsoft,2.0,2.0,150.0,100.0,20.0,30.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/04/20,8,AI,4.0,10.0,175.0,150.0,20.0,5.0,0.0
+Management Consultant,Kearney,United States,NY,New York,21/04/20,L3,Analytics,2.0,6.0,197.0,162.0,0.0,35.0,0.0
+Management Consultant,Amazon,United States,MA,Boston,21/04/20,L7,competitive,1.0,15.0,300.0,160.0,70.0,70.0,0.0
+Management Consultant,EY,United States,GA,Atlanta,21/04/19,Staff/Assistant,SAP,2.0,2.0,74.0,74.0,0.0,0.0,0.0
+Management Consultant,SAP,United States,CA,Palo Alto,21/04/19,T3,Business Process Consultant,6.0,11.0,165.0,125.0,10.0,30.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,21/04/19,L6,Strategy and Ops,13.0,13.0,334.0,207.0,85.0,41.0,0.0
+Management Consultant,Charles Schwab,United States,CA,San Francisco,21/04/18,69,Retail Strategy,3.0,4.0,160.0,145.0,5.0,15.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/04/18,10,Strategy,2.0,2.0,98.0,98.0,0.0,4.0,0.0
+Management Consultant,McKinsey,United Kingdom,EN,London,21/04/17,Engagement Manager,Management Consulting,7.0,8.0,194.0,162.0,0.0,32.0,0.0
+Management Consultant,Accenture,United States,NC,Charlotte,21/04/16,Analyst,General,1.0,1.0,77.0,77.0,0.0,0.0,0.0
+Management Consultant,ZS,United States,CA,San Francisco,21/04/15,Associate,Analytics,0.0,0.0,100.0,85.0,0.0,15.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,GA,Atlanta,21/04/15,Associate,S rum,7.0,12.0,117.0,117.0,0.0,0.0,0.0
+Management Consultant,AWS,United States,WA,Seattle,21/04/15,L6,Finops,0.0,10.0,310.0,153.0,80.0,73.0,0.0
+Management Consultant,IBM,United Kingdom,EN,London,21/04/15,Band 10,Customer Experience,2.0,16.0,200.0,200.0,3.0,0.0,0.0
+Management Consultant,ZS,United States,NY,New York,21/04/14,Associate Consultant,Pharma,3.0,3.0,132.0,122.0,0.0,10.0,0.0
+Management Consultant,West Monroe,United States,IL,Chicago,21/04/13,Consultant,High Tech & Software,1.0,1.0,75.0,70.0,4.0,5.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/04/13,L9,General,3.0,3.0,74.0,65.0,5.0,4.0,0.0
+Management Consultant,Ernst and Young,United States,VA,Fairfax,21/04/10,Senior Manager,Corporate Finance,10.0,13.0,177.0,177.0,0.0,3.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/04/10,L6,Cloud,2.0,9.0,325.0,220.0,30.0,75.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/04/10,Senior Manager,Cloud Infrastructure,15.0,15.0,333.0,240.0,18.0,75.0,0.0
+Management Consultant,Accenture,United States,OH,Columbus,21/04/09,6,Technology Innovation,10.0,10.0,195.0,152.0,18.0,26.0,0.0
+Management Consultant,McKinsey,United States,MO,St. Louis,21/04/09,Associate,General,0.0,5.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/04/08,Senior Consultant,Cloud Strategy,2.0,5.0,137.0,135.0,0.0,2.0,0.0
+Management Consultant,Accenture,United States,TX,Austin,21/04/07,L7,Strategy,7.0,8.0,182.0,173.0,0.0,9.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/04/07,Manager,Tax,8.0,8.0,147.0,140.0,0.0,7.0,0.0
+Management Consultant,Mastercard,Chile,RM,Santiago,21/04/07,L6,Data & Services,4.0,12.0,210.0,144.0,30.0,36.0,0.0
+Management Consultant,Criteo,France,IL,Paris,21/04/07,L3,Project Manager,1.0,3.0,92.0,83.0,0.0,9.0,0.0
+Management Consultant,Amazon,United States,NY,New York,21/04/06,L5,AWS,0.0,14.0,244.0,170.0,74.0,0.0,0.0
+Management Consultant,Deloitte,United States,NJ,Parsippany,21/04/06,Consultant,Engineering,0.0,5.0,128.0,120.0,8.0,0.0,0.0
+Management Consultant,Carta,United States,CA,San Francisco,21/04/06,Associate,Sales Operations,1.0,3.0,145.0,120.0,15.0,10.0,0.0
+Management Consultant,RSM US,United States,NY,New York,21/04/06,Associate,Risk,0.0,2.0,83.0,80.0,0.0,3.0,0.0
+Management Consultant,KPMG,United States,DC,Washington,21/04/06,Senior Associate,Financial Services,0.0,5.0,125.0,125.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/04/06,Manager,OCM,4.0,11.0,182.0,176.0,0.0,6.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/04/05,9,supply Chain,3.0,3.0,106.0,96.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/04/05,Manager,Cyber Risk,6.0,7.0,125.0,115.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,MD,Baltimore,21/04/04,Senior Manager,General,4.0,15.0,216.0,190.0,0.0,23.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,21/04/03,Manager,Genetal,0.0,10.0,198.0,160.0,0.0,38.0,0.0
+Management Consultant,Boston Consulting Group,United States,TX,Dallas,21/04/02,A1,General,0.0,0.0,118.0,90.0,0.0,28.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/04/02,Senior Consultant,Human Capital,6.0,6.0,124.0,114.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,NJ,Highland Park,21/04/01,Associate Principal,Digital and Analytics,8.0,8.0,480.0,240.0,0.0,240.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/04/01,Senior knowledge expert,Expert,10.0,15.0,300.0,200.0,0.0,100.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,21/04/01,Analyst,Cloud Advisory,0.0,1.0,60.0,60.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/04/01,Manager - 2,Data and Analytics,3.0,6.0,149.0,149.0,0.0,5.0,0.0
+Management Consultant,Salesforce,United States,WA,Seattle,21/04/01,l5,Analytics,1.0,7.0,180.0,130.0,50.0,0.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/03/31,Senior Consultant,Strategy,1.0,4.0,195.0,160.0,0.0,35.0,0.0
+Management Consultant,Unqork,United States,NY,New York,21/03/31,l3,delivery,1.0,25.0,230.0,210.0,0.0,20.0,0.0
+Management Consultant,Strategy by PwC,United States,TX,Houston,21/03/31,Director,Tech Strategy,6.0,12.0,347.0,247.0,0.0,100.0,0.0
+Management Consultant,American Express,United States,NY,New York,21/03/30,B35,General,0.0,4.0,157.0,140.0,0.0,17.0,0.0
+Management Consultant,Ernst and Young,India,KA,Bengaluru,21/03/30,Consultant,Banking,2.0,4.0,16.0,14.0,0.0,3.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/03/30,Consultant,Robotic Process Automation,0.0,0.0,75.0,75.0,0.0,5.0,0.0
+Management Consultant,Deloitte,Germany,NW,Dusseldorf,21/03/30,Senior Consultant,Strategy,5.0,5.0,96.0,80.0,0.0,16.0,0.0
+Management Consultant,IBM,United States,TX,Dallas,21/03/30,Band D,"Cognitive, Cloud & Business Transformation",2.0,25.0,475.0,310.0,25.0,140.0,0.0
+Management Consultant,Accenture,India,KA,Bangalore,21/03/29,7,Strategy,7.0,9.0,65.0,59.0,0.0,6.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/03/29,Band 10,Telecom,5.0,20.0,300.0,220.0,0.0,80.0,0.0
+Management Consultant,EY-Parthenon,United States,MA,Boston,21/03/29,Associate,Strategy,1.0,1.0,96.0,96.0,0.0,0.0,0.0
+Management Consultant,EPAM Systems,United States,NY,New York,21/03/29,B2,Healthcare,3.0,15.0,206.0,170.0,16.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,GA,Atlanta,21/03/29,Senior Consultant,Data & Analytics Consulting,0.0,2.0,135.0,115.0,0.0,20.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/03/28,11,Consulting,1.0,1.0,87.0,87.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/03/28,Managing Director,Technology Implementation,5.0,20.0,400.0,340.0,0.0,60.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/03/27,Senior Associate,Deals,2.0,5.0,155.0,130.0,0.0,25.0,0.0
+Management Consultant,AlixPartners,United States,NY,New York,21/03/27,Senior Vice President,General,3.0,14.0,357.0,230.0,17.0,110.0,0.0
+Management Consultant,Bain,United States,NY,New York,21/03/27,Associate consultant,Bussiness,1.0,1.0,87.0,70.0,0.0,17.0,0.0
+Management Consultant,KPMG,United States,DC,Washington,21/03/27,Manager,Advisory - Strategy,0.0,9.0,202.0,180.0,0.0,22.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,21/03/27,Consultant,General,2.0,3.0,95.0,85.0,0.0,10.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/03/26,Band 7,Business Analyst,2.0,2.0,95.0,95.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/03/26,Senior Consultant,Tech,4.0,6.0,148.0,123.0,0.0,24.0,0.0
+Management Consultant,BCG,Italy,LO,Milano,21/03/26,Consultant,digital,4.0,13.0,107.0,93.0,0.0,14.0,0.0
+Management Consultant,Accenture,Canada,AB,Calgary,21/03/26,Consultant,Technology Advisory,3.0,3.0,81.0,75.0,0.0,6.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/03/25,L7,Manager,6.0,13.0,165.0,158.0,0.0,12.0,0.0
+Management Consultant,ZS Associates,United States,NJ,Princeton,21/03/25,Entry Level,General,0.0,0.0,84.0,80.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/03/25,Senior Manager,Strategy,7.0,10.0,281.0,220.0,0.0,61.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/03/25,Senior Associate (SA-2),"Data and Analytics, Advisory, Financial Services",3.0,6.0,125.0,112.0,0.0,10.0,0.0
+Management Consultant,JPMorgan Chase,United States,NY,New York,21/03/24,604,Strategy,2.0,9.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/03/24,Consultant,Technology,3.0,3.0,88.0,86.0,0.0,2.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/03/24,Analyst,Consulting,1.0,1.0,87.0,77.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/03/24,Engagement Manager,Banking,6.0,9.0,255.0,196.0,0.0,59.0,0.0
+Management Consultant,Ernst and Young,United Kingdom,EN,London,21/03/24,Manger,Workforce Analytics,1.0,10.0,110.0,96.0,7.0,7.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/03/24,Consultant,Government & Public Service,0.0,8.0,103.0,103.0,0.0,0.0,0.0
+Management Consultant,Willis Towers Watson,United States,CA,Los Angeles,21/03/23,48,Talent and Rewards,14.0,14.0,103.0,92.0,0.0,11.0,0.0
+Management Consultant,IBM,United States,TX,Dallas,21/03/22,Band 9,Security,6.0,6.0,161.0,161.0,0.0,0.0,0.0
+Management Consultant,EXL,United States,CO,Denver,21/03/22,Engagement Manager,Analytics Consulting,5.0,8.0,146.0,121.0,0.0,24.0,0.0
+Management Consultant,Deloitte,United States,PA,Philadelphia,21/03/21,Senior Manager,Supply chain,7.0,14.0,240.0,193.0,0.0,45.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,21/03/21,Manager,Cloud and GRC,7.0,7.0,115.0,105.0,0.0,10.0,0.0
+Management Consultant,IBM,United States,CA,San Francisco,21/03/20,Band 9,Analytics,10.0,20.0,188.0,180.0,6.0,2.0,0.0
+Management Consultant,Manhattan Associates,United States,GA,Atlanta,21/03/20,L2,Software Implementation,2.0,2.0,94.0,86.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/03/18,Senior Analyst,Analytics,2.0,2.0,95.0,90.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/03/18,Senior Consultant,Analytics and Cognitive,1.0,7.0,174.0,150.0,0.0,24.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,21/03/18,Manager,Customer & Marketing,8.0,14.0,176.0,146.0,0.0,30.0,0.0
+Management Consultant,BCG,United States,CA,San Francisco,21/03/17,Project Leader,General,4.0,6.0,360.0,217.0,0.0,143.0,0.0
+Management Consultant,BCG,United States,CA,San Francisco,21/03/17,Principal,Consulting,5.0,7.0,438.0,230.0,0.0,208.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Austin,21/03/17,Senior Consultant,Tech,3.0,5.0,98.0,98.0,0.0,5.0,0.0
+Management Consultant,DoorDash,United States,NY,New York,21/03/17,L6,general,0.0,6.0,215.0,175.0,35.0,0.0,0.0
+Management Consultant,PayPal,United States,NY,New York,21/03/16,T26,efew,2.0,8.0,200.0,150.0,25.0,25.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,21/03/16,Senior Manager,Customer,2.0,24.0,242.0,232.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,NC,Raleigh,21/03/16,Senior Consultant,SCNO,3.0,7.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,NC,Raleigh,21/03/15,Partner / Principal,"Cloud, IoT",4.0,22.0,900.0,900.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,TX,Dallas,21/03/15,Consultant,Strategy,1.0,5.0,195.0,165.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/03/15,Analyst,Software Engineering,2.0,2.0,78.0,78.0,0.0,0.0,0.0
+Management Consultant,Deloitte,Australia,NS,Sydney,21/03/14,Analyst,Corporate Strategy,0.0,0.0,40.0,40.0,0.0,0.0,0.0
+Management Consultant,Microsoft,United States,DC,Washington,21/03/13,66,Digital Transformation,10.0,25.0,320.0,210.0,40.0,70.0,0.0
+Management Consultant,Capgemini,United Kingdom,EN,London,21/03/12,A9,Big Data,9.0,16.0,202.0,180.0,0.0,22.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/03/12,Associate Partner,Digital,3.0,22.0,410.0,290.0,0.0,120.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/03/11,Senior Analyst,Generalist,1.0,1.0,105.0,90.0,5.0,10.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,21/03/11,Strategy Manager,Strategy,8.0,8.0,181.0,173.0,2.0,7.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/03/10,Senior Associate,Technology,3.0,6.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,DC,Washington,21/03/10,Engagement Manager,Healthcare,6.0,7.0,320.0,220.0,0.0,100.0,0.0
+Management Consultant,Deloitte,United States,MI,Detroit,21/03/10,Manager,General,6.0,15.0,173.0,158.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/03/09,Consultant,Data Analytics,2.0,3.0,114.0,107.0,0.0,7.0,0.0
+Management Consultant,Korn Ferry,United States,NY,New York,21/03/09,L2,Organizational strategy,2.0,2.0,68.0,65.0,0.0,3.0,0.0
+Management Consultant,KPMG,United States,TX,Houston,21/03/09,Senior Associate,Oil and Gas,0.0,10.0,145.0,145.0,0.0,0.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,21/03/09,Manager,Finance and Performance Management,8.0,8.0,105.0,100.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,21/03/09,Director,General,9.0,10.0,220.0,190.0,0.0,30.0,0.0
+Management Consultant,ZS,United States,NY,New York,21/03/08,3,Healthcare,0.0,4.0,230.0,165.0,5.0,55.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,21/03/08,Band 6,#finance,0.0,0.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,McKinsey,United States,TX,Houston,21/03/07,Senior Associate,Management consulting,2.0,17.0,213.0,171.0,0.0,42.0,0.0
+Management Consultant,Amazon,United States,NY,New York,21/03/07,7,Advisory,0.0,23.0,316.0,185.0,131.0,0.0,0.0
+Management Consultant,EPAM Systems,United States,NY,New York,21/03/06,B2,Life Sciences,1.0,7.0,170.0,150.0,0.0,20.0,0.0
+Management Consultant,Google,United Kingdom,EN,London,21/03/06,L4,Cloud,1.0,8.0,89.0,89.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/03/06,Senior Consultant,Anaplan Implementation,3.0,10.0,128.0,114.0,0.0,10.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/03/05,Associate,Corporate Services,0.0,1.0,90.0,90.0,0.0,4.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,MA,Boston,21/03/05,Senior Consultant,Consultant,2.0,2.0,94.0,90.0,0.0,4.0,0.0
+Management Consultant,TELUS,Canada,BC,Vancouver,21/03/04,65,"business analyst, business intelligence",10.0,10.0,76.0,65.0,4.0,7.0,0.0
+Management Consultant,Bain,United States,NY,New York,21/03/04,Consultant,General,0.0,5.0,187.0,165.0,0.0,22.0,0.0
+Management Consultant,IBM,United States,MA,Cambridge,21/03/03,Band 6,Security,2.0,6.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,MA,Boston,21/03/03,Consultant,Strategy,1.0,5.0,208.0,170.0,8.0,30.0,0.0
+Management Consultant,Accenture,United States,TX,Dallas,21/03/02,Manager,ERP,2.0,8.0,182.0,165.0,0.0,17.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/03/02,Analyst,Enterprise Performance,2.0,2.0,83.0,83.0,0.0,1.0,0.0
+Management Consultant,Slalom,Canada,ON,Toronto,21/02/28,senior consultant,salesforce,2.0,5.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/02/28,Manager,Sales transformation,3.0,8.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,McKinsey & Company,United States,NY,New York,21/02/27,L1,Production,1.0,2.0,72.0,72.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/02/26,Manager,General,7.0,10.0,170.0,160.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,CA,San Jose,21/02/25,Experienced Associate,Cyber security and cloud computing,3.0,3.0,94.0,91.0,0.0,3.0,0.0
+Management Consultant,BCG,United States,TX,Dallas,21/02/25,Consultant,Strategy,2.0,8.0,205.0,170.0,0.0,35.0,0.0
+Management Consultant,Capgemini,United States,WA,Seattle,21/02/23,L4,Technology,3.0,5.0,130.0,120.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/02/22,Senior Associate,Generalist,2.0,10.0,206.0,176.0,0.0,30.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/02/22,Manager,Financial Services,2.0,12.0,208.0,203.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/02/21,Director,Deals,14.0,19.0,350.0,275.0,0.0,75.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,21/02/21,Manager,Finance,4.0,9.0,185.0,176.0,0.0,10.0,0.0
+Management Consultant,Deloitte Consulting,United States,DC,Washington,21/02/19,Senior Consultant,Analytics,2.0,4.0,126.0,110.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/02/19,Manager,M&A,7.0,9.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,BCG,United States,CA,San Francisco,21/02/19,Consultant,Generalist,2.0,2.0,217.0,165.0,0.0,52.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,21/02/17,Engagement Manager,General,3.0,7.0,245.0,185.0,0.0,60.0,0.0
+Management Consultant,Microsoft,United States,MA,Boston,21/02/16,66,Consulting Manager,20.0,25.0,385.0,225.0,100.0,60.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/02/15,Director,Strategy,7.0,9.0,352.0,252.0,0.0,100.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Dallas,21/02/15,Senior Manager,Banking,6.0,10.0,165.0,155.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/02/14,Consultant,Government and Public Sector,0.0,0.0,105.0,95.0,0.0,10.0,0.0
+Management Consultant,Deloitte consulting,United States,TX,Austin,21/02/14,Senior Consultant,Human Capital,4.0,4.0,116.0,108.0,0.0,8.0,0.0
+Management Consultant,McKinsey,United States,DC,Washington,21/02/13,Associate,General,1.0,3.0,200.0,166.0,0.0,35.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/02/13,Manager,Healthcare,5.0,5.0,163.0,143.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/02/11,Manager,Marketing,5.0,9.0,150.0,150.0,0.0,0.0,0.0
+Management Consultant,KKR & Co,United States,CA,Menlo Park,21/02/11,L1,General,2.0,7.0,405.0,175.0,40.0,190.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,21/02/11,L1,Aerospace Consulting,1.0,1.0,67.0,67.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/02/10,Senior Manager,Consulting,5.0,15.0,250.0,230.0,0.0,20.0,0.0
+Management Consultant,Slalom,United States,TX,Houston,21/02/10,Analyst,Product Management,1.0,1.0,87.0,80.0,0.0,7.0,0.0
+Management Consultant,Ernst and Young,United States,MA,Boston,21/02/10,Senior Consultant,Finance,3.0,3.0,171.0,163.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/02/09,Senior Consultant,Finance; Corporate Finance;,1.0,5.0,131.0,105.0,0.0,26.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/02/09,Manager,Advisory,1.0,8.0,175.0,175.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,CA,Los Angeles,21/02/08,Manager,Strategy,5.0,5.0,146.0,141.0,0.0,5.0,0.0
+Management Consultant,KPMG,Canada,ON,Toronto,21/02/07,Consultant,Management Consulting,0.0,1.0,71.0,70.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/02/07,Senior Analyst,Technology,4.0,5.0,109.0,105.0,0.0,4.0,0.0
+Management Consultant,Bain,Spain,MD,Madrid,21/02/06,Consultant,Generalist,4.0,4.0,130.0,95.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,21/02/06,Consultant,Data Analytics,2.0,4.0,107.0,105.0,0.0,2.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,21/02/05,Associate Partner,M&A,7.0,15.0,490.0,250.0,0.0,240.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,21/02/04,Manager,Business Strategy,8.0,8.0,213.0,198.0,0.0,15.0,0.0
+Management Consultant,Slalom,United States,CO,Denver,21/02/04,Senior consultant,General,2.0,7.0,152.0,142.0,0.0,10.0,0.0
+Management Consultant,Google,United States,CA,Redwood City,21/02/04,L5,Sales Enablement,3.0,9.0,272.0,172.0,69.0,32.0,0.0
+Management Consultant,Citibank,Mexico,MX,Ciudad de Mexico,21/02/03,C13,Digital,2.0,10.0,100.0,70.0,0.0,30.0,0.0
+Management Consultant,Deloitte,Canada,QC,Montreal,21/02/02,Consultant,Strategy,0.0,0.0,55.0,55.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,NY,New York,21/02/02,Director,PwC,4.0,20.0,247.0,217.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,21/02/02,Manager,M&A Diligence,8.0,10.0,240.0,190.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/02/02,Consultant,Technology,2.0,3.0,95.0,95.0,0.0,2.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,21/02/01,Consultant,Supply Chain,1.0,1.0,76.0,76.0,0.0,0.0,0.0
+Management Consultant,SAP,United States,GA,Atlanta,21/02/01,T4,Consulting Services,8.0,12.0,182.0,132.0,25.0,25.0,0.0
+Management Consultant,Amazon,United States,MO,St. Louis,21/01/31,L6,Professional Services,0.0,23.0,275.0,155.0,40.0,80.0,0.0
+Management Consultant,EY,United Kingdom,EN,London,21/01/31,Senior Manager,Technology Consulting,7.0,12.0,160.0,155.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,NY,New York,21/01/30,Manager,Generalist,6.0,6.0,178.0,172.0,0.0,5.0,0.0
+Management Consultant,IBM,United States,NY,New York,21/01/28,Band 7,Strategy,1.0,6.0,162.0,162.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/28,Manager,human capital gps,4.0,11.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/28,Manager,human capital gps,4.0,11.0,140.0,120.0,0.0,20.0,0.0
+Management Consultant,BCG,United States,TX,Houston,21/01/28,Consultant,Strategy,0.0,4.0,206.0,165.0,0.0,41.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,21/01/27,Manager,FinTech,3.0,7.0,180.0,150.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/27,Senior Consultant,Strategy & Analytics,6.0,11.0,120.0,110.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,21/01/27,Consultant,Strategy,3.0,3.0,85.0,85.0,0.0,0.0,0.0
+Management Consultant,Oliver Wyman,United States,IL,Chicago,21/01/27,Associate,Generalist,4.0,4.0,205.0,160.0,0.0,50.0,0.0
+Management Consultant,Wells Fargo,United States,TX,Austin,21/01/27,L4,Technical,10.0,22.0,216.0,175.0,12.0,29.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,NY,New York,21/01/27,Lead Associate,Technical,9.0,9.0,150.0,141.0,0.0,9.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,21/01/27,Associate,Operations,3.0,6.0,90.0,90.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,21/01/26,Manager,Technical,10.0,10.0,193.0,165.0,0.0,28.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,21/01/26,7,Growth,3.0,8.0,200.0,183.0,2.0,15.0,0.0
+Management Consultant,Deloitte,United States,NJ,Parsippany,21/01/24,Consultant,Operations,2.0,9.0,126.0,121.0,0.0,5.0,0.0
+Management Consultant,PwC,United Kingdom,EN,Birmingham,21/01/24,SA1,Analytic,2.0,2.0,47.0,46.0,0.0,1.0,0.0
+Management Consultant,Deloitte Advisory,United States,VA,Arlington,21/01/23,Managing Director,Technical,12.0,22.0,410.0,340.0,0.0,70.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/23,Consultant,Operations,2.0,8.0,112.0,110.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/01/23,Senior Consultant,Consumer,2.0,5.0,179.0,159.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/23,Consultant,Product,4.0,8.0,88.0,85.0,0.0,3.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,21/01/23,Analy,Strategy,0.0,0.0,87.0,87.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/01/22,Manager,Operations,1.0,9.0,175.0,165.0,0.0,10.0,0.0
+Management Consultant,Strategy by PwC,United States,NY,New York,21/01/22,Manager 1,Enterprise,3.0,9.0,245.0,195.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,21/01/22,Manager,Operations,2.0,13.0,160.0,158.0,0.0,2.0,0.0
+Management Consultant,Goldman Sachs,United States,NY,New York,21/01/21,Vice President,Enterprise,6.0,6.0,129.0,110.0,0.0,18.0,0.0
+Management Consultant,Deloitte Consulting,United States,IL,Chicago,21/01/21,Senior Consultant,Strategy,4.0,4.0,160.0,150.0,0.0,10.0,0.0
+Management Consultant,EY,United States,NY,New York,21/01/20,Manager,Product,5.0,7.0,145.0,145.0,0.0,0.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,21/01/20,L7,Product,3.0,15.0,625.0,250.0,300.0,75.0,0.0
+Management Consultant,KPMG,United States,GA,Atlanta,21/01/20,Associate 2,Technical,1.0,2.0,73.0,68.0,1.0,5.0,0.0
+Management Consultant,ZS Associates,United States,CA,San Francisco,21/01/20,Associate,Analytic,1.0,1.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,21/01/20,Consultant,Analytic,2.0,2.0,97.0,94.0,0.0,3.0,0.0
+Management Consultant,KPMG,Spain,MD,Madrid,21/01/19,Consultant,Enterprise,2.0,7.0,32.0,30.0,0.0,3.0,0.0
+Management Consultant,Korn Ferry,United States,IL,Chicago,21/01/19,L7,Talent Management,6.0,6.0,70.0,70.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,21/01/19,Analyst,Technical,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Deloitte Advisory,United States,WA,Seattle,21/01/18,Senior Consultant,Technical,3.0,8.0,143.0,132.0,0.0,11.0,0.0
+Management Consultant,bytedance,United States,NY,New York,21/01/18,L5,Enterprise,0.0,4.0,215.0,129.0,0.0,86.0,0.0
+Management Consultant,Cognizant,India,TN,Chennai,21/01/17,Director,Operations,12.0,15.0,73.0,53.0,10.0,10.0,0.0
+Management Consultant,Deloitte Advisory,United States,CA,San Jose,21/01/16,Manager,Enterprise,13.0,14.0,180.0,169.0,0.0,11.0,0.0
+Management Consultant,Bain,United States,TX,Houston,21/01/16,Consultant,Generalist,2.0,7.0,210.0,175.0,0.0,40.0,0.0
+Management Consultant,Microsoft,United States,FL,Fort Lauderdale,21/01/15,61,Technical,2.0,2.0,141.0,94.0,20.0,27.0,0.0
+Management Consultant,KPMG,United States,NY,New York,21/01/15,Associate,Operations,1.0,1.0,78.0,73.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,21/01/15,Consultant,Consulting,1.0,3.0,179.0,170.0,0.0,9.0,0.0
+Management Consultant,Guidehouse,United States,DC,Washington,21/01/15,Senior Consultant,Operations,1.0,5.0,130.0,120.0,0.0,10.0,0.0
+Management Consultant,KPMG,Australia,NS,Sydney,21/01/13,Director,Analytic,7.0,15.0,245.0,230.0,0.0,15.0,0.0
+Management Consultant,EY-Parthenon,United States,NY,New York,21/01/13,Associate,Growth,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,21/01/12,Senior Consultant,Product,1.0,7.0,138.0,128.0,0.0,10.0,0.0
+Management Consultant,Slalom,United States,WA,Seattle,21/01/12,Senior Consultant,Analytic,4.0,15.0,155.0,140.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,21/01/09,Analyst,Strategy & Operations,2.0,2.0,83.0,83.0,0.0,0.0,0.0
+Management Consultant,Microsoft,United States,MO,St. Louis,21/01/07,64,Technical,3.0,20.0,196.0,144.0,25.0,27.0,0.0
+Management Consultant,BCG,Germany,BY,Munich,21/01/06,Principal,Technical,4.0,10.0,324.0,209.0,0.0,115.0,0.0
+Management Consultant,Microsoft,Canada,ON,Toronto,21/01/05,65,Operations,3.0,15.0,308.0,180.0,78.0,50.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,21/01/04,Senior Manager,Consumer,2.0,16.0,171.0,163.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,PA,Philadelphia,21/01/04,Manager,Technical,8.0,12.0,175.0,150.0,0.0,25.0,0.0
+Management Consultant,PwC,France,IL,Paris,21/01/04,Senior Associate,Analytic,5.0,5.0,75.0,67.0,0.0,8.0,0.0
+Management Consultant,Amazon,United States,WA,Seattle,21/01/01,7,Consumer,10.0,15.0,375.0,150.0,225.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NC,Charlotte,21/01/01,Manager,Technical,1.0,8.0,147.0,147.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,20/12/30,Senior Manager,Consulting,2.0,16.0,140.0,130.0,0.0,10.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,20/12/28,Band 7,Technical,2.0,2.0,103.0,103.0,0.0,0.0,0.0
+Management Consultant,Wells Fargo,United States,NC,Charlotte,20/12/27,Strategy,Product,1.0,15.0,197.0,197.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,20/12/27,Analyst,Technical,1.0,1.0,78.0,74.0,2.0,2.0,0.0
+Management Consultant,McKinsey,Canada,BC,Vancouver,20/12/27,Associate,Strategy,1.0,5.0,163.0,148.0,0.0,15.0,0.0
+Management Consultant,Qualtrics,United States,UT,Provo,20/12/27,L3,Consumer,3.0,3.0,90.0,85.0,5.0,2.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/12/24,Consultant,Growth,3.0,3.0,110.0,95.0,0.0,15.0,0.0
+Management Consultant,McKinsey,United States,NJ,Jersey City,20/12/23,Engagement Manager,Operations,4.0,9.0,280.0,200.0,0.0,80.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,20/12/22,Engagement Manager,Product,7.0,7.0,255.0,185.0,0.0,70.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,20/12/22,L7,Sustainability Strategy,2.0,6.0,182.0,173.0,3.0,7.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,20/12/22,Manager,Enterprise,7.0,10.0,144.0,140.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/12/22,Senior Manager,Product,7.0,12.0,200.0,167.0,0.0,33.0,0.0
+Management Consultant,McMaster-Carr,United States,IL,Chicago,20/12/21,Management Trainee(,Operations,0.0,9.0,126.0,95.0,0.0,33.0,0.0
+Management Consultant,McKinsey,United States,MN,Minneapolis,20/12/20,Engagement Manager,Consumer,2.0,5.0,275.0,194.0,0.0,81.0,0.0
+Management Consultant,Slalom,United States,MI,Detroit,20/12/20,Consultant,Operations,1.0,7.0,121.0,115.0,0.0,8.0,0.0
+Management Consultant,Accenture,United Kingdom,EN,London,20/12/19,Consultant,Enterprise,2.0,4.0,74.0,74.0,0.0,0.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,CA,San Diego,20/12/19,L3,Technical,10.0,18.0,136.0,136.0,0.0,0.0,0.0
+Management Consultant,Humana,United States,KY,Louisville,20/12/18,2,Operations,4.0,7.0,128.0,120.0,0.0,8.0,0.0
+Management Consultant,Cisco,United States,CA,San Jose,20/12/18,G11,Infrastructure,2.0,6.0,222.0,162.0,30.0,30.0,0.0
+Management Consultant,Bain,United States,MA,Boston,20/12/18,Associate Consultant,Analytic,0.0,0.0,110.0,90.0,5.0,15.0,0.0
+Management Consultant,Microsoft,United States,WA,Seattle,20/12/18,60,Growth,1.0,2.0,115.0,105.0,0.0,10.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,20/12/18,Analyst,Analytic,0.0,0.0,52.0,50.0,0.0,2.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,20/12/18,Senior Consultant,Analytic,1.0,1.0,64.0,63.0,0.0,1.0,0.0
+Management Consultant,IBM,Canada,QC,Montreal,20/12/18,Band 7,Enterprise,3.0,3.0,93.0,93.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,20/12/17,Senior Manager,Technical,2.0,10.0,206.0,196.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,20/12/17,Senior Manager,Analytic,15.0,15.0,241.0,200.0,6.0,35.0,0.0
+Management Consultant,IBM,United States,NY,New York,20/12/16,Consultant,Strategy,0.0,5.0,160.0,160.0,0.0,0.0,0.0
+Management Consultant,JPMorgan Chase,United States,NY,New York,20/12/14,Senior Associate,Operations,2.0,5.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,PwC,United States,WA,Seattle,20/12/14,Senior Manager,Risk,12.0,12.0,221.0,201.0,0.0,20.0,0.0
+Management Consultant,BCG,United States,TX,Houston,20/12/11,Consultant,Generalist,2.0,6.0,232.0,170.0,0.0,62.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/12/11,Analyst,Enterprise,0.0,0.0,100.0,87.0,0.0,13.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/12/10,L9,Growth,2.0,2.0,107.0,103.0,0.0,4.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,20/12/08,Analyst,Product,1.0,1.0,77.0,77.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,MI,Detroit,20/12/07,Senior Manager,Workday,0.0,10.0,243.0,190.0,0.0,53.0,0.0
+Management Consultant,Accenture,Germany,BY,Munich,20/12/07,11,Analytic,0.0,0.0,63.0,63.0,0.0,0.0,0.0
+Management Consultant,Mastercard,United States,VA,Arlington,20/12/06,L7,Analytic,3.0,3.0,150.0,125.0,0.0,25.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,20/12/03,Band 10,Technical,12.0,12.0,181.0,166.0,8.0,8.0,0.0
+Management Consultant,Slalom,United States,TX,Dallas,20/12/01,L3,Organizational Effectiveness,2.0,7.0,112.0,102.0,0.0,10.0,0.0
+Management Consultant,HCL Technologies,Switzerland,ZH,Zurich,20/11/30,Director,Enterprise,1.0,15.0,235.0,150.0,0.0,85.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,20/11/30,Business Analyst,Analytic,0.0,0.0,120.0,90.0,0.0,30.0,0.0
+Management Consultant,Kpmg,Canada,ON,Toronto,20/11/30,F2,Enterprise,1.0,2.0,60.0,60.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/11/29,Senior Manager,Client & Market,9.0,9.0,220.0,210.0,0.0,11.0,0.0
+Management Consultant,Deloitte Advisory,United States,CA,San Diego,20/11/28,Senior Consultant,Cybersecurity,2.0,8.0,135.0,130.0,0.0,5.0,0.0
+Management Consultant,BCG,United States,IL,Chicago,20/11/28,Consultant,Product,3.0,8.0,130.0,118.0,0.0,12.0,0.0
+Management Consultant,Bain,Germany,HE,Frankfurt,20/11/27,Consultant,Strategy,3.0,6.0,142.0,115.0,0.0,28.0,0.0
+Management Consultant,Slalom,United States,WA,Seattle,20/11/25,2,Technical,3.0,14.0,161.0,147.0,0.0,14.0,0.0
+Management Consultant,BCG,United Kingdom,EN,London,20/11/25,Partner,Consumer,15.0,18.0,1.0,460.0,100.0,1.0,0.0
+Management Consultant,BCG,China,GD,Shenzhen,20/11/25,Consultant,Consulting,0.0,3.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,Ernst and Young,Germany,BY,Munich,20/11/25,Executive Director,Risk and Compliance,7.0,13.0,218.0,178.0,0.0,40.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/11/23,Senior Manager,Health Strategy,5.0,18.0,230.0,185.0,0.0,45.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,20/11/23,Associate,Generalist,1.0,7.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/11/22,Consultant,Operations,4.0,4.0,95.0,90.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/11/22,Director,Analytic,11.0,11.0,230.0,200.0,15.0,15.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,20/11/20,Analyst,Technical,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,SAP,Switzerland,ZH,Zurich,20/11/19,Associate Consultant,Technical,4.0,6.0,100.0,90.0,4.0,6.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/11/19,Consultant,Growth,3.0,3.0,105.0,95.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/11/19,Consultant,Consulting,3.0,3.0,88.0,88.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,CA,San Jose,20/11/18,L9,Operations,1.0,5.0,145.0,140.0,0.0,5.0,0.0
+Management Consultant,Microsoft,United States,MI,Detroit,20/11/18,64,Product,1.0,10.0,220.0,160.0,40.0,20.0,0.0
+Management Consultant,SAP,United States,WA,Seattle,20/11/18,T4,Enterprise,2.0,10.0,260.0,250.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,20/11/18,Senior Consultant,Operations,1.0,5.0,168.0,150.0,0.0,18.0,0.0
+Management Consultant,sap,United States,WA,Seattle,20/11/17,T4,Enterprise,2.0,10.0,260.0,250.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,20/11/17,Senior Manager,Enterprise,10.0,15.0,205.0,178.0,0.0,26.0,0.0
+Management Consultant,AlixPartners,United States,NY,New York,20/11/17,SVP,Analytic,2.0,8.0,390.0,240.0,0.0,150.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/11/16,Associate,Financial Services,2.0,2.0,93.0,86.0,0.0,7.0,0.0
+Management Consultant,PwC,United Kingdom,EN,London,20/11/16,SA2,Enterprise,4.0,4.0,56.0,54.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/11/15,Senior Manager,Operations,9.0,10.0,259.0,209.0,0.0,50.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/11/15,9,Technical,2.0,2.0,105.0,102.0,0.0,3.0,0.0
+Management Consultant,Google,United States,CA,San Francisco,20/11/13,5,Enterprise,1.0,8.0,151.0,150.0,0.0,1.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,20/11/13,4,Product,1.0,8.0,151.0,150.0,0.0,1.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,20/11/13,Consultant,Operations,3.0,3.0,111.0,106.0,0.0,4.0,0.0
+Management Consultant,AT Kearney,India,HR,Gurgaon,20/11/12,Senior Business Analyst,Consultant,0.0,0.0,36.0,36.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,20/11/11,Manager,Technical,2.0,9.0,180.0,170.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,KY,London,20/11/11,Engagement Manager,Analytic,4.0,5.0,160.0,160.0,0.0,1.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/11/11,L6,Operations,4.0,20.0,160.0,148.0,0.0,12.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,20/11/09,L9,Digital Transformation,2.0,2.0,76.0,73.0,0.0,3.0,0.0
+Management Consultant,Sabre,United States,NY,New York,20/11/08,L3,Operations,2.0,5.0,135.0,120.0,0.0,15.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/11/07,Senior Consultant,Product,4.0,4.0,100.0,97.0,0.0,3.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,20/11/07,Consultant,Federal,1.0,1.0,65.0,65.0,0.0,0.0,0.0
+Management Consultant,Accenture,United Kingdom,EN,London,20/11/07,Analyst,Consumer,0.0,0.0,51.0,44.0,0.0,7.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,VA,Fairfax,20/11/06,Manager,Enterprise,5.0,10.0,173.0,153.0,0.0,20.0,0.0
+Management Consultant,Accenture,Canada,ON,Toronto,20/11/06,L11,Marketing,2.0,2.0,92.0,85.0,0.0,7.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/11/05,Manager,Strategy,2.0,9.0,195.0,195.0,0.0,5.0,0.0
+Management Consultant,Mercer,United States,NY,New York,20/11/05,G,Enterprise,2.0,10.0,205.0,165.0,0.0,40.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,20/11/05,Manager,Consumer,2.0,5.0,98.0,95.0,0.0,3.0,0.0
+Management Consultant,McKinsey,United States,GA,Atlanta,20/11/05,Project Manager,Strategy,5.0,5.0,220.0,175.0,0.0,45.0,0.0
+Management Consultant,KPMG,United States,CA,San Francisco,20/11/04,Senior Consultant,Technical,2.0,2.0,83.0,83.0,0.0,5.0,0.0
+Management Consultant,Accenture,Singapore,SG,Singapore,20/11/03,Consultant,Supply chain,1.0,8.0,110.0,110.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,20/11/03,Manager,User Journey,8.0,9.0,155.0,135.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/11/01,Manager,Product,8.0,8.0,137.0,129.0,0.0,8.0,0.0
+Management Consultant,McKinsey,United States,WA,Seattle,20/11/01,Engagement Manager,Consultant,5.0,7.0,225.0,180.0,0.0,40.0,0.0
+Management Consultant,Johnson & Johnson,United States,NJ,New Brunswick,20/10/31,30,Operations,3.0,8.0,165.0,146.0,19.0,0.0,0.0
+Management Consultant,EY,United Kingdom,EN,London,20/10/30,L4 Director,Analytic,5.0,13.0,175.0,160.0,0.0,15.0,0.0
+Management Consultant,Tata Consultancy Services,United States,IL,Chicago,20/10/30,Consultant,Product,3.0,15.0,162.0,149.0,0.0,13.0,0.0
+Management Consultant,AT Kearney,United States,IL,Chicago,20/10/30,Associate,Strategy,2.0,4.0,205.0,158.0,0.0,47.0,0.0
+Management Consultant,Ernst & Young,United States,NY,New York,20/10/30,M2,Analytic,4.0,7.0,143.0,131.0,0.0,12.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,20/10/30,Manager,Technical,3.0,15.0,220.0,180.0,0.0,40.0,0.0
+Management Consultant,Capgemini,United States,TX,Houston,20/10/30,Entry level,Technical,0.0,0.0,68.0,68.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/10/29,Manager,Analytic,0.0,5.0,155.0,145.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/10/29,L7,Technical,1.0,10.0,175.0,164.0,0.0,11.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,20/10/28,Analyst,Technical,0.0,1.0,84.0,79.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/10/27,Manager,Growth,2.0,20.0,214.0,188.0,0.0,26.0,0.0
+Management Consultant,Deloitte,United States,MN,Minneapolis,20/10/27,Manager,Operations,5.0,5.0,194.0,164.0,0.0,30.0,0.0
+Management Consultant,PwC,France,IL,Paris,20/10/27,Manager,Operations,5.0,10.0,90.0,82.0,0.0,8.0,0.0
+Management Consultant,EY,United States,IL,Chicago,20/10/27,Manager,Agribusiness,6.0,6.0,135.0,130.0,0.0,5.0,0.0
+Management Consultant,McKinsey,United Kingdom,EN,London,20/10/25,Junior Associate,Product,1.0,1.0,95.0,87.0,0.0,8.0,0.0
+Management Consultant,Google,United Arab Emirates,DU,Dubai,20/10/23,L4,Operations,3.0,7.0,217.0,143.0,50.0,24.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/10/23,Manager,CRM Consulting,8.0,10.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,IBM,Australia,NS,Sydney,20/10/21,L8,Enterprise,1.0,10.0,169.0,169.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/10/20,3,Operations,0.0,6.0,205.0,170.0,0.0,35.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,20/10/19,Associate,Growth,3.0,3.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,AT Kearney,United States,NY,New York,20/10/19,Manager,Growth,4.0,10.0,270.0,190.0,0.0,80.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,20/10/17,Senior Associate,Analytic,4.0,7.0,198.0,168.0,0.0,30.0,0.0
+Management Consultant,Facebook,United States,CA,Menlo Park,20/10/17,L4,Product,2.0,5.0,177.0,148.0,15.0,15.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/10/16,Consultant,Analytic,3.0,3.0,120.0,110.0,0.0,10.0,0.0
+Management Consultant,Salesforce,United States,GA,Atlanta,20/10/16,8,Operations,4.0,7.0,178.0,154.0,0.0,24.0,0.0
+Management Consultant,Oracle,United States,CA,San Francisco,20/10/14,IC-4,Consumer,5.0,10.0,82.0,82.0,0.0,2.0,0.0
+Management Consultant,Accenture,United States,MI,Detroit,20/10/13,11,Growth,1.0,1.0,90.0,78.0,8.0,3.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,DC,Washington,20/10/13,Consultant,Enterprise,2.0,3.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,T-Mobile,United States,WA,Seattle,20/10/13,l8,Operations,2.0,12.0,200.0,155.0,15.0,30.0,0.0
+Management Consultant,Ibm,Ireland,DN,Dublin,20/10/13,B6,Technical,2.0,2.0,50.0,50.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/10/12,L11,Growth,2.0,2.0,93.0,88.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,20/10/12,Analyst,Operations,1.0,1.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,Salesforce,United States,KY,Lexington,20/10/12,7,User Journey,9.0,10.0,110.0,110.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/10/12,Manager,Enterprise,3.0,11.0,164.0,157.0,0.0,7.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,20/10/12,Manager (L6),Enterprise,1.0,12.0,320.0,200.0,90.0,30.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,20/10/12,SAC,Generalist,2.0,2.0,152.0,110.0,10.0,32.0,0.0
+Management Consultant,BCG,United States,TX,Dallas,20/10/11,Project Leader,Analytic,3.0,3.0,250.0,195.0,0.0,60.0,0.0
+Management Consultant,Deloitte,India,KA,Bangalore,20/10/11,Consultant,Consumer,2.0,2.0,20.0,20.0,0.0,2.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/10/10,10,Talent,4.0,4.0,90.0,88.0,0.0,3.0,0.0
+Management Consultant,EY,United States,IL,Chicago,20/10/09,Senior Consultant,Operations,2.0,10.0,160.0,155.0,0.0,3.0,0.0
+Management Consultant,deloitte,Singapore,SG,Singapore,20/10/09,4,Product,2.0,10.0,200.0,180.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,20/10/08,Senior Manager,Analytic,6.0,10.0,221.0,203.0,0.0,18.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/10/08,Analyst,Analytic,0.0,0.0,130.0,90.0,0.0,40.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/10/08,Senior Analyst,Technical,2.0,2.0,90.0,89.0,0.0,1.0,0.0
+Management Consultant,McKinsey & Company,United States,GA,Atlanta,20/10/08,Entry,Operations,0.0,0.0,120.0,90.0,0.0,30.0,0.0
+Management Consultant,Moody's Analytics,United States,NY,New York,20/10/08,Associate Director,Analytic,2.0,9.0,200.0,165.0,0.0,35.0,0.0
+Management Consultant,Boston Consulting Group,United States,MA,Boston,20/10/07,Principal,Growth,5.0,10.0,350.0,225.0,0.0,125.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/10/07,Senior Consultant,Technical,5.0,5.0,123.0,105.0,0.0,18.0,0.0
+Management Consultant,PwC,United States,TX,Houston,20/10/06,Manager,Enterprise,4.0,7.0,150.0,130.0,0.0,20.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,CA,Oakland,20/10/05,Associate,Product,5.0,9.0,120.0,120.0,0.0,0.0,0.0
+Management Consultant,Mercer,United States,CA,San Francisco,20/10/05,Junior Principal,Health Consulting,3.0,9.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,20/10/05,Analyst,Strategy,0.0,0.0,93.0,80.0,0.0,13.0,0.0
+Management Consultant,KPMG,United States,CA,Los Angeles,20/10/05,Analyst,Analytic,1.0,1.0,69.0,69.0,0.0,0.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,GA,Atlanta,20/10/03,Analyst,Operations,2.0,2.0,88.0,88.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/10/01,Manager,Product,4.0,8.0,150.0,131.0,0.0,19.0,0.0
+Management Consultant,CGI,Canada,QC,Montreal,20/09/30,CONSULTANT,Technical,1.0,1.0,30.0,30.0,0.0,0.0,0.0
+Management Consultant,EY,United States,NY,New York,20/09/30,Senior,Growth,3.0,3.0,109.0,104.0,0.0,5.0,0.0
+Management Consultant,EY,Canada,ON,Toronto,20/09/30,Manager,Consulting,2.0,9.0,105.0,98.0,0.0,7.0,0.0
+Management Consultant,AlixPartners,United States,NY,New York,20/09/30,Senior Vice President,Consumer,2.0,8.0,300.0,200.0,0.0,100.0,0.0
+Management Consultant,EY,United States,CA,San Francisco,20/09/30,Senior Consultant,Operations,4.0,4.0,110.0,110.0,0.0,5.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,20/09/30,Associate,Analytic,1.0,2.0,180.0,160.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,NC,Charlotte,20/09/30,Specialist Senior,Analytic,2.0,2.0,130.0,120.0,0.0,10.0,0.0
+Management Consultant,Deloitte Consulting,United States,VA,Arlington,20/09/29,Senior Consultant,Technical,4.0,4.0,109.0,100.0,0.0,9.0,0.0
+Management Consultant,Accenture,Germany,BY,Munich,20/09/28,Managing Director,Technical,14.0,20.0,330.0,180.0,70.0,80.0,0.0
+Management Consultant,Avanade,United States,DC,Washington,20/09/28,L9 Consultant,IT Strategy,0.0,14.0,127.0,122.0,0.0,5.0,0.0
+Management Consultant,KPMG,United States,VA,Richmond,20/09/28,Director,Operations,5.0,22.0,217.0,200.0,0.0,17.0,0.0
+Management Consultant,Deloitte,United States,CO,Denver,20/09/28,Senior Manager,Analytic,15.0,15.0,251.0,201.0,0.0,50.0,0.0
+Management Consultant,Avanade,United States,DC,Washington,20/09/28,9/Consultant,IT Strategy,0.0,14.0,126.0,122.0,0.0,4.0,0.0
+Management Consultant,Accenture,United States,TX,Austin,20/09/28,Manager,Human Capital,5.0,13.0,152.0,145.0,0.0,6.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/09/28,Associate Partner,Technical,2.0,20.0,395.0,280.0,0.0,115.0,0.0
+Management Consultant,BCG,United States,NY,New York,20/09/28,Project Leader,Technical,1.0,9.0,220.0,155.0,20.0,45.0,0.0
+Management Consultant,Slalom,United States,CA,San Francisco,20/09/26,Solution principal,Operations,3.0,15.0,225.0,200.0,0.0,25.0,0.0
+Management Consultant,Mckinsey,United States,CA,Los Angeles,20/09/25,Associate,Operations,1.0,7.0,230.0,165.0,0.0,65.0,0.0
+Management Consultant,KPMG,United States,GA,Atlanta,20/09/25,Director,Advisory,1.0,15.0,315.0,260.0,0.0,55.0,0.0
+Management Consultant,FTI Consulting,United States,NY,New York,20/09/24,Senior Director,Operations,1.0,13.0,245.0,210.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/09/24,Senior Consultant,Technical,7.0,7.0,86.0,85.0,0.0,1.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,20/09/24,Senior Consultant,Cloud,2.0,5.0,117.0,117.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,20/09/24,Analyst,Operations,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Mercer,United States,IL,Chicago,20/09/24,L1,Infrastructure,1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Management Consultant,Capco,United States,IL,Chicago,20/09/24,Consultant,Enterprise,2.0,2.0,95.0,85.0,0.0,10.0,0.0
+Management Consultant,EY,United States,NJ,Hoboken,20/09/24,Senior Manager,Enterprise,5.0,15.0,230.0,215.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/09/24,Analyst,Strategy,0.0,0.0,87.0,87.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,TN,Nashville,20/09/24,Senior Associate,Technical,0.0,3.0,130.0,111.0,0.0,19.0,0.0
+Management Consultant,Ernst and Young,United States,FL,Miami,20/09/23,Senior Consultant,Technical,2.0,2.0,90.0,85.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,IL,Chicago,20/09/23,Consultant,Consumer,4.0,4.0,226.0,170.0,5.0,51.0,0.0
+Management Consultant,EY,United States,WA,Seattle,20/09/23,Managing director,Enterprise,9.0,22.0,490.0,465.0,0.0,25.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/09/22,Analyst,Operations,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,20/09/22,L7,Operations,7.0,7.0,148.0,136.0,2.0,10.0,0.0
+Management Consultant,Boston Consulting Group,United States,CA,San Francisco,20/09/21,Project Leader,Enterprise,3.0,5.0,270.0,200.0,0.0,70.0,0.0
+Management Consultant,PwC,United States,TX,Houston,20/09/21,L2,Operations,3.0,7.0,107.0,97.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,20/09/20,Manager,Operations,7.0,7.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,BCG,United States,MA,Boston,20/09/19,Associate,Growth,0.0,0.0,115.0,90.0,5.0,20.0,0.0
+Management Consultant,Bain,United States,MA,Boston,20/09/19,Manager,Consulting,2.0,5.0,205.0,175.0,0.0,30.0,0.0
+Management Consultant,PwC,United States,CA,Los Angeles,20/09/19,Senior Associate,Generalist,0.0,5.0,170.0,150.0,0.0,20.0,0.0
+Management Consultant,Strategy by PwC,United States,NY,New York,20/09/18,Senior Associate,Strategy,2.0,8.0,193.0,171.0,0.0,22.0,0.0
+Management Consultant,AT Kearney,United States,MI,Detroit,20/09/18,Principal,Operations,8.0,15.0,310.0,215.0,0.0,95.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,20/09/18,Manager,Enterprise,3.0,8.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,Optum,United States,PA,Pittsburgh,20/09/18,29,Product,8.0,22.0,133.0,121.0,0.0,12.0,0.0
+Management Consultant,Bain,United States,TX,Houston,20/09/17,Manager,Generalist,2.0,6.0,210.0,175.0,0.0,35.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/09/17,Analyst,General,1.0,1.0,102.0,85.0,3.0,14.0,0.0
+Management Consultant,IBM,United States,NC,Raleigh,20/09/16,L7,Analytic,5.0,5.0,110.0,110.0,0.0,1.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/09/16,Consultant,Enterprise,5.0,5.0,107.0,107.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/09/16,Senior Consultant,Analytic,2.0,5.0,120.0,114.0,0.0,6.0,0.0
+Management Consultant,KPMG,United States,TX,Houston,20/09/16,1,Technical,0.0,0.0,69.0,69.0,0.0,0.0,0.0
+Management Consultant,Oliver Wyman,United States,NY,New York,20/09/16,Consultant,Consulting,1.0,1.0,97.0,85.0,0.0,12.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/09/15,Director,M&A,3.0,10.0,250.0,200.0,0.0,50.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,20/09/15,L2,Consumer,0.0,6.0,200.0,150.0,31.0,20.0,0.0
+Management Consultant,State Street,United States,MA,Boston,20/09/14,Officer,Internal,4.0,4.0,120.0,94.0,0.0,26.0,0.0
+Management Consultant,Oliver Wyman,United States,NY,New York,20/09/14,Consultant,All,0.0,0.0,85.0,85.0,0.0,0.0,0.0
+Management Consultant,RSM,United States,FL,Miami,20/09/13,Associate,Technical,1.0,1.0,71.0,65.0,0.0,1.0,0.0
+Management Consultant,pwc,United States,CA,Los Angeles,20/09/13,senior associate,deals,1.0,10.0,165.0,150.0,5.0,10.0,0.0
+Management Consultant,Mercer,United States,AZ,Phoenix,20/09/12,D,Healthcare Consulting,1.0,1.0,75.0,64.0,0.0,11.0,0.0
+Management Consultant,EY,United States,GA,Atlanta,20/09/11,SM2,Analytic,10.0,15.0,230.0,215.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,20/09/11,L6,User Journey,6.0,12.0,270.0,225.0,20.0,25.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/09/11,Engagement Manager,Growth,4.0,6.0,185.0,140.0,0.0,45.0,0.0
+Management Consultant,Accenture,United States,TX,Austin,20/09/11,6,Growth,2.0,10.0,230.0,217.0,0.0,13.0,0.0
+Management Consultant,KPMG,United States,CA,San Francisco,20/09/11,L1,Analytic,0.0,0.0,77.0,77.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/09/11,Staff Consultant,Consulting,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,NY,New York,20/09/10,Consultant,Strategy,1.0,7.0,200.0,160.0,0.0,40.0,0.0
+Management Consultant,Cisco,United Kingdom,SC,Edinburgh,20/09/10,L12,Sales,12.0,20.0,200.0,100.0,20.0,80.0,0.0
+Management Consultant,Deloitte Advisory,India,KA,Bangalore,20/09/10,Senior Manager,Consumer,4.0,11.0,51.0,43.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/09/10,Manager,Technical,7.0,7.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,NJ,Jersey City,20/09/09,Senior Manager,Product,6.0,9.0,207.0,183.0,0.0,25.0,0.0
+Management Consultant,BCG,United States,NY,New York,20/09/09,Partner,Consumer,8.0,8.0,300.0,238.0,0.0,62.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/09/08,11,Consumer,1.0,1.0,99.0,85.0,0.0,14.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,20/09/08,Senior Consultant,Technical,2.0,4.0,90.0,83.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/09/08,Senior Manager,Strategy & Consulting,10.0,10.0,198.0,188.0,0.0,10.0,0.0
+Management Consultant,Guidehouse,United States,NY,New York,20/09/08,Senior Associate,Operations,2.0,2.0,105.0,95.0,0.0,10.0,0.0
+Management Consultant,Booz Allen Hamilton,Saudi Arabia,RI,Riyadh,20/09/07,Associate,Operations,4.0,4.0,93.0,85.0,0.0,7.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,20/09/07,Senior manager,Consulting,4.0,9.0,324.0,200.0,45.0,79.0,0.0
+Management Consultant,Citrix Systems Inc,United States,FL,Fort Lauderdale,20/09/07,Principal Business Manager,Operations,2.0,20.0,190.0,160.0,15.0,15.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,20/09/07,Senior manager,Enterprise,8.0,13.0,216.0,196.0,0.0,20.0,0.0
+Management Consultant,AT Kearney,United States,IL,Chicago,20/09/07,Associate,Strategy,0.0,5.0,193.0,158.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/09/06,Analyst,Technical,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Accruent,United States,MN,Minneapolis,20/09/05,Principal Consultant,Technical,6.0,15.0,78.0,78.0,0.0,3.0,0.0
+Management Consultant,BCG,United States,TX,Houston,20/09/05,Project Leader,Operations,3.0,10.0,255.0,195.0,0.0,60.0,0.0
+Management Consultant,McKinsey,India,DL,Delhi,20/09/05,Band 5,Operations,7.0,7.0,130.0,65.0,0.0,65.0,0.0
+Management Consultant,EY,United States,NY,New York,20/09/05,Senior Consultant,Operations,2.0,6.0,160.0,160.0,0.0,0.0,0.0
+Management Consultant,EY,United Arab Emirates,DU,Dubai,20/09/04,Senior Manao,Operations,3.0,18.0,245.0,195.0,40.0,10.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,20/09/03,Manager,Analytic,6.0,10.0,162.0,150.0,0.0,12.0,0.0
+Management Consultant,Deloitte,India,TS,Hyderabad,20/09/03,Manager,Analytic,2.0,20.0,48.0,41.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/09/03,Senior Consultant,Human Capital,6.0,6.0,130.0,113.0,0.0,17.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,20/09/02,Staff 2,Transfer Pricing,2.0,2.0,75.0,72.0,0.0,3.0,0.0
+Management Consultant,Accenture,United States,MA,Boston,20/09/02,9,Enterprise,3.0,7.0,140.0,136.0,0.0,5.0,0.0
+Management Consultant,Strategy by PwC,United States,NY,New York,20/09/02,Associate,Operations,0.0,0.0,90.0,85.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/09/01,Senior Consultant,Consumer,2.0,5.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,ZS Associates,United States,IL,Chicago,20/09/01,Consultant,Operations,8.0,8.0,180.0,159.0,0.0,21.0,0.0
+Management Consultant,Kearney,Canada,ON,Toronto,20/09/01,Associate,Analytic,2.0,2.0,230.0,165.0,0.0,65.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,20/09/01,Manager,Growth,9.0,9.0,200.0,188.0,0.0,12.0,0.0
+Management Consultant,EY,United States,IL,Chicago,20/08/31,Consultant,Operations,1.0,12.0,150.0,150.0,0.0,0.0,0.0
+Management Consultant,Oliver Wyman,Canada,ON,Toronto,20/08/31,Consultant,Consumer,1.0,1.0,75.0,70.0,0.0,5.0,0.0
+Management Consultant,Bain,Singapore,SG,Singapore,20/08/31,Manager,Private equity,3.0,10.0,184.0,147.0,0.0,37.0,0.0
+Management Consultant,Deloitte Advisory,United States,NY,New York,20/08/30,Senior Consultant,Internal,6.0,7.0,116.0,116.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/08/30,Manager,Enterprise,3.0,8.0,140.0,130.0,0.0,10.0,0.0
+Management Consultant,EY-Parthenon,United States,MA,Boston,20/08/30,2Y Consultant,Strategy,2.0,6.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,WA,Seattle,20/08/30,Senior Consultant,Enterprise,2.0,5.0,98.0,92.0,0.0,7.0,0.0
+Management Consultant,Bain,United States,MA,Boston,20/08/29,Associate Consultant,Generalist,1.0,1.0,95.0,85.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,NC,Charlotte,20/08/29,Consultant,Technical,0.0,0.0,72.0,72.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,20/08/29,Strategy Analyst (L12),Growth,1.0,1.0,101.0,85.0,0.0,16.0,0.0
+Management Consultant,Cisco,United States,CA,San Jose,20/08/29,Grade 11,Growth,2.0,5.0,260.0,162.0,70.0,30.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,20/08/29,8,Technical,5.0,5.0,135.0,130.0,0.0,5.0,0.0
+Management Consultant,Deloitte,Australia,VI,Melbourne,20/08/28,Partner,Risk,1.0,12.0,600.0,500.0,0.0,100.0,0.0
+Management Consultant,ZS,United States,CA,San Francisco,20/08/28,Associate,Growth,2.0,2.0,125.0,110.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United Arab Emirates,DU,Dubai,20/08/27,Business Analyst,Strategy Consulting,1.0,2.0,65.0,54.0,0.0,6.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,20/08/27,Manager,Product,6.0,6.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,GA,Atlanta,20/08/27,AC,Business,1.0,1.0,105.0,90.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,MN,Minneapolis,20/08/26,L9,Technical,1.0,4.0,135.0,120.0,5.0,10.0,0.0
+Management Consultant,Deloitte,India,MH,Mumbai,20/08/25,Manager,Consumer,4.0,8.0,38.0,32.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/08/25,Manager,Enterprise,7.0,9.0,146.0,127.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/08/25,Consultant,Enterprise,2.0,2.0,83.0,83.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,20/08/25,Senior Manager,Strategy,6.0,10.0,183.0,165.0,0.0,23.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/08/25,Consultant,Government and Public Services,0.0,2.0,82.0,82.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/08/25,Consultant,Enterprise,1.0,3.0,94.0,84.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,DC,Washington,20/08/25,Manager,Technical,2.0,8.0,157.0,137.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,20/08/25,Senior Associate,Generalist,2.0,6.0,217.0,181.0,0.0,36.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/08/24,Specialist Master,Technical,2.0,20.0,180.0,160.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,MA,Boston,20/08/24,Senior Manager,Product,11.0,11.0,208.0,178.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/08/23,Senior Manager,Technical,6.0,16.0,243.0,205.0,18.0,20.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/08/23,Specialist Master,Enterprise,4.0,20.0,159.0,148.0,0.0,11.0,0.0
+Management Consultant,McKinsey,United States,MA,Boston,20/08/23,Engagement Manager,Operations,6.0,6.0,300.0,190.0,0.0,110.0,0.0
+Management Consultant,EY,United States,NY,New York,20/08/23,Manager,Operations,5.0,9.0,161.0,156.0,0.0,6.0,0.0
+Management Consultant,Oliver Wyman,United Arab Emirates,DU,Dubai,20/08/21,Associate,Generalist,4.0,7.0,190.0,150.0,0.0,40.0,0.0
+Management Consultant,LEK,United States,IL,Chicago,20/08/21,Associate,Strategy,1.0,1.0,93.0,80.0,0.0,13.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/08/21,Tech Consultant,Technical,2.0,2.0,69.0,69.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,TX,Houston,20/08/21,Senior Associate,User Journey,1.0,5.0,148.0,148.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,20/08/21,Managing Director,Technical,6.0,11.0,345.0,270.0,0.0,75.0,0.0
+Management Consultant,Microsoft,United States,WA,Seattle,20/08/20,L65,Analytic,8.0,14.0,230.0,173.0,28.0,29.0,0.0
+Management Consultant,Accenture,United States,MO,Kansas City,20/08/20,L7,Agile,1.0,22.0,170.0,157.0,3.0,10.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/08/19,10,Growth,2.0,2.0,110.0,100.0,6.0,2.0,0.0
+Management Consultant,Accenture,India,KA,Bangalore,20/08/18,Consultant,Consumer,7.0,8.0,56.0,44.0,5.0,5.0,0.0
+Management Consultant,Deloitte Consulting,United States,IL,Chicago,20/08/18,Analyst,Enterprise,0.0,0.0,95.0,80.0,0.0,15.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/08/18,Director,Consultant,12.0,12.0,305.0,255.0,0.0,50.0,0.0
+Management Consultant,Slalom,United States,NY,New York,20/08/17,L6,Analytic,5.0,10.0,220.0,180.0,0.0,40.0,0.0
+Management Consultant,BCG,United States,DC,Washington,20/08/17,Project Leader,Consulting,4.0,5.0,231.0,201.0,0.0,30.0,0.0
+Management Consultant,Wipro Limited,United States,TX,Plano,20/08/17,c1,Consumer,2.0,13.0,112.0,105.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/08/17,Director,Enterprise,5.0,10.0,240.0,200.0,0.0,40.0,0.0
+Management Consultant,Kpmg,United States,CA,Los Angeles,20/08/16,Associate,Operations,1.0,1.0,79.0,70.0,0.0,9.0,0.0
+Management Consultant,EY,United States,TX,Dallas,20/08/16,Manager 1,Finance,2.0,5.0,153.0,146.0,0.0,5.0,0.0
+Management Consultant,Bain,United States,MA,Boston,20/08/15,Senior Associate Consultant,Consulting,2.0,2.0,132.0,100.0,7.0,25.0,0.0
+Management Consultant,Oracle,United States,VA,Arlington,20/08/13,IC-4,Technical,6.0,6.0,133.0,113.0,0.0,20.0,0.0
+Management Consultant,EY,United Kingdom,EN,London,20/08/13,Associate,Growth,2.0,3.0,65.0,60.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/08/12,Senior Consultant,Human Capital,2.0,5.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,20/08/12,Senior Analyst,Talent & Organization,3.0,3.0,90.0,88.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/08/11,Consultant,Strategy,3.0,3.0,92.0,92.0,0.0,0.0,0.0
+Management Consultant,Kearney,United Arab Emirates,DU,Dubai,20/08/10,Business Analyst,Internal,1.0,1.0,85.0,85.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,20/08/10,Senior Consultant,Enterprise,2.0,7.0,160.0,150.0,0.0,10.0,0.0
+Management Consultant,KPMG,United States,DC,Washington,20/08/10,Director,Consulting,10.0,20.0,242.0,232.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,20/08/10,P2,Technical,2.0,2.0,32.0,32.0,0.0,1.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,20/08/10,Manager,Technical,1.0,12.0,230.0,220.0,0.0,10.0,0.0
+Management Consultant,Capital One,United States,DC,Washington,20/08/09,Associate,Analytic,0.0,0.0,91.0,88.0,0.0,3.0,0.0
+Management Consultant,Strategy&,United States,NY,New York,20/08/09,Associate,Growth,0.0,0.0,100.0,85.0,0.0,15.0,0.0
+Management Consultant,McKinsey,United States,DC,Washington,20/08/08,Senior Business Analyst,Operations,2.0,4.0,150.0,120.0,5.0,25.0,0.0
+Management Consultant,PwC,Singapore,SG,Singapore,20/08/08,Senior Associate 3,Human Resources,2.0,7.0,67.0,60.0,0.0,7.0,0.0
+Management Consultant,Ernst and Young,United States,CA,San Francisco,20/08/07,Senior Consultant,Technical,0.0,4.0,135.0,135.0,0.0,0.0,0.0
+Management Consultant,HCL Technologies,United States,CA,Los Angeles,20/08/06,Senior Consultant,Technical,3.0,3.0,118.0,110.0,0.0,8.0,0.0
+Management Consultant,McKinsey,United States,NJ,Summit,20/08/06,Associate,Operations,5.0,10.0,170.0,165.0,0.0,5.0,0.0
+Management Consultant,Amazon,United States,WA,Seattle,20/08/06,L7,Consumer,9.0,15.0,370.0,150.0,225.0,0.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/08/06,Senior Manager,Growth,1.0,25.0,240.0,230.0,0.0,10.0,0.0
+Management Consultant,EY,United States,GA,Atlanta,20/08/05,M2,Growth,2.0,11.0,170.0,165.0,0.0,5.0,0.0
+Management Consultant,IBM,Canada,ON,Toronto,20/08/05,B10,Consulting,12.0,12.0,250.0,215.0,15.0,15.0,0.0
+Management Consultant,Deloitte,United Kingdom,EN,London,20/08/05,Analyst,iOS,0.0,0.0,32.0,32.0,0.0,1.0,0.0
+Management Consultant,Boston Consulting Group,United States,GA,Atlanta,20/08/02,Consultant,Strategy,1.0,7.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/08/01,Analyst,Digital Transformation,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,WA,Seattle,20/08/01,Senior Consultant,Security,6.0,8.0,115.0,115.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,WA,Seattle,20/08/01,Senior Consultant,Security,5.0,7.0,115.0,115.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/08/01,Senior Consultant,Unsure,2.0,7.0,108.0,99.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,TX,Houston,20/08/01,Consulting Analyst,Consulting,1.0,1.0,81.0,78.0,0.0,3.0,0.0
+Management Consultant,Slalom,United States,OR,Portland,20/07/31,Consultant,program management,7.0,20.0,160.0,150.0,0.0,10.0,0.0
+Management Consultant,Google,United States,IL,Chicago,20/07/31,Manager (L6),Sales,6.0,15.0,300.0,140.0,50.0,110.0,0.0
+Management Consultant,ibm,United Kingdom,EN,London,20/07/30,b9,salesforce,3.0,15.0,180.0,180.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,TX,Austin,20/07/29,8,Website Optimization,2.0,4.0,112.0,102.0,0.0,10.0,0.0
+Management Consultant,BCG,United States,WA,Seattle,20/07/28,Consultant,,1.0,12.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/07/28,Consultant,Digital Integration,2.0,2.0,111.0,108.0,0.0,3.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/07/27,Senior Consultant 2,Cybersecurity,4.0,4.0,116.0,113.0,0.0,3.0,0.0
+Management Consultant,Deloitte,Hong Kong (SAR),HK,Hong Kong,20/07/26,Analyst,Salesforce,0.0,0.0,310.0,310.0,0.0,0.0,0.0
+Management Consultant,Protiviti,United States,NY,New York,20/07/25,Senior Manager,Business Operations,5.0,10.0,162.0,142.0,0.0,20.0,0.0
+Management Consultant,BCG,United States,GA,Atlanta,20/07/25,Consultant,Strategy,1.0,15.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,20/07/24,Consultant,Supply Chain,1.0,6.0,132.0,120.0,0.0,12.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/07/24,L7,Supply Chain and Operations Strategy Consulting,3.0,7.0,188.0,178.0,0.0,10.0,0.0
+Management Consultant,Google,United States,CA,Mountain View,20/07/24,L7,BizOps,2.0,15.0,473.0,250.0,160.0,63.0,0.0
+Management Consultant,Alaska Airlines,United States,WA,Seattle,20/07/22,P3,Project Management,3.0,8.0,105.0,95.0,0.0,10.0,0.0
+Management Consultant,Amazon,Japan,TY,Tokyo,20/07/22,L4,Other,2.0,2.0,94.0,57.0,30.0,7.0,0.0
+Management Consultant,Deloitte Consulting,United States,CA,Pleasanton,20/07/21,Sr. Manager,Human Resources,10.0,20.0,210.0,194.0,0.0,20.0,0.0
+Management Consultant,Slalom,United States,IL,Chicago,20/07/20,Consultant,Analytics,4.0,6.0,150.0,135.0,0.0,14.0,0.0
+Management Consultant,Bain,Argentina,DF,Buenos Aires,20/07/19,Senior Associate Consultant,Consulting,3.0,4.0,28.0,18.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,MA,Boston,20/07/17,Manager,Consulting,3.0,7.0,115.0,105.0,0.0,10.0,0.0
+Management Consultant,Bain,United States,MA,Boston,20/07/17,Consultant,General Management,0.0,4.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,LEK,United States,CA,Los Angeles,20/07/16,Consultant,Media and Entertainment,0.0,6.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,SAS Institute,United States,NC,Cary,20/07/16,4,iOS,19.0,23.0,176.0,156.0,0.0,20.0,0.0
+Management Consultant,EY,Canada,BC,Vancouver,20/07/15,Staff,Technology,2.0,2.0,68.0,68.0,0.0,0.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,20/07/15,Case Team Leader,Consultant,2.0,7.0,275.0,180.0,0.0,95.0,0.0
+Management Consultant,Bain,United States,DC,Washington,20/07/15,Consultant,Consulting,1.0,6.0,211.0,175.0,0.0,36.0,0.0
+Management Consultant,Bain,United States,DC,Washington,20/07/15,Consultant,Consulting,0.0,5.0,187.0,165.0,0.0,22.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/07/15,Senior Consultant,Technology Consulting,0.0,6.0,150.0,150.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,20/07/14,Senior Consultant,Security,2.0,4.0,115.0,113.0,0.0,2.0,0.0
+Management Consultant,Accenture,Germany,BE,Berlin,20/07/14,L6,Digital Innovation,4.0,15.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/07/14,Senior Manager,Talent & Organization,1.0,20.0,240.0,233.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/07/13,Manager,iOS,7.0,7.0,147.0,135.0,10.0,5.0,0.0
+Management Consultant,BCG,United States,DC,Washington,20/07/12,P1,Digital consulting,2.0,18.0,375.0,225.0,0.0,150.0,0.0
+Management Consultant,BCG,Singapore,SG,Singapore,20/07/10,Principal,Consulting,5.0,9.0,300.0,160.0,0.0,140.0,0.0
+Management Consultant,ICF,United States,VA,Arlington,20/07/09,Associate,gov consulting,2.0,3.0,68.0,68.0,0.0,0.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,20/07/09,Senior Associate,Consulting,6.0,7.0,205.0,160.0,5.0,40.0,0.0
+Management Consultant,EY,United States,TX,Dallas,20/07/08,Staff 1,People Advisory,1.0,1.0,68.0,65.0,0.0,3.0,0.0
+Management Consultant,Amazon,United States,IL,Chicago,20/07/08,L7,cloud,1.0,15.0,375.0,160.0,215.0,0.0,0.0
+Management Consultant,PwC,Australia,SA,Adelaide,20/07/08,Director,Mobile (iOS + Android),0.0,13.0,166.0,156.0,0.0,10.0,0.0
+Management Consultant,Truist,United States,NC,Raleigh,20/07/07,Director,Agile,4.0,25.0,185.0,176.0,9.0,0.0,0.0
+Management Consultant,AWS,Hong Kong (SAR),HK,Hong Kong,20/07/07,L6,Cloud Computing,6.0,15.0,150.0,115.0,35.0,0.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,20/07/07,Senior Consultant,M&A,1.0,10.0,180.0,150.0,0.0,30.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,20/07/07,Senior Consultant,M&A,1.0,10.0,180.0,150.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/07/06,10,Strategy,2.0,2.0,100.0,95.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/07/06,L4,Technical Program Management,5.0,6.0,154.0,134.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,CA,Costa Mesa,20/07/06,Analyst,Software Development,0.0,0.0,90.0,86.0,0.0,4.0,0.0
+Management Consultant,EY,United States,NY,New York,20/07/06,Staff,consulting,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Management Consultant,KPMG,United States,TX,Austin,20/07/05,Director,Cloud,3.0,14.0,266.0,246.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,DC,Washington,20/07/04,Associate,Technology Consulting,1.0,1.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,GA,Atlanta,20/07/04,Manager,Strategy,8.0,8.0,200.0,200.0,0.0,0.0,0.0
+Management Consultant,Sprinklr,India,KA,Bangalore,20/07/03,P4,Customer Success,3.0,7.0,30.0,24.0,6.0,0.0,0.0
+Management Consultant,Bain,United States,NY,New York,20/07/02,Senior Associate Consultant,Management,2.0,2.0,143.0,110.0,0.0,32.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,20/07/02,Senior Consultant,Program management,1.0,8.0,130.0,130.0,0.0,0.0,0.0
+Management Consultant,uber,United States,NY,New York,20/07/01,l4,none,2.0,7.0,200.0,100.0,50.0,50.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/06/29,Manager,Distributed Systems (Back-End),3.0,8.0,210.0,185.0,0.0,25.0,0.0
+Management Consultant,Bain,India,KA,Bangalore,20/06/29,Case Team Leader,Client facing consulting role,6.0,7.0,66.0,66.0,0.0,0.0,0.0
+Management Consultant,BCG,United States,CA,San Francisco,20/06/26,Consultant,General,2.0,2.0,200.0,170.0,0.0,30.0,0.0
+Management Consultant,Boston Consulting Group,United States,NY,New York,20/06/25,Consultant,Fintech,2.0,6.0,210.0,180.0,0.0,30.0,0.0
+Management Consultant,Bain,United Kingdom,EN,London,20/06/25,M2,Strategy,7.0,7.0,261.0,143.0,0.0,118.0,0.0
+Management Consultant,Alvarez & Marsal,United States,NY,New York,20/06/25,Senior Associate,Operations,2.0,6.0,200.0,110.0,0.0,90.0,0.0
+Management Consultant,Deloitte,United States,TX,Austin,20/06/24,Senior Consultant,Cloud Architecture,5.0,5.0,144.0,129.0,0.0,15.0,0.0
+Management Consultant,Slalom,United States,IL,Chicago,20/06/22,Analyst,Cloud Technology,1.0,2.0,85.0,85.0,0.0,0.0,0.0
+Management Consultant,IBM,United States,NY,New York,20/06/22,band 6,Security,1.0,6.0,188.0,150.0,0.0,38.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/06/21,Analyst,ML / AI,0.0,0.0,78.0,78.0,0.0,5.0,0.0
+Management Consultant,Boston Consulting Group,United States,CA,San Francisco,20/06/20,Consultant,Consulting,2.0,10.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,Accenture,Japan,TY,Tokyo,20/06/18,6,Innovation,1.0,10.0,163.0,150.0,0.0,13.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/06/18,9,Strategy Consulting,2.0,10.0,170.0,160.0,0.0,10.0,0.0
+Management Consultant,Qualtrics,United States,UT,Provo,20/06/17,L6,Customer success,3.0,11.0,280.0,180.0,60.0,40.0,0.0
+Management Consultant,ZS Associates,United States,IL,Chicago,20/06/17,Consultant,Commercial Strategy,2.0,6.0,182.0,163.0,0.0,19.0,0.0
+Management Consultant,KPMG,United States,PA,Philadelphia,20/06/16,Consultant,Security,1.0,6.0,82.0,82.0,0.0,0.0,0.0
+Management Consultant,Bain,Japan,TY,Tokyo,20/06/15,Senior Associate Consultant,Consulting,2.0,3.0,110.0,90.0,0.0,20.0,0.0
+Management Consultant,Strategy&,United States,NY,New York,20/06/14,Senior Associate,Consulting,3.0,6.0,226.0,173.0,0.0,53.0,0.0
+Management Consultant,Ernst and Young,United Kingdom,EN,London,20/06/11,Staff/Assitant,Business Transformation and Strategy,1.0,1.0,40.0,40.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/06/11,Senior Analyst,Data Engineering,1.0,3.0,100.0,93.0,0.0,10.0,0.0
+Management Consultant,Willis Towers Watson,United States,DC,Washington,20/06/11,Director,Digital skills,10.0,10.0,260.0,200.0,0.0,60.0,0.0
+Management Consultant,LEK,India,MH,Mumbai,20/06/11,Consultant,Generalist,0.0,3.0,85.0,70.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/06/10,Senior Consultant,Full Stack,2.0,20.0,172.0,165.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/06/09,Analyst,consulting,0.0,0.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,LEK,United States,CA,San Francisco,20/06/09,Consultant,MBA,1.0,1.0,185.0,165.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,20/06/09,Manager,Program Management,3.0,3.0,140.0,140.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,20/06/08,Strategy Analyst,Strategy,0.0,0.0,90.0,87.0,0.0,3.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/06/05,Consultant,Supply Chain & Operations,4.0,4.0,129.0,122.0,2.0,6.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,20/06/05,Analyst,Testing (SDET),2.0,2.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,20/06/03,Experienced Associate,iOS,1.0,3.0,93.0,87.0,0.0,6.0,0.0
+Management Consultant,Deloitte,Italy,LO,Milano,20/06/03,Senior Consultant,DevOps,2.0,4.0,40.0,40.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/06/02,Manager,Strategy,8.0,10.0,185.0,155.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/06/01,9,None,4.0,4.0,120.0,120.0,0.0,5.0,0.0
+Management Consultant,Accenture,Australia,NS,Sydney,20/05/31,Consultant,Management Consulting,2.0,2.0,85.0,77.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/05/29,Analyst,Consulting,0.0,0.0,90.0,79.0,0.0,10.0,0.0
+Management Consultant,Deloitte Consulting LLP,United States,TX,Dallas,20/05/29,Consultant,Supply Chain,1.0,6.0,132.0,120.0,0.0,12.0,0.0
+Management Consultant,Deloitte,United States,NC,Charlotte,20/05/28,Senior Consultant,Finance / Business Spend,1.0,5.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,Deloitte,Australia,VI,Melbourne,20/05/28,Manager,Distributed Systems (Back-End),2.0,10.0,106.0,105.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/05/28,Senior L1,SAP,0.0,2.0,115.0,110.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/05/28,Manager,ML / AI,5.0,12.0,171.0,151.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Houston,20/05/27,Manager,Supply Chain,5.0,5.0,135.0,129.0,0.0,6.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,20/05/27,Consultant,Consulting,0.0,0.0,198.0,165.0,0.0,33.0,0.0
+Management Consultant,LEK,United States,MA,Boston,20/05/26,Associate,Generalist,1.0,3.0,98.0,80.0,15.0,3.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/05/26,Associate,other,1.0,1.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,AT Kearney,United States,CA,San Francisco,20/05/25,Manager,Strategy,4.0,8.0,240.0,180.0,20.0,40.0,0.0
+Management Consultant,McKinsey,United States,IL,Chicago,20/05/25,Associate,Energy,0.0,4.0,210.0,165.0,0.0,45.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,20/05/23,Manager,Consulting,2.0,12.0,215.0,200.0,0.0,15.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,20/05/22,Senior Consultant,Mergers and acquisitions,5.0,5.0,69.0,68.0,0.0,1.0,0.0
+Management Consultant,KPMG,United States,GA,Atlanta,20/05/21,Director,Supply Chain,2.0,17.0,250.0,230.0,0.0,20.0,0.0
+Management Consultant,Oliver Wyman,United Arab Emirates,DU,Dubai,20/05/19,Senior Consultant,Consulting,2.0,2.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/05/19,Manager,iOS,7.0,12.0,139.0,127.0,0.0,12.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,20/05/18,Manager,HR Consulting Product Manager,5.0,5.0,142.0,135.0,0.0,7.0,0.0
+Management Consultant,KPMG,United States,MA,Boston,20/05/17,Director,Strategy,5.0,10.0,280.0,242.0,0.0,38.0,0.0
+Management Consultant,Google,United States,CA,San Bruno,20/05/16,L6,Strategy & Ops,0.0,10.0,325.0,204.0,80.0,41.0,0.0
+Management Consultant,Capgemini,Australia,NS,Sydney,20/05/16,E,Distributed Systems (Back-End),10.0,19.0,186.0,140.0,0.0,46.0,0.0
+Management Consultant,Google,United States,DC,Washington,20/05/14,L4,Cloud,1.0,7.0,173.0,119.0,38.0,18.0,0.0
+Management Consultant,Slalom,United States,CA,Palo Alto,20/05/14,Principal,Other,4.0,20.0,225.0,200.0,0.0,25.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/05/13,Senior Consultant,iOS,2.0,4.0,115.0,115.0,0.0,2.0,0.0
+Management Consultant,Standard,United States,CA,San Francisco,20/05/12,Entry Level / New Grad,Web Development (Front-End),1.0,1.0,21.0,16.0,1.0,4.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,20/05/12,Manager,Healthcare,6.0,15.0,192.0,182.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/05/10,Consultant,Operations,2.0,2.0,80.0,75.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/05/10,Manager,AI,2.0,10.0,194.0,180.0,0.0,14.0,0.0
+Management Consultant,Accenture,United States,NJ,Florham Park,20/05/08,L7,Life Sciences,0.0,4.0,250.0,200.0,0.0,50.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/05/08,Manager,Security,8.0,8.0,155.0,150.0,0.0,5.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,20/05/08,Senior Consultant,Strategy,6.0,8.0,170.0,155.0,0.0,15.0,0.0
+Management Consultant,Capco,United States,NY,New York,20/05/08,Consultant,Security,2.0,4.0,125.0,115.0,0.0,10.0,0.0
+Management Consultant,McKinsey,United States,GA,Atlanta,20/05/08,Engagement Manager,General,3.0,6.0,245.0,192.0,0.0,50.0,0.0
+Management Consultant,Oliver Wyman,United States,NY,New York,20/05/06,Consultant,Management Consulting,1.0,1.0,97.0,85.0,0.0,12.0,0.0
+Management Consultant,McKinsey,United States,CO,Denver,20/05/06,Business Analyst,Generalist,1.0,1.0,112.0,90.0,0.0,22.0,0.0
+Management Consultant,Bain,United States,DC,Washington,20/05/06,Consultant,Strategy,1.0,5.0,217.0,165.0,30.0,22.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/05/05,Specialist,Finance,1.0,1.0,75.0,75.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,20/05/05,Consultant,Security,0.0,0.0,65.0,65.0,0.0,0.0,0.0
+Management Consultant,KPMG,United States,NY,New York,20/05/04,Associate,Financial Services,1.0,1.0,73.0,67.0,0.0,6.0,0.0
+Management Consultant,BCG,United States,GA,Atlanta,20/05/04,Associate,Strategy,1.0,1.0,90.0,90.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/05/03,2,iOS,1.0,1.0,85.0,84.0,0.0,1.0,0.0
+Management Consultant,Deloitte Consulting,United States,PA,Philadelphia,20/05/02,Senior Consultant,Management Consultant,5.0,8.0,150.0,140.0,0.0,10.0,0.0
+Management Consultant,Slalom,United States,TX,Dallas,20/05/01,Consultant,ML / AI,3.0,5.0,123.0,115.0,0.0,8.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/04/30,Consultant,Supply Chain,1.0,5.0,135.0,133.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,TX,Dallas,20/04/29,Manager,iot,5.0,10.0,180.0,155.0,0.0,25.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,20/04/29,Analyst,iOS,0.25,0.0,99.0,85.0,0.0,14.0,0.0
+Management Consultant,Bain,United Kingdom,EN,London,20/04/29,Senior Associate Consultant,Generalist,2.0,2.0,100.0,75.0,0.0,25.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/04/28,Senior Manager,Full Stack,5.0,14.0,300.0,275.0,0.0,25.0,0.0
+Management Consultant,Accenture,United States,CA,Los Angeles,20/04/28,Senior Analyst,,2.0,2.0,92.0,92.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,20/04/27,Manager,analytics,1.0,5.0,165.0,150.0,0.0,15.0,0.0
+Management Consultant,McKinsey & Company,United States,CA,San Francisco,20/04/26,Engagement Manager,Business,8.0,8.0,250.0,180.0,0.0,70.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/04/26,Business Analyst,Business Analyst,0.0,0.0,150.0,90.0,0.0,60.0,0.0
+Management Consultant,PwC,United States,DC,Washington,20/04/23,Manager,Consulting,2.0,8.0,172.0,150.0,0.0,23.0,0.0
+Management Consultant,McKinsey,United States,ME,China,20/04/21,Business Analyst,Consulting,0.0,0.0,100.0,70.0,0.0,30.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/04/21,Director,Financial services transformations,6.0,12.0,219.0,204.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/04/20,Consultant,Data Science,1.0,4.0,86.0,84.0,0.0,2.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/04/20,Manager,Security,8.0,15.0,183.0,173.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,NJ,Secaucus,20/04/20,Manager,Security,2.0,9.0,175.0,164.0,0.0,11.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,20/04/19,Consultant,Management Consulting,2.0,2.0,113.0,108.0,0.0,5.0,0.0
+Management Consultant,LEK,United Kingdom,EN,London,20/04/18,Associate 1,Strategy,0.5,3.0,70.0,62.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/04/18,Manager,Healthcare,3.5,8.0,172.0,158.0,0.0,14.0,0.0
+Management Consultant,McKinsey & Company,United States,CA,San Francisco,20/04/16,Senior Engagement Manager,Profitability,5.0,20.0,260.0,210.0,0.0,50.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago Heights,20/04/12,Manager,Risk,3.0,10.0,130.0,125.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,20/04/12,Senior Manager,Compliance,1.0,10.0,215.0,200.0,0.0,15.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/04/12,Engagement Manager,iOS,4.0,9.0,230.0,180.0,0.0,50.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,20/04/12,Consultant,Finance,2.0,4.0,104.0,98.0,0.0,6.0,0.0
+Management Consultant,KPMG,United States,TX,Dallas,20/04/11,Director,iOS,4.0,18.0,225.0,210.0,0.0,15.0,0.0
+Management Consultant,Accenture,United States,NJ,Florham Park,20/04/11,L7,Life Sciences,0.0,5.0,250.0,215.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,CA,San Jose,20/04/11,Manager,Full Stack,5.0,10.0,192.0,162.0,0.0,30.0,0.0
+Management Consultant,Siemens,Portugal,LI,Lisbon,20/04/11,Entry-level,back office,2.0,2.0,25.0,22.0,1.0,2.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,20/04/10,Associate Consultant,Multiple industries,1.0,1.0,118.0,80.0,0.0,38.0,0.0
+Management Consultant,BCG,United States,TX,Houston,20/04/06,Senior Associate,Management Consultant,0.0,3.0,150.0,120.0,0.0,30.0,0.0
+Management Consultant,Accenture,United States,NY,New York,20/04/05,Consultant,MC,1.0,6.0,193.0,160.0,0.0,33.0,0.0
+Management Consultant,McKinsey,United States,TX,Dallas,20/04/04,Associate,Strategy consulting,2.0,7.0,204.0,171.0,0.0,33.0,0.0
+Management Consultant,PwC,United States,NY,New York,20/04/04,Senior Associate,Deals,1.0,8.0,160.0,153.0,0.0,7.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/04/04,Senior Consultant,Strategy,6.0,8.0,158.0,153.0,0.0,5.0,0.0
+Management Consultant,Fidelity Investments,United States,MA,Boston,20/04/04,Analyst,Business Strategy,0.0,0.0,75.0,63.0,0.0,12.0,0.0
+Management Consultant,CGI,United States,DC,Washington,20/04/03,Analyst,FA,0.0,0.0,74.0,72.0,2.0,1.0,0.0
+Management Consultant,KPMG,United States,IL,Chicago,20/04/02,Manager,M&A,4.5,8.0,200.0,175.0,0.0,25.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,20/04/01,Analyst,Strategy & Operations,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,CA,San Francisco,20/04/01,Manager,Strategy,5.0,10.0,190.0,170.0,0.0,20.0,0.0
+Management Consultant,KPMG,United States,NY,New York,20/03/30,Associate,Consulting,1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,20/03/29,Senior Analyst,Strategy,1.0,2.0,90.0,87.0,0.0,3.0,0.0
+Management Consultant,BCG,United States,NY,New York,20/03/28,Consultant,General,1.0,1.0,205.0,165.0,0.0,45.0,0.0
+Management Consultant,Ernst and Young,United States,TX,San Antonio,20/03/28,Consultant,Security,1.0,1.0,82.0,82.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,TX,San Antonio,20/03/28,Consultant,Security,0.0,0.0,75.0,65.0,0.0,10.0,0.0
+Management Consultant,Slalom,United States,GA,Atlanta,20/03/27,L2,Cloud,1.0,5.0,160.0,145.0,0.0,15.0,0.0
+Management Consultant,LEK,United States,IL,Chicago,20/03/26,Consultant,Generalist,1.0,6.0,190.0,165.0,0.0,25.0,0.0
+Management Consultant,uber,Korea,KG,Seoul,20/03/24,L6,Networking,1.0,20.0,200.0,120.0,50.0,30.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,20/03/24,Senior Associate,Strategy,2.0,6.0,210.0,175.0,0.0,35.0,0.0
+Management Consultant,PwC,United States,CA,San Jose,20/03/19,Senior Manager,Management Consulting,3.5,23.0,205.0,188.0,0.0,17.0,0.0
+Management Consultant,Accenture,Canada,AB,Calgary,20/03/19,9,Consulting,1.0,3.0,112.0,105.0,0.0,7.0,0.0
+Management Consultant,Accenture,Netherlands,NH,Amsterdam,20/03/18,Consultant,Strategy,4.0,4.0,62.0,60.0,0.0,2.0,0.0
+Management Consultant,Bain,United States,CA,San Francisco,20/03/12,Senior Associate Consultant,,2.0,2.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,EY,United States,NY,New York,20/03/10,Staff,iOS,0.0,0.0,70.0,70.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,20/03/10,Business Technology Analyst,Cloud Strategy,2.0,4.0,85.0,85.0,0.0,0.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,20/03/06,Manager,Security,2.0,10.0,180.0,165.0,0.0,15.0,0.0
+Management Consultant,BCG,United States,TX,Dallas,20/03/04,Analyst,Consultant,0.0,0.0,140.0,90.0,35.0,15.0,0.0

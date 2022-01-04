@@ -1,0 +1,1510 @@
+Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Insight Enterprises,United States,MA,Boston,22/01/03,Solutions Architect,Cloud,3.0,15.0,187.0,170.0,0.0,17.0,0.0
+Solution Architect,BDO,United States,IL,Chicago,22/01/03,Manager,Salesforce,10.0,10.0,140.0,136.0,0.0,4.0,0.0
+Solution Architect,Amazon,Spain,MD,Madrid,22/01/02,L4,General,2.0,2.0,66.0,52.0,12.0,2.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,22/01/01,L5,Data,0.0,9.0,260.0,180.0,40.0,40.0,10.0
+Solution Architect,Comcast,United States,PA,Philadelphia,22/01/01,Principal Engineer,Networking,1.0,11.0,199.0,172.0,10.0,17.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/12/31,L6,Full Stack,2.0,14.0,151.0,119.0,32.0,0.0,0.0
+Solution Architect,Google,Singapore,SG,Singapore,21/12/31,L3,Solution Architect,0.0,1.0,150.0,125.0,25.0,0.0,0.0
+Solution Architect,IBM,United States,CA,San Jose,21/12/30,STSM,Distributed Systems (Back-End),22.0,30.0,270.0,230.0,25.0,15.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/12/30,L6,Full Stack,3.0,12.0,220.0,160.0,60.0,0.0,0.0
+Solution Architect,Wipro Limited,India,KA,Bangalore,21/12/30,C2,Enterprise Architecture,10.0,25.0,35.0,30.0,0.0,5.0,0.0
+Solution Architect,Snowflake,United States,WA,Seattle,21/12/30,IC5,Services,1.0,22.0,311.0,192.0,75.0,44.0,0.0
+Solution Architect,Intel,United States,OR,Hillsboro,21/12/30,Grade 9,Hw,5.0,35.0,264.0,190.0,31.0,43.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/12/29,L6,Networking,2.0,8.0,193.0,136.0,41.0,16.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/12/29,L6,Production,1.0,20.0,240.0,225.0,15.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/12/28,L6,DevOps,4.0,10.0,305.0,185.0,120.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/12/27,L4,Cloud,0.0,2.0,140.0,105.0,22.0,13.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/12/27,L6,DevOps,5.0,20.0,230.0,160.0,70.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/12/26,L4,Full Stack,1.0,1.0,118.0,101.0,6.0,12.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/12/25,L4,Production,0.0,4.0,160.0,115.0,20.0,25.0,0.0
+Solution Architect,HCL Technologies,United States,WA,Seattle,21/12/24,L4,Application implementation,11.0,17.0,155.0,148.0,0.0,8.0,0.0
+Solution Architect,Accenture,Spain,MD,Madrid,21/12/24,L11,DevOps,0.0,0.0,27.0,27.0,0.0,0.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/12/23,L6,Production,5.0,12.0,254.0,132.0,122.0,0.0,0.0
+Solution Architect,Google,United States,NY,New York,21/12/23,L5,DevOps,0.0,6.0,305.0,169.0,65.0,71.0,108.0
+Solution Architect,Amazon,United States,WA,Seattle,21/12/22,L7,Specialists,7.0,16.0,525.0,160.0,290.0,75.0,0.0
+Solution Architect,Viasat,United States,CA,San Diego,21/12/22,L3,telecom,5.0,5.0,153.0,130.0,18.0,5.0,0.0
+Solution Architect,NTT DATA,United States,TX,Plano,21/12/22,L3,DevOps,3.0,30.0,216.0,180.0,0.0,36.0,0.0
+Solution Architect,Slalom,United States,CA,San Francisco,21/12/22,Principal,Salesforce,1.0,9.0,203.0,180.0,0.0,23.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/12/22,L5,Full Stack,1.0,6.0,270.0,170.0,40.0,60.0,0.0
+Solution Architect,Philips,United States,NY,New York,21/12/22,GC70,Solution Delivery,2.0,13.0,140.0,130.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/12/22,L6,Cloud,2.0,13.0,275.0,160.0,115.0,0.0,0.0
+Solution Architect,PwC,United States,PA,Philadelphia,21/12/21,Associate,DevOps,0.0,2.0,96.0,91.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/12/20,L6,Cloud,5.0,20.0,268.0,160.0,108.0,0.0,0.0
+Solution Architect,Google,India,KA,Bangalore,21/12/20,L3,Cloud,1.0,2.0,48.0,21.0,22.0,6.0,0.0
+Solution Architect,Amazon,United States,NJ,Jersey City,21/12/19,L5,Cloud Infrastructure,0.0,5.0,217.0,160.0,32.0,25.0,0.0
+Solution Architect,Google,Canada,ON,Toronto,21/12/18,L6,Modernization,1.0,19.0,278.0,150.0,58.0,70.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/12/18,L4,Data,2.0,4.0,149.0,107.0,31.0,11.0,0.0
+Solution Architect,Oracle,United States,TX,Austin,21/12/16,M4,Production,2.0,17.0,515.0,200.0,200.0,115.0,0.0
+Solution Architect,Bank of America,United States,NJ,Jersey City,21/12/16,Band 4,Security,2.0,15.0,235.0,200.0,10.0,25.0,0.0
+Solution Architect,Google,United States,TX,Austin,21/12/15,L3,Data,2.0,2.0,171.0,104.0,50.0,17.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/12/15,L5,Data,1.0,12.0,210.0,150.0,45.0,15.0,0.0
+Solution Architect,Google,United States,IL,Chicago,21/12/15,L6,Sales,0.0,19.0,310.0,175.0,100.0,35.0,0.0
+Solution Architect,Fiserv,United States,NJ,Jersey City,21/12/15,L3,Full Stack,2.0,5.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,Salesforce,United States,NV,Las Vegas,21/12/14,L7,Data,6.0,9.0,181.0,127.0,0.0,54.0,0.0
+Solution Architect,Amazon,United States,OH,Columbus,21/12/14,L6,DevOps,2.0,5.0,239.0,160.0,79.0,0.0,0.0
+Solution Architect,Cisco,United States,DC,Washington,21/12/14,Systems Engineer II,Networking,3.0,3.0,183.0,130.0,0.0,53.0,0.0
+Solution Architect,Amazon,India,KA,Bangalore,21/12/14,L4,ML / AI,0.0,4.0,59.0,37.0,8.0,14.0,0.0
+Solution Architect,Juniper Networks,United States,IL,Chicago,21/12/14,L8,Networking,12.0,15.0,205.0,150.0,0.0,55.0,0.0
+Solution Architect,VERISIGN,United States,VA,Reston,21/12/13,Principal,Security,1.0,15.0,300.0,200.0,50.0,50.0,0.0
+Solution Architect,Ernst and Young,United States,IL,Chicago,21/12/12,Manager,Data,5.0,9.0,165.0,155.0,0.0,10.0,0.0
+Solution Architect,Honeywell,United States,NC,Charlotte,21/12/12,L5,Full Stack,5.0,5.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,Fiserv,United States,FL,Sanford,21/12/11,L3,API Development (Back-End),3.0,5.0,90.0,87.0,0.0,3.0,0.0
+Solution Architect,Société Générale et Vous,Romania,BU,Bucharest,21/12/11,L3,Security,2.0,5.0,28.0,28.0,0.0,0.0,0.0
+Solution Architect,Google,United States,WA,Seattle,21/12/10,L6,Data,6.0,13.0,403.0,195.0,166.0,42.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/12/10,L6,Networking,6.0,13.0,195.0,123.0,72.0,0.0,0.0
+Solution Architect,NXP Semiconductors,United States,TX,Austin,21/12/09,G4,ML / AI,5.0,7.0,178.0,125.0,40.0,13.0,0.0
+Solution Architect,Salesforce,United States,FL,Miami,21/12/08,Solution Architect,Services,1.0,6.0,150.0,125.0,12.0,13.0,0.0
+Solution Architect,Highspot,United States,WA,Seattle,21/12/08,33,Production,1.0,10.0,170.0,170.0,0.0,0.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/12/08,L5,Production,0.0,3.0,99.0,99.0,0.0,0.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,21/12/08,6,Security,1.0,12.0,240.0,160.0,40.0,40.0,25.0
+Solution Architect,Salesforce,United States,NY,New York,21/12/07,7,Distributed Systems (Back-End),1.0,10.0,188.0,160.0,10.0,18.0,0.0
+Solution Architect,Agilent Technologies,United States,CA,Santa Clara,21/12/07,Master,Security,8.0,17.0,240.0,190.0,40.0,10.0,0.0
+Solution Architect,Cognizant,Canada,ON,Toronto,21/12/06,M,ServiceNow,5.0,12.0,110.0,110.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/12/06,L6,Sales,3.0,13.0,365.0,175.0,180.0,10.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/12/06,L5,ML / AI,1.0,4.0,138.0,96.0,26.0,16.0,0.0
+Solution Architect,CVS Health,United States,TX,Irving,21/12/06,410,DevOps,8.0,13.0,170.0,140.0,10.0,20.0,0.0
+Solution Architect,Intercontinental Exchange,Canada,BC,Vancouver,21/12/05,L3,Site Reliability (SRE),1.0,5.0,150.0,130.0,0.0,20.0,0.0
+Solution Architect,Optum,United States,MA,Boston,21/12/04,29,Full Stack,5.0,17.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,Databricks,United States,MD,Maryland Line,21/12/03,L5,ML / AI,2.0,10.0,332.0,187.0,100.0,45.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/12/03,L5,DevOps,0.0,5.0,130.0,113.0,17.0,0.0,0.0
+Solution Architect,Salesforce,Canada,ON,Toronto,21/12/03,7,Consulting,3.0,15.0,143.0,118.0,10.0,15.0,0.0
+Solution Architect,Infor,United States,NY,New York,21/12/03,L1,DevOps,1.0,5.0,90.0,90.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,21/12/02,65,Networking,0.0,12.0,309.0,180.0,75.0,54.0,0.0
+Solution Architect,Amazon,United States,NC,Raleigh,21/12/02,L4,Public Sector,0.0,0.0,139.0,105.0,21.0,13.0,0.0
+Solution Architect,Google,United States,CA,Sunnyvale,21/12/02,7,ML / AI,5.0,20.0,560.0,250.0,250.0,60.0,0.0
+Solution Architect,Northrop Grumman,United States,MD,Baltimore,21/12/01,L4,Systems engineer,2.0,9.0,156.0,155.0,0.0,1.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/12/01,L6,Distributed Systems (Back-End),2.0,15.0,294.0,160.0,67.0,67.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/12/01,L5,Full Stack,1.0,15.0,230.0,145.0,85.0,0.0,0.0
+Solution Architect,Dassault Systèmes,India,KA,Bengaluru,21/12/01,CLG300,Full Stack,5.0,14.0,37.0,30.0,0.0,7.0,0.0
+Solution Architect,Amazon,France,IL,Paris,21/11/30,L5,Full Stack,3.0,5.0,98.0,79.0,19.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/30,L4,ML / AI,1.0,4.0,114.0,94.0,20.0,0.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,21/11/30,65,Data,1.0,21.0,315.0,210.0,42.0,63.0,0.0
+Solution Architect,Raytheon,United States,MA,Boston,21/11/30,L2,Data,1.0,1.0,83.0,80.0,0.0,3.0,0.0
+Solution Architect,Accenture,United States,NY,New York,21/11/29,Senior Analyst,Data,0.0,2.0,106.0,98.0,0.0,8.0,0.0
+Solution Architect,Intel,Germany,BY,Munich,21/11/29,85,HPC,5.0,13.0,150.0,130.0,10.0,10.0,0.0
+Solution Architect,Amazon,United States,MN,Minneapolis,21/11/28,L5,Full Stack,0.0,20.0,210.0,150.0,36.0,25.0,0.0
+Solution Architect,AWS,Norway,OS,Oslo,21/11/28,L5,Data,1.0,15.0,160.0,100.0,60.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/11/28,L5,Architect,0.0,15.0,246.0,155.0,53.0,38.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/28,L4,Enterprise,0.0,2.0,157.0,105.0,21.0,30.0,0.0
+Solution Architect,Roku,United States,MA,Boston,21/11/27,L5,Embedded,0.0,25.0,300.0,270.0,30.0,0.0,0.0
+Solution Architect,Cisco,United States,NY,New York,21/11/26,Grade 10,Networking,3.0,10.0,231.0,158.0,6.0,68.0,0.0
+Solution Architect,Microsoft,United States,TX,Austin,21/11/26,64,Cloud native,1.0,22.0,215.0,160.0,35.0,20.0,0.0
+Solution Architect,Tanium,United States,WA,Bothell,21/11/26,L3,Security,3.0,15.0,345.0,145.0,100.0,100.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/11/26,L6,General,6.0,11.0,232.0,155.0,77.0,0.0,0.0
+Solution Architect,VMware,United States,NV,Las Vegas,21/11/25,P3,Full Stack,0.0,0.0,86.0,80.0,0.0,6.0,0.0
+Solution Architect,Amazon,United States,OR,Portland,21/11/24,L6,Full Stack,2.0,25.0,265.0,160.0,91.0,14.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/11/24,L4,Full Stack,0.0,0.0,138.0,102.0,21.0,15.0,0.0
+Solution Architect,Cisco,Mexico,DF,Mexico,21/11/24,Grade 10,Networking,3.0,10.0,107.0,75.0,30.0,2.0,0.0
+Solution Architect,Deloitte,United Kingdom,EN,London,21/11/24,Senior Manager,Data,4.0,18.0,130.0,120.0,0.0,10.0,0.0
+Solution Architect,Slalom,United States,CA,Irvine,21/11/23,Solution architect,DevOps,0.0,17.0,170.0,160.0,0.0,10.0,0.0
+Solution Architect,Dassault Systèmes,United States,WA,Seattle,21/11/23,400I,Product Consultant,10.0,20.0,135.0,120.0,0.0,15.0,0.0
+Solution Architect,Amazon,India,MH,Pune,21/11/23,L4,API Development (Back-End),1.0,11.0,40.0,30.0,10.0,0.0,0.0
+Solution Architect,Amazon,United States,NJ,Jersey City,21/11/22,L5,Security,0.0,4.0,242.0,160.0,48.0,34.0,2.3
+Solution Architect,Cerner,United States,MO,Kansas City,21/11/22,Consultant,iOS,3.0,8.0,102.0,102.0,0.0,0.0,0.0
+Solution Architect,TD bank,Canada,ON,Toronto,21/11/21,L10,Data,4.0,10.0,99.0,87.0,0.0,12.0,0.0
+Solution Architect,Accenture,United States,DC,Washington,21/11/20,L6,API Development (Back-End),8.0,25.0,253.0,215.0,18.0,20.0,0.0
+Solution Architect,American Express,United States,AZ,Phoenix,21/11/20,40,DevOps,5.0,16.0,201.0,167.0,0.0,34.0,0.0
+Solution Architect,UKG,United States,TX,Dallas,21/11/20,L4,Production,4.0,15.0,129.0,110.0,4.0,15.0,0.0
+Solution Architect,IBM,United States,NC,Raleigh,21/11/20,Band 7,Cloud,2.0,2.0,90.0,90.0,0.0,0.0,0.0
+Solution Architect,EPAM Systems,United States,VA,Fairfax,21/11/20,B4,Distributed Systems (Back-End),6.0,25.0,247.0,167.0,40.0,40.0,0.0
+Solution Architect,Siemens,Portugal,LI,Lisbon,21/11/18,L5,Distributed Systems (Back-End),1.0,9.0,63.0,58.0,0.0,5.0,0.0
+Solution Architect,AWS,Netherlands,NH,Amsterdam,21/11/17,L6,Distributed Systems (Back-End),2.0,13.0,184.0,107.0,77.0,0.0,0.0
+Solution Architect,Amazon Web Services,United States,MO,St. Louis,21/11/15,L7,Distributed Systems (Back-End),1.0,16.0,405.0,160.0,245.0,0.0,0.0
+Solution Architect,Guidewire Software,United States,CA,San Mateo,21/11/15,L5,Full Stack,0.0,9.0,217.0,175.0,20.0,22.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/11/14,L4,DevOps,0.0,0.0,180.0,135.0,25.0,20.0,0.0
+Solution Architect,Google,United States,DC,Washington,21/11/14,L5,Cloud,4.0,15.0,225.0,150.0,15.0,60.0,0.0
+Solution Architect,Fiserv,United States,NJ,Warren,21/11/13,Advisory,General,2.0,18.0,180.0,160.0,0.0,20.0,0.0
+Solution Architect,JPMorgan Chase,United States,NJ,Jersey City,21/11/13,603,Distributed Systems (Back-End),5.0,30.0,190.0,170.0,0.0,20.0,0.0
+Solution Architect,Red Hat,Canada,ON,Toronto,21/11/12,L5,Site Reliability (SRE),4.0,20.0,175.0,120.0,30.0,25.0,0.0
+Solution Architect,Accenture,United States,NY,New York,21/11/12,Technology Analyst,DevOps,0.0,0.0,92.0,87.0,0.0,5.0,10.0
+Solution Architect,Google,United States,IL,Chicago,21/11/12,L3,Data,0.0,3.0,152.0,102.0,26.0,24.0,0.0
+Solution Architect,Slalom,United States,CA,San Francisco,21/11/11,Principal,Salesforce,1.0,10.0,200.0,180.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/11,L6,Full Stack,9.0,11.0,260.0,160.0,100.0,0.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,21/11/10,T4,Security,13.0,13.0,174.0,133.0,6.0,35.0,0.0
+Solution Architect,L3Harris Technologies,United States,FL,Melbourne,21/11/10,L5,Networking,5.0,38.0,153.0,124.0,20.0,9.0,0.0
+Solution Architect,Cisco,Italy,LA,Rome,21/11/10,Grade 8,Sales,1.0,1.0,60.0,50.0,0.0,10.0,0.0
+Solution Architect,Informatica,United States,CA,Redwood City,21/11/10,L5,Production,7.0,12.0,202.0,141.0,40.0,21.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/11/10,L7,Customer solutions,0.0,20.0,460.0,160.0,100.0,200.0,0.0
+Solution Architect,IBM,United States,FL,Tampa,21/11/08,Band 9,Networking,5.0,36.0,206.0,206.0,0.0,0.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/11/08,L5,Data,1.0,11.0,163.0,117.0,46.0,0.0,0.0
+Solution Architect,Ericsson,United States,CA,San Francisco,21/11/07,L8,SA,15.0,16.0,175.0,160.0,0.0,15.0,0.0
+Solution Architect,IBM,United States,OH,Columbus,21/11/06,Band 9,Security,2.0,11.0,220.0,180.0,0.0,40.0,0.0
+Solution Architect,Deloitte,United States,NY,New York,21/11/06,Senior Consultant,Production,0.0,5.0,185.0,170.0,0.0,15.0,0.0
+Solution Architect,Amazon,United States,TN,Nashville,21/11/06,L6,Production,1.0,21.0,280.0,155.0,70.0,54.0,0.0
+Solution Architect,Edwards Lifesciences,United States,CA,Irvine,21/11/05,Staff Engineer,Data,1.0,11.0,151.0,139.0,0.0,12.0,0.0
+Solution Architect,Amazon,United States,FL,Orlando,21/11/05,L6,Sales,0.0,15.0,239.0,152.0,64.0,23.0,0.0
+Solution Architect,Amazon,United States,CA,Santa Monica,21/11/05,L6,Data,1.0,5.0,329.0,160.0,169.0,0.0,0.0
+Solution Architect,PayPal,Canada,ON,Toronto,21/11/05,T26,,0.0,6.0,201.0,125.0,45.0,31.0,0.0
+Solution Architect,DoorDash,Canada,ON,Toronto,21/11/05,,,0.0,6.0,163.0,135.0,28.0,0.0,0.0
+Solution Architect,IBM,United States,NC,Raleigh,21/11/05,Band 9,Networking,6.0,21.0,208.0,208.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/11/04,L7,Full Stack,0.0,20.0,500.0,160.0,210.0,130.0,0.0
+Solution Architect,Amazon,Germany,HH,Hamburg,21/11/04,L5,Full Stack,0.0,15.0,153.0,117.0,20.0,16.0,17.4
+Solution Architect,Ericsson,Canada,ON,Mississauga,21/11/04,Job Stage 7,DevOps,11.0,23.0,123.0,113.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/03,L4,Storage,1.0,1.0,140.0,105.0,20.0,15.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,21/11/03,65,Networking,10.0,21.0,311.0,166.0,72.0,73.0,0.0
+Solution Architect,PwC,United States,NY,New York,21/11/03,Associate,Data,1.0,1.0,88.0,80.0,0.0,8.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/11/03,L6,Data,1.0,14.0,260.0,160.0,60.0,40.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/03,L6,Data,6.0,18.0,322.0,152.0,170.0,0.0,0.0
+Solution Architect,Nvidia,United States,MA,Westford,21/11/03,IC5,Distributed Systems (Back-End),0.0,10.0,360.0,235.0,100.0,25.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/11/03,L6,Data,1.0,14.0,254.0,150.0,104.0,0.0,0.0
+Solution Architect,Slalom,United States,CA,Los Angeles,21/11/03,Senior Consultant,Data,1.0,13.0,170.0,155.0,0.0,15.0,0.0
+Solution Architect,Sinch,United States,GA,Atlanta,21/11/03,L3,Product Development,2.0,3.0,102.0,92.0,0.0,10.0,0.0
+Solution Architect,Amazon,Switzerland,ZH,Zurich,21/11/03,L5,Infrastructure,0.0,10.0,186.0,145.0,25.0,16.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/11/02,L7,ML / AI,4.0,15.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Google,United States,CA,Mountain View,21/11/01,L5,ML / AI,2.0,10.0,330.0,160.0,70.0,100.0,0.0
+Solution Architect,Accenture,United States,NY,New York,21/11/01,Senior Manager,Full Stack,0.0,9.0,100.0,100.0,0.0,0.0,100.0
+Solution Architect,Microsoft,United States,VA,Reston,21/11/01,64,Security,1.0,18.0,264.0,188.0,20.0,56.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,21/10/31,L6,Data,1.0,10.0,190.0,120.0,40.0,30.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,21/10/30,Senior Engineer,Distributed Systems (Back-End),3.0,16.0,164.0,143.0,10.0,11.0,0.0
+Solution Architect,Epic Systems,United States,WI,Madison,21/10/30,L1,Data,2.0,2.0,80.0,78.0,0.0,2.0,0.0
+Solution Architect,Slalom,United States,TX,Houston,21/10/30,Principal,iOS,0.0,13.0,207.0,185.0,0.0,22.0,0.0
+Solution Architect,Google,Netherlands,NH,Amsterdam,21/10/29,L5,Android,6.0,10.0,196.0,120.0,57.0,20.0,0.0
+Solution Architect,Cloudflare,United States,CA,San Francisco,21/10/29,P4,Networking,2.0,5.0,330.0,140.0,150.0,40.0,0.0
+Solution Architect,Oracle,Canada,ON,Toronto,21/10/29,IC5,Full Stack,0.0,25.0,216.0,130.0,0.0,86.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/10/29,L6,Data,0.0,14.0,285.0,155.0,55.0,75.0,0.0
+Solution Architect,Roku,United States,MA,Boston,21/10/29,L5,Embedded,0.0,25.0,600.0,480.0,120.0,0.0,0.0
+Solution Architect,Microchip Technology,Germany,BW,Me,21/10/28,L1,Embedded,0.0,1.0,85.0,71.0,6.0,8.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/10/28,L6,Full Stack,1.0,12.0,355.0,160.0,136.0,59.0,0.0
+Solution Architect,Cisco,United States,MA,Boston,21/10/28,Grade 11,Networking,10.0,13.0,200.0,170.0,12.0,18.0,0.0
+Solution Architect,Siemens,United States,CA,San Jose,21/10/27,L2,Technical Sales,0.0,2.0,105.0,95.0,0.0,10.0,0.0
+Solution Architect,Deloitte,United States,CA,San Francisco,21/10/27,L1,Consulting,0.0,0.0,100.0,90.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,MD,California,21/10/26,L5 SDM,Networking,10.0,10.0,110.0,85.0,25.0,0.0,0.0
+Solution Architect,Scotiabank,Canada,ON,Toronto,21/10/26,9,Networking,8.0,20.0,148.0,118.0,5.0,25.0,0.0
+Solution Architect,Microsoft,United States,MI,Grand Rapids,21/10/25,64,Consulting,14.0,22.0,260.0,165.0,45.0,50.0,0.0
+Solution Architect,FedEx,United States,TX,Plano,21/10/25,SL,Data,17.0,17.0,145.0,122.0,5.0,18.0,0.0
+Solution Architect,IBM,India,MH,Pune,21/10/25,Band 8,Integration Architect,6.0,11.0,39.0,39.0,0.0,1.0,0.0
+Solution Architect,Amazon,Japan,TY,Tokyo,21/10/24,L5,DevOps,4.0,20.0,200.0,100.0,100.0,0.0,0.0
+Solution Architect,Cognizant,United States,TX,Austin,21/10/24,Director,Supply Chain Management,7.0,19.0,248.0,216.0,12.0,20.0,0.0
+Solution Architect,Oracle,United States,CA,San Francisco,21/10/24,IC4,Full Stack,11.0,17.0,220.0,155.0,10.0,55.0,0.0
+Solution Architect,Capgemini,Germany,BY,Munich,21/10/23,B,Distributed Systems (Back-End),1.0,2.0,76.0,70.0,0.0,6.0,0.0
+Solution Architect,Amazon,Switzerland,ZH,Zurich,21/10/23,6,Distributed Systems (Back-End),4.0,19.0,293.0,230.0,38.0,25.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/10/23,L5,Solution Architecture,6.0,12.0,210.0,140.0,70.0,0.0,0.0
+Solution Architect,Nvidia,United States,MA,Westford,21/10/23,IC5,Distributed Systems (Back-End),0.0,9.0,375.0,235.0,100.0,40.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,21/10/22,63,engineering,10.0,10.0,186.0,150.0,18.0,18.0,0.0
+Solution Architect,Aryaka Networks,United States,CA,San Mateo,21/10/22,L6,Networking,8.0,8.0,280.0,180.0,20.0,80.0,0.0
+Solution Architect,T-Mobile,United States,WA,Seattle,21/10/20,MTS,Networking,10.0,20.0,250.0,180.0,40.0,30.0,0.0
+Solution Architect,Slalom,Canada,QC,Montreal,21/10/20,Principal,Data,1.0,10.0,165.0,150.0,0.0,15.0,0.0
+Solution Architect,Benevity,Canada,BC,Victoria,21/10/18,SD4,Site Reliability (SRE),2.0,4.0,91.0,80.0,0.0,11.0,0.0
+Solution Architect,HPE,United States,CA,San Jose,21/10/17,Expert,Data,2.0,25.0,179.0,155.0,4.0,20.0,0.0
+Solution Architect,Jamf,United States,WI,Eau Claire,21/10/17,L1,DevOps,0.0,4.0,70.0,70.0,0.0,0.0,0.0
+Solution Architect,Slalom,United States,TX,Houston,21/10/16,L3,Full Stack,3.0,15.0,139.0,129.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/10/16,L4,Cloud computing,0.0,0.0,157.0,105.0,21.0,30.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/10/15,L7,Distributed Systems (Back-End),6.0,24.0,490.0,160.0,330.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/10/14,L6,Data,0.0,12.0,290.0,175.0,69.0,46.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/10/14,L6,Security,3.0,20.0,300.0,160.0,140.0,0.0,0.0
+Solution Architect,Adobe,United States,CA,San Francisco,21/10/13,L4,Data,6.0,10.0,205.0,163.0,13.0,29.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/10/12,L4,AWS,0.0,0.0,140.0,105.0,20.0,15.0,0.0
+Solution Architect,Cisco,Turkey,IB,Istanbul,21/10/12,Grade 10,Networking,2.0,8.0,105.0,75.0,15.0,15.0,0.0
+Solution Architect,Microsoft,Germany,BY,Munich,21/10/12,59,Data,3.0,3.0,113.0,89.0,5.0,20.0,0.0
+Solution Architect,Xperi,United States,NC,Durham,21/10/12,L3,API Development (Back-End),4.0,5.0,135.0,115.0,10.0,10.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/10/12,L7,Enterprise businesses,6.0,16.0,290.0,200.0,75.0,15.0,0.0
+Solution Architect,Slalom,United States,TX,Fort Worth,21/10/12,Principal,Data,11.0,16.0,171.0,153.0,0.0,18.0,0.0
+Solution Architect,Red Hat,United States,NY,Rochester,21/10/11,4,DevOps,2.0,5.0,246.0,166.0,25.0,55.0,0.0
+Solution Architect,AIG,United States,NY,New York,21/10/10,Vice President,Security,0.0,23.0,230.0,190.0,0.0,40.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/10/09,L6,Full Stack,2.0,24.0,260.0,160.0,100.0,0.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,21/10/08,62,ML / AI,1.0,3.0,222.0,142.0,30.0,50.0,0.0
+Solution Architect,New York Life Insurance,United States,NJ,Jersey City,21/10/08,Corporate Vice President,API Development (Back-End),0.0,18.0,225.0,190.0,0.0,35.0,0.0
+Solution Architect,Oracle,United States,TX,Frisco,21/10/08,IC4,Security,0.0,12.0,165.0,155.0,10.0,0.0,0.0
+Solution Architect,Intel,United States,OR,Hillsboro,21/10/07,Grade 10,System engineering,5.0,12.0,389.0,229.0,101.0,60.0,0.0
+Solution Architect,Salesforce,United Kingdom,EN,London,21/10/07,L6,Vlocity,2.0,14.0,138.0,119.0,7.0,12.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/10/07,L6,modernization,0.0,16.0,333.0,160.0,14.0,159.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,21/10/07,64,ML / AI,4.0,22.0,202.0,180.0,10.0,12.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/10/07,L6,Data,0.0,16.0,317.0,160.0,83.0,74.0,0.0
+Solution Architect,Micron Technology,United States,CA,Folsom,21/10/07,E5,Media System,17.0,18.0,225.0,170.0,30.0,25.0,0.0
+Solution Architect,HP Inc,United States,TX,Spring,21/10/06,Master Technologist,Data,2.0,15.0,181.0,141.0,20.0,20.0,0.0
+Solution Architect,Databricks,Germany,BY,Munich,21/10/06,L3,ML / AI,0.0,5.0,77.0,70.0,1.0,6.0,0.0
+Solution Architect,TransUnion,United States,IL,Chicago,21/10/06,Sr Architect,Distributed Systems (Back-End),1.0,8.0,208.0,180.0,0.0,28.0,0.0
+Solution Architect,BMC,United States,CA,San Jose,21/10/06,L3,Production,20.0,20.0,119.0,110.0,0.0,9.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/10/05,L7,Full Stack,3.0,32.0,320.0,160.0,160.0,0.0,0.0
+Solution Architect,Adobe,United States,MA,Boston,21/10/04,Principal Consultant L5,Full Stack,11.0,13.0,269.0,183.0,40.0,46.0,0.0
+Solution Architect,IBM,United States,NC,Durham,21/10/04,Band 9,ML / AI,0.0,13.0,218.0,158.0,0.0,60.0,0.0
+Solution Architect,Salesforce,United States,TX,Dallas,21/10/04,Architect,Full Stack,3.0,13.0,221.0,175.0,20.0,26.0,0.0
+Solution Architect,Visa,United States,TX,Austin,21/10/03,L8,Architecture,2.0,14.0,278.0,182.0,56.0,40.0,0.0
+Solution Architect,VMware,United States,CA,Palo Alto,21/10/02,P5,Cloud,5.0,22.0,230.0,173.0,10.0,47.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,21/10/02,T3,Customer Success,1.0,6.0,190.0,165.0,0.0,25.0,0.0
+Solution Architect,Pure Storage,United States,CA,San Jose,21/10/02,L7,EDA,6.0,20.0,520.0,260.0,180.0,80.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/10/01,L6,Full Stack,10.0,20.0,246.0,176.0,14.0,56.0,0.0
+Solution Architect,Juniper Networks,Singapore,SG,Sembawang,21/10/01,P8,Networking,4.0,10.0,182.0,152.0,7.0,23.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/30,L4,Data,2.0,2.0,162.0,102.0,45.0,15.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/30,L5,Data,1.0,13.0,195.0,150.0,45.0,0.0,0.0
+Solution Architect,Microsoft,Switzerland,ZH,Zurich,21/09/30,59,ML / AI,0.0,4.0,180.0,135.0,20.0,25.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/09/30,L4,Cloud Computing,0.0,0.0,156.0,105.0,21.0,30.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/09/30,L5,Full Stack,0.0,20.0,219.0,152.0,37.0,30.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/09/30,L5,Account SA,2.0,2.0,200.0,140.0,60.0,0.0,0.0
+Solution Architect,Amazon,New Zealand,WG,Wellington,21/09/29,L6,SA Generalist,3.0,15.0,198.0,119.0,66.0,13.0,0.0
+Solution Architect,Avanade,United States,WA,Seattle,21/09/29,Manager (level 7),DevOps,10.0,15.0,130.0,122.0,0.0,8.0,0.0
+Solution Architect,Cisco,United States,NC,Durham,21/09/28,Distinguished Engineer,Networking,20.0,24.0,812.0,271.0,400.0,141.0,0.0
+Solution Architect,Dell Technologies,United States,DC,Washington,21/09/27,Senior Engineer,Full Stack,5.0,8.0,205.0,205.0,0.0,0.0,0.0
+Solution Architect,ExtraHop,United States,WA,Seattle,21/09/27,L2,Networking,2.0,2.0,120.0,110.0,0.0,10.0,0.0
+Solution Architect,Amwell,United States,MA,Boston,21/09/25,L2,Integration,3.0,6.0,160.0,130.0,20.0,10.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/25,L6,Data,0.0,13.0,233.0,175.0,58.0,0.0,0.0
+Solution Architect,Cognizant,United States,MD,Columbia,21/09/24,Manager,API Development (Back-End),9.0,16.0,113.0,110.0,0.0,3.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/09/24,L5,Generalist,2.0,15.0,150.0,122.0,28.0,0.0,0.0
+Solution Architect,Tencent,United States,CA,San Francisco,21/09/24,10,API Development (Back-End),3.0,8.0,210.0,150.0,40.0,20.0,0.0
+Solution Architect,Dell Technologies,United States,TX,Austin,21/09/23,L10,EE,8.0,15.0,340.0,200.0,90.0,50.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/09/23,L6,Cloud,4.0,24.0,220.0,140.0,80.0,0.0,0.0
+Solution Architect,Cognizant,United States,NY,New York,21/09/23,Associate Director,Site Reliability (SRE),5.0,20.0,140.0,130.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/09/22,L5,Full Stack,1.0,20.0,230.0,150.0,50.0,30.0,0.0
+Solution Architect,Lockheed Martin,United States,CO,Littleton,21/09/22,L1,DevOps,0.0,0.0,77.0,77.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/09/22,L4,Cloud Computing,0.0,1.0,142.0,105.0,21.0,15.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/22,L4,Partner,1.0,1.0,112.0,112.0,0.0,0.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,21/09/21,6,Data,2.0,15.0,220.0,125.0,95.0,0.0,0.0
+Solution Architect,Slalom,United States,TX,Austin,21/09/20,Principal,DevOps,2.0,10.0,190.0,170.0,0.0,20.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,21/09/20,L6,L6,1.0,12.0,250.0,140.0,55.0,55.0,0.0
+Solution Architect,ADP,United States,NJ,Roseland,21/09/19,L5,Site Reliability (SRE),7.0,13.0,221.0,174.0,17.0,30.0,0.0
+Solution Architect,Qorvo,United States,TX,Dallas,21/09/17,L3,Production,3.0,3.0,114.0,100.0,12.0,2.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,21/09/17,65,Security,17.0,25.0,363.0,235.0,63.0,65.0,0.0
+Solution Architect,PayPal,United States,CA,San Jose,21/09/16,T28,Distributed Systems (Back-End),15.0,20.0,490.0,240.0,200.0,50.0,0.0
+Solution Architect,Avanade,United States,WA,Seattle,21/09/16,Manager,Dynamics CRM,3.0,8.0,139.0,135.0,0.0,4.0,0.0
+Solution Architect,IBM,United States,MO,St. Louis,21/09/15,Band 8,Full Stack,20.0,35.0,148.0,123.0,20.0,5.0,0.0
+Solution Architect,Amazon,Canada,QC,Montreal,21/09/15,L5,Distributed Systems (Back-End),0.0,24.0,187.0,145.0,20.0,22.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/09/14,L7,Data,2.0,20.0,540.0,160.0,380.0,0.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,21/09/13,T5,Networking,10.0,20.0,240.0,188.0,15.0,37.0,0.0
+Solution Architect,Palo Alto Networks,United States,TX,Plano,21/09/11,L3,Security,0.0,5.0,215.0,165.0,25.0,25.0,0.0
+Solution Architect,VMware,United States,WA,Seattle,21/09/11,P4,Cloud,0.0,30.0,230.0,172.0,15.0,43.0,0.0
+Solution Architect,Adobe,United States,TX,Austin,21/09/10,Software Engineer 4,Site Reliability (SRE),2.0,7.0,290.0,160.0,110.0,20.0,0.0
+Solution Architect,Sonatype,United States,MD,Fulton,21/09/10,L4,Security,1.0,2.0,120.0,90.0,0.0,30.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/09/09,L4,Cloud,0.0,0.0,87.0,68.0,16.0,4.0,0.0
+Solution Architect,Microsoft,United States,MI,Detroit,21/09/08,64,ML / AI,0.0,3.0,205.0,145.0,20.0,40.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/09/08,L6,Production,3.0,15.0,294.0,160.0,100.0,34.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/08,L6,DevOps,5.0,8.0,290.0,160.0,130.0,0.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,21/09/08,L6,Data,4.0,16.0,250.0,150.0,100.0,0.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/09/06,L4,Consulting+DevOps,0.0,0.0,79.0,71.0,1.0,7.0,0.0
+Solution Architect,DISH Network,United States,WV,Wyoming,21/09/06,L3,Networking,0.0,8.0,120.0,120.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/09/05,L5,Data,0.0,4.0,265.0,182.0,8.0,75.0,0.0
+Solution Architect,Cloudera,United States,CA,San Jose,21/09/05,L6,Data,3.0,10.0,193.0,156.0,25.0,12.0,0.0
+Solution Architect,Microsoft,United States,VA,Reston,21/09/04,63,Production,4.0,10.0,200.0,145.0,15.0,40.0,0.0
+Solution Architect,TuSimple,United States,PA,Pittsburgh,21/09/04,Staff,ML / AI,0.0,7.0,270.0,170.0,75.0,25.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/09/04,L6,Full Stack,0.0,7.0,288.0,160.0,70.0,58.0,0.0
+Solution Architect,Google,United States,WA,Seattle,21/09/04,L4,Distributed Systems (Back-End),2.0,7.0,224.0,120.0,80.0,24.0,0.0
+Solution Architect,USAA,United States,TX,San Antonio,21/09/03,Principal Architect,Full Stack,15.0,15.0,213.0,168.0,0.0,45.0,0.0
+Solution Architect,Visa,United States,CA,Foster City,21/09/03,L8,Distributed Systems (Back-End),6.0,25.0,328.0,216.0,52.0,60.0,0.0
+Solution Architect,Cisco,India,DL,Delhi,21/09/03,Grade 9,Security,3.0,8.0,50.0,45.0,5.0,0.0,0.0
+Solution Architect,Cerner,United States,MO,Kansas City,21/09/03,P2,Consultant,5.0,5.0,61.0,61.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/03,L4,Presales,0.0,11.0,127.0,105.0,21.0,0.0,0.0
+Solution Architect,Infosys,United States,IL,Chicago,21/09/02,L5,Salesforce,2.0,14.0,133.0,133.0,0.0,0.0,0.0
+Solution Architect,Comcast,United States,WA,Bellevue,21/09/02,L5,Networking,3.0,14.0,239.0,190.0,30.0,19.0,0.0
+Solution Architect,Red Hat,United States,NY,New York,21/09/01,,DevOps,0.0,7.0,250.0,175.0,20.0,55.0,0.0
+Solution Architect,Zscaler,Germany,BY,Munich,21/09/01,0,Security,0.0,9.0,150.0,97.0,20.0,33.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/09/01,L7,Networking,4.0,20.0,500.0,165.0,335.0,0.0,0.0
+Solution Architect,HPE,United States,GA,Atlanta,21/09/01,L2,Production,2.0,2.0,82.0,79.0,1.0,3.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,21/09/01,L6,Networking,4.0,20.0,326.0,160.0,166.0,0.0,0.0
+Solution Architect,Nvidia,United States,CA,Santa Clara,21/09/01,IC3,ML / AI,3.0,3.0,240.0,175.0,50.0,15.0,0.0
+Solution Architect,BNP Paribas,Canada,QC,Montreal,21/09/01,VP,Full Stack,7.0,12.0,87.0,75.0,0.0,12.0,0.0
+Solution Architect,Abbott,United States,TX,Plano,21/09/01,L5,Firmware Engineering,0.0,17.0,189.0,155.0,11.0,23.0,0.0
+Solution Architect,Amazon,United States,TN,Nashville,21/08/31,L5,DevOps,1.0,8.0,216.0,152.0,34.0,30.0,0.0
+Solution Architect,Applied Materials,United States,CA,Santa Clarita,21/08/31,E3,Systems engineering,2.0,2.0,145.0,125.0,10.0,10.0,0.0
+Solution Architect,MathWorks,United States,MA,Natick,21/08/31,L3,Model based design,5.0,5.0,143.0,128.0,0.0,15.0,0.0
+Solution Architect,Amazon,France,IL,Paris,21/08/30,L6,Presales,2.0,13.0,160.0,115.0,45.0,0.0,0.0
+Solution Architect,Dell Technologies,United States,NC,Charlotte,21/08/30,Senior Engineer,Sales,4.0,10.0,192.0,133.0,0.0,59.0,0.0
+Solution Architect,Microsoft,United States,FL,Tampa,21/08/27,65,Distributed Systems (Back-End),5.0,20.0,308.0,165.0,80.0,63.0,0.0
+Solution Architect,Amazon,United States,PA,Scranton,21/08/27,L7,Data,6.0,20.0,240.0,140.0,10.0,90.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/08/27,L5,IoT,1.0,7.0,217.0,150.0,67.0,0.0,0.0
+Solution Architect,Quantiphi,Canada,ON,Toronto,21/08/26,Associate Data Architect,Data,3.0,7.0,114.0,102.0,1.0,11.0,0.0
+Solution Architect,IBM,United States,VA,Aldie,21/08/26,Senior Technical Staff Member,Cloud,20.0,20.0,178.0,170.0,5.0,3.0,0.0
+Solution Architect,USAA,United States,TX,San Antonio,21/08/26,1,Production,24.0,29.0,189.0,160.0,0.0,29.0,0.0
+Solution Architect,DocuSign,United States,WA,Seattle,21/08/26,L4,Sales,5.0,8.0,350.0,180.0,40.0,130.0,0.0
+Solution Architect,Ericsson,Canada,ON,Toronto,21/08/26,JS8,telco,7.0,13.0,218.0,175.0,18.0,25.0,0.0
+Solution Architect,Amazon,Canada,AB,Calgary,21/08/26,L6,Full Stack,0.0,20.0,250.0,170.0,42.0,38.0,0.0
+Solution Architect,Ernst and Young,United States,WA,Seattle,21/08/26,Senior Consultant,Cloud,2.0,8.0,174.0,159.0,0.0,15.0,0.0
+Solution Architect,Workrise,United States,TX,Dallas,21/08/26,L5,DevOps,1.0,7.0,265.0,140.0,105.0,20.0,0.0
+Solution Architect,PwC,United States,GA,Atlanta,21/08/25,Director,Data,10.0,10.0,230.0,200.0,0.0,30.0,0.0
+Solution Architect,Bosch Global,Germany,BW,Stuttgart,21/08/23,EG16,Distributed Systems (Back-End),11.0,15.0,121.0,118.0,0.0,3.0,0.0
+Solution Architect,Cisco,United States,NC,Morrisville,21/08/22,Grade 10,Security,5.0,5.0,200.0,150.0,0.0,50.0,0.0
+Solution Architect,Dell Technologies,United States,UT,Saint George,21/08/22,L2,Production,2.0,10.0,132.0,102.0,0.0,30.0,0.0
+Solution Architect,IBM,United States,IL,Chicago,21/08/21,Band 9,Cloud,0.0,13.0,187.0,172.0,0.0,15.0,0.0
+Solution Architect,Microsoft,United States,TX,Irving,21/08/21,63,Modern Work,0.0,7.0,213.0,141.0,30.0,42.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/08/21,L7,Networking,5.0,25.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Microsoft,United States,TX,Houston,21/08/20,61,Cloud,0.0,0.0,128.0,113.0,12.0,3.0,0.0
+Solution Architect,Tata Consultancy Services,United States,TX,Austin,21/08/20,C3B,API Development (Back-End),2.0,14.0,146.0,136.0,0.0,10.0,0.0
+Solution Architect,Amazon,Canada,BC,Vancouver,21/08/19,L4,Distributed Systems (Back-End),0.0,0.0,88.0,63.0,16.0,9.0,0.0
+Solution Architect,Chainalysis,United States,DC,Washington,21/08/19,Senior,API Development (Back-End),2.0,5.0,200.0,155.0,0.0,45.0,0.0
+Solution Architect,Dell Technologies,Canada,ON,Toronto,21/08/19,Senior Principal Engineer,Cloud,6.0,10.0,176.0,138.0,17.0,21.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/08/19,L6,Full Stack,0.0,18.0,375.0,185.0,15.0,175.0,0.0
+Solution Architect,Microsoft,United States,TX,Houston,21/08/18,61,Infrastructure,2.0,2.0,142.0,103.0,11.0,27.0,0.0
+Solution Architect,Databricks,United Kingdom,EN,London,21/08/18,L6,Data,0.0,15.0,288.0,166.0,88.0,34.0,0.0
+Solution Architect,Cognizant,United States,NJ,Jersey City,21/08/18,L5,Production,9.0,12.0,130.0,125.0,0.0,5.0,0.0
+Solution Architect,Amazon,Israel,TA,Tel Aviv,21/08/17,L6,Distributed Systems (Back-End),2.0,15.0,319.0,148.0,125.0,46.0,0.0
+Solution Architect,Amazon,Singapore,SG,Serangoon,21/08/17,L5,DevOps,3.0,7.0,140.0,100.0,40.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,Irvine,21/08/17,L4,Cloud,0.0,0.0,123.0,102.0,20.0,0.0,0.0
+Solution Architect,UBS,Switzerland,ZH,Zurich,21/08/16,Director,Full Stack,26.0,26.0,213.0,173.0,0.0,40.0,0.0
+Solution Architect,Microsoft,United Kingdom,EN,London,21/08/16,Senior Architect,Data,5.0,20.0,214.0,137.0,47.0,30.0,0.0
+Solution Architect,Amazon,United States,NY,New City,21/08/14,L6,Other,5.0,15.0,500.0,185.0,315.0,0.0,0.0
+Solution Architect,Amazon,Australia,VI,Melbourne,21/08/13,L4,API Development (Back-End),0.0,1.0,100.0,74.0,17.0,9.0,0.0
+Solution Architect,Amazon,Australia,VI,Melbourne,21/08/13,L6,Professional Services,5.0,14.0,229.0,150.0,79.0,0.0,0.0
+Solution Architect,Adobe,India,KA,Bengaluru,21/08/11,Solution Consultant,SC,5.0,7.0,130.0,100.0,30.0,0.0,0.0
+Solution Architect,Tanium,United States,CA,Emeryville,21/08/11,L1,Production,1.0,5.0,170.0,125.0,20.0,25.0,0.0
+Solution Architect,IBM,United States,TX,Houston,21/08/11,Band 10,Full Stack,18.0,25.0,310.0,240.0,20.0,50.0,0.0
+Solution Architect,IBM,United States,TX,Houston,21/08/11,Band 10,Full Stack,17.0,20.0,260.0,200.0,0.0,60.0,0.0
+Solution Architect,Capgemini,United States,LA,Shreveport,21/08/11,C2,Security,3.0,15.0,99.0,98.0,0.0,1.0,0.0
+Solution Architect,EPAM Systems,United States,TX,Houston,21/08/10,B1,Distributed Systems (Back-End),2.0,18.0,150.0,141.0,0.0,9.0,0.0
+Solution Architect,Amazon,United States,NJ,Jersey City,21/08/10,L6,Production,3.0,15.0,284.0,172.0,111.0,1.0,0.0
+Solution Architect,MongoDB,United States,TX,Austin,21/08/10,Intermediate,Data,1.0,7.0,195.0,130.0,25.0,40.0,0.0
+Solution Architect,Amazon,Canada,ON,Ottawa,21/08/09,L6,Security,0.0,10.0,214.0,140.0,42.0,32.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,21/08/08,L6,Presales,5.0,15.0,290.0,160.0,130.0,0.0,0.0
+Solution Architect,Akamai,United States,DC,Washington,21/08/08,SA,Networking,1.0,5.0,118.0,103.0,0.0,15.0,0.0
+Solution Architect,Capital Group,United States,CA,Los Angeles,21/08/08,L5,Full Stack Architecture including cloud,10.0,18.0,293.0,183.0,40.0,70.0,0.0
+Solution Architect,Cisco,United States,NC,Durham,21/08/08,Grade 12,Networking,21.0,21.0,230.0,148.0,45.0,37.0,0.0
+Solution Architect,Amazon,Taiwan,TP,Taipei,21/08/07,L6,DevOps,4.0,10.0,163.0,99.0,64.0,0.0,0.0
+Solution Architect,Amdocs,Netherlands,NH,Julianadorp,21/08/06,Senior,API Development (Back-End),4.0,16.0,110.0,102.0,0.0,8.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/08/06,L6,Distributed Systems (Back-End),2.0,8.0,251.0,176.0,54.0,21.0,0.0
+Solution Architect,LiveRamp,United States,CA,San Francisco,21/08/05,L3,Pre Sales,3.0,5.0,178.0,120.0,18.0,40.0,0.0
+Solution Architect,Publicis Sapient,United States,VA,Arlington,21/08/05,Solutions Architect,Distributed Systems (Back-End),4.0,18.0,161.0,146.0,0.0,15.0,0.0
+Solution Architect,AT&T,United States,CA,San Diego,21/08/04,L2,Target Architecture,10.0,10.0,174.0,154.0,0.0,20.0,0.0
+Solution Architect,Cloudflare,United Kingdom,EN,London,21/08/04,3,DevOps,1.0,5.0,128.0,100.0,4.0,24.0,0.0
+Solution Architect,IBM,Taiwan,TP,Taipei,21/08/04,Band 7,DevOps,1.0,3.0,44.0,41.0,0.0,3.0,0.0
+Solution Architect,Deloitte,United States,TX,Austin,21/08/04,Manager,Modernization,4.0,16.0,176.0,157.0,0.0,19.0,0.0
+Solution Architect,Synopsys,Taiwan,TP,Hsin-chu,21/08/04,65 (Engineer II),Applications Engineer,0.0,0.0,51.0,47.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,VA,Arlington,21/08/04,L5,Production,3.0,10.0,168.0,125.0,35.0,8.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/08/04,L6,Distributed Systems (Back-End),2.0,8.0,251.0,176.0,54.0,21.0,0.0
+Solution Architect,JPMorgan Chase,United States,NJ,Jersey City,21/08/04,Senior Associate,DevOps,2.0,3.0,128.0,120.0,0.0,8.0,0.0
+Solution Architect,Tata Consultancy Services,United States,TX,Irving,21/08/03,C3,DevOps,2.0,20.0,137.0,130.0,0.0,7.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,21/08/02,10,Networking,11.0,11.0,189.0,141.0,0.0,48.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/08/02,L6,ML / AI,2.0,10.0,275.0,152.0,88.0,35.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/08/02,L7,ML / AI,4.0,15.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,21/07/31,L63,ML / AI,0.0,4.0,251.0,150.0,19.0,83.0,0.0
+Solution Architect,Amazon,France,IL,Courbevoic,21/07/30,L5,DevOps,0.0,3.0,123.0,100.0,15.0,8.0,0.0
+Solution Architect,VMware,India,KA,Bangalore,21/07/30,P5,Networking,1.0,12.0,127.0,77.0,30.0,20.0,0.0
+Solution Architect,Amazon,Germany,BE,Berlin,21/07/29,L6,DevOps,2.0,18.0,169.0,131.0,38.0,0.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/07/28,L5,Data,0.0,8.0,162.0,133.0,19.0,10.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,21/07/28,L6,Data,1.0,20.0,275.0,175.0,0.0,100.0,0.0
+Solution Architect,Cisco Systems,United States,CA,San Francisco,21/07/27,G10,Security,2.0,5.0,168.0,140.0,20.0,8.0,0.0
+Solution Architect,Google,United States,CA,Sunnyvale,21/07/27,L6,API Development (Back-End),0.0,15.0,310.0,190.0,80.0,40.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/07/27,L6,Data,4.0,24.0,250.0,140.0,110.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/07/27,L4,Full Stack,0.0,0.0,153.0,113.0,24.0,16.0,0.0
+Solution Architect,Microsoft,Canada,QC,Montreal,21/07/26,58,DevOps,0.0,2.0,72.0,64.0,2.0,6.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/07/26,L7,Data,0.0,22.0,440.0,295.0,95.0,50.0,0.0
+Solution Architect,Cisco,United States,AZ,Phoenix,21/07/26,Grade 11,Networking,10.0,20.0,200.0,160.0,5.0,35.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,21/07/26,L9,Security,7.0,11.0,132.0,120.0,0.0,12.0,0.0
+Solution Architect,Auth0,United States,DC,Washington,21/07/25,L4,Security,1.0,10.0,300.0,168.0,60.0,72.0,0.0
+Solution Architect,CapTech,United States,VA,Richmond,21/07/24,Manager,Salesforce,7.0,9.0,131.0,121.0,0.0,10.0,0.0
+Solution Architect,Microsoft,Switzerland,ZH,Zurich,21/07/24,58,Data,3.0,3.0,141.0,110.0,1.0,30.0,0.0
+Solution Architect,Microsoft Corporation,United States,GA,Atlanta,21/07/24,62,Data,0.0,9.0,197.0,133.0,25.0,39.0,0.0
+Solution Architect,Amazon,Germany,HH,Hamburg,21/07/23,L5,AWS,1.0,8.0,127.0,87.0,30.0,10.0,0.0
+Solution Architect,AWS,United States,WA,Seattle,21/07/23,L6,ML / AI,5.0,20.0,220.0,155.0,65.0,0.0,0.0
+Solution Architect,NXP Semiconductors,United States,MI,Detroit,21/07/23,L3,Embedded,6.0,6.0,141.0,106.0,15.0,20.0,0.0
+Solution Architect,Wipro Limited,United States,CA,Sunnyvale,21/07/23,C1,DevOps,1.0,15.0,175.0,160.0,0.0,15.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/07/23,L6,Full Stack,2.0,15.0,310.0,185.0,88.0,37.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/07/22,7,Architecture,6.0,20.0,415.0,185.0,230.0,0.0,0.0
+Solution Architect,Twilio,Germany,BE,Berlin,21/07/22,Senior Software Engineer,Sales,2.0,9.0,175.0,140.0,35.0,0.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/07/22,L6,Full Stack,1.0,12.0,236.0,138.0,81.0,18.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,21/07/22,65,API Development (Back-End),9.0,15.0,254.0,158.0,38.0,57.0,0.0
+Solution Architect,Bayer,United States,NJ,Whippany,21/07/21,Associate Director,Data,15.0,25.0,240.0,170.0,35.0,35.0,0.0
+Solution Architect,Microsoft,Australia,VI,Melbourne,21/07/21,62,Modern Work,1.0,18.0,196.0,155.0,11.0,30.0,0.0
+Solution Architect,Amazon,United States,PA,Philadelphia,21/07/20,L4,Public Sector,1.0,1.0,95.0,86.0,0.0,9.0,0.0
+Solution Architect,Silicon Valley Bank,United States,CA,Santa Clara,21/07/20,Principal Solution Architect,solution architect,1.0,10.0,270.0,200.0,0.0,70.0,0.0
+Solution Architect,Amazon,Brazil,SP,Sao Paulo,21/07/18,L6,Migrations,1.0,20.0,118.0,80.0,25.0,13.0,0.0
+Solution Architect,Ford Motor Company,United States,MI,Dearborn,21/07/18,Mid,Vehicle to Cloud Communication,3.0,10.0,120.0,115.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/07/17,L6,Full Stack,5.0,5.0,213.0,128.0,85.0,0.0,0.0
+Solution Architect,Microsoft,United States,MI,Grand Rapids,21/07/16,63,Data,1.0,4.0,190.0,135.0,25.0,30.0,0.0
+Solution Architect,Microsoft,United Kingdom,EN,London,21/07/16,63,Full Stack,4.0,20.0,187.0,138.0,17.0,32.0,0.0
+Solution Architect,Salesforce,United States,CA,Los Angeles,21/07/16,L4,Sales engineering,1.0,5.0,210.0,147.0,0.0,63.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,21/07/16,62,Sales,1.0,3.0,157.0,119.0,3.0,35.0,0.0
+Solution Architect,Cisco,Ireland,DN,Dublin,21/07/16,Grade 11,Networking,4.0,10.0,150.0,100.0,25.0,25.0,0.0
+Solution Architect,IBM,United States,NY,New York,21/07/15,Band 7,Cloud,2.0,2.0,142.0,142.0,0.0,0.0,0.0
+Solution Architect,Nagarro,United States,FL,Clearwater,21/07/15,L8,Systems,7.0,12.0,132.0,132.0,0.0,0.0,0.0
+Solution Architect,Slalom,United States,IL,Chicago,21/07/15,Director,DevOps,7.0,15.0,260.0,200.0,0.0,60.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,21/07/14,62,Web Development (Front-End),2.0,20.0,178.0,138.0,20.0,20.0,0.0
+Solution Architect,Salesforce,United States,NY,New York,21/07/14,7,Salesforce,1.0,9.0,175.0,145.0,0.0,30.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/07/14,L4,Professional Services,0.0,0.0,140.0,105.0,20.0,15.0,0.0
+Solution Architect,IBM,United States,OH,Cincinnati,21/07/13,Band 10,Site Reliability (SRE),0.0,20.0,350.0,250.0,0.0,100.0,0.0
+Solution Architect,Deloitte,United States,TX,Austin,21/07/13,Senior Manager,Cloud,1.0,20.0,227.0,205.0,0.0,22.0,0.0
+Solution Architect,Accenture,United States,FL,Orlando,21/07/13,Consultant,Security,1.0,3.0,130.0,120.0,0.0,10.0,0.0
+Solution Architect,Slalom,United States,PA,Philadelphia,21/07/13,Senior Consultant,Site Reliability (SRE),1.0,12.0,187.0,175.0,0.0,12.0,0.0
+Solution Architect,Ernst and Young,United States,NY,New York,21/07/11,Senior Consultant,Microsoft Biz Apps,2.0,9.0,137.0,137.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,21/07/11,62,Networking,3.0,17.0,195.0,142.0,11.0,43.0,0.0
+Solution Architect,Salesforce,United States,TX,Dallas,21/07/10,Architect,Web Development (Front-End),1.0,8.0,153.0,125.0,10.0,18.0,0.0
+Solution Architect,Amazon,Australia,VI,Melbourne,21/07/10,L6,Distributed Systems (Back-End),1.0,20.0,310.0,200.0,75.0,35.0,0.0
+Solution Architect,UBS,United Kingdom,EN,London,21/07/09,Associate Director,Full Stack,6.0,10.0,161.0,139.0,0.0,22.0,0.0
+Solution Architect,Adobe,United States,CA,San Jose,21/07/09,L5,Production,0.0,14.0,280.0,210.0,35.0,35.0,0.0
+Solution Architect,Juniper Networks,United States,IL,Chicago,21/07/09,L8,Networking,12.0,19.0,300.0,200.0,25.0,75.0,0.0
+Solution Architect,SAP,Canada,QC,Montreal,21/07/08,T3,SAP,4.0,7.0,96.0,80.0,4.0,16.0,0.0
+Solution Architect,Wipro Limited,Australia,NS,Sydney,21/07/08,C2,Cloud,17.0,17.0,190.0,190.0,0.0,0.0,0.0
+Solution Architect,Slalom,United States,TX,Dallas,21/07/07,Senior Consultant,iOS,1.0,5.0,165.0,155.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/07/07,L5,Sales,2.0,7.0,233.0,153.0,80.0,0.0,0.0
+Solution Architect,Snowflake,United States,DC,Washington,21/07/07,IC3,Data,0.0,15.0,309.0,195.0,75.0,39.0,0.0
+Solution Architect,Verizon,United States,GA,Alpharetta,21/07/07,L6,BPM / Pega Case management,16.0,23.0,182.0,144.0,10.0,28.0,0.0
+Solution Architect,World Wide Technology,United States,MO,St. Louis,21/07/07,Solutions Architect,Telecom Engineer,7.0,23.0,238.0,180.0,0.0,58.0,0.0
+Solution Architect,Stripe,United States,NY,New York,21/07/07,L3,Sales,2.0,2.0,326.0,156.0,120.0,52.0,0.0
+Solution Architect,Amazon,United States,TX,San Antonio,21/07/07,L5,Security,1.0,11.0,151.0,150.0,1.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/07/06,L5,Production,2.0,8.0,156.0,130.0,20.0,6.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,21/07/06,Grade 13,Networking,14.0,25.0,445.0,232.0,125.0,88.0,0.0
+Solution Architect,Microsoft,United States,OH,Toledo,21/07/06,64,Security,0.0,16.0,268.0,170.0,50.0,48.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/07/03,L6,Security,2.0,12.0,206.0,150.0,56.0,0.0,0.0
+Solution Architect,Cisco,United States,NY,New York,21/07/02,Grade 10,Networking,6.0,9.0,238.0,142.0,0.0,97.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,21/07/02,L7,Distributed Systems (Back-End),4.0,16.0,220.0,170.0,15.0,35.0,0.0
+Solution Architect,Indeed,United States,TX,Austin,21/07/02,Senior Manager,Salesforce,2.0,10.0,252.0,180.0,45.0,27.0,0.0
+Solution Architect,Booz Allen Hamilton,United States,MD,Lexington Park,21/07/02,Associate,DevOps,2.0,6.0,112.0,105.0,0.0,7.0,0.0
+Solution Architect,Oracle,United States,TX,Austin,21/07/02,IC-2,ERP,3.0,7.0,135.0,102.0,0.0,33.0,0.0
+Solution Architect,IBM,United Kingdom,EN,London,21/07/02,Associate Engineer,Distributed Systems (Back-End),0.0,0.0,44.0,44.0,0.0,0.0,0.0
+Solution Architect,Microsoft,Canada,ON,Toronto,21/07/01,63,Security,1.0,8.0,210.0,160.0,30.0,20.0,0.0
+Solution Architect,Microsoft,Brazil,SP,Sao Paulo,21/07/01,60,DevOps,5.0,7.0,50.0,33.0,5.0,10.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/07/01,L7,Production,5.0,15.0,541.0,185.0,200.0,156.0,0.0
+Solution Architect,Amazon,United States,VA,Arlington,21/07/01,L5,Infrastructure,2.0,7.0,215.0,150.0,40.0,25.0,0.0
+Solution Architect,Cognizant,United States,TX,Dallas,21/07/01,Manager,API Development (Back-End),5.0,14.0,110.0,105.0,0.0,5.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/06/30,L6,Full Stack,1.0,7.0,201.0,141.0,32.0,24.0,0.0
+Solution Architect,Amazon,United States,PA,Philadelphia,21/06/29,L5,Cloud,1.0,17.0,212.0,150.0,7.0,55.0,0.0
+Solution Architect,Tata Consultancy Services,India,UP,Noida,21/06/29,C3B,DevOps,11.0,11.0,22.0,18.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/06/29,L5,Networking,1.0,15.0,267.0,177.0,40.0,50.0,0.0
+Solution Architect,Slalom,United States,CA,Irvine,21/06/29,Principal,Data,3.0,16.0,210.0,190.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/06/28,L6,API Development (Back-End),3.0,8.0,300.0,185.0,115.0,0.0,0.0
+Solution Architect,Amazon,Australia,VI,Melbourne,21/06/28,L6,Full Stack,0.0,15.0,250.0,163.0,53.0,34.0,0.0
+Solution Architect,Google,Germany,BY,Munich,21/06/26,L6,Full Stack,1.0,20.0,260.0,150.0,50.0,60.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/06/26,L6,Na,0.0,12.0,278.0,152.0,75.0,51.0,0.0
+Solution Architect,Deloitte consulting,United States,TX,Austin,21/06/26,Manager,Data,4.0,15.0,172.0,157.0,0.0,16.0,0.0
+Solution Architect,Google,United States,CO,Boulder,21/06/25,L6,Cloud,0.0,5.0,350.0,170.0,110.0,70.0,0.0
+Solution Architect,Google,United States,WA,Seattle,21/06/25,L5,Data,6.0,13.0,360.0,169.0,150.0,36.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/06/25,L6,Security,5.0,15.0,173.0,143.0,30.0,0.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,21/06/25,65,Data,0.0,16.0,341.0,184.0,65.0,92.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/06/24,L6,Data,1.0,10.0,277.0,165.0,64.0,48.0,0.0
+Solution Architect,IBM,United Kingdom,EN,London,21/06/24,Band 8,Microsoft Power Platfrom,4.0,10.0,111.0,111.0,0.0,0.0,0.0
+Solution Architect,Thoughtworks,United States,NY,New York,21/06/24,Technical Principal,Architecture,0.0,10.0,215.0,215.0,0.0,0.0,0.0
+Solution Architect,Google,United States,CA,Mountain View,21/06/22,L5,Tools development,9.0,10.0,301.0,174.0,105.0,26.0,0.0
+Solution Architect,IBM,United States,CO,Boulder,21/06/22,Band 8,Production,8.0,10.0,117.0,105.0,10.0,2.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/06/22,L4,Security,0.0,0.0,156.0,102.0,20.0,36.0,0.0
+Solution Architect,Amazon,Switzerland,ZH,Zurich,21/06/21,L5,Data,0.0,18.0,205.0,190.0,15.0,0.0,0.0
+Solution Architect,IBM,United States,OH,Columbus,21/06/21,Band 9,Edge,1.0,20.0,198.0,180.0,0.0,18.0,0.0
+Solution Architect,Cisco,India,KA,Bangalore,21/06/19,Grade 11,Networking,10.0,14.0,119.0,39.0,70.0,10.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/06/17,L6,Solutions Architect,0.0,22.0,305.0,185.0,15.0,105.0,0.0
+Solution Architect,Amazon,United States,MO,Kansas City,21/06/16,L5,Professional Services,2.0,13.0,204.0,153.0,29.0,23.0,0.0
+Solution Architect,VMware,United States,NY,New York,21/06/16,P4,Cloud,3.0,15.0,215.0,150.0,5.0,65.0,0.0
+Solution Architect,Deloitte,United States,TX,Dallas,21/06/16,Manager,DevOps,5.0,10.0,130.0,120.0,0.0,10.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,21/06/16,L5,Cloud,1.0,3.0,159.0,111.0,22.0,25.0,0.0
+Solution Architect,USAA,United States,TX,San Antonio,21/06/16,Software Engineer I,Distributed Systems (Back-End),6.0,6.0,110.0,98.0,0.0,11.0,0.0
+Solution Architect,Office Depot,United States,OH,Cincinnati,21/06/15,Level-1,Professional Services,0.0,6.0,220.0,180.0,40.0,0.0,0.0
+Solution Architect,Salesforce,United States,WA,Seattle,21/06/14,Lead MTS,Full Stack,2.0,5.0,175.0,142.0,12.0,21.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/06/14,L4,Partner Solutions Architect,0.0,0.0,151.0,113.0,23.0,16.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,21/06/12,62,Site Reliability (SRE),1.0,10.0,190.0,145.0,25.0,20.0,0.0
+Solution Architect,AWS,United States,WA,Seattle,21/06/11,L6,Distributed Systems (Back-End),4.0,10.0,215.0,160.0,55.0,0.0,0.0
+Solution Architect,Anthem,United States,VA,Norfolk,21/06/10,E15,Mobile (iOS + Android),7.0,15.0,200.0,154.0,18.0,29.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/06/10,L7,Data,0.0,20.0,350.0,150.0,100.0,100.0,0.0
+Solution Architect,Amazon,India,KA,Bangalore,21/06/09,L4,Security,1.0,1.0,18.0,15.0,3.0,2.0,0.0
+Solution Architect,BNP Paribas,Brazil,SP,Sao Paulo,21/06/09,L7,SOLUTION ARCHITECT,7.0,10.0,89.0,62.0,0.0,27.0,0.0
+Solution Architect,Slalom,United States,WA,Seattle,21/06/08,L1,DevOps,0.0,0.0,100.0,93.0,0.0,7.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/06/06,L4,DevOps,0.0,0.0,133.0,102.0,0.0,31.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/06/05,L7,ML / AI,4.0,15.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,21/06/04,L6,Security,4.0,15.0,227.0,160.0,67.0,0.0,0.0
+Solution Architect,Splunk,United States,DC,Washington,21/06/03,P3,Data,2.0,2.0,140.0,85.0,20.0,35.0,0.0
+Solution Architect,Microsoft,Australia,QL,Brisbane,21/06/03,59,ML / AI,0.0,1.0,116.0,85.0,10.0,21.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/06/03,L6,DevOps,2.0,20.0,300.0,180.0,70.0,50.0,0.0
+Solution Architect,Microsoft,Ireland,DN,Dublin,21/06/02,58,Apps & Infra,3.0,3.0,74.0,59.0,0.0,15.0,0.0
+Solution Architect,IQVIA,United States,NC,Charlotte,21/06/02,L3,Data,5.0,17.0,245.0,200.0,15.0,30.0,0.0
+Solution Architect,Dell Technologies,United States,NC,Charlotte,21/06/01,L5,Storage - HCI,2.0,5.0,147.0,125.0,0.0,22.0,0.0
+Solution Architect,Microsoft,United States,GA,Atlanta,21/06/01,63,Data,2.0,5.0,165.0,135.0,20.0,10.0,0.0
+Solution Architect,Dell Technologies,United States,CA,San Diego,21/05/29,S8,Full Stack,4.0,15.0,259.0,160.0,15.0,80.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,21/05/29,L6,Full Stack,1.0,21.0,213.0,136.0,40.0,37.0,0.0
+Solution Architect,Genesys,United States,FL,Orlando,21/05/28,L3,Solutions consulting,2.0,3.0,200.0,150.0,0.0,50.0,0.0
+Solution Architect,Adobe,United States,TX,Dallas,21/05/28,L4,Data,0.0,4.0,225.0,165.0,18.0,43.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/05/28,L5,Analytics,2.0,5.0,130.0,105.0,20.0,5.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/05/28,L6,Full Stack,0.0,20.0,277.0,160.0,65.0,50.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,21/05/28,Distinguished Engineer,Networking,15.0,23.0,725.0,295.0,325.0,105.0,0.0
+Solution Architect,Google,United States,IL,Chicago,21/05/28,L6,Data,0.0,13.0,370.0,165.0,135.0,70.0,0.0
+Solution Architect,Microsoft,United States,VA,Reston,21/05/28,64,Data,2.0,20.0,209.0,174.0,14.0,21.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,21/05/28,65,Security,14.0,23.0,269.0,187.0,44.0,38.0,0.0
+Solution Architect,Palo Alto Networks,United States,CA,San Francisco,21/05/27,L1,Security,7.0,20.0,240.0,168.0,0.0,72.0,0.0
+Solution Architect,Amazon,India,AP,Hyderabad,21/05/27,L4,Security,1.0,10.0,42.0,29.0,9.0,4.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/05/27,L6,Partner,3.0,10.0,242.0,138.0,104.0,0.0,0.0
+Solution Architect,Google,United States,NY,New York,21/05/26,L5,API Development (Back-End),5.0,19.0,315.0,181.0,100.0,30.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,21/05/26,L5,Generalist,1.0,15.0,212.0,157.0,55.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/05/25,L6,Specialist,3.0,16.0,320.0,160.0,160.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/05/25,L6,Data,0.0,15.0,265.0,155.0,65.0,45.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/05/24,L5,Full Stack,3.0,5.0,128.0,106.0,22.0,0.0,0.0
+Solution Architect,Microsoft,Netherlands,NH,Amsterdam,21/05/23,63,Data,5.0,16.0,157.0,115.0,15.0,27.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/05/23,L5,Generalist,0.0,12.0,146.0,109.0,25.0,15.0,0.0
+Solution Architect,Google,United States,NY,New York,21/05/22,L5,DevOps,2.0,6.0,288.0,181.0,70.0,37.0,0.0
+Solution Architect,Ericsson,United States,WA,Seattle,21/05/21,Job stage 7,Production,14.0,14.0,170.0,155.0,0.0,15.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/05/19,L6,Full Stack,4.0,10.0,215.0,160.0,55.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/05/18,L4,Full Stack,3.0,3.0,128.0,93.0,35.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/05/18,L6,Security,4.0,10.0,406.0,162.0,242.0,0.0,0.0
+Solution Architect,microsoft,United States,TX,Dallas,21/05/17,63,Federal,0.0,10.0,275.0,135.0,100.0,40.0,0.0
+Solution Architect,Google,United States,GA,Atlanta,21/05/17,L6,Pre sales,1.0,16.0,327.0,165.0,93.0,69.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,21/05/15,66,Full Stack,9.0,20.0,410.0,190.0,160.0,60.0,0.0
+Solution Architect,Red Hat,United States,NY,New York,21/05/15,L6,Cloud,2.0,15.0,275.0,210.0,0.0,65.0,0.0
+Solution Architect,TD bank,Canada,ON,Toronto,21/05/14,L10,Networking,6.0,11.0,121.0,107.0,2.0,12.0,0.0
+Solution Architect,VMware,France,IL,Paris,21/05/13,P5,Cloud,3.0,23.0,206.0,145.0,28.0,33.0,0.0
+Solution Architect,Schlumberger,India,MH,Pune,21/05/12,G14,Distributed Systems (Back-End),5.0,15.0,100.0,79.0,6.0,15.0,0.0
+Solution Architect,Cisco,Switzerland,ZH,Zurich,21/05/12,9,Security,1.0,5.0,160.0,120.0,0.0,40.0,0.0
+Solution Architect,Tata Consultancy Services,Canada,ON,Toronto,21/05/12,Assistant Consultant,API Development (Back-End),5.0,15.0,116.0,106.0,0.0,10.0,0.0
+Solution Architect,VMware,Canada,ON,Toronto,21/05/11,P5,DevOps,4.0,16.0,270.0,165.0,50.0,56.0,0.0
+Solution Architect,Deloitte,United States,FL,Lake Mary,21/05/08,Consultant,DevOps,0.0,3.0,90.0,90.0,0.0,0.0,0.0
+Solution Architect,Google,United States,CA,Mountain View,21/05/08,L6,Android,5.0,10.0,381.0,209.0,130.0,42.0,0.0
+Solution Architect,Comerica Bank,United States,MI,Auburn Hills,21/05/06,Grade 37,Full Stack,5.0,10.0,165.0,149.0,0.0,16.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/05/06,L5,Data,0.0,10.0,214.0,170.0,44.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/05/06,L5,Site Reliability (SRE),0.0,10.0,170.0,170.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,PA,Philadelphia,21/05/06,L5,Production,0.0,5.0,225.0,150.0,40.0,30.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,21/05/05,64,Applications & Infrastructure,2.0,20.0,306.0,190.0,76.0,40.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/05/05,L6,Networking,0.0,20.0,314.0,185.0,71.0,58.0,0.0
+Solution Architect,Ford Motor,United States,MI,Dearborn,21/05/05,GSR8,Full Stack,3.0,8.0,129.0,120.0,0.0,9.0,0.0
+Solution Architect,IBM,United States,WA,Vancouver,21/05/05,Band 9,ML / AI,15.0,19.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,The Clorox Company,United States,NC,Raleigh,21/05/04,27,Networking,3.0,9.0,190.0,140.0,10.0,40.0,0.0
+Solution Architect,Rackspace,Canada,BC,Vancouver,21/05/04,L3,Site Reliability (SRE),2.0,15.0,107.0,97.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/05/03,L4,Full Stack,4.0,8.0,200.0,150.0,50.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/05/02,L6,AWS,4.0,10.0,237.0,140.0,98.0,0.0,0.0
+Solution Architect,Amazon,Canada,QC,Montreal,21/05/01,L6,Data,0.0,12.0,150.0,150.0,0.0,0.0,0.0
+Solution Architect,VMware,United States,PA,Philadelphia,21/05/01,Senior Staff Engineer,Full Stack,8.0,16.0,300.0,195.0,50.0,55.0,0.0
+Solution Architect,Cisco,United States,MA,Boxborough,21/04/30,Grade 12,Networking,20.0,22.0,222.0,150.0,16.0,55.0,0.0
+Solution Architect,Amazon,United States,AZ,Phoenix,21/04/28,L6,DevOps,2.0,12.0,286.0,152.0,134.0,0.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,21/04/28,G11,Security,10.0,17.0,272.0,165.0,82.0,25.0,0.0
+Solution Architect,Amazon,United States,CO,Thornton,21/04/28,L6,DevOps,8.0,10.0,320.0,160.0,65.0,95.0,0.0
+Solution Architect,VMware,United States,CA,San Diego,21/04/27,P5,DevOps,2.0,10.0,245.0,165.0,50.0,30.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/04/27,L6,Operations,2.0,15.0,174.0,117.0,32.0,25.0,0.0
+Solution Architect,IBM,United States,PA,Pittsburgh,21/04/27,Band 9,Strategy Architect,15.0,20.0,194.0,195.0,0.0,1.0,0.0
+Solution Architect,Databricks,United States,NY,New York,21/04/27,Senior,Data,1.0,11.0,275.0,160.0,65.0,50.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,21/04/27,L6,Full Stack,3.0,15.0,145.0,115.0,30.0,0.0,0.0
+Solution Architect,Charles Schwab,United States,NC,Raleigh,21/04/26,60,DevOps,14.0,18.0,237.0,177.0,30.0,30.0,0.0
+Solution Architect,Cox Automotive,United States,PA,Exton,21/04/26,L2,Production,6.0,6.0,59.0,56.0,0.0,3.0,0.0
+Solution Architect,Qualtrics,United States,WA,Seattle,21/04/25,L5,Networking,1.0,13.0,301.0,175.0,100.0,26.0,0.0
+Solution Architect,Microsoft,United States,CA,San Diego,21/04/23,63,Security,3.0,20.0,216.0,135.0,35.0,45.0,0.0
+Solution Architect,Accenture,United States,TX,Austin,21/04/22,Senior Manager,SAP,0.0,14.0,200.0,180.0,0.0,20.0,0.0
+Solution Architect,Oracle,India,KA,Bangalore,21/04/22,IC-5,ML / AI,2.0,24.0,145.0,110.0,0.0,35.0,0.0
+Solution Architect,Wipro Limited,Canada,ON,Ottawa,21/04/22,L4,Infrastructure and Cloud,14.0,14.0,120.0,110.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,AL,Birmingham,21/04/21,4,Infrastructure,1.0,1.0,136.0,110.0,15.0,11.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/04/21,L4,Generalist,1.0,2.0,140.0,104.0,20.0,16.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/04/21,L6,Full Stack,2.0,5.0,255.0,155.0,70.0,30.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,21/04/21,64,Azure App Dev,0.0,9.0,226.0,160.0,18.0,48.0,0.0
+Solution Architect,Amazon,United States,PA,Philadelphia,21/04/21,L6,Full Stack,0.0,5.0,240.0,155.0,50.0,34.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/04/21,L6 SDM,Generalist,3.0,15.0,330.0,200.0,120.0,10.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/04/21,L5,Full Stack,4.0,14.0,370.0,112.0,258.0,0.0,0.0
+Solution Architect,IBM,India,KA,Bangalore,21/04/20,Band 10,Multicloud,5.0,17.0,144.0,110.0,4.0,30.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,21/04/20,T5,ERP,15.0,18.0,363.0,242.0,81.0,40.0,0.0
+Solution Architect,Cisco Systems,United States,CA,San Jose,21/04/20,TCE -4,Networking,11.0,11.0,185.0,135.0,30.0,20.0,0.0
+Solution Architect,Palo Alto Networks,United States,TX,Dallas,21/04/18,SR. Solutions Architect,Security,2.0,25.0,238.0,165.0,0.0,71.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/04/18,L6,Full Stack,1.0,15.0,250.0,150.0,54.0,49.0,0.0
+Solution Architect,Splunk,United States,CA,San Francisco,21/04/18,P6,Data,8.0,10.0,300.0,215.0,35.0,50.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,21/04/18,L5,Site Reliability (SRE),0.0,14.0,176.0,122.0,33.0,21.0,0.0
+Solution Architect,Amazon,United States,PA,Philadelphia,21/04/18,L6,Full Stack,0.0,4.0,239.0,155.0,50.0,34.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/04/17,L6,API,4.0,17.0,227.0,147.0,80.0,0.0,0.0
+Solution Architect,Honeywell,United States,OH,Mason,21/04/16,L2,Material Handling Systems,2.0,2.0,84.0,84.0,0.0,0.0,0.0
+Solution Architect,Honeywell,United States,OH,Mason,21/04/16,1,Material Handling Systems,0.0,0.0,78.0,78.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,21/04/16,65,Customer Success,0.0,12.0,225.0,200.0,25.0,0.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,21/04/16,L5,DevOps,2.0,13.0,189.0,113.0,55.0,21.0,0.0
+Solution Architect,Ericsson,Romania,BU,Bucharest,21/04/15,JS6,Networking,7.0,11.0,50.0,48.0,0.0,2.0,0.0
+Solution Architect,TIBCO Software,Singapore,SG,Singapore,21/04/14,Principal Consultant,Distributed Systems (Back-End),6.0,9.0,135.0,108.0,0.0,27.0,0.0
+Solution Architect,IBM,United States,CO,Denver,21/04/14,Band 10,Distributed Systems (Back-End),16.0,27.0,310.0,185.0,0.0,125.0,0.0
+Solution Architect,Amazon,France,IL,Paris,21/04/12,L5,Full Stack,3.0,5.0,97.0,82.0,15.0,0.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/04/10,L6,Enterprise Support,2.0,10.0,260.0,154.0,106.0,0.0,0.0
+Solution Architect,Cognizant,India,KA,Bangalore,21/04/10,Senior GCP architect,Networking,1.0,19.0,45.0,40.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/04/09,L5,ML / AI,1.0,5.0,225.0,145.0,56.0,24.0,0.0
+Solution Architect,Wayfair,United States,MA,Boston,21/04/08,L4,ML / AI,0.0,10.0,392.0,185.0,167.0,40.0,0.0
+Solution Architect,IBM,United States,NC,Raleigh,21/04/08,Band 10,Data,3.0,21.0,231.0,216.0,14.0,1.0,0.0
+Solution Architect,Capgemini,United States,NC,Charlotte,21/04/08,D2,Full Stack,0.0,17.0,192.0,160.0,0.0,32.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/04/07,L6,Full Stack,0.0,12.0,312.0,185.0,76.0,51.0,0.0
+Solution Architect,Cisco,United States,TX,Dallas,21/04/06,Grade 9,Networking,3.0,4.0,197.0,140.0,0.0,57.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/04/04,L6,ML / AI,3.0,20.0,210.0,150.0,60.0,0.0,0.0
+Solution Architect,Salesforce,United States,OR,Bend,21/04/04,Senior Manager,Integrations,8.0,10.0,205.0,155.0,20.0,30.0,0.0
+Solution Architect,Cisco,Czech Republic,PR,Prague,21/04/04,8,Security,3.0,5.0,44.0,39.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/04/03,L6,Networking,6.0,16.0,295.0,155.0,140.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,21/04/02,L6,Generalist PSA,4.0,25.0,298.0,160.0,83.0,55.0,0.0
+Solution Architect,Salesforce,Japan,TY,Tokyo,21/04/02,L8,API Development (Back-End),0.0,8.0,250.0,160.0,50.0,40.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/04/02,L5,Full Stack,2.0,4.0,178.0,135.0,32.0,8.0,0.0
+Solution Architect,Microsoft,Canada,AB,Calgary,21/04/01,62,Cloud,5.0,10.0,223.0,153.0,35.0,38.0,0.0
+Solution Architect,HSBC,United States,NY,New York,21/04/01,GCB4,Security,10.0,20.0,210.0,195.0,0.0,15.0,0.0
+Solution Architect,Instacart,Canada,ON,Toronto,21/04/01,L4,Full Stack,2.0,2.0,134.0,120.0,14.0,0.0,0.0
+Solution Architect,ADP,United States,NJ,Roseland,21/03/31,L4,Localization,6.0,11.0,150.0,130.0,10.0,10.0,0.0
+Solution Architect,Publicis Sapient,United States,CA,San Francisco,21/03/31,L1,Production,2.0,2.0,127.0,127.0,0.0,0.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,21/03/30,L5,Security,0.0,10.0,177.0,119.0,24.0,34.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/03/30,L6,DevOps,1.0,14.0,172.0,118.0,40.0,14.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,21/03/30,L5,DevOps,2.0,3.0,137.0,101.0,26.0,10.0,0.0
+Solution Architect,3M,United States,MN,Saint Paul,21/03/29,T5A,Research,3.0,25.0,252.0,188.0,36.0,28.0,0.0
+Solution Architect,amazon,France,IL,Paris,21/03/28,5,Cybersecurity,1.0,3.0,119.0,85.0,24.0,10.0,0.0
+Solution Architect,Capital Group,United States,CA,Irvine,21/03/28,2,Full Stack,0.0,4.0,135.0,105.0,15.0,10.0,0.0
+Solution Architect,Microsoft,United States,FL,Miami,21/03/28,63,Apps/infra,0.0,20.0,205.0,145.0,15.0,45.0,0.0
+Solution Architect,Amazon,South Africa,WC,Cape Town,21/03/27,L6,DevOps,2.0,7.0,85.0,65.0,13.0,6.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/03/27,L6,Account Solutions Architect,5.0,11.0,238.0,140.0,98.0,0.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,21/03/27,L5,AWS,1.0,13.0,221.0,160.0,32.0,29.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/03/27,L7,Analytics,7.0,18.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,21/03/26,L4,DevOps,1.0,2.0,100.0,65.0,25.0,10.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/03/26,L6,DevOps,1.0,10.0,270.0,152.0,80.0,38.0,0.0
+Solution Architect,RealPage,United States,TX,Richardson,21/03/25,E14,Full Stack,10.0,10.0,185.0,155.0,15.0,15.0,0.0
+Solution Architect,IBM,United States,IL,Chicago,21/03/25,Senior Technical Staff Member,Cloud,16.0,16.0,177.0,177.0,0.0,0.0,0.0
+Solution Architect,Microsoft,Canada,ON,Toronto,21/03/24,62,Data,7.0,10.0,175.0,125.0,13.0,37.0,0.0
+Solution Architect,Ernst and Young,Chile,RM,Santiago,21/03/24,Senior Consultant,Regional Projects,1.0,24.0,41.0,41.0,0.0,0.0,0.0
+Solution Architect,IBM,United States,CA,Sunnyvale,21/03/24,L9,Site Reliability (SRE),2.0,18.0,372.0,245.0,0.0,127.0,0.0
+Solution Architect,T-Mobile,United States,KS,Overland Park,21/03/22,sr. Technical Architect,Distributed Systems (Back-End),23.0,23.0,121.0,105.0,0.0,16.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/03/22,L4,Full Stack,2.0,5.0,120.0,100.0,20.0,0.0,0.0
+Solution Architect,Forcepoint,United States,TX,Austin,21/03/21,Senior,Security,2.0,10.0,185.0,185.0,0.0,0.0,0.0
+Solution Architect,Intel,United States,CA,Folsom,21/03/21,Grade 9,Systems Engineering,25.0,25.0,250.0,175.0,25.0,50.0,0.0
+Solution Architect,VMware,Ireland,CK,Cork,21/03/19,L4,Cloud,0.0,0.0,125.0,110.0,0.0,15.0,0.0
+Solution Architect,NTT,Australia,NS,Sydney,21/03/19,L5,Security,8.0,10.0,120.0,110.0,0.0,10.0,0.0
+Solution Architect,Deloitte,United States,CA,Sacramento,21/03/17,Manager,Salesforce,2.0,15.0,175.0,165.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,TX,Texas City,21/03/17,L5,Pre-sales,0.0,10.0,215.0,143.0,46.0,26.0,0.0
+Solution Architect,Splunk,United States,NY,New York,21/03/12,P5,Data Analytics,5.0,5.0,297.0,208.0,13.0,76.0,0.0
+Solution Architect,Nokia,United States,TX,Dallas,21/03/12,JG11,Telecom,20.0,20.0,149.0,132.0,1.0,20.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/03/11,L5,Data,3.0,6.0,200.0,144.0,56.0,0.0,0.0
+Solution Architect,Huawei,United Kingdom,EN,London,21/03/11,L4,Telecom,5.0,8.0,123.0,88.0,20.0,15.0,0.0
+Solution Architect,Facebook,United States,WA,Seattle,21/03/11,IC4,Full Stack,2.0,4.0,195.0,152.0,20.0,23.0,0.0
+Solution Architect,NVIDIA,Japan,TY,Tokyo,21/03/11,IC3,Production,3.0,8.0,141.0,90.0,51.0,0.0,0.0
+Solution Architect,Fannie Mae,United States,VA,Reston,21/03/11,Sr. Principal,Data,2.0,18.0,300.0,200.0,0.0,100.0,0.0
+Solution Architect,EPAM Systems,United States,CA,San Francisco,21/03/10,Senior,Distributed Systems (Back-End),4.0,6.0,110.0,110.0,0.0,2.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/03/10,L4,ML / AI,0.0,0.0,76.0,76.0,0.0,0.0,0.0
+Solution Architect,Optiv,United States,GA,Atlanta,21/03/09,senior consultant,DevOps,2.0,12.0,190.0,170.0,0.0,22.0,0.0
+Solution Architect,Google,United States,NY,New York,21/03/08,L4,AdTech,2.0,5.0,199.0,124.0,25.0,50.0,0.0
+Solution Architect,Aetna,United States,CA,San Diego,21/03/08,l1,Site Reliability (SRE),1.0,1.0,50.0,50.0,0.0,0.0,0.0
+Solution Architect,Oracle,Canada,ON,Toronto,21/03/07,Member of Technical Staff,Production,0.0,10.0,100.0,100.0,0.0,0.0,0.0
+Solution Architect,Adobe,United States,CA,San Jose,21/03/07,Software Engineer 5.5,Web Development (Front-End),1.0,15.0,495.0,270.0,185.0,40.0,0.0
+Solution Architect,SAP,Russia,MC,Moscow,21/03/06,T3,Sales,8.0,8.0,65.0,52.0,1.0,13.0,0.0
+Solution Architect,Discover,United States,IL,Chicago,21/03/05,L8,Data,3.0,12.0,155.0,143.0,0.0,12.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/03/04,L5,Full Stack,1.0,10.0,162.0,123.0,30.0,9.0,0.0
+Solution Architect,Verizon,United States,VA,Ashburn,21/03/04,Band 6,Full Stack,5.0,20.0,163.0,160.0,3.0,0.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,21/03/03,L5,Cloud,0.0,14.0,137.0,109.0,15.0,13.0,0.0
+Solution Architect,Slalom,United States,OR,Portland,21/03/03,Senior Principal,Salesforce,3.0,6.0,180.0,150.0,0.0,30.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/03/02,L5,Security,3.0,3.0,94.0,90.0,4.0,0.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,21/03/02,L6,Full Stack,3.0,20.0,116.0,116.0,0.0,0.0,0.0
+Solution Architect,Salesforce,United States,TX,Dallas,21/03/01,Associate Solution Engineer,"Integration, Admin, Developer",1.0,1.0,88.0,61.0,0.0,26.0,0.0
+Solution Architect,Manhattan Associates,United States,GA,Atlanta,21/03/01,Design Lead,Solution Design,7.0,7.0,128.0,103.0,10.0,15.0,0.0
+Solution Architect,Shopify,United States,NE,Nebraska City,21/03/01,L4,DevOps,1.0,1.0,40.0,40.0,0.0,0.0,0.0
+Solution Architect,Nvidia,United States,TX,Houston,21/02/28,IC4,ML / AI,1.0,10.0,280.0,185.0,95.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/02/27,L5,Full Stack,1.0,13.0,198.0,155.0,30.0,13.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/02/27,L6,Full Stack,0.0,15.0,365.0,178.0,107.0,80.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/02/27,L4,SA,0.0,0.0,155.0,112.0,23.0,20.0,0.0
+Solution Architect,Alation,United States,NY,New York,21/02/27,Director,Data,1.0,20.0,275.0,185.0,25.0,65.0,0.0
+Solution Architect,CarGurus,United States,MA,Cambridge,21/02/25,L5,Full Stack,2.0,17.0,265.0,195.0,40.0,30.0,0.0
+Solution Architect,Red Hat,United States,NY,New York,21/02/25,L4,Cloud,0.0,20.0,230.0,185.0,0.0,45.0,0.0
+Solution Architect,Citrix Systems Inc,United States,FL,Fort Lauderdale,21/02/24,IC3,Production,4.0,4.0,120.0,100.0,13.0,10.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/02/23,L6,Full Stack,6.0,20.0,250.0,160.0,90.0,0.0,0.0
+Solution Architect,Amazon,United States,KY,Louisville,21/02/23,L5,DevOps,1.0,13.0,190.0,150.0,23.0,18.0,0.0
+Solution Architect,DXC Technology,United States,LA,New Orleans,21/02/23,L6,Full Stack,2.0,10.0,132.0,132.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,MN,Minneapolis,21/02/23,L5,Full Stack,1.0,15.0,187.0,140.0,12.0,35.0,0.0
+Solution Architect,Cisco,United States,MD,Columbia,21/02/23,Grade 10,Networking,8.0,20.0,187.0,153.0,12.0,20.0,0.0
+Solution Architect,ServiceNow,United States,TX,Dallas,21/02/22,IC5,Site Reliability (SRE),5.0,20.0,300.0,195.0,40.0,65.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,21/02/22,T5,Enterprise Software,15.0,15.0,360.0,242.0,40.0,78.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/02/22,L4,Full Stack,0.0,1.0,150.0,113.0,23.0,13.0,0.0
+Solution Architect,Silicon Valley Bank,United States,AZ,Tempe,21/02/21,3,Data,2.0,10.0,200.0,170.0,0.0,30.0,0.0
+Solution Architect,Cisco Inc,United States,CA,San Jose,21/02/21,G11,Supply Chain,1.0,17.0,223.0,163.0,35.0,25.0,0.0
+Solution Architect,Cisco,United States,CA,San Diego,21/02/21,Grade 10,Networking,4.0,12.0,175.0,122.0,10.0,45.0,0.0
+Solution Architect,Microsoft,United States,UT,Salt Lake City,21/02/18,66,ML / AI,9.0,21.0,396.0,202.0,134.0,60.0,0.0
+Solution Architect,Cisco,United States,NY,New York,21/02/17,Grade 11,Networking,15.0,15.0,240.0,165.0,0.0,75.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,21/02/17,L5,,0.0,8.0,284.0,160.0,100.0,24.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,21/02/17,L7,Manager,7.0,30.0,465.0,160.0,300.0,0.0,0.0
+Solution Architect,Amazon,Canada,QC,Montreal,21/02/16,L6,Security,2.0,20.0,190.0,125.0,40.0,25.0,0.0
+Solution Architect,VMware,Australia,NS,Sydney,21/02/15,P5,Networking,6.0,22.0,274.0,166.0,77.0,31.0,0.0
+Solution Architect,Amazon,United States,KY,London,21/02/14,L5,AWS,1.0,10.0,145.0,105.0,30.0,10.0,0.0
+Solution Architect,Adobe,United States,MA,Boston,21/02/13,L5,AEM,11.0,11.0,237.0,157.0,40.0,40.0,0.0
+Solution Architect,Bosch Global,Singapore,SG,Singapore,21/02/12,Pc09,Cloud,0.0,3.0,98.0,91.0,0.0,8.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,21/02/12,L5,Data,3.0,5.0,174.0,120.0,50.0,0.0,0.0
+Solution Architect,CVS Health,United States,NJ,Jersey City,21/02/10,L7,Full Stack,7.0,18.0,187.0,147.0,15.0,25.0,0.0
+Solution Architect,Publicis Sapient,United States,NY,New York,21/02/09,VP,Production,3.0,20.0,260.0,220.0,0.0,40.0,0.0
+Solution Architect,Qualtrics,United States,WA,Seattle,21/02/08,L4,Data,2.0,8.0,155.0,135.0,0.0,20.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,21/02/07,65,Security,8.0,22.0,280.0,185.0,36.0,60.0,0.0
+Solution Architect,Salesforce,United States,MA,Boston,21/02/06,L7,Web Development (Front-End),4.0,6.0,176.0,153.0,0.0,23.0,0.0
+Solution Architect,Amazon,United States,OR,Portland,21/02/04,L6,Full Stack,4.0,10.0,340.0,160.0,180.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/02/04,L6,Full Stack,3.0,7.0,210.0,160.0,50.0,0.0,0.0
+Solution Architect,VMware,Canada,ON,Toronto,21/02/04,Staff Engineer 2,DevOps,1.0,20.0,375.0,225.0,100.0,50.0,0.0
+Solution Architect,Amazon,United States,NY,New York,21/02/03,L5,Data,2.0,4.0,185.0,166.0,11.0,9.0,0.0
+Solution Architect,IBM,Switzerland,ZH,Zurich,21/02/03,Band 8,Cloud,1.0,14.0,200.0,180.0,0.0,20.0,0.0
+Solution Architect,AWS,United States,TX,Houston,21/02/03,L7,Networking,5.0,25.0,320.0,160.0,160.0,0.0,0.0
+Solution Architect,Deloitte,United States,DC,Washington,21/02/03,Manager,Full Stack,5.0,14.0,206.0,178.0,0.0,28.0,0.0
+Solution Architect,S&P Global,United States,NY,New York,21/02/03,13A,Distributed Systems (Back-End),20.0,20.0,253.0,203.0,0.0,50.0,0.0
+Solution Architect,IBM,United States,OR,Portland,21/02/03,Band 9,Data,8.0,12.0,155.0,155.0,0.0,0.0,0.0
+Solution Architect,NVIDIA,United States,CA,Santa Clara,21/02/02,IC5,HPC,2.0,10.0,458.0,210.0,248.0,0.0,0.0
+Solution Architect,Conduent,United States,MD,Germantown,21/02/02,L3,Full Stack,11.0,30.0,125.0,125.0,0.0,0.0,0.0
+Solution Architect,Dell Technologies,India,KA,Bangalore,21/02/02,L7,Data,11.0,11.0,25.0,22.0,0.0,3.0,0.0
+Solution Architect,AWS,United States,MA,Boston,21/02/02,L6,IaaS,0.0,19.0,278.0,135.0,93.0,50.0,0.0
+Solution Architect,Adobe,United States,CA,San Jose,21/02/01,L2,Distributed Systems (Back-End),1.0,1.0,177.0,140.0,25.0,12.0,0.0
+Solution Architect,Google,Australia,NS,Sydney,21/02/01,L5,Cloud,2.0,12.0,230.0,150.0,45.0,35.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,21/01/29,L4,DevOps,1.0,1.0,84.0,68.0,16.0,0.0,0.0
+Solution Architect,Facebook,United States,DC,Washington,21/01/28,IC5,Security,1.0,10.0,231.0,174.0,31.0,26.0,0.0
+Solution Architect,Capital One,United States,VA,Fairfax,21/01/28,Senior Manager,Security,2.0,25.0,223.0,203.0,0.0,20.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,Newcastle Upon Tyne,21/01/28,L5,Full Stack,0.0,9.0,143.0,109.0,20.0,14.0,0.0
+Solution Architect,IBM,United States,WA,Seattle,21/01/28,Band 9,Data,8.0,14.0,155.0,155.0,0.0,0.0,0.0
+Solution Architect,Merck,United States,NJ,Rahway,21/01/28,Associate Director,Data,1.0,15.0,186.0,160.0,0.0,26.0,0.0
+Solution Architect,Wabtec,United States,FL,Orange Park,21/01/28,L4,DevOps,5.0,20.0,116.0,116.0,0.0,0.0,0.0
+Solution Architect,VMware,United States,GA,Atlanta,21/01/27,Staff Engineer 1,Distributed Systems (Back-End),3.0,30.0,259.0,179.0,50.0,30.0,0.0
+Solution Architect,DXC Technology,United Kingdom,EN,London,21/01/27,Expert,DevOps,7.0,15.0,110.0,110.0,0.0,0.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,21/01/27,Professional Services I,Consulting,0.0,0.0,93.0,68.0,16.0,9.0,0.0
+Solution Architect,Intel,United Kingdom,EN,London,21/01/26,84,Sales,3.0,20.0,115.0,92.0,0.0,23.0,0.0
+Solution Architect,Red Hat,United States,DC,Washington,21/01/26,L4,Full Stack,6.0,20.0,218.0,155.0,40.0,23.0,0.0
+Solution Architect,Deloitte,United States,CA,Los Angeles,21/01/25,Senior Consultant,ServiceNow,1.0,5.0,145.0,145.0,0.0,0.0,0.0
+Solution Architect,Avanade,United States,TX,Houston,21/01/25,L7,Full Stack,3.0,16.0,205.0,190.0,0.0,15.0,0.0
+Solution Architect,Google,United States,CA,Mountain View,21/01/25,5,Ads,0.0,4.0,288.0,181.0,75.0,32.0,0.0
+Solution Architect,BNP Paribas,Canada,QC,Montreal,21/01/24,Assistant Vice President,Full Stack,6.0,12.0,86.0,75.0,0.0,11.0,0.0
+Solution Architect,AWS,United States,VA,Herndon,21/01/23,L4,General,1.0,1.0,125.0,102.0,0.0,25.0,0.0
+Solution Architect,Rakuten,Japan,TY,Tokyo,21/01/23,EEE,Overall Software Architect,6.0,16.0,190.0,135.0,10.0,45.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,21/01/22,L64,Distributed Systems (Back-End),7.0,19.0,245.0,185.0,40.0,20.0,0.0
+Solution Architect,Dell Technologies,United States,TX,Round Rock,21/01/22,L10,Storage,16.0,18.0,250.0,175.0,30.0,45.0,0.0
+Solution Architect,Oracle,Sweden,ST,Stockholm,21/01/22,IC-4,iOS,13.0,15.0,143.0,100.0,0.0,43.0,0.0
+Solution Architect,Oracle,Sweden,ST,Stockholm,21/01/22,IC-4,iOS,13.0,15.0,143.0,100.0,0.0,43.0,0.0
+Solution Architect,Dexcom,United States,CA,San Diego,21/01/22,Senior Staff,Data,0.0,11.0,228.0,165.0,33.0,30.0,0.0
+Solution Architect,Wipro Limited,United States,CA,Mountain View,21/01/22,D1,Distributed Systems (Back-End),1.0,22.0,240.0,230.0,0.0,10.0,0.0
+Solution Architect,VMware,United States,GA,Atlanta,21/01/21,P4,Sales/Pre-Sales,2.0,15.0,220.0,165.0,5.0,50.0,0.0
+Solution Architect,InMobi,India,KA,Bangalore,21/01/21,Senior,Mobile (iOS + Android),2.0,6.0,49.0,38.0,11.0,0.0,0.0
+Solution Architect,Intel,United States,OR,Portland,21/01/20,L8,Networking,7.0,17.0,191.0,141.0,22.0,28.0,0.0
+Solution Architect,VMware,United States,CA,Los Angeles,21/01/17,Staff Engineer 1,Security,0.0,15.0,262.0,200.0,23.0,40.0,0.0
+Solution Architect,Facebook,United States,CA,Menlo Park,21/01/16,M1,Full Stack,6.0,9.0,437.0,214.0,172.0,51.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,21/01/15,L5,ML / AI,0.0,4.0,143.0,102.0,41.0,0.0,0.0
+Solution Architect,Oracle,United States,TX,Austin,21/01/15,Principal MTS,Data,13.0,25.0,190.0,145.0,0.0,45.0,0.0
+Solution Architect,SwissRe,Switzerland,ZH,Zurich,21/01/14,D,Distributed Systems (Back-End),1.0,15.0,180.0,160.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,FL,Miami,21/01/14,L5,DevOps,1.0,16.0,221.0,151.0,48.0,21.0,0.0
+Solution Architect,AWS,United States,VA,Herndon,21/01/12,L4,Web Development (Front-End),0.0,0.0,142.0,102.0,4.0,36.0,0.0
+Solution Architect,Cisco,United States,NY,New York,21/01/12,Grade 10,Networking,7.0,10.0,220.0,165.0,0.0,55.0,0.0
+Solution Architect,Amazon,Switzerland,ZH,Zurich,21/01/11,L4,Other,0.0,0.0,134.0,110.0,19.0,10.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,21/01/10,L6,Full Stack,0.0,20.0,290.0,160.0,62.0,68.0,0.0
+Solution Architect,Genentech,United States,CA,South San Francisco,21/01/10,E5A,Full Stack,10.0,20.0,300.0,200.0,40.0,60.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,21/01/08,L5 security,Security,0.0,10.0,218.0,150.0,29.0,40.0,0.0
+Solution Architect,EPAM Systems,United States,TX,Houston,21/01/08,B1,Sitecore,1.0,17.0,135.0,135.0,0.0,0.0,0.0
+Solution Architect,Vistaprint,United States,MA,Boston,21/01/08,Principal,DevOps,4.0,11.0,145.0,145.0,0.0,0.0,0.0
+Solution Architect,McAfee,United States,TX,Plano,21/01/06,Director,Security,5.0,15.0,322.0,240.0,22.0,60.0,0.0
+Solution Architect,Pariveda Solutions,United States,GA,Atlanta,21/01/06,Principal 3,Full Stack,8.0,15.0,225.0,225.0,0.0,0.0,0.0
+Solution Architect,EPAM Systems,United States,TX,Houston,21/01/06,L3,Azure,3.0,15.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,21/01/05,L6,Data,1.0,15.0,330.0,160.0,170.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,21/01/05,L4,Full Stack,0.0,0.0,125.0,97.0,25.0,0.0,0.0
+Solution Architect,Accenture,United States,DC,Washington,21/01/04,Senior Manager,Full Stack,6.0,10.0,187.0,167.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,21/01/03,L5,Infrastructure,1.0,17.0,220.0,157.0,40.0,23.0,0.0
+Solution Architect,Microsoft,Australia,VI,Melbourne,21/01/03,59,Security,6.0,11.0,121.0,100.0,3.0,18.0,0.0
+Solution Architect,Capital Group,United States,CA,Irvine,21/01/02,Entry,Full Stack,0.0,0.0,101.0,90.0,0.0,11.0,0.0
+Solution Architect,Amazon,Luxembourg,LU,Luxembourg,21/01/01,L7,Partner Solutions Architect Manager,2.0,20.0,225.0,175.0,50.0,0.0,0.0
+Solution Architect,SAP,United Kingdom,EN,London,21/01/01,T4,Full Stack,10.0,14.0,200.0,130.0,20.0,50.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,21/01/01,L6,Data,0.0,22.0,265.0,175.0,50.0,40.0,0.0
+Solution Architect,amazon,United States,DC,Washington,21/01/01,6,Enterprise global,7.0,10.0,320.0,160.0,160.0,0.0,0.0
+Solution Architect,Sitecore,Australia,NS,Sydney,20/12/30,No,API Development (Back-End),3.0,10.0,140.0,120.0,10.0,10.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,20/12/28,L6,Full Stack,4.0,18.0,304.0,160.0,140.0,4.0,0.0
+Solution Architect,Accenture,United States,NY,New York,20/12/28,Senior Manager,Salesforce,8.0,13.0,224.0,215.0,9.0,0.0,0.0
+Solution Architect,Ernst and Young,United States,NY,New York,20/12/27,Senior Consultant,Full Stack,4.0,4.0,121.0,121.0,0.0,3.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/12/26,L6,Data,0.0,14.0,220.0,155.0,45.0,20.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,20/12/25,L6,Enterprise,5.0,20.0,225.0,165.0,60.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/12/24,L5,Production,0.0,8.0,225.0,140.0,40.0,45.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,20/12/23,L6,AWS/Enterprise,3.0,5.0,280.0,160.0,120.0,0.0,0.0
+Solution Architect,Amazon,Korea,KG,Seoul,20/12/22,L4,Full Stack,0.0,5.0,73.0,63.0,10.0,0.0,0.0
+Solution Architect,Microsoft,United States,MA,Boston,20/12/21,65,Data,12.0,15.0,260.0,175.0,40.0,45.0,0.0
+Solution Architect,Fannie Mae,United States,VA,Reston,20/12/20,L2,Security,4.0,4.0,105.0,105.0,0.0,0.0,0.0
+Solution Architect,EPAM Systems,United States,WA,Bellevue,20/12/20,B1,Distributed Systems (Back-End),3.0,18.0,145.0,135.0,0.0,10.0,0.0
+Solution Architect,Microsoft,India,TS,Hyderabad,20/12/19,61,Security,14.0,18.0,58.0,44.0,5.0,10.0,0.0
+Solution Architect,Macy's,United States,GA,Atlanta,20/12/18,L3,Networking,1.0,20.0,142.0,132.0,0.0,10.0,0.0
+Solution Architect,Microsoft,Canada,ON,Toronto,20/12/17,62,Full Stack,5.0,15.0,190.0,140.0,20.0,30.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,20/12/17,67,Full Stack,16.0,21.0,520.0,220.0,225.0,75.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,20/12/17,67,Full Stack,16.0,21.0,520.0,220.0,225.0,75.0,0.0
+Solution Architect,Google,United States,VA,Norfolk,20/12/16,5,Cloud,1.0,10.0,272.0,167.0,75.0,30.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/12/16,L6,Data,4.0,17.0,235.0,160.0,75.0,0.0,0.0
+Solution Architect,Google,Japan,TY,Tokyo,20/12/16,L4,Web Development (Front-End),5.0,5.0,170.0,90.0,60.0,20.0,0.0
+Solution Architect,Amazon,United States,OH,Cincinnati,20/12/16,L6,Other,0.0,15.0,241.0,152.0,45.0,45.0,0.0
+Solution Architect,T-Mobile,United States,VA,Herndon,20/12/15,L8,Network Technology 5G/ LTE,1.0,8.0,143.0,115.0,10.0,17.0,0.0
+Solution Architect,EY,United States,CA,San Francisco,20/12/15,Senior manager,SAP,8.0,16.0,215.0,195.0,0.0,20.0,0.0
+Solution Architect,Tencent,United States,CA,San Jose,20/12/14,T14,Networking,2.0,20.0,760.0,270.0,400.0,90.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/12/14,L6,Data,1.0,15.0,371.0,180.0,116.0,75.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/12/14,L6,Data,0.0,14.0,240.0,156.0,40.0,46.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/12/14,L5,Generalist,0.0,15.0,146.0,102.0,6.0,40.0,0.0
+Solution Architect,Samsung Electronics America,United States,TX,Plano,20/12/13,TB6,5G,0.0,7.0,192.0,160.0,0.0,32.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/12/13,L6,Data,0.0,14.0,263.0,156.0,60.0,48.0,0.0
+Solution Architect,Amazon,United States,WA,Vancouver,20/12/13,L4,DevOps,0.0,1.0,133.0,103.0,20.0,13.0,0.0
+Solution Architect,Microsoft,Ireland,DN,Dublin,20/12/10,SDE II,Cloud Computing,0.0,3.0,130.0,95.0,10.0,25.0,0.0
+Solution Architect,REI Systems,United States,DC,Washington,20/12/10,,Full Stack,9.0,16.0,170.0,170.0,0.0,2.0,0.0
+Solution Architect,VMware,United States,CO,Denver,20/12/09,P5,Networking,8.0,8.0,215.0,170.0,15.0,30.0,0.0
+Solution Architect,Google,Singapore,SG,Singapore,20/12/08,L6,Cloud,3.0,15.0,300.0,270.0,25.0,10.0,0.0
+Solution Architect,Globant,United States,CA,San Francisco,20/12/05,Software Designer,Data,6.0,12.0,143.0,143.0,0.0,0.0,0.0
+Solution Architect,MongoDB,France,IL,Paris,20/12/03,L4,Data,1.0,1.0,195.0,85.0,85.0,25.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,20/12/03,L6,DevOps,2.0,15.0,216.0,166.0,50.0,0.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,20/12/02,65,ML / AI,2.0,20.0,246.0,165.0,36.0,48.0,0.0
+Solution Architect,AWS,United States,CA,San Francisco,20/12/02,L6,ML / AI,1.0,15.0,310.0,180.0,15.0,112.0,0.0
+Solution Architect,Citrix Systems Inc,United States,FL,Fort Lauderdale,20/12/01,IC3,Distributed Systems (Back-End),4.0,6.0,116.0,96.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/11/30,L4,Full Stack,0.0,0.0,137.0,102.0,20.0,15.0,0.0
+Solution Architect,Cisco,Singapore,SG,Singapore,20/11/28,Grade 10,Sales,9.0,9.0,140.0,105.0,0.0,35.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,20/11/28,L7,Full Stack,0.0,20.0,430.0,160.0,230.0,40.0,0.0
+Solution Architect,Nuance,United States,MA,Burlington,20/11/28,7B,Distributed Systems (Back-End),7.0,20.0,235.0,185.0,35.0,15.0,0.0
+Solution Architect,Panasonic,United States,CA,Irvine,20/11/28,MTS3,Site Reliability (SRE),5.0,7.0,120.0,120.0,0.0,4.0,0.0
+Solution Architect,Cisco,United States,MN,New York Mills,20/11/26,Grade 10,Networking,7.0,7.0,220.0,150.0,20.0,50.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,20/11/26,L6,DevOps,0.0,12.0,190.0,143.0,28.0,18.0,0.0
+Solution Architect,IBM,United States,TX,Denver City,20/11/25,Band 8,Systems,16.0,16.0,120.0,120.0,0.0,0.0,0.0
+Solution Architect,Medtronic,United States,MN,Minneapolis,20/11/25,Principal Engineer,Site Reliability (SRE),0.0,10.0,240.0,215.0,0.0,25.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,20/11/24,L5,DevOps,1.0,10.0,120.0,88.0,32.0,0.0,0.0
+Solution Architect,Amazon,United States,CT,Hartford,20/11/24,L6,End User Computing,0.0,15.0,250.0,155.0,95.0,0.0,0.0
+Solution Architect,Oracle,United States,MA,Burlington,20/11/23,IC-1,Networking,1.0,1.0,66.0,60.0,0.0,6.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/11/23,L5,Distributed Systems (Back-End),2.0,19.0,189.0,144.0,18.0,27.0,0.0
+Solution Architect,Databricks,United States,IL,Chicago,20/11/22,L5,Data,1.0,10.0,184.0,140.0,35.0,9.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/11/20,63,ML / AI,0.0,12.0,250.0,165.0,50.0,35.0,0.0
+Solution Architect,Amazon,Italy,LO,Milano,20/11/20,L7,Data,0.0,13.0,104.0,72.0,19.0,13.0,0.0
+Solution Architect,Amazon,United States,VA,Arlington,20/11/20,L5,Distributed Systems (Back-End),1.0,4.0,210.0,150.0,50.0,10.0,0.0
+Solution Architect,Walmart Labs,India,KA,Bengaluru,20/11/19,Senior Software Engineer,Full Stack,3.0,11.0,80.0,57.0,10.0,13.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/11/18,L4,Security,1.0,1.0,120.0,98.0,4.0,18.0,0.0
+Solution Architect,Oracle,United States,WA,Seattle,20/11/18,Principal,Data,3.0,10.0,190.0,137.0,0.0,53.0,0.0
+Solution Architect,Amazon,Germany,BE,Berlin,20/11/17,L5,Site Reliability (SRE),1.0,10.0,150.0,110.0,25.0,10.0,0.0
+Solution Architect,Accenture,United States,DC,Washington,20/11/17,Senior Manager,Distributed Systems (Back-End),6.0,10.0,185.0,165.0,0.0,20.0,0.0
+Solution Architect,Accenture,United States,FL,Tampa,20/11/16,L7,Consulting,2.0,25.0,174.0,160.0,0.0,14.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,20/11/16,L5,Sales,1.0,6.0,191.0,135.0,32.0,24.0,0.0
+Solution Architect,IBM,Germany,BW,Stuttgart,20/11/14,Band 10,Cloud,20.0,25.0,160.0,130.0,0.0,30.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,20/11/14,L7,ML / AI,0.0,20.0,405.0,140.0,165.0,100.0,0.0
+Solution Architect,Dell Technologies,Singapore,SG,Singapore,20/11/14,S7,Pre sales,5.0,14.0,166.0,167.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,20/11/13,L6,Data,2.0,20.0,250.0,160.0,90.0,0.0,0.0
+Solution Architect,Yandex,Russia,MC,Moscow,20/11/13,G17,Networking,3.0,14.0,80.0,34.0,40.0,6.0,0.0
+Solution Architect,Deloitte,Korea,KG,Seoul,20/11/13,SM2,Security,0.0,24.0,110.0,100.0,0.0,10.0,0.0
+Solution Architect,Apple,United States,CA,Sunnyvale,20/11/12,ICT3,Data,2.0,9.0,226.0,154.0,56.0,15.0,0.0
+Solution Architect,Deloitte,United States,CA,Los Angeles,20/11/12,Analyst,Production,0.0,0.0,93.0,80.0,0.0,13.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/11/11,L6,Public Cloud,0.0,23.0,325.0,160.0,89.0,76.0,0.0
+Solution Architect,Juniper Square,United States,NY,New York,20/11/10,L3,Production,1.0,8.0,110.0,110.0,0.0,0.0,0.0
+Solution Architect,Cisco,United States,CA,San Francisco,20/11/09,Grade 8,Networking,3.0,3.0,180.0,127.0,0.0,53.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/11/07,L6,Full Stack,4.0,12.0,275.0,160.0,115.0,0.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,20/11/06,L5,cloud,0.0,13.0,129.0,101.0,15.0,10.0,0.0
+Solution Architect,Nutanix,United States,WA,Seattle,20/11/06,L3,Distributed Systems (Back-End),6.0,8.0,235.0,215.0,10.0,10.0,0.0
+Solution Architect,Intuit,United States,CA,Mountain View,20/11/05,Distinguished Principal / Architect,Distributed Systems (Back-End),5.0,12.0,425.0,255.0,90.0,80.0,0.0
+Solution Architect,IBM,Canada,ON,Toronto,20/11/05,L8,API Development (Back-End),1.0,15.0,150.0,140.0,0.0,10.0,0.0
+Solution Architect,Scientific Games,United States,NV,Reno,20/11/05,Senior Manager,Distributed Systems (Back-End),16.0,25.0,103.0,90.0,0.0,13.0,0.0
+Solution Architect,Amazon,United States,MI,Detroit,20/11/04,L6,Full Stack,0.0,15.0,244.0,152.0,55.0,38.0,0.0
+Solution Architect,Microsoft,United States,MN,Minneapolis,20/11/03,64,Cloud,5.0,25.0,257.0,172.0,29.0,56.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/11/03,L5,Enterprise,0.0,4.0,220.0,155.0,40.0,25.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,20/11/01,T65,ML / AI,1.0,15.0,250.0,200.0,25.0,20.0,0.0
+Solution Architect,Oracle,United States,TX,Houston,20/10/31,IC-5,Pre-Sales,0.0,16.0,265.0,180.0,0.0,85.0,0.0
+Solution Architect,Red Hat,United States,WA,Tacoma,20/10/31,l6,Site Reliability (SRE),3.0,11.0,209.0,154.0,3.0,55.0,0.0
+Solution Architect,Red Hat,United States,FL,Orlando,20/10/30,L2,Full Stack,2.0,16.0,215.0,151.0,0.0,65.0,0.0
+Solution Architect,JPMorgan Chase,Switzerland,GE,Geneva,20/10/29,Vice President,Full Stack,13.0,20.0,175.0,160.0,0.0,15.0,0.0
+Solution Architect,Microsoft,Canada,ON,Toronto,20/10/29,59,DevOps,0.0,0.0,95.0,65.0,5.0,25.0,0.0
+Solution Architect,Amazon,United States,CA,Sunnyvale,20/10/29,L6,Embedded,0.0,8.0,335.0,185.0,150.0,0.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,20/10/29,L6,iOS,0.0,12.0,178.0,130.0,25.0,23.0,0.0
+Solution Architect,Amazon,United States,KS,Shawnee Mission,20/10/29,L5,DevOps,0.0,7.0,212.0,155.0,32.0,25.0,0.0
+Solution Architect,Amazon,United States,CA,San Jose,20/10/29,L7,Networking,0.0,14.0,370.0,185.0,75.0,110.0,0.0
+Solution Architect,Databricks,Colombia,CU,Usaquen,20/10/27,L3,Android,1.0,1.0,150.0,100.0,40.0,10.0,0.0
+Solution Architect,cisco,United States,CO,Denver,20/10/27,11,Sales,8.0,8.0,200.0,135.0,10.0,55.0,0.0
+Solution Architect,Dell,United States,TX,Austin,20/10/27,L10 Director,Architecture Hardware,20.0,27.0,315.0,218.0,43.0,55.0,0.0
+Solution Architect,AT&T,United States,TX,Dallas,20/10/26,L2,Distributed Systems (Back-End),5.0,23.0,165.0,148.0,0.0,18.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,20/10/26,62,Distributed Systems (Back-End),3.0,10.0,170.0,124.0,11.0,35.0,0.0
+Solution Architect,PwC,United States,TX,Austin,20/10/25,Manager,Security,4.0,12.0,150.0,140.0,0.0,10.0,0.0
+Solution Architect,T-Mobile,United States,WA,Seattle,20/10/24,L7,Full Stack,3.0,15.0,220.0,165.0,15.0,40.0,0.0
+Solution Architect,Intel,United States,CA,Folsom,20/10/23,Grade 7,Testing (SDET),8.0,8.0,170.0,126.0,23.0,21.0,0.0
+Solution Architect,Rackspace,United States,CA,Irvine,20/10/23,l5,other,4.0,20.0,185.0,165.0,0.0,20.0,0.0
+Solution Architect,DXC,United States,TX,Plano,20/10/22,6,Sales,6.0,18.0,160.0,155.0,0.0,5.0,0.0
+Solution Architect,HSBC,United Kingdom,EN,London,20/10/22,GCB4,Data,7.0,7.0,150.0,130.0,0.0,20.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,20/10/21,T5,ERP,12.0,18.0,350.0,240.0,30.0,80.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/10/21,L7,Data,3.0,13.0,370.0,185.0,185.0,0.0,0.0
+Solution Architect,Accenture,United States,TX,Austin,20/10/21,6,Cloud,2.0,15.0,170.0,165.0,0.0,5.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,20/10/20,6,Cloud,0.0,10.0,190.0,140.0,32.0,18.0,0.0
+Solution Architect,MICROSOFT,United States,WA,Seattle,20/10/20,67,Full Stack,15.0,20.0,500.0,220.0,205.0,75.0,0.0
+Solution Architect,Facebook,United States,CA,Santa Clara,20/10/19,IC4,Networking,3.0,5.0,226.0,160.0,50.0,16.0,0.0
+Solution Architect,Nvidia,Germany,BY,Munich,20/10/19,IC4,Distributed Systems (Back-End),0.0,3.0,188.0,138.0,50.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/10/19,L6,ML / AI,1.0,20.0,365.0,175.0,175.0,15.0,0.0
+Solution Architect,Microsoft,Canada,AB,Calgary,20/10/19,62,Data,5.0,7.0,131.0,95.0,15.0,20.0,0.0
+Solution Architect,T-mobile,United States,WA,Seattle,20/10/18,L7,API Development (Back-End),3.0,15.0,217.0,167.0,15.0,35.0,0.0
+Solution Architect,Allianz,Germany,BY,Munich,20/10/18,L,Platform,1.0,3.0,86.0,86.0,0.0,0.0,0.0
+Solution Architect,Stripe,United States,CA,San Francisco,20/10/17,L4,API Development (Back-End),2.0,8.0,373.0,198.0,125.0,50.0,0.0
+Solution Architect,Red Hat,United States,NC,Raleigh,20/10/17,L2,DevOps,4.0,22.0,163.0,123.0,0.0,40.0,0.0
+Solution Architect,AIG,United States,TN,Nashville,20/10/16,Lead,Cloud,0.0,2.0,156.0,130.0,0.0,26.0,0.0
+Solution Architect,Cisco,United States,DC,Washington,20/10/16,9,Networking,8.0,10.0,211.0,157.0,0.0,54.0,0.0
+Solution Architect,Slalom,United States,OR,Portland,20/10/15,L3,Patient Engagement,2.0,6.0,180.0,150.0,0.0,30.0,0.0
+Solution Architect,Sonatype,United States,CA,San Francisco,20/10/15,Rank 1,DevOps,1.0,5.0,120.0,90.0,0.0,30.0,0.0
+Solution Architect,IBM,United States,TX,Dallas,20/10/15,Band 10,iOS,2.0,20.0,265.0,265.0,0.0,0.0,0.0
+Solution Architect,Amazon,Germany,BE,Berlin,20/10/14,L5,DevOps,0.0,14.0,130.0,100.0,15.0,12.0,0.0
+Solution Architect,Accenture,United States,TX,Houston,20/10/14,11,DevOps,1.0,1.0,82.0,72.0,0.0,10.0,0.0
+Solution Architect,Facebook,United States,CA,Santa Clara,20/10/14,IC4,Networking,3.0,5.0,226.0,160.0,50.0,16.0,0.0
+Solution Architect,VMware,United States,GA,Atlanta,20/10/13,MTS 3,Mobile (iOS + Android),5.0,5.0,102.0,97.0,0.0,6.0,0.0
+Solution Architect,Wells Fargo,United States,AZ,Phoenix,20/10/13,e6,Systems,7.0,25.0,193.0,168.0,0.0,25.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/10/12,L5,DevOps,0.0,5.0,257.0,182.0,75.0,0.0,0.0
+Solution Architect,Servicenow,United States,CA,Los Angeles,20/10/11,L3,Security,6.0,6.0,190.0,120.0,25.0,45.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/10/10,L7,Networking,0.0,14.0,374.0,185.0,100.0,90.0,0.0
+Solution Architect,Oracle,United States,CA,Redwood City,20/10/10,L5,DevOps,1.0,20.0,250.0,180.0,70.0,0.0,0.0
+Solution Architect,JPMorgan Chase,Mexico,DF,Mexico,20/10/09,Associate,Data,0.0,0.0,12.0,10.0,0.0,1.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,20/10/09,L5,Full Stack,3.0,5.0,134.0,89.0,45.0,5.0,0.0
+Solution Architect,Ernst and Young,United States,IL,Chicago,20/10/08,Senior Consultant,Data,2.0,4.0,122.0,112.0,0.0,10.0,0.0
+Solution Architect,Salesforce,United States,CA,San Francisco,20/10/08,L7,Core,1.0,9.0,252.0,165.0,15.0,72.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/10/08,L6,Security,1.0,15.0,324.0,182.0,18.0,124.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,20/10/08,64,Design Thinking,14.0,20.0,197.0,152.0,14.0,30.0,0.0
+Solution Architect,General Electric,Korea,KG,Seoul,20/10/07,LPB,Full Stack,5.0,9.0,90.0,70.0,2.0,15.0,0.0
+Solution Architect,Cisco,United States,CA,San Francisco,20/10/07,Grade 11,DevOps,12.0,12.0,299.0,205.0,54.0,40.0,0.0
+Solution Architect,MongoDB,United States,WA,Seattle,20/10/06,L6,Data,2.0,15.0,350.0,160.0,100.0,90.0,0.0
+Solution Architect,Apple,United States,CA,Sunnyvale,20/10/06,ICT6,Technical,14.0,20.0,572.0,221.0,289.0,62.0,0.0
+Solution Architect,JPMorgan Chase,United States,TX,Dallas,20/10/06,603,Full Stack,1.0,20.0,170.0,155.0,0.0,15.0,0.0
+Solution Architect,T-Mobile,United States,WA,Seattle,20/10/06,T5,Data,15.0,15.0,220.0,185.0,20.0,20.0,0.0
+Solution Architect,Cisco,United States,MI,Ann Arbor,20/10/04,Technical Leader 2,Distributed Systems (Back-End),3.0,35.0,169.0,134.0,5.0,30.0,0.0
+Solution Architect,KPIT,Germany,BY,Munich,20/10/01,G,ADAS,1.0,18.0,90.0,88.0,0.0,2.0,0.0
+Solution Architect,Microsoft,Sweden,ST,Stockholm,20/10/01,61,API Development (Back-End),1.0,12.0,110.0,89.0,7.0,14.0,0.0
+Solution Architect,Slalom,United States,CO,Denver,20/10/01,6,Full Stack,2.0,8.0,148.0,135.0,0.0,13.0,0.0
+Solution Architect,Google,United Kingdom,EN,London,20/09/30,L6,Data,0.0,15.0,325.0,148.0,115.0,62.0,0.0
+Solution Architect,ARM,United States,CA,Santa Clara,20/09/30,Sr principal,ML / AI,2.0,25.0,360.0,260.0,0.0,100.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,20/09/30,L4,Networking,0.0,0.0,132.0,102.0,4.0,26.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,20/09/29,L6,ML / AI,4.0,20.0,390.0,227.0,100.0,60.0,0.0
+Solution Architect,IBM,United States,PA,Pittsburgh,20/09/28,Band 9,Cloud Advisory,15.0,20.0,194.0,194.0,0.0,5.0,0.0
+Solution Architect,Qualtrics,United States,WA,Seattle,20/09/25,L4,Delivery,2.0,8.0,150.0,124.0,20.0,10.0,0.0
+Solution Architect,Facebook,United States,CA,San Francisco,20/09/24,IC5,Security,1.0,4.0,227.0,165.0,37.0,25.0,0.0
+Solution Architect,Deloitte,United States,PA,Harrisburg,20/09/24,Manager,Security,7.0,10.0,132.0,116.0,0.0,16.0,0.0
+Solution Architect,Google,United States,CA,Sunnyvale,20/09/24,L5,IT,4.0,13.0,265.0,175.0,61.0,29.0,0.0
+Solution Architect,Slalom,United States,CT,Hartford,20/09/23,L3,Data,3.0,10.0,134.0,126.0,0.0,8.0,0.0
+Solution Architect,IBM,United States,TX,Austin,20/09/23,Band 8,ML / AI,5.0,5.0,122.0,118.0,2.0,3.0,0.0
+Solution Architect,AWS,United Kingdom,EN,London,20/09/21,L6,Distributed Systems (Back-End),3.0,12.0,329.0,129.0,200.0,0.0,0.0
+Solution Architect,EPAM Systems,Ukraine,KC,Kiev,20/09/19,Architect,API Development (Back-End),1.0,10.0,72.0,72.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/09/19,L5,Production,0.0,10.0,240.0,170.0,70.0,0.0,0.0
+Solution Architect,Databricks,United States,CA,San Francisco,20/09/18,L3,ML / AI,0.0,2.0,165.0,120.0,15.0,30.0,0.0
+Solution Architect,Slalom,United States,CA,San Diego,20/09/18,Practice Lead,Salesforce,4.0,12.0,265.0,205.0,0.0,60.0,0.0
+Solution Architect,Oracle,United States,CA,San Francisco,20/09/18,IC-3,Distributed Systems (Back-End),0.0,4.0,240.0,150.0,75.0,15.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,20/09/18,L5,Full Stack,2.0,4.0,153.0,120.0,33.0,0.0,0.0
+Solution Architect,BCG,United States,FL,Miami,20/09/17,L3,Distributed Systems (Back-End),1.0,25.0,234.0,182.0,18.0,36.0,0.0
+Solution Architect,Cadence Design Systems,United States,TX,Austin,20/09/17,AE6,Low Power Engineer,19.0,19.0,250.0,170.0,45.0,35.0,0.0
+Solution Architect,Amazon,United States,MN,Minneapolis,20/09/16,L6,Data,0.0,10.0,252.0,252.0,0.0,0.0,0.0
+Solution Architect,Arm,United States,TX,Austin,20/09/16,Principal Engineer,Cloud Computing,1.0,15.0,215.0,175.0,20.0,20.0,0.0
+Solution Architect,Vmware,United States,CA,San Francisco,20/09/16,Staff Systems Engineer,Networking,4.0,15.0,310.0,195.0,60.0,55.0,0.0
+Solution Architect,Cisco,United States,CA,San Francisco,20/09/14,Grade 8,Networking,1.0,1.0,200.0,150.0,0.0,50.0,0.0
+Solution Architect,Oracle,Singapore,SG,Singapore,20/09/14,IC-4,Networking,15.0,24.0,74.0,74.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Bellevue,20/09/14,L5,ML / AI,0.0,3.0,255.0,155.0,50.0,50.0,0.0
+Solution Architect,Cognizant,United States,CA,San Francisco,20/09/13,Senior Functional Architect,Senior Functional Architect,4.0,17.0,140.0,135.0,0.0,5.0,0.0
+Solution Architect,Sephora,United States,CA,San Francisco,20/09/13,L11,Digital,4.0,20.0,250.0,210.0,0.0,40.0,0.0
+Solution Architect,Accenture,United States,OR,Portland,20/09/12,Associate Manager,Asset Management,8.0,13.0,125.0,121.0,0.0,4.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/09/12,L6,DevOps,4.0,15.0,265.0,160.0,105.0,0.0,0.0
+Solution Architect,Google,United States,NY,New York,20/09/12,L6,Cloud,0.0,16.0,320.0,185.0,57.0,78.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/09/11,L4,AWS,1.0,2.0,104.0,81.0,4.0,19.0,0.0
+Solution Architect,BMC,United States,CA,Los Angeles,20/09/10,Principal,DevOps,6.0,19.0,210.0,165.0,0.0,45.0,0.0
+Solution Architect,Barracuda Networks,United States,CA,Campbell,20/09/10,L5,Site Reliability (SRE),11.0,12.0,153.0,153.0,0.0,0.0,0.0
+Solution Architect,Leidos,United States,WV,Morgantown,20/09/10,T5,Security,5.0,18.0,162.0,158.0,0.0,4.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,20/09/09,65,Infra,2.0,20.0,450.0,215.0,150.0,85.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,20/09/08,L5,DevOps,1.0,15.0,215.0,155.0,32.0,28.0,0.0
+Solution Architect,Cisco,Saudi Arabia,RI,Riyadh,20/09/06,Level 8,Security,3.0,5.0,170.0,150.0,0.0,20.0,0.0
+Solution Architect,Microsoft,United States,AZ,Phoenix,20/09/05,64,Networking,7.0,20.0,275.0,154.0,42.0,78.0,0.0
+Solution Architect,Intel,United States,CA,Santa Clara,20/09/05,Grade 9,Graphics,5.0,10.0,285.0,190.0,57.0,38.0,0.0
+Solution Architect,Amazon,United States,FL,Miami,20/09/04,L5,ProServe,1.0,3.0,211.0,150.0,12.0,49.0,0.0
+Solution Architect,Ping Identity,United States,CO,Aurora,20/09/04,L2,Security,2.0,2.0,78.0,70.0,3.0,5.0,0.0
+Solution Architect,Oracle,Australia,VI,Melbourne,20/09/04,IC5,Enterprise Architecture,20.0,23.0,340.0,220.0,0.0,120.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,20/09/04,L5,Data,1.0,6.0,135.0,105.0,20.0,10.0,0.0
+Solution Architect,Oracle,United States,VA,Ashburn,20/09/04,M4,Cloud,1.0,15.0,384.0,200.0,184.0,0.0,0.0
+Solution Architect,Deloitte,United States,NY,New York,20/09/04,Consultant,Security,1.0,3.0,85.0,85.0,0.0,0.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,20/09/03,L3,ML / AI,2.0,4.0,259.0,101.0,115.0,43.0,0.0
+Solution Architect,Oracle,United States,MA,Burlington,20/09/03,l5,Networking,4.0,30.0,210.0,170.0,0.0,40.0,0.0
+Solution Architect,Mastercard,United States,MO,St. Louis,20/09/03,L6,Networking,5.0,7.0,158.0,123.0,8.0,27.0,0.0
+Solution Architect,Microsoft,United States,MO,St. Louis,20/09/03,64,Customer Success Unit,2.0,20.0,204.0,155.0,12.0,37.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,20/09/03,L6,Web Services,1.0,9.0,275.0,150.0,20.0,105.0,0.0
+Solution Architect,Booz Allen Hamilton,United States,NC,Fayetteville,20/09/03,Consultant,DevOps,1.0,1.0,89.0,87.0,0.0,2.0,0.0
+Solution Architect,EPAM,United States,CA,San Jose,20/09/01,Solutions Architect,DevOps,3.0,18.0,185.0,175.0,0.0,15.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/09/01,L5,General SA,0.0,5.0,320.0,170.0,75.0,75.0,0.0
+Solution Architect,Slalom,United States,IL,Chicago,20/09/01,L1,ML / AI,2.0,5.0,135.0,117.0,0.0,15.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/08/31,L4,Generalist,0.0,1.0,120.0,62.0,40.0,13.0,0.0
+Solution Architect,IBM,United States,MO,Kansas City,20/08/31,Band 10,Data,16.0,20.0,245.0,230.0,15.0,0.0,0.0
+Solution Architect,Huawei,Malaysia,KL,Kuala Lumpur,20/08/31,19,ML / AI,2.0,17.0,300.0,154.0,30.0,120.0,0.0
+Solution Architect,Google,United States,MA,Boston,20/08/29,L6,Google Cloud Architecture,0.0,18.0,300.0,174.0,53.0,72.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/08/29,L6,Full Stack,0.0,8.0,266.0,145.0,11.0,110.0,0.0
+Solution Architect,Microsoft,United States,FL,Miami,20/08/29,63,Data,7.0,15.0,228.0,148.0,35.0,45.0,0.0
+Solution Architect,Ambarella,United States,CA,Santa Clara,20/08/29,M2,ERP,9.0,15.0,250.0,180.0,50.0,20.0,0.0
+Solution Architect,Dell Technologies,United Arab Emirates,DU,Dubai,20/08/28,Senior Engineer,Networking,5.0,10.0,80.0,80.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,20/08/28,L6,API Development (Back-End),1.0,12.0,280.0,150.0,15.0,115.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,20/08/27,L5,Full Stack,0.0,18.0,222.0,145.0,10.0,70.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,20/08/27,T4,Security,2.0,15.0,245.0,225.0,0.0,20.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,20/08/27,L5,Distributed Systems (Back-End),0.0,5.0,112.0,95.0,3.0,14.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,20/08/27,63,ERP,2.0,20.0,206.0,165.0,17.0,24.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/08/27,L6,Production,0.0,20.0,275.0,160.0,115.0,0.0,0.0
+Solution Architect,Microsoft,United States,VA,Reston,20/08/26,64,ML / AI,5.0,5.0,225.0,170.0,30.0,25.0,0.0
+Solution Architect,Google,Indonesia,JK,Jakarta,20/08/26,L5,Networking,0.0,10.0,80.0,50.0,10.0,20.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/08/26,L6,ML / AI,6.0,8.0,250.0,150.0,100.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,20/08/26,L6,Data,1.0,20.0,260.0,152.0,70.0,38.0,0.0
+Solution Architect,VMware,United States,CA,Palo Alto,20/08/25,Staff Engineer 1,DevOps,12.0,12.0,262.0,185.0,40.0,37.0,0.0
+Solution Architect,Microsoft,United States,FL,Tampa,20/08/23,64,Azure,5.0,20.0,229.0,155.0,29.0,45.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/08/22,64,Full Stack,1.0,20.0,265.0,185.0,25.0,55.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/08/22,L6,Distributed Systems (Back-End),0.0,15.0,275.0,175.0,60.0,40.0,0.0
+Solution Architect,Amazon,United States,OH,Columbus,20/08/22,L6,Security,0.0,9.0,303.0,150.0,107.0,46.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,20/08/21,63,Distributed Systems (Back-End),1.0,22.0,186.0,140.0,14.0,30.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/08/21,65,Cloud,4.0,20.0,300.0,188.0,50.0,60.0,0.0
+Solution Architect,Disney,United States,CA,Los Angeles,20/08/21,Senior Software Engineer,Distributed Systems (Back-End),10.0,12.0,190.0,145.0,30.0,15.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,20/08/21,L6,Data,2.0,7.0,141.0,91.0,50.0,0.0,0.0
+Solution Architect,DXC Technology,India,KA,Bangalore,20/08/20,L6,Cloud,2.0,10.0,35.0,35.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/08/20,L5,SA,4.0,7.0,224.0,124.0,100.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/08/19,L5`,Security,3.0,4.0,200.0,130.0,67.0,0.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,20/08/19,L5,Data,0.0,17.0,205.0,150.0,35.0,20.0,0.0
+Solution Architect,IBM,India,MH,Mumbai,20/08/19,Band 10,Data,1.0,20.0,85.0,85.0,0.0,0.0,0.0
+Solution Architect,Accenture,Australia,WA,Perth,20/08/19,L9,Site Reliability (SRE),2.0,20.0,93.0,87.0,0.0,6.0,0.0
+Solution Architect,Amazon,United States,CA,Palo Alto,20/08/18,L5,Full Stack,1.0,8.0,190.0,143.0,10.0,37.0,0.0
+Solution Architect,Red Hat,United States,FL,Orlando,20/08/17,L4,Full Stack,2.0,16.0,205.0,151.0,0.0,54.0,0.0
+Solution Architect,Siemens,United States,MA,Boston,20/08/17,Unknown,Technical,11.0,12.0,142.0,131.0,1.0,10.0,0.0
+Solution Architect,Intel Corporation,United States,OR,Portland,20/08/17,Principal Engineer (10),ML / AI,6.0,15.0,306.0,198.0,53.0,54.0,0.0
+Solution Architect,Salesforce,United States,IL,Chicago,20/08/16,Technical Architect,Field,3.0,14.0,250.0,157.0,25.0,67.0,0.0
+Solution Architect,Google,United States,TX,Austin,20/08/16,L7,Distributed Systems (Back-End),0.0,25.0,370.0,212.0,105.0,53.0,0.0
+Solution Architect,Microsoft,Germany,NW,Cologne,20/08/16,61,Data,0.0,7.0,122.0,90.0,9.0,23.0,0.0
+Solution Architect,Boeing,United States,WA,Seattle,20/08/14,4,Full Stack,9.0,9.0,150.0,140.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,20/08/14,L4,Distributed Systems (Back-End),1.0,2.0,128.0,88.0,30.0,10.0,0.0
+Solution Architect,Microsoft,United States,TX,Austin,20/08/13,64,SAP on Azure,0.0,12.0,258.0,160.0,50.0,48.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/08/12,64,Networking,1.0,8.0,270.0,180.0,30.0,60.0,0.0
+Solution Architect,Amazon,India,KA,Bangalore,20/08/12,L7,Cloud,2.0,20.0,120.0,80.0,40.0,0.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,20/08/12,L6,DevOps,3.0,20.0,233.0,158.0,75.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/08/10,L6,Full Stack,1.0,15.0,290.0,145.0,75.0,70.0,0.0
+Solution Architect,McAfee,United States,DC,Washington,20/08/09,Director,Security,4.0,20.0,386.0,240.0,86.0,60.0,0.0
+Solution Architect,Affirm Inc.,United States,CA,San Francisco,20/08/09,Senior,API Development (Back-End),2.0,5.0,245.0,155.0,80.0,10.0,0.0
+Solution Architect,Amazon,United States,CA,Orange,20/08/09,L5,Data,0.0,22.0,210.0,146.0,10.0,55.0,0.0
+Solution Architect,Wipro,India,KA,Bangalore,20/08/07,Senior Architect,Cloud,3.0,15.0,40.0,40.0,0.0,0.0,0.0
+Solution Architect,Flex,United States,MI,Dearborn,20/08/07,L3,EMS,3.0,21.0,180.0,155.0,0.0,20.0,0.0
+Solution Architect,KPMG,United States,CA,Santa Clara,20/08/07,Manager,Security,5.0,7.0,183.0,168.0,0.0,15.0,0.0
+Solution Architect,Dell Technologies,United States,GA,Atlanta,20/08/07,Senior Technical Staff,Enterprise Architect,3.0,20.0,317.0,217.0,50.0,50.0,0.0
+Solution Architect,Akamai,Japan,TY,Tokyo,20/08/06,L3,Web,5.0,20.0,125.0,100.0,5.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/08/06,L5,Full Stack,4.0,4.0,250.0,110.0,110.0,30.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,20/08/06,L7,Cloud,1.0,15.0,197.0,144.0,53.0,0.0,0.0
+Solution Architect,Akamai,United States,CA,Santa Clara,20/08/04,L5,Networking,4.0,10.0,185.0,140.0,15.0,30.0,0.0
+Solution Architect,Cisco,United States,MI,Ann Arbor,20/08/04,Technical Leader 1,Security,5.0,5.0,250.0,200.0,10.0,40.0,0.0
+Solution Architect,Intel,United States,OR,Portland,20/08/03,Grade 7,Distributed Systems (Back-End),4.0,20.0,130.0,100.0,15.0,15.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/08/01,62,ML / AI,2.0,2.0,220.0,140.0,25.0,55.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,20/07/31,L6,AWS,0.0,8.0,230.0,155.0,41.0,34.0,0.0
+Solution Architect,Microsoft,United States,TX,Houston,20/07/31,64,ML / AI,5.0,13.0,222.0,172.0,24.0,26.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,20/07/29,L6,Data and Analytics,1.0,14.0,330.0,155.0,100.0,75.0,0.0
+Solution Architect,Microsoft,United States,GA,Atlanta,20/07/29,65,Cloud,4.0,13.0,250.0,160.0,40.0,50.0,0.0
+Solution Architect,Salesforce,United States,MA,Boston,20/07/28,7,Full Stack,1.0,25.0,235.0,205.0,0.0,30.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,20/07/28,L6,Security,3.0,16.0,250.0,160.0,90.0,0.0,0.0
+Solution Architect,Google,United States,GA,Atlanta,20/07/22,L6,Cloud,1.0,30.0,315.0,175.0,100.0,40.0,0.0
+Solution Architect,Lockheed Martin,United States,CO,Colorado Springs,20/07/21,L5,Distributed Systems (Back-End),15.0,20.0,161.0,145.0,0.0,13.0,0.0
+Solution Architect,Red Hat,United States,NY,New York,20/07/21,Solution Sales Specialist,DevOps,1.0,12.0,270.0,170.0,0.0,100.0,0.0
+Solution Architect,Google,Germany,BY,Munich,20/07/21,L3,Partner manager,0.0,2.0,95.0,80.0,15.0,0.0,0.0
+Solution Architect,Cisco,United States,NC,Raleigh,20/07/20,Grade 11,Networking,8.0,13.0,159.0,139.0,0.0,20.0,0.0
+Solution Architect,Autodesk,United States,CA,Los Angeles,20/07/19,38,Sales,3.0,10.0,220.0,175.0,45.0,0.0,0.0
+Solution Architect,General Mills,United States,MN,Minneapolis,20/07/19,Architect,Data Engineering,2.0,8.0,150.0,130.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,Irvine,20/07/19,L7,Security,4.0,20.0,375.0,160.0,215.0,0.0,0.0
+Solution Architect,Accenture,United States,IL,Chicago,20/07/18,Senior Manager,Distributed Systems (Back-End),10.0,15.0,180.0,150.0,0.0,30.0,0.0
+Solution Architect,IBM,Germany,NW,Cologne,20/07/17,Senior Technical Staff Member,Security,4.0,10.0,93.0,93.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/07/17,L6,Site Reliability (SRE),1.0,20.0,234.0,165.0,7.0,62.0,0.0
+Solution Architect,Perspecta,United States,CA,San Diego,20/07/16,Architect,Full Stack,5.0,10.0,150.0,150.0,0.0,0.0,0.0
+Solution Architect,Amazon,France,IL,Paris,20/07/16,L5,AWS,2.0,8.0,110.0,85.0,25.0,0.0,0.0
+Solution Architect,Microsoft,United States,WA,Seattle,20/07/15,62,Cloud,7.0,7.0,183.0,109.0,34.0,40.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/07/15,L4,Security,1.0,2.0,120.0,97.0,5.0,18.0,0.0
+Solution Architect,Nvidia,United States,CA,Santa Clara,20/07/14,IC4,ML / AI,3.0,10.0,305.0,185.0,120.0,0.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,20/07/12,L7,DevOps,15.0,15.0,210.0,100.0,100.0,10.0,0.0
+Solution Architect,NVIDIA,United States,CA,Santa Clara,20/07/12,IC$,ML / AI,3.0,10.0,354.0,184.0,170.0,0.0,0.0
+Solution Architect,NetApp,United States,MO,St. Louis,20/07/11,Senior Engineer,"Storage, sales",5.0,15.0,250.0,200.0,35.0,15.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/07/10,L6,DevOps,2.0,12.0,162.0,110.0,52.0,0.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,20/07/08,L5,ML / AI,2.0,5.0,240.0,160.0,80.0,0.0,0.0
+Solution Architect,General Motors,United States,MI,Detroit,20/07/07,Director,Finance,20.0,20.0,150.0,150.0,0.0,0.0,0.0
+Solution Architect,Dell Technologies,Denmark,SK,Copenhagen,20/07/07,S6,Presale,2.0,20.0,130.0,130.0,0.0,0.0,0.0
+Solution Architect,Nvidia,United States,WA,Seattle,20/07/07,IC5,Supercomputing,2.0,10.0,350.0,210.0,140.0,0.0,0.0
+Solution Architect,IBM,United States,CA,Los Angeles,20/07/07,8,DevOps,1.0,13.0,157.0,150.0,0.0,7.0,0.0
+Solution Architect,Facebook,United States,CA,Menlo Park,20/07/06,IC4,Site Reliability (SRE),4.0,14.0,208.0,167.0,25.0,16.0,0.0
+Solution Architect,HashiCorp,United States,CA,San Francisco,20/07/06,Senior,DevOps,2.0,10.0,213.0,167.0,4.0,42.0,0.0
+Solution Architect,Amazon,United States,CA,Claremont,20/07/06,Senior SDE,DevOps,2.0,10.0,181.0,180.0,1.0,0.0,0.0
+Solution Architect,EY,India,HR,Gurgaon,20/07/05,Senior Manager,Full Stack,0.0,17.0,74.0,74.0,0.0,0.0,0.0
+Solution Architect,Accenture,United States,PA,Philadelphia,20/07/04,L8,Distributed Systems (Back-End),13.0,13.0,110.0,110.0,0.0,0.0,0.0
+Solution Architect,FIS,United States,FL,Miami Beach,20/07/03,Senior Architect,DevOps,10.0,15.0,185.0,160.0,0.0,25.0,0.0
+Solution Architect,JPMorgan Chase,United States,NJ,Jersey City,20/07/03,604,Security,22.0,25.0,500.0,275.0,50.0,175.0,0.0
+Solution Architect,Adobe,United States,CA,San Jose,20/07/03,5.5,Distributed Systems (Back-End),12.0,22.0,422.0,225.0,175.0,22.0,0.0
+Solution Architect,Amazon,United States,IL,Germantown,20/07/02,Junior,ML / AI,1.0,5.0,110.0,100.0,10.0,0.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/07/02,L64,Security,1.0,20.0,258.0,175.0,31.0,52.0,0.0
+Solution Architect,Okta,United States,DC,Washington,20/07/02,Solutions Engineer,Solutions,0.0,7.0,180.0,160.0,20.0,0.0,0.0
+Solution Architect,Microsoft,United States,MO,Kansas City,20/07/01,64,DevOps,2.0,22.0,204.0,144.0,26.0,36.0,0.0
+Solution Architect,Pivotal,Germany,BE,Berlin,20/07/01,P4,Full Stack,1.0,19.0,162.0,130.0,32.0,0.0,0.0
+Solution Architect,Ernst and Young,Canada,NS,Halifax,20/07/01,Senior Manager,Full Stack,5.0,30.0,170.0,145.0,0.0,25.0,0.0
+Solution Architect,EPAM,Canada,ON,Toronto,20/06/29,L2,Full Stack,1.0,20.0,117.0,105.0,0.0,12.0,0.0
+Solution Architect,Amazon,Chile,RM,Santiago,20/06/29,L6,Cloud,1.0,16.0,155.0,90.0,35.0,30.0,0.0
+Solution Architect,TCS,Canada,ON,Toronto,20/06/28,Associate Consultant,DevOps,2.0,15.0,94.0,87.0,0.0,7.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,20/06/27,L6M,iOS,4.0,12.0,250.0,150.0,80.0,20.0,0.0
+Solution Architect,Chargebee,India,TN,Chennai,20/06/26,Technical Account Manager,Customer Support,2.0,2.0,10.0,10.0,0.0,0.0,0.0
+Solution Architect,Red Hat,United States,TX,Dallas,20/06/25,Senior,Networking,0.0,11.0,205.0,155.0,0.0,50.0,0.0
+Solution Architect,Salesforce,Germany,NW,Dusseldorf,20/06/25,Architect,Salesforce,1.0,10.0,101.0,92.0,2.0,7.0,0.0
+Solution Architect,Oracle,United States,WA,Seattle,20/06/24,IC-3,Oracle Cloud,1.0,10.0,260.0,170.0,90.0,0.0,0.0
+Solution Architect,IBM,United States,DC,Washington,20/06/24,Band 10,Cloud,8.0,20.0,285.0,245.0,0.0,40.0,0.0
+Solution Architect,Oracle,United States,NV,Las Vegas,20/06/21,L6,Networking,5.0,15.0,120.0,110.0,5.0,5.0,0.0
+Solution Architect,Wells Fargo,United States,IA,Des Moines,20/06/18,L4,DevOps,5.0,5.0,145.0,125.0,5.0,15.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/06/17,L7,Industry Specialist,4.0,10.0,285.0,160.0,125.0,0.0,0.0
+Solution Architect,Salesforce,United States,MI,Ann Arbor,20/06/17,Senior Manager,Salesforce,3.0,16.0,223.0,177.0,20.0,27.0,0.0
+Solution Architect,Pure Storage,United States,DC,Washington,20/06/17,Architect,ML / AI,1.0,17.0,230.0,200.0,12.0,18.0,0.0
+Solution Architect,Google,United States,TX,Austin,20/06/17,L4,API Development (Back-End),0.0,5.0,230.0,140.0,62.0,28.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,20/06/16,64,Solutions,2.0,7.0,240.0,173.0,33.0,34.0,0.0
+Solution Architect,Lockheed Martin,United States,PA,Philadelphia,20/06/15,L5,DevOps,20.0,20.0,166.0,160.0,0.0,6.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,20/06/14,Associate,General,0.0,0.0,80.0,62.0,0.0,18.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/06/13,L4,General,1.0,3.0,140.0,102.0,35.0,5.0,0.0
+Solution Architect,Accenture,United States,CA,San Francisco,20/06/13,Senior Manager,Salesforce,2.0,15.0,225.0,192.0,15.0,15.0,0.0
+Solution Architect,AWS,United States,CA,San Francisco,20/06/13,L6,Distributed Systems (Back-End),2.0,20.0,345.0,180.0,165.0,0.0,0.0
+Solution Architect,Swiss Re,Switzerland,ZH,Zurich,20/06/12,C,Full Stack,8.0,19.0,282.0,234.0,0.0,48.0,0.0
+Solution Architect,Accenture,United States,PA,Philadelphia,20/06/12,Associate Manager,Distributed Systems (Back-End),13.0,13.0,110.0,107.0,0.0,3.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,20/06/12,Solutions Architect II,Solutions Architect,1.0,16.0,104.0,80.0,24.0,0.0,0.0
+Solution Architect,State Street,United States,MA,Boston,20/06/12,Managing Director,Security,1.0,15.0,315.0,215.0,25.0,75.0,0.0
+Solution Architect,Publicis Sapient,United States,VA,Arlington,20/06/11,Senior,Full Stack,7.0,22.0,163.0,157.0,0.0,6.0,0.0
+Solution Architect,ExxonMobil,United States,TX,Houston,20/06/10,24,Security,4.0,4.0,111.0,111.0,0.0,0.0,0.0
+Solution Architect,Cisco,India,HR,Gurgaon,20/06/10,Grade 12,"IoT, Enterprise Architecture",2.0,18.0,66.0,56.0,0.0,10.0,0.0
+Solution Architect,Microsoft,Netherlands,NH,Amsterdam,20/06/10,62,Cloud,10.0,30.0,178.0,135.0,15.0,28.0,0.0
+Solution Architect,CyberArk,United States,MA,Boston,20/06/10,Staff,Security,2.0,10.0,175.0,130.0,25.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,Sunnyvale,20/06/09,L6,Android,3.0,10.0,285.0,185.0,100.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,Palo Alto,20/06/08,L7,Analytics,3.0,18.0,400.0,185.0,215.0,0.0,0.0
+Solution Architect,Microsoft,Australia,VI,Melbourne,20/06/07,59,ML / AI,2.0,3.0,96.0,83.0,1.0,13.0,0.0
+Solution Architect,Deloitte,United States,DC,Washington,20/06/06,Senior Manager,Data Architecture,1.0,14.0,211.0,176.0,0.0,35.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,20/06/05,L6,Security,1.0,20.0,265.0,155.0,11.0,99.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,20/06/02,L6,Database and Analytics,1.0,15.0,230.0,154.0,66.0,10.0,0.0
+Solution Architect,Cisco Systems,Singapore,SG,Singapore,20/06/02,11,Security,2.0,12.0,182.0,143.0,18.0,21.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/05/31,L6,Bioinformatics,1.0,5.0,243.0,157.0,44.0,42.0,0.0
+Solution Architect,VMware,India,KA,Bengaluru,20/05/31,Senior MTS,Security,5.0,10.0,51.0,41.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/05/31,SDE I,DevOps,0.0,0.0,120.0,95.0,10.0,15.0,0.0
+Solution Architect,IBM,United States,GA,Atlanta,20/05/31,B8,Cloud,20.0,25.0,170.0,165.0,5.0,0.0,0.0
+Solution Architect,Visa,United States,CA,Foster City,20/05/30,L6,Distributed Systems (Back-End),12.0,20.0,135.0,134.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,DC,Washington,20/05/29,64,ML / AI,6.0,22.0,319.0,173.0,58.0,88.0,0.0
+Solution Architect,GSK,United States,PA,Philadelphia,20/05/27,6,enterprise architecture,10.0,10.0,192.0,138.0,30.0,25.0,0.0
+Solution Architect,Google,United Arab Emirates,DU,Dubai,20/05/27,6,API Development (Back-End),1.0,20.0,350.0,190.0,100.0,60.0,0.0
+Solution Architect,Amazon,India,KA,Bengaluru,20/05/26,L4,ML / AI,2.0,9.0,200.0,90.0,100.0,10.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,20/05/24,L6,Full Stack,3.0,15.0,356.0,160.0,196.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,20/05/23,L5,Security,0.0,7.0,200.0,155.0,10.0,35.0,0.0
+Solution Architect,Just Eat,United States,CA,Milpitas,20/05/22,L50,DevOps,4.0,7.0,135.0,120.0,6.0,8.0,0.0
+Solution Architect,Amazon,Luxembourg,LU,Luxembourg,20/05/20,L5,Networking,3.0,12.0,150.0,90.0,60.0,0.0,0.0
+Solution Architect,Amazon,Singapore,SG,Singapore,20/05/15,6,Full Stack,3.0,15.0,178.0,133.0,45.0,0.0,0.0
+Solution Architect,Mastercard,United States,MO,St. Louis,20/05/14,L6,Full Stack,5.0,10.0,150.0,125.0,5.0,25.0,0.0
+Solution Architect,Bank of America,United States,NC,Charlotte,20/05/14,V,Web Development (Front-End),0.0,6.0,140.0,140.0,0.0,0.0,0.0
+Solution Architect,Novartis,United States,MA,Cambridge,20/05/14,L4,Networking,4.0,15.0,235.0,180.0,15.0,40.0,0.0
+Solution Architect,Nvidia,United States,DC,Washington,20/05/13,IC4,Full Stack,1.0,14.0,205.0,170.0,35.0,0.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/05/13,L64,Full Stack,1.0,20.0,275.0,175.0,50.0,50.0,0.0
+Solution Architect,ServiceNow,United States,DC,Washington,20/05/07,Senior Engineer,Platform,0.0,15.0,235.0,165.0,20.0,50.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,20/05/07,L6,Security,3.0,15.0,225.0,152.0,70.0,0.0,0.0
+Solution Architect,MarkLogic,United States,PA,Pittsburgh,20/05/06,Principal,Distributed Systems (Back-End),4.0,8.0,142.0,125.0,0.0,15.0,0.0
+Solution Architect,AWS,United States,WA,Seattle,20/05/05,L6,Networking,6.0,10.0,207.0,143.0,64.0,0.0,0.0
+Solution Architect,Apple,United States,CA,Santa Clara,20/05/03,IC4,Distributed Systems (Back-End),4.0,10.0,210.0,160.0,30.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,Palo Alto,20/04/30,L5,Full Stack,3.0,3.0,210.0,155.0,55.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,20/04/30,L6,Cloud Engineer,0.0,16.0,281.0,155.0,116.0,10.0,0.0
+Solution Architect,Booz Allen Hamilton,United States,CA,San Diego,20/04/28,Lead Associated,Networking,1.0,12.0,144.0,144.0,0.0,0.0,0.0
+Solution Architect,Nokia,Canada,ON,Ottawa,20/04/27,200,Networking,7.0,7.0,110.0,98.0,0.0,11.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,20/04/25,L6,ML / AI,0.0,10.0,445.0,215.0,187.0,43.0,0.0
+Solution Architect,paypal,United States,CA,San Francisco,20/04/25,T25,Web Development (Front-End),2.0,6.0,230.0,150.0,65.0,15.0,0.0
+Solution Architect,Accenture,Poland,MZ,Warsaw,20/04/24,C8,Distributed Systems (Back-End),9.0,10.0,60.0,58.0,0.0,2.0,0.0
+Solution Architect,Microsoft,United States,PA,Pittsburgh,20/04/21,65,Sales,2.0,17.0,235.0,160.0,25.0,50.0,0.0
+Solution Architect,Amazon,United States,MD,Baltimore,20/04/17,L5,National Security,0.0,16.0,215.0,155.0,40.0,20.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/04/16,L5,DevOps,2.0,4.0,156.0,120.0,36.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/04/15,L5,ML / AI,3.0,3.0,155.0,110.0,45.0,0.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,20/04/15,63,DevOps,0.0,5.0,225.0,160.0,17.0,48.0,0.0
+Solution Architect,Scientific Games,United States,NV,Reno,20/04/15,L4,Distributed Systems (Back-End),16.0,25.0,103.0,90.0,0.0,13.0,0.0
+Solution Architect,Salesforce,United States,CA,San Francisco,20/04/14,Director,Pre same,6.0,11.0,270.0,180.0,15.0,75.0,0.0
+Solution Architect,Oracle,United States,TX,San Antonio,20/04/11,IC4,Infrastructure and Application Integration,5.0,10.0,290.0,180.0,110.0,0.0,0.0
+Solution Architect,Dell Technologies,United States,CA,San Jose,20/04/06,S7,Sales,2.0,17.0,240.0,168.0,0.0,72.0,0.0
+Solution Architect,Amazon,United States,NY,New York,20/04/03,L6,Distributed Systems (Back-End),2.0,10.0,235.0,150.0,40.0,45.0,0.0
+Solution Architect,AWS,United States,WA,Seattle,20/04/01,L5,Distributed Systems (Back-End),4.0,4.0,130.0,130.0,5.0,0.0,0.0
+Solution Architect,Twitch,United States,CA,San Francisco,20/04/01,L6,Full Stack,2.0,4.0,191.0,166.0,25.0,0.0,0.0
+Solution Architect,SAIC,United States,FL,Tampa,20/03/26,Senior Principal,Full Stack,7.0,14.0,167.0,167.0,0.0,0.0,0.0
+Solution Architect,Splunk,United States,WA,Seattle,20/03/26,P4,Security,1.0,24.0,259.0,165.0,75.0,24.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/03/24,L7,Proserve,1.0,13.0,380.0,160.0,20.0,200.0,0.0
+Solution Architect,Bose,United States,MA,Framingham,20/03/23,Engineer 5,Full Stack,19.0,19.0,245.0,215.0,0.0,30.0,0.0
+Solution Architect,IBM,United States,CA,Costa Mesa,20/03/21,7,ai,3.0,3.0,112.0,112.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/03/18,L7,ML / AI,2.0,15.0,300.0,150.0,100.0,50.0,0.0
+Solution Architect,Broadcom,United States,MA,Boston,20/03/17,L6,Networking,13.0,16.0,201.0,140.0,0.0,61.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/03/16,L6,Big Data,4.0,14.0,220.0,151.0,68.0,0.0,0.0
+Solution Architect,Ernst and Young,Spain,MD,Madrid,20/03/14,Senior Consultant,Cloud,0.0,5.0,60.0,55.0,0.0,5.0,0.0
+Solution Architect,Google,United Arab Emirates,DU,Dubai,20/03/11,L5,gtech,1.0,11.0,251.0,175.0,50.0,26.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/03/09,L6,ML / AI,4.0,15.0,403.0,185.0,218.0,0.0,0.0
+Solution Architect,Docker,United States,CA,San Francisco,20/03/08,Senior,Full Stack,2.0,12.0,201.0,175.0,0.0,26.0,0.0
+Solution Architect,Amazon,Canada,AB,Calgary,20/03/06,L5,DevOps,0.0,2.0,124.0,99.0,25.0,0.0,0.0
+Solution Architect,Nokia,United States,TX,Austin,20/03/04,Sr. Solution Architect,Distributed Systems (Back-End),10.0,15.0,170.0,150.0,0.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,20/03/03,L4,AWS,0.0,0.0,125.0,97.0,25.0,0.0,0.0
+Solution Architect,Qualcomm,United States,NY,Buffalo,20/03/03,Senior Engineer,ML / AI,2.5,4.0,146.0,121.0,15.0,10.0,0.0
+Solution Architect,Nokia,United States,TX,Austin,20/02/29,Senior,Distributed Systems (Back-End),12.0,16.0,150.0,130.0,0.0,20.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,20/02/28,Grade 10,Distributed Systems (Back-End),10.0,15.0,165.0,135.0,10.0,20.0,0.0
+Solution Architect,Toast,United States,MA,Boston,20/02/28,Senior,Android,3.0,3.0,98.0,82.0,3.0,17.0,0.0
+Solution Architect,Nokia,United States,TX,Plano,20/02/28,Senior,Cloud,13.0,15.0,114.0,102.0,0.0,12.0,0.0
+Solution Architect,AWS,Korea,KG,Seoul,20/02/28,L6,DevOps,2.0,20.0,130.0,82.0,48.0,0.0,0.0
+Solution Architect,Veritas Technologies,United States,CA,Santa Clara,20/02/26,Senior,Storage,3.0,20.0,260.0,200.0,20.0,40.0,0.0
+Solution Architect,Tableau Software,United States,WA,Seattle,20/02/26,Senior,BI Analytics Consulting Strategy PM,0.0,7.0,187.0,130.0,37.0,20.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,20/02/25,64,azure,1.0,10.0,215.0,160.0,20.0,35.0,0.0
+Solution Architect,Verisk,United States,NY,New York,20/02/24,Manager,DevOps,2.0,20.0,235.0,185.0,0.0,46.0,0.0
+Solution Architect,IBM,United States,TX,Dallas,20/02/18,Director,Full Stack,15.0,27.0,380.0,280.0,50.0,50.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,20/02/18,Senior Engineer,Networking,4.0,10.0,164.0,134.0,10.0,20.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,20/02/17,L6,Presales,1.0,15.0,240.0,165.0,40.0,40.0,0.0
+Solution Architect,Accenture,Spain,AR,Zaragoza,20/02/16,Contractor,Distributed Systems (Back-End),1.0,10.0,80.0,80.0,0.0,0.0,0.0
+Solution Architect,microsoft,United States,IL,Chicago,20/02/16,64,ML / AI,1.0,32.0,279.0,178.0,48.0,53.0,0.0
+Solution Architect,SAP,Australia,QL,Brisbane,20/02/15,T4,Pre Sales,1.0,15.0,230.0,180.0,0.0,50.0,0.0
+Solution Architect,VMware,United States,CA,Palo Alto,20/02/15,Senior MTS,Field Solutions Architect,4.0,14.0,225.0,175.0,20.0,30.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,20/02/15,Senior Engineer,Networking,3.0,6.0,163.0,140.0,3.0,20.0,0.0
+Solution Architect,Amazon,France,MI,Toulouse,20/02/15,L6,Generalist,1.0,16.0,127.0,90.0,20.0,17.0,0.0
+Solution Architect,Acquia,United States,MA,Boston,20/02/15,Senior,Web Development (Front-End),4.0,15.0,133.0,123.0,0.0,10.0,0.0
+Solution Architect,PayPal,United States,MA,Newton,20/02/15,T26,Web Development (Front-End),1.0,20.0,259.0,178.0,55.0,26.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,20/02/14,L6,ML / AI,1.0,4.0,195.0,125.0,50.0,20.0,0.0
+Solution Architect,Infosys,United States,CA,Sunnyvale,20/02/14,JL6,Full Stack,14.0,14.0,120.0,118.0,1.0,3.0,0.0
+Solution Architect,Okta,United States,VA,Reston,20/02/13,Architect,Professional services,2.0,20.0,325.0,180.0,100.0,45.0,0.0
+Solution Architect,Oracle,United States,NY,New York,20/02/11,8,Full Stack,9.0,20.0,197.0,142.0,10.0,45.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,20/02/09,64,Full Stack,1.0,7.0,255.0,173.0,33.0,49.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,20/02/08,63,Azure,1.0,20.0,209.0,150.0,17.0,45.0,0.0
+Solution Architect,Amazon,Japan,TY,Tokyo,20/02/08,L6,Full Stack,3.0,19.0,205.0,165.0,40.0,0.0,0.0
+Solution Architect,Alcon,United States,TX,Fort Worth,20/02/07,L5,DevOps,6.0,15.0,160.0,130.0,5.0,25.0,0.0
+Solution Architect,Salesforce,United States,MA,Boston,20/02/07,6,Web Development (Front-End),4.0,5.0,112.0,102.0,0.0,10.0,0.0
+Solution Architect,Microsoft,United States,CA,Los Angeles,20/02/06,64,Security,1.0,10.0,248.0,165.0,33.0,50.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,20/02/05,L6,Distributed Systems (Back-End),4.0,10.0,416.0,160.0,255.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,20/02/04,L6,Security,2.0,15.0,250.0,160.0,55.0,35.0,0.0
+Solution Architect,GE Digital,United States,MI,Detroit,20/02/04,Senior Staff SWE,DevOps,7.0,7.0,115.0,115.0,0.0,0.0,0.0
+Solution Architect,SAP,United States,PA,Philadelphia,20/02/03,T5,Enterprise Architecture,13.0,15.0,281.0,165.0,81.0,35.0,0.0
+Solution Architect,GDIT,United States,DC,Washington,20/02/03,Senior,Full Stack,10.0,20.0,190.0,190.0,0.0,0.0,0.0
+Solution Architect,Visa,United States,CA,Foster City,20/01/31,Lead Software Engineer,Distributed Systems (Back-End),4.0,14.0,210.0,172.0,10.0,28.0,0.0
+Solution Architect,Oracle,United States,DC,Washington,20/01/30,IC5,Full Stack,20.0,25.0,225.0,165.0,0.0,60.0,0.0
+Solution Architect,Ericsson,United States,KS,Kansas City,20/01/28,Technical Architect 3,Full Stack,7.0,24.0,128.0,117.0,0.0,11.0,0.0
+Solution Architect,SAS Institute,United States,NC,Raleigh,20/01/27,Staff,ML / AI,1.0,2.0,127.0,102.0,0.0,25.0,0.0
+Solution Architect,Adobe,United States,TX,Austin,20/01/27,5,Distributed Systems (Back-End),1.0,14.0,250.0,185.0,50.0,15.0,0.0
+Solution Architect,IBM,United States,NY,New York,20/01/27,level 9,Cloud,2.0,20.0,340.0,330.0,0.0,10.0,0.0
+Solution Architect,Stripe,United States,CA,San Francisco,20/01/25,L3,API Development (Back-End),1.0,9.0,477.0,212.0,193.0,72.0,0.0
+Solution Architect,IBM,United States,TX,Dallas,20/01/24,9,Web Development (Front-End),7.0,20.0,180.0,180.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,20/01/22,L6,Devices,2.0,26.0,220.0,150.0,70.0,0.0,0.0
+Solution Architect,Hitachi Vantara,United States,CO,Denver,20/01/21,Staff,Sales Engineer,5.0,25.0,197.0,145.0,0.0,47.0,0.0
+Solution Architect,Google,United States,WA,Kirkland,20/01/21,s7,Architect,20.0,20.0,750.0,300.0,300.0,150.0,0.0
+Solution Architect,SAS,United States,NC,Raleigh,20/01/21,Staff,ML / AI,0.7,2.0,128.0,102.0,0.0,26.0,0.0
+Solution Architect,AWS,India,DL,Delhi,20/01/17,L7,ML / AI,2.0,20.0,215.0,105.0,95.0,15.0,0.0
+Solution Architect,Microsoft,Singapore,SG,Singapore,20/01/16,62,Distributed Systems (Back-End),2.0,12.0,201.0,141.0,30.0,30.0,0.0
+Solution Architect,IBM,United States,CA,San Francisco,20/01/15,9,Cloud,8.0,10.0,195.0,190.0,0.0,5.0,0.0
+Solution Architect,Docker,United States,CA,San Francisco,20/01/10,Staff,DevOps,1.5,15.0,181.0,175.0,0.0,6.0,0.0
+Solution Architect,Amazon,United States,TX,Austin,20/01/09,L7,Distributed Systems (Back-End),0.0,17.0,350.0,320.0,30.0,0.0,0.0
+Solution Architect,GE Digital,Mexico,QE,Queretaro,20/01/08,Senior Staff SWE,Full Stack,9.0,10.0,72.0,57.0,0.0,15.0,0.0
+Solution Architect,Google,United States,NY,New York,20/01/07,L3,Partner Engineering,0.0,3.0,165.0,116.0,32.0,18.0,0.0
+Solution Architect,AWS,United States,WA,Seattle,20/01/07,L6,Networking,4.0,20.0,223.0,110.0,85.0,24.0,0.0
+Solution Architect,CBS Interactive,United States,CA,San Francisco,20/01/02,Senior,Data Tracking Analytics,3.0,10.0,129.0,130.0,3.0,1.0,0.0
+Solution Architect,DXC,United States,GA,Atlanta,20/01/01,15 Advisor,Microsoft Dynamics Consultant,10.0,25.0,152.0,132.0,0.0,20.0,0.0
+Solution Architect,Intel,United States,OR,Hillsboro,19/12/28,Grade 9,HPC,1.0,10.0,271.0,185.0,52.0,34.0,0.0
+Solution Architect,T-Mobile,Germany,BY,Munich,19/12/27,Chief,Full Stack,3.0,10.0,165.0,115.0,0.0,49.0,0.0
+Solution Architect,AWS,United States,OH,Columbus,19/12/27,L5,Networking,2.0,20.0,181.0,139.0,42.0,0.0,0.0
+Solution Architect,Hewlett Packard Enterprise,United States,CA,Roseville,19/12/20,Expert,cloud,12.0,15.0,150.0,140.0,0.0,10.0,0.0
+Solution Architect,Amazon,United States,NY,New York,19/12/20,L6,AWS,0.0,10.0,267.0,167.0,47.0,53.0,0.0
+Solution Architect,VMware,United States,OH,Columbus,19/12/17,Senior Staff Engineer,Solutions Architect,3.0,20.0,200.0,150.0,0.0,50.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,19/12/17,L5,Cost,0.0,15.0,205.0,160.0,25.0,20.0,0.0
+Solution Architect,Slalom,United States,IL,Chicago,19/12/16,Solution Architect,Full Stack,4.0,10.0,125.0,120.0,0.0,5.0,0.0
+Solution Architect,Dell Technologies,United States,GA,Atlanta,19/12/11,I10,Distributed Systems (Back-End),3.0,19.0,220.0,171.0,4.0,45.0,0.0
+Solution Architect,Oracle,United States,TX,Austin,19/12/10,IC-4,EPM Cloud,0.0,29.0,170.0,135.0,0.0,35.0,0.0
+Solution Architect,Google,United States,VA,Norfolk,19/12/10,L5,Cloud,1.0,9.0,234.0,158.0,50.0,26.0,0.0
+Solution Architect,Capgemini,France,IL,Paris,19/12/08,I9,Cloud,1.0,17.0,125.0,105.0,0.0,20.0,0.0
+Solution Architect,Accenture,United States,MN,Minneapolis,19/12/07,8,Cloud,1.0,4.0,155.0,130.0,0.0,25.0,0.0
+Solution Architect,Google,Canada,ON,Toronto,19/11/24,L5,ML / AI,2.0,13.0,350.0,200.0,120.0,30.0,0.0
+Solution Architect,Capital One,United States,VA,Vienna,19/11/21,Senior Manager,Full Stack,2.0,20.0,215.0,195.0,0.0,22.0,0.0
+Solution Architect,Intuitive Surgical,United States,CA,Sunnyvale,19/11/21,L6,Full Stack,5.0,11.0,430.0,190.0,202.0,38.0,0.0
+Solution Architect,Nvidia,Singapore,SG,Singapore,19/11/15,IC5,ML / AI,4.0,18.0,207.0,161.0,46.0,0.0,0.0
+Solution Architect,Slalom,United States,IL,Chicago,19/11/11,Solution Architect,Data Engineering,2.5,5.0,131.0,119.0,0.0,12.0,0.0
+Solution Architect,Deloitte,Germany,NI,Hannover,19/11/10,Consultant,Web Development (Front-End),0.0,3.0,60.0,55.0,0.0,5.0,0.0
+Solution Architect,Qualcomm,United States,CA,San Diego,19/11/09,Senior Staff Engineer,ML / AI,7.0,7.0,180.0,154.0,16.0,10.0,0.0
+Solution Architect,Cisco,United States,FL,Miami,19/11/08,Grade 11,Networking,13.0,25.0,182.0,140.0,0.0,42.0,0.0
+Solution Architect,Cognizant Technology Solutions,United States,FL,Tampa,19/11/07,Senior Manager,Full Stack,5.0,14.0,130.0,120.0,0.0,10.0,0.0
+Solution Architect,ExxonMobil,United States,TX,Houston,19/11/07,24,ML / AI,6.0,14.0,123.0,123.0,0.0,0.0,0.0
+Solution Architect,Cloudera,United States,NY,New York,19/11/06,senior,Distributed Systems (Back-End),4.0,10.0,210.0,165.0,20.0,25.0,0.0
+Solution Architect,AppDynamics,United States,CA,San Francisco,19/11/06,2,PreSales apm,1.0,3.0,225.0,145.0,30.0,55.0,0.0
+Solution Architect,Oracle,United Arab Emirates,DU,Dubai,19/11/05,IC-4,Presales,3.0,10.0,220.0,145.0,0.0,75.0,0.0
+Solution Architect,Google,United Arab Emirates,DU,Dubai,19/11/05,L5,DevOps,1.0,11.0,260.0,170.0,55.0,35.0,0.0
+Solution Architect,cisco,United States,MA,Boston,19/10/31,grade 10,Networking,5.0,15.0,185.0,145.0,0.0,40.0,0.0
+Solution Architect,Perficient,United States,NC,Raleigh,19/10/31,Technical Architect,Full Stack,3.0,12.0,160.0,140.0,0.0,20.0,0.0
+Solution Architect,Amazon,Korea,KG,Seoul,19/10/25,L6,SA,3.0,15.0,150.0,100.0,35.0,15.0,0.0
+Solution Architect,Google,United States,CA,Sunnyvale,19/10/21,Senior,Security,5.5,10.0,250.0,210.0,30.0,10.0,0.0
+Solution Architect,Visa,United States,CA,San Francisco,19/10/21,Director,ML / AI,1.0,10.0,188.0,148.0,0.0,40.0,0.0
+Solution Architect,Google,United Kingdom,EN,London,19/10/19,L3,Support,1.0,4.0,85.0,65.0,10.0,10.0,0.0
+Solution Architect,Deloitte,United States,WA,Seattle,19/10/17,Senior Consultant,Salesforce,4.0,10.0,157.0,145.0,0.0,12.0,0.0
+Solution Architect,Nationwide,United States,OH,Columbus,19/10/16,Senior Architect,Full Stack,15.0,20.0,181.0,158.0,0.0,23.0,0.0
+Solution Architect,Microsoft,United States,WI,Belgium,19/10/10,57,ML / AI,2.0,2.0,55.0,49.0,5.0,2.0,0.0
+Solution Architect,Microsoft,United States,MN,Minneapolis,19/10/09,64,Azure,4.0,24.0,220.0,168.0,14.0,38.0,0.0
+Solution Architect,JPMorgan Chase,United Kingdom,EN,London,19/10/09,Vice President,Full Stack,1.0,10.0,195.0,150.0,0.0,45.0,0.0
+Solution Architect,Goldman Sachs,United States,NY,New York,19/10/08,Executive Director / Vice-President,iOS,1.0,9.0,270.0,197.0,3.0,70.0,0.0
+Solution Architect,Ericsson,United States,TX,Dallas,19/10/05,JS5,Full Stack,4.0,14.0,100.0,100.0,0.0,0.0,0.0
+Solution Architect,Broadcom,United States,CO,Denver,19/10/04,L5,Networking,7.0,13.0,340.0,130.0,150.0,60.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/10/04,L6,Sciences,0.0,10.0,250.0,155.0,10.0,85.0,0.0
+Solution Architect,Intel,United States,CA,Santa Clara,19/10/02,Principal Eng,API Development (Back-End),10.0,16.0,400.0,240.0,70.0,90.0,0.0
+Solution Architect,Google,Singapore,SG,Singapore,19/09/28,L5,Cloud,15.0,2.0,325.0,175.0,75.0,75.0,0.0
+Solution Architect,Apple,United States,CA,Cupertino,19/09/27,ICT4,Cameras,3.0,8.0,314.0,184.0,100.0,30.0,0.0
+Solution Architect,Costco,United States,WA,Issaquah,19/09/26,A3,DevOps,17.0,3.0,95.0,95.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,19/09/23,L4,Solutions Architect,0.0,0.0,124.0,96.0,3.0,25.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,19/09/23,L4,Solutions Architect,0.0,0.0,124.0,96.0,3.0,25.0,0.0
+Solution Architect,SAP,United States,WA,Bellevue,19/09/18,T4,Cloud,3.0,25.0,195.0,165.0,5.0,25.0,0.0
+Solution Architect,Deloitte,Poland,MZ,Warsaw,19/09/15,Manager,Full Stack,1.0,17.0,87.0,77.0,0.0,10.0,0.0
+Solution Architect,Amazon,Germany,BE,Berlin,19/09/14,SDE III,DevOps,1.0,8.0,100.0,70.0,20.0,10.0,0.0
+Solution Architect,Amazon,Netherlands,NH,Amsterdam,19/09/14,L6,Cloud,1.0,12.0,118.0,94.0,2.0,22.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,19/09/14,60,Security,0.0,1.0,122.0,94.0,0.0,28.0,0.0
+Solution Architect,Amazon,Germany,BY,Munich,19/09/14,L6,Generalist,0.0,10.0,150.0,111.0,27.0,12.0,0.0
+Solution Architect,Oracle,Ireland,DN,Dublin,19/09/13,IC-2,DevOps,1.5,2.0,87.0,61.0,0.0,26.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,19/09/13,64,Cloud,8.0,18.0,230.0,170.0,30.0,30.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,19/09/12,L5,Full Stack,0.0,4.0,200.0,,,,0.0
+Solution Architect,AWS,United States,TX,Houston,19/09/07,L6,Industry,1.0,9.0,225.0,149.0,0.0,0.0,0.0
+Solution Architect,Autodesk,United States,CA,San Francisco,19/09/06,Grade 15,API Development (Back-End),4.0,13.0,380.0,220.0,110.0,50.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,19/09/06,63,Networking,1.0,20.0,217.0,155.0,17.0,45.0,0.0
+Solution Architect,Databricks,United States,CA,San Francisco,19/09/05,IC3,Distributed Systems (Back-End),2.0,17.0,210.0,175.0,0.0,35.0,0.0
+Solution Architect,Atlassian,United States,CA,Mountain View,19/09/05,P6,Architecture,0.0,11.0,354.0,230.0,90.0,34.0,0.0
+Solution Architect,Accenture,United States,NY,New York,19/09/04,senior consulting analyst,Testing (SDET),1.0,1.0,82.0,,,,0.0
+Solution Architect,IBM,Canada,BC,Vancouver,19/09/03,Band 9,Network Operations Management,12.0,17.0,151.0,,,,0.0
+Solution Architect,Microsoft,United States,CA,Los Angeles,19/08/30,64,Full Stack,1.0,25.0,203.0,160.0,24.0,19.0,0.0
+Solution Architect,Amazon,Canada,BC,Vancouver,19/08/27,L7,DevOps,2.0,15.0,435.0,185.0,200.0,50.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/08/27,L6,ML / AI,0.0,7.0,242.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/08/25,L6,DevOps,7.0,9.0,261.0,,,,0.0
+Solution Architect,Databricks,Germany,HE,Frankfurt,19/08/24,Senior,ML / AI,1.0,10.0,140.0,,,,0.0
+Solution Architect,Boeing,United States,WA,Bellevue,19/08/24,3,Security,6.0,6.0,101.0,,,,0.0
+Solution Architect,Microsoft,United States,NC,Raleigh,19/08/23,65,ML / AI,1.0,16.0,283.0,172.0,36.0,76.0,0.0
+Solution Architect,Google,United States,CA,San Francisco,19/08/23,t4,iOS,1.0,10.0,250.0,,,,0.0
+Solution Architect,Salesforce,United States,IN,Indianapolis,19/08/22,Manager,Distributed Systems (Back-End),7.0,11.0,140.0,,,,0.0
+Solution Architect,Liberty Mutual Insurance,United States,NH,Dover,19/08/22,Architect,Full Stack,7.0,7.0,200.0,165.0,0.0,35.0,0.0
+Solution Architect,IBM,United States,TX,Dallas,19/08/18,9,Cloud,7.0,12.0,150.0,150.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,WA,Issaquah,19/08/18,66,Enterprise,4.0,22.0,362.0,215.0,100.0,47.0,0.0
+Solution Architect,Microsoft,United States,WA,Issaquah,19/08/18,66,Enterprise,4.0,22.0,362.0,215.0,100.0,47.0,0.0
+Solution Architect,F5 Networks,Singapore,SG,Singapore,19/08/16,Solution Architect,Networking,1.0,20.0,220.0,170.0,30.0,20.0,0.0
+Solution Architect,VMware,United States,CA,Palo Alto,19/08/14,Staff Engineer 1,DevOps,2.0,13.0,350.0,255.0,50.0,45.0,0.0
+Solution Architect,IBM,United States,GA,Atlanta,19/08/13,Senior Technical Staff Member,Distributed Systems (Back-End),19.0,26.0,160.0,160.0,0.0,1.0,0.0
+Solution Architect,Oracle,United States,TX,Austin,19/08/12,Senior MTS,Full Stack,3.0,15.0,164.0,115.0,0.0,49.0,0.0
+Solution Architect,Amazon,United States,DC,Washington,19/08/11,L4,Networking,0.0,0.0,140.0,,,,0.0
+Solution Architect,amazon,United States,CA,Sunnyvale,19/08/10,6,ML / AI,4.0,15.0,320.0,,,,0.0
+Solution Architect,Pivotal,United States,MA,Boston,19/08/01,P6,Distributed Systems (Back-End),5.0,16.0,250.0,220.0,30.0,0.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,19/07/29,L5,Full Stack,4.0,11.0,145.0,,,,0.0
+Solution Architect,Amazon,France,IL,Paris,19/07/28,L5,Full Stack,1.0,8.0,94.0,81.0,13.0,0.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,19/07/27,L5,HPC,4.0,4.0,170.0,120.0,32.0,18.0,0.0
+Solution Architect,Nokia,United States,TX,Austin,19/07/27,13,API Development (Back-End),13.0,18.0,180.0,150.0,0.0,30.0,0.0
+Solution Architect,Veritas Technologies,United States,CA,Santa Clara,19/07/27,Senior Principal SWE,Business,4.0,15.0,180.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/07/26,L6,Mobile (iOS + Android),1.0,15.0,250.0,155.0,98.0,0.0,0.0
+Solution Architect,Walmart Labs,United States,CA,Sunnyvale,19/07/26,6,API Development (Back-End),7.0,14.0,325.0,186.0,90.0,50.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,19/07/25,L5,Networking,0.0,6.0,200.0,140.0,36.0,25.0,0.0
+Solution Architect,Chevron,United States,CA,San Ramon,19/07/25,23,Full Stack,12.0,18.0,195.0,165.0,0.0,30.0,0.0
+Solution Architect,Chevron,United States,CA,San Ramon,19/07/25,23,Web Development (Front-End),12.0,15.0,195.0,165.0,0.0,30.0,0.0
+Solution Architect,JPMorgan Chase,United States,TX,Plano,19/07/25,Associate,Security,2.0,8.0,129.0,119.0,0.0,10.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,London,19/07/24,L7,Cloud,1.0,15.0,212.0,122.0,0.0,78.0,0.0
+Solution Architect,Google,United States,IL,Chicago,19/07/23,L6,Solution engineering,2.0,20.0,300.0,,,,0.0
+Solution Architect,Ericsson,United States,TX,Plano,19/07/22,JS5,OSS/BSS,4.0,14.0,110.0,,,,0.0
+Solution Architect,Amazon,United States,CA,Palo Alto,19/07/18,L6,SA,1.0,10.0,320.0,,,,0.0
+Solution Architect,Microsoft,United States,VA,Reston,19/07/17,65,Security,7.0,21.0,315.0,180.0,56.0,78.0,0.0
+Solution Architect,Grant Thornton,United States,KS,Overland Park,19/07/15,Architect,Distributed Systems (Back-End),6.0,17.0,156.0,154.0,0.0,2.0,0.0
+Solution Architect,Oracle,United States,CA,San Francisco,19/07/15,M2,ERP,5.0,15.0,210.0,155.0,20.0,35.0,0.0
+Solution Architect,Cisco,United States,GA,Atlanta,19/07/14,Grade 11,Networking,13.0,13.0,207.0,143.0,30.0,34.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,19/07/12,L7,Solution Architecture,1.0,20.0,460.0,160.0,35.0,265.0,0.0
+Solution Architect,Amazon,United States,IL,Chicago,19/07/11,L5,Networking,0.0,6.0,200.0,140.0,36.0,25.0,0.0
+Solution Architect,Oracle,United States,CO,Aspen,19/07/09,Ic6,Full Stack,15.0,31.0,650.0,350.0,300.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,19/07/09,L6,DevOps,3.0,23.0,320.0,160.0,160.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,19/07/08,L7,Cloud,1.0,15.0,425.0,,,,0.0
+Solution Architect,Amazon,United States,CO,Denver,19/07/08,L6,iOS,4.0,22.0,360.0,160.0,200.0,0.0,0.0
+Solution Architect,Amazon,Canada,ON,Toronto,19/07/06,L6,Cloud Architect,3.0,16.0,180.0,130.0,30.0,20.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/07/02,L5,Cloud,3.0,20.0,181.0,146.0,18.0,17.0,0.0
+Solution Architect,Ericsson,United States,TX,Dallas,19/06/30,JS5,Service Delivery,3.0,14.0,107.0,107.0,0.0,5.0,0.0
+Solution Architect,Google,Canada,ON,Toronto,19/06/29,L5,Full Stack,1.0,13.0,270.0,195.0,45.0,30.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/06/28,L6,Solution Architect,0.0,12.0,250.0,153.0,97.0,0.0,0.0
+Solution Architect,Accenture,United States,TX,Dallas,19/06/26,9,Workday implementation,0.0,2.0,105.0,,,,0.0
+Solution Architect,Guidewire,United States,FL,Orlando,19/06/25,Senior consultant,Full Stack,3.0,5.0,113.0,93.0,10.0,10.0,0.0
+Solution Architect,Microsoft,United States,TN,Nashville,19/06/25,L64,Azure IaaS,3.0,10.0,242.0,156.0,40.0,46.0,0.0
+Solution Architect,Amazon,United States,MA,Boston,19/06/24,Architect,Full Stack,6.0,10.0,252.0,230.0,0.0,22.0,0.0
+Solution Architect,Cloudera,United States,CA,Walnut Creek,19/06/24,Solution Architect,Hadoop,4.0,14.0,236.0,160.0,45.0,31.0,0.0
+Solution Architect,Amazon,United States,NY,New York,19/06/24,6,Cloud,3.0,12.0,250.0,172.0,68.0,0.0,0.0
+Solution Architect,Oracle,United States,CA,San Francisco,19/06/21,IC-6,Full Stack,16.0,20.0,285.0,190.0,50.0,45.0,0.0
+Solution Architect,ServiceNow,United States,KY,Lexington,19/06/20,IC5,Partnerships/Alliances,2.0,19.0,230.0,172.0,18.0,40.0,0.0
+Solution Architect,Slalom,United States,AZ,Scottsdale,19/06/20,Senior,Full Stack,2.0,14.0,150.0,145.0,0.0,5.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/06/20,L6,SA,6.0,14.0,219.0,149.0,70.0,0.0,0.0
+Solution Architect,microsoft,United States,TX,Austin,19/06/20,63,azure,1.0,8.0,168.0,140.0,8.0,20.0,0.0
+Solution Architect,Accenture,United States,IL,Chicago,19/06/20,Manager,Security,3.0,8.0,180.0,155.0,0.0,25.0,0.0
+Solution Architect,General Motors,United States,MI,Detroit,19/06/19,7A,Full Stack,8.0,15.0,158.0,140.0,0.0,18.0,0.0
+Solution Architect,DXC,United States,WA,Seattle,19/06/19,L6,Dynamics,2.0,17.0,258.0,178.0,0.0,80.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,19/06/18,65,IoT,0.0,25.0,293.0,175.0,93.0,25.0,0.0
+Solution Architect,Bank of America Merrill Lynch,United States,NY,New York,19/06/18,Senior Vice President,DevOps,2.0,20.0,390.0,265.0,37.0,88.0,0.0
+Solution Architect,Oracle,United States,CA,Foster City,19/06/18,3,Cloud Platform,3.0,5.0,190.0,,,,0.0
+Solution Architect,Intuit,United States,CA,San Francisco,19/06/18,Principal / Architect,Distributed Systems (Back-End),9.0,13.0,285.0,215.0,20.0,50.0,0.0
+Solution Architect,SAP,United States,PA,Newtown Square,19/06/18,T4,SAP,10.0,10.0,150.0,110.0,10.0,30.0,0.0
+Solution Architect,Intel,Israel,TA,Tel Aviv,19/06/17,Grade 7,Networking,9.0,20.0,155.0,125.0,8.0,22.0,0.0
+Solution Architect,Accenture,United States,TX,Houston,19/06/17,Senior Manager,Full Stack,7.0,15.0,182.0,,,,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,19/06/17,T4,Full Stack,14.0,20.0,250.0,190.0,15.0,45.0,0.0
+Solution Architect,Ibm,United States,CO,Boulder,19/06/17,10,Networking,20.0,20.0,195.0,,,,0.0
+Solution Architect,Google,United States,NY,New York,19/06/16,L6,Cloud,5.0,18.0,409.0,217.0,142.0,50.0,0.0
+Solution Architect,IBM,United States,FL,St. Petersburg,19/06/16,9,Networking,5.0,30.0,165.0,165.0,0.0,1.0,0.0
+Solution Architect,Siemens,United States,TX,Houston,19/06/16,6,API Development (Back-End),7.0,15.0,156.0,140.0,2.0,14.0,0.0
+Solution Architect,Discover,United States,IL,Buffalo Grove,19/06/16,L8,API Development (Back-End),5.0,15.0,137.0,125.0,0.0,12.0,0.0
+Solution Architect,Tesla,United States,NV,Sparks,19/06/16,Staff Engineer,Full Stack,2.0,30.0,240.0,125.0,50.0,65.0,0.0
+Solution Architect,Amazon,United States,CA,Sunnyvale,19/06/16,L6,Android,2.0,9.0,235.0,185.0,50.0,0.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,19/06/15,T4,Networking,7.0,14.0,180.0,,,,0.0
+Solution Architect,Accenture,United States,NJ,Bridgewater,19/06/15,7,ML / AI,5.0,29.0,240.0,200.0,0.0,40.0,0.0
+Solution Architect,Amazon,United States,CA,Palo Alto,19/06/15,L6,Full Stack,1.0,9.0,230.0,180.0,50.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Herndon,19/06/15,L6,Networking,6.0,13.0,225.0,155.0,70.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,19/06/13,L6,Full Stack,1.0,16.0,260.0,,,,0.0
+Solution Architect,Amazon,United States,NY,New York,19/06/13,7,Solutions Architecture,5.0,15.0,360.0,160.0,200.0,0.0,0.0
+Solution Architect,VMware,United States,CA,San Francisco,19/06/11,Staff Engineer 2,Sales,3.0,14.0,320.0,180.0,70.0,70.0,0.0
+Solution Architect,Amazon,Luxembourg,LU,Luxembourg,19/06/08,L6,Full Stack,2.0,20.0,170.0,127.0,31.0,12.0,0.0
+Solution Architect,Apple,United States,CA,Sunnyvale,19/06/08,ICT5,Security,2.0,13.0,290.0,180.0,90.0,20.0,0.0
+Solution Architect,Ubisoft,Canada,QC,Montreal,19/06/06,L4,AAA Games,10.0,12.0,130.0,125.0,0.0,5.0,0.0
+Solution Architect,ibm,Australia,VI,Melbourne,19/06/04,9,Full Stack,10.0,20.0,180.0,180.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/06/01,L6,ML / AI,0.0,7.0,276.0,152.0,87.0,38.0,0.0
+Solution Architect,Intel,United States,AZ,Chandler,19/05/31,Grade 9,Security,14.0,16.0,180.0,,,,0.0
+Solution Architect,Dropbox,United States,CA,San Francisco,19/05/31,IC4,Networking,4.0,4.0,194.0,151.0,5.0,37.0,0.0
+Solution Architect,Databricks,United States,CA,San Francisco,19/05/29,Senior,ML / AI,1.0,8.0,225.0,,,,0.0
+Solution Architect,Oracle,United Kingdom,EN,Reading,19/05/28,IC-5,DevOps,3.0,20.0,64.0,64.0,0.0,0.0,0.0
+Solution Architect,CGI,Germany,HE,Frankfurt,19/05/26,L5,API Development (Back-End),1.0,12.0,84.0,78.0,3.0,3.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/05/26,L4,API Development (Back-End),1.0,6.0,205.0,150.0,55.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,19/05/26,L5,Serverless,2.0,7.0,219.0,152.0,59.0,8.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,19/05/24,T5,ML / AI,10.0,15.0,345.0,235.0,35.0,75.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,19/05/23,L5,Cloud,1.8,3.0,198.0,144.0,44.0,20.0,0.0
+Solution Architect,Cox Automotive,United States,GA,Atlanta,19/05/21,Lead,Full Stack,2.0,15.0,164.0,134.0,0.0,40.0,0.0
+Solution Architect,Oracle,United States,CO,Denver,19/05/20,M3,professional services,6.0,25.0,195.0,144.0,15.0,36.0,0.0
+Solution Architect,Accenture,United States,IL,Chicago,19/05/16,9,Full Stack,2.0,6.0,130.0,,,,0.0
+Solution Architect,Cerner,United States,MO,Kansas City,19/05/16,46,Interfacing,2.0,4.0,58.0,58.0,0.0,0.0,0.0
+Solution Architect,Cerner,United States,MO,Kansas City,19/05/16,46,Interfacing,2.0,4.0,58.0,58.0,0.0,0.0,0.0
+Solution Architect,IBM,United States,TX,Austin,19/05/10,10,Security,8.0,20.0,222.0,186.0,33.0,3.0,0.0
+Solution Architect,Google,United States,TX,Austin,19/05/10,L5,Cloud,2.0,20.0,300.0,158.0,112.0,30.0,0.0
+Solution Architect,Amazon,United States,MA,Cambridge,19/05/08,L6,Hardware,0.0,3.0,220.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/05/04,L6,DevOps,1.0,10.0,190.0,145.0,30.0,15.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,19/04/30,L6,Cloud Computing,0.0,14.0,276.0,160.0,58.0,58.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,19/04/29,65,Full Stack,12.0,20.0,358.0,,,,0.0
+Solution Architect,Accenture,United States,MN,Minneapolis,19/04/27,Associate Manager,DevOps,1.0,3.0,127.0,,,,0.0
+Solution Architect,Microsoft,United States,NY,New York,19/04/26,61,ML / AI,1.0,7.0,174.0,,,,0.0
+Solution Architect,Dolby Laboratories,United States,CA,San Francisco,19/04/25,Senior Solutions Engineer,Solutions Engineer,7.0,7.0,137.0,127.0,1.0,9.0,0.0
+Solution Architect,BCG Digital Ventures,United States,CA,Los Angeles,19/04/24,Lead,Distributed Systems (Back-End),5.0,15.0,200.0,,,,0.0
+Solution Architect,Amazon,United States,IL,Chicago,19/04/22,L7,ML / AI,1.0,15.0,350.0,,,,0.0
+Solution Architect,Amazon,United States,IL,Chicago,19/04/22,L7,ML / AI,1.0,15.0,350.0,160.0,160.0,30.0,0.0
+Solution Architect,Nvidia,United States,CA,Santa Clara,19/04/21,IC2,ML / AI,1.0,2.0,144.0,,,,0.0
+Solution Architect,Verizon,United States,PA,Pittsburgh,19/04/20,E3,Networking,8.0,15.0,120.0,103.0,10.0,7.0,0.0
+Solution Architect,Ericsson,United States,WA,Seattle,19/04/20,JS6,Full Stack,10.0,14.0,126.0,121.0,0.0,5.0,0.0
+Solution Architect,SAP,United States,TX,Dallas,19/04/16,T3,DevOps,8.0,15.0,182.0,137.0,20.0,25.0,0.0
+Solution Architect,Algolia,United States,NY,New York,19/04/15,Senior,Implementation,1.5,2.0,168.0,135.0,4.0,35.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,19/04/14,L7,Full Stack,1.0,25.0,420.0,160.0,0.0,240.0,0.0
+Solution Architect,Accenture,United States,CA,San Francisco,19/04/14,Director,ML / AI,3.0,12.0,168.0,168.0,0.0,0.0,0.0
+Solution Architect,GitHub,Australia,NS,Sydney,19/04/12,E3,DevOps,2.0,2.0,175.0,90.0,55.0,30.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,19/04/12,62,Web Development (Front-End),10.0,10.0,142.0,112.0,15.0,15.0,0.0
+Solution Architect,Oracle,Ireland,DN,Dublin,19/04/07,IC-2,IaaS and PaaS,2.0,2.0,45.0,,,,0.0
+Solution Architect,Google,United States,TX,Dallas,19/04/05,L9,Cloud,2.0,20.0,990.0,400.0,400.0,190.0,0.0
+Solution Architect,SAP,United States,CA,San Ramon,19/04/02,T5,Distributed Systems (Back-End),14.0,30.0,359.0,255.0,0.0,104.0,0.0
+Solution Architect,IBM,Switzerland,ZH,Zurich,19/03/28,10,Infrastructure,21.0,23.0,250.0,240.0,5.0,5.0,0.0
+Solution Architect,Splunk,United States,GA,Atlanta,19/03/28,P5,Security,2.0,15.0,226.0,145.0,60.0,21.0,0.0
+Solution Architect,Microsoft,United States,TN,Nashville,19/03/22,64,Cloud,2.0,22.0,190.0,,,,0.0
+Solution Architect,Microsoft,United States,FL,Tampa,19/03/17,64,Azure,8.0,12.0,180.0,120.0,40.0,20.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,19/03/14,L5,Big Data,2.0,14.0,186.0,,,,0.0
+Solution Architect,Qualcomm Inc,United States,CA,San Diego,19/03/13,5,DevOps,9.0,15.0,170.0,145.0,15.0,10.0,0.0
+Solution Architect,Intel,United States,OR,Hillsboro,19/03/10,Grade 9,Security,7.0,10.0,218.0,154.0,32.0,32.0,0.0
+Solution Architect,SAP,United States,CA,Palo Alto,19/03/09,T5,ERP,3.0,15.0,340.0,235.0,30.0,75.0,0.0
+Solution Architect,Raymond James,United States,FL,Tampa,19/03/07,Unknown,API Development (Back-End),6.0,12.0,165.0,150.0,0.0,15.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,19/03/06,65,Solution Architect,3.0,16.0,380.0,200.0,125.0,55.0,0.0
+Solution Architect,Microsoft,United States,TX,Dallas,19/03/05,63,ML / AI,6.0,25.0,162.0,136.0,13.0,13.0,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,19/03/04,L5,DevOps,5.0,10.0,190.0,150.0,40.0,0.0,0.0
+Solution Architect,Amazon,United States,VA,Arlington,19/03/02,L5,AWS,2.0,10.0,175.0,125.0,50.0,0.0,0.0
+Solution Architect,Microsoft,United States,MA,Boston,19/03/01,64,Networking,1.0,12.0,220.0,160.0,12.0,48.0,0.0
+Solution Architect,Amazon,United States,CO,Denver,19/02/26,L6,Distributed Systems (Back-End),3.0,22.0,365.0,160.0,205.0,0.0,0.0
+Solution Architect,VMware,United States,GA,Atlanta,19/02/26,Member of Technical Staff (MTS 1),Security,6.0,12.0,135.0,105.0,15.0,15.0,0.0
+Solution Architect,HPE,Switzerland,ZH,Zurich,19/02/16,master,Full Stack,11.0,20.0,200.0,160.0,10.0,30.0,0.0
+Solution Architect,AWS,United States,DC,Washington,19/02/15,L6,Distributed Systems (Back-End),2.0,18.0,242.0,155.0,77.0,0.0,0.0
+Solution Architect,Stripe,United States,CA,San Francisco,19/02/15,L2,Full Stack,0.0,3.0,228.0,149.0,57.0,22.0,0.0
+Solution Architect,Facebook,United States,CA,San Francisco,19/02/15,IC4,Security,0.0,3.0,202.0,140.0,48.0,14.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,19/02/14,L7,Distributed Systems (Back-End),5.0,11.0,360.0,160.0,200.0,0.0,0.0
+Solution Architect,Google,United States,WA,Seattle,19/02/11,L7,ML / AI,3.0,20.0,600.0,230.0,320.0,50.0,0.0
+Solution Architect,IBM,United States,CO,Denver,19/02/11,Distinguished Engineer,ML / AI,12.0,24.0,300.0,,,,0.0
+Solution Architect,IBM,United States,CO,Denver,19/02/11,10,Cloud,12.0,22.0,200.0,,,,0.0
+Solution Architect,Amazon,United States,CO,Denver,19/02/11,6,DevOps,2.0,18.0,200.0,155.0,45.0,0.0,0.0
+Solution Architect,Cisco,United States,CA,Irvine,19/02/09,Grade 11,Networking,3.0,8.0,300.0,170.0,75.0,55.0,0.0
+Solution Architect,Oracle,United States,CA,Pleasanton,19/02/07,M4,Database,6.0,20.0,300.0,190.0,0.0,110.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,19/02/07,64,ML / AI,0.0,15.0,278.0,190.0,31.0,57.0,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,19/02/07,64,ML / AI,0.0,15.0,278.0,190.0,31.0,57.0,0.0
+Solution Architect,Microsoft,United Kingdom,EN,London,19/02/05,Senior SDE,Distributed Systems (Back-End),1.0,12.0,200.0,,,,0.0
+Solution Architect,Microsoft,United States,DC,Washington,19/02/04,64,Cloud,5.0,25.0,256.0,160.0,36.0,60.0,0.0
+Solution Architect,IBM,United States,MI,Ann Arbor,19/02/02,10,Healthcare,15.0,15.0,198.0,,,,0.0
+Solution Architect,Microsoft,United States,NY,New York,19/01/31,64,ML / AI,3.0,15.0,249.0,165.0,29.0,55.0,0.0
+Solution Architect,Tableau Software,Canada,ON,Toronto,19/01/24,L5,Data Visualization,2.0,6.0,220.0,120.0,60.0,40.0,0.0
+Solution Architect,Asurion,Japan,TY,Tokyo,19/01/12,Staff,Full Stack,1.0,10.0,75.0,63.0,0.0,10.0,0.0
+Solution Architect,Google,United States,CA,Sunnyvale,19/01/11,L6,Cloud,0.0,10.0,278.0,190.0,38.0,40.0,0.0
+Solution Architect,Slalom,United States,CA,San Diego,19/01/11,Solution Principal,Data and Analytics,1.0,28.0,215.0,,,,0.0
+Solution Architect,Microsoft,United States,PA,Philadelphia,19/01/03,65,ML / AI,3.0,19.0,323.0,189.0,50.0,75.0,0.0
+Solution Architect,Microsoft,United States,TX,Houston,18/12/29,63,Distributed Systems (Back-End),1.0,15.0,205.0,140.0,25.0,40.0,0.0
+Solution Architect,Seagate,United States,CO,Longmont,18/12/29,157,Distributed Systems (Back-End),5.0,5.0,200.0,,,,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,18/12/28,L6,Cloud,0.3,15.0,224.0,,,,0.0
+Solution Architect,Morgan Stanley,United States,NY,New York,18/12/28,Vice President,Networking,3.0,21.0,350.0,200.0,30.0,120.0,0.0
+Solution Architect,Walmart Labs,United States,CA,Sunnyvale,18/12/25,L7,Distributed Systems (Back-End),5.0,15.0,325.0,170.0,125.0,30.0,0.0
+Solution Architect,Amazon,United States,CA,Los Angeles,18/12/23,L6,Networking,1.0,12.0,250.0,160.0,90.0,0.0,0.0
+Solution Architect,Cisco,United States,NC,Raleigh,18/12/21,G12,Networking,13.0,14.0,188.0,144.0,12.0,36.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,18/12/20,L7,Partner,4.0,19.0,547.0,185.0,362.0,0.0,0.0
+Solution Architect,Microsoft,United States,NC,Charlotte,18/12/18,64,Distributed Systems (Back-End),19.0,29.0,250.0,176.0,38.0,36.0,0.0
+Solution Architect,VMware,United States,CA,Palo Alto,18/12/13,Staff,Networking,1.0,9.0,285.0,190.0,65.0,30.0,0.0
+Solution Architect,SAIC,United States,FL,Tampa,18/12/04,Senior Principal,Cloud/Cyber,6.0,14.0,160.0,160.0,0.0,0.0,0.0
+Solution Architect,Amazon,France,IL,Paris,18/12/01,L6,Full Stack,1.0,17.0,140.0,120.0,40.0,0.0,0.0
+Solution Architect,Amazon,United States,NY,New York,18/11/27,L4,Networking,3.0,6.0,220.0,,,,0.0
+Solution Architect,Cisco,United States,CA,San Jose,18/11/18,Grade 10,Networking,3.0,7.0,190.0,150.0,20.0,20.0,0.0
+Solution Architect,HPE,United States,CA,San Francisco,18/11/18,Senior,Networking,3.0,6.0,200.0,150.0,10.0,40.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/11/11,L6,IT App Dev Engineer,2.0,13.0,280.0,158.0,67.0,0.0,0.0
+Solution Architect,SAP,Singapore,SG,Singapore,18/11/10,T4,ML / AI,5.0,15.0,200.0,140.0,0.0,30.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,18/11/09,63,Cloud (Azure),0.0,19.0,200.0,150.0,5.0,45.0,0.0
+Solution Architect,Cisco,United States,NC,Durham,18/11/02,Grade 12,Networking,14.0,15.0,210.0,,,,0.0
+Solution Architect,Microsoft,United States,CA,Mountain View,18/11/01,65,Azure,3.0,16.0,320.0,204.0,56.0,60.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/11/01,L5,Mobile (iOS + Android),0.5,2.0,200.0,135.0,10.0,55.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,18/11/01,L6,Full Stack,3.0,20.0,240.0,160.0,80.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/11/01,L6,AWS,4.0,16.0,250.0,160.0,90.0,0.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,18/11/01,L4,ML / AI,1.0,3.0,150.0,103.0,25.0,22.0,0.0
+Solution Architect,Red Hat,United States,DC,Washington,18/10/31,Senior,DevOps,3.0,10.0,215.0,145.0,30.0,40.0,0.0
+Solution Architect,Amazon,Ireland,DN,Dublin,18/10/28,L5,Cloud,1.5,20.0,80.0,,,,0.0
+Solution Architect,Capital One,United States,NY,New York,18/10/16,Director of Software Eng,Full Stack,10.0,12.0,240.0,200.0,40.0,0.0,0.0
+Solution Architect,CA Technologies,United States,NY,New York,18/10/16,Director,Director of IT,4.0,10.0,488.0,388.0,80.0,20.0,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,18/10/09,65,Azure,5.0,14.0,290.0,170.0,55.0,65.0,0.0
+Solution Architect,Perspecta,United States,VA,Chantilly,18/10/09,Senior Manager,Architecture,5.0,15.0,170.0,170.0,0.0,0.0,0.0
+Solution Architect,Salesforce,United States,IN,Indianapolis,18/09/29,6,Marketing,2.0,10.0,111.0,,,,0.0
+Solution Architect,Uber,United States,CA,San Francisco,18/09/28,Senior Manager,IT,4.0,17.0,155.0,145.0,0.0,10.0,0.0
+Solution Architect,microsoft,United States,WI,Milwaukee,18/09/23,63,ML / AI,0.0,10.0,235.0,155.0,40.0,40.0,0.0
+Solution Architect,Amazon,United States,CA,San Diego,18/09/23,Distinguished Engineer,Networking,16.0,16.0,300.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/09/21,SDE I,Full Stack,3.0,10.0,120.0,115.0,0.0,12.0,0.0
+Solution Architect,IBM,United States,MA,Boston,18/09/16,10,Full Stack,25.0,25.0,295.0,195.0,25.0,75.0,0.0
+Solution Architect,Google,United States,WA,Seattle,18/09/05,L7,ML / AI,2.0,20.0,600.0,,,,0.0
+Solution Architect,Microsoft,United States,CA,San Francisco,18/08/24,65,Cloud,4.0,15.0,368.0,,,,0.0
+Solution Architect,Amazon,Australia,NS,Sydney,18/08/22,L5,DevOps,4.0,10.0,240.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/08/20,L4,AWS,1.0,2.0,128.0,,,,0.0
+Solution Architect,Microsoft,United States,NY,New York,18/08/19,64,Cloud,8.0,12.0,240.0,,,,0.0
+Solution Architect,Amazon,United States,CO,Denver,18/08/17,L6,Distributed Systems (Back-End),0.0,14.0,250.0,,,,0.0
+Solution Architect,Microsoft,United States,NY,New York,18/08/17,63,Cloud,2.0,15.0,195.0,,,,0.0
+Solution Architect,Microsoft,United States,WA,Redmond,18/08/16,62,DevOps,2.0,5.0,195.0,,,,0.0
+Solution Architect,Google,United States,TX,Dallas,18/08/16,L6,Cloud,0.0,20.0,249.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/08/14,L6,ML / AI,2.0,10.0,250.0,,,,0.0
+Solution Architect,Cisco,United States,CA,San Jose,18/08/10,Technical Leader 2,Distributed Systems (Back-End),3.0,12.0,300.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/08/08,L6,Aws,2.0,15.0,250.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/08/08,L6,Aws,2.0,15.0,250.0,,,,0.0
+Solution Architect,Amazon,United States,WA,Seattle,18/08/08,L6,Aws,2.0,15.0,250.0,,,,0.0
+Solution Architect,Microsoft,United States,CA,San Jose,18/08/01,65,Distributed Systems (Back-End),13.0,23.0,340.0,,,,0.0
+Solution Architect,EY,United States,NY,New York,18/07/17,Senior Manager,Cloud,3.0,20.0,260.0,,,,0.0
+Solution Architect,Cisco,United States,CA,San Jose,18/06/30,13,Networking,4.0,17.0,360.0,,,,0.0
+Solution Architect,Autodesk,United States,CA,San Francisco,18/06/17,14,Distributed Systems (Back-End),5.0,13.0,290.0,,,,0.0
+Solution Architect,Oracle,United States,CA,Santa Clara,18/06/16,IC3,Networking,2.0,7.0,165.0,,,,0.0
+Solution Architect,Microsoft,United States,MI,Detroit,18/06/06,63,Cloud,4.0,18.0,160.0,,,,0.0
+Solution Architect,T-Mobile,United States,WA,Seattle,18/06/06,L08 Sr Engineer,Networking,2.0,7.0,156.0,,,,0.0
+Solution Architect,Microsoft,United States,CA,Irvine,18/06/06,64,DevOps,1.0,11.0,233.0,,,,0.0
