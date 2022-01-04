@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/04,ICT4,ASIC Design,4.0,19.0,322.0,188.0,110.0,24.0,0.0
+Hardware Engineer,Synopsys,Taiwan,TP,Taipei,22/01/04,Sr II,ASIC Design,8.0,10.0,89.0,74.0,0.0,15.0,0.0
 Hardware Engineer,Nokia,United States,TX,Dallas,22/01/04,Level II,Verification,0.0,2.0,75.0,75.0,0.0,0.0,0.0
 Hardware Engineer,Intel,United States,AZ,Chandler,22/01/03,Grade 7,packaging,6.0,6.0,190.0,130.0,30.0,30.0,0.0
 Hardware Engineer,Intel,United States,OR,Portland,22/01/03,Grade 7,Validation,7.0,7.0,193.0,163.0,12.0,18.0,0.0

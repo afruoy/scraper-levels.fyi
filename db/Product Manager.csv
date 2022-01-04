@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,American Express,United States,AZ,Phoenix,22/01/04,B30,Web Development (Front-End),1.0,4.0,94.0,86.0,3.0,5.0,0.0
+Product Manager,Cognizant Softvision,United States,IL,Chicago,22/01/04,L2,Product,2.0,5.0,140.0,125.0,0.0,15.0,0.0
+Product Manager,Alteryx,United States,CO,Broomfield,22/01/04,L1,Product,0.0,0.0,134.0,110.0,13.0,11.0,0.0
+Product Manager,Amazon,United States,CA,San Francisco,22/01/04,Senior Product Manager,Enterprise,3.0,6.0,265.0,166.0,99.0,0.0,0.0
 Product Manager,Global Payments,United States,TX,Austin,22/01/04,Senior Product manager,Product,3.0,21.0,165.0,150.0,0.0,15.0,0.0
 Product Manager,Expedia,United States,WA,Seattle,22/01/04,K,Product,1.0,3.0,160.0,135.0,0.0,25.0,0.0
 Product Manager,Sabre,United States,AZ,Tucson,22/01/03,Senior,Product,5.0,6.0,112.0,109.0,0.0,3.0,0.0
