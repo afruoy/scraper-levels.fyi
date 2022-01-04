@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Wayfair,Germany,BE,Berlin,22/01/04,L4,Data,4.0,15.0,195.0,91.0,90.0,14.0,0.0
+Software Engineering Manager,Apple,United Kingdom,EN,London,22/01/04,ICT4,Site Reliability (SRE),1.0,10.0,206.0,160.0,30.0,16.0,0.0
 Software Engineering Manager,Discord,United States,TX,Austin,22/01/04,M4,Full Stack,1.0,18.0,514.0,244.0,270.0,0.0,0.0
 Software Engineering Manager,DocuSign,United States,WA,Seattle,22/01/04,M5,Web Development (Front-End),1.0,15.0,479.0,232.0,197.0,50.0,0.0
 Software Engineering Manager,Amazon,United States,CA,San Francisco,22/01/03,L6 SDM,Distributed Systems (Back-End),0.0,20.0,490.0,185.0,165.0,140.0,0.0

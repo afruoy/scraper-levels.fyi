@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Uber,United States,CA,San Francisco,22/01/04,4,General,0.0,0.0,260.0,157.0,80.0,23.0,0.0
+Data Scientist,Verisk,United States,CA,San Francisco,22/01/04,L3,Data Science,0.0,3.0,178.0,125.0,40.0,13.0,0.0
 Data Scientist,Klarna,Germany,BE,Berlin,22/01/04,L2,ML,2.0,3.0,68.0,65.0,3.0,0.0,0.0
 Data Scientist,Stripe,United States,WA,Seattle,22/01/03,L2,General,0.0,5.0,215.0,157.0,43.0,15.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/03,L6,Machine Learning,9.0,9.0,468.0,145.0,323.0,0.0,0.0

@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/04,L4,Measurement,9.0,10.0,156.0,151.0,0.0,5.0,0.0
+Mechanical Engineer,Intuitive,United States,CA,Sunnyvale,22/01/04,L3,Manufacturing,2.0,7.0,213.0,123.0,75.0,15.0,0.0
+Mechanical Engineer,Raytheon,United States,MA,Marlborough,22/01/04,P2,Mechanical Engineering,2.0,4.0,94.0,89.0,0.0,5.0,0.0
 Mechanical Engineer,Medtronic,United States,CA,Irvine,22/01/03,L2,General,0.0,0.0,92.0,85.0,0.0,7.0,0.0
 Mechanical Engineer,NASA JPL,United States,CA,Pasadena,22/01/02,L3,Systems,5.0,5.0,138.0,137.0,0.0,1.0,0.0
 Mechanical Engineer,Northrop Grumman,United States,CA,Los Angeles,22/01/02,T3,Aerospace,2.0,2.0,120.0,120.0,0.0,0.0,0.0

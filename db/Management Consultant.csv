@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,22/01/04,L3,"Health, Federal",2.0,3.0,99.0,92.0,0.0,7.0,0.0
+Management Consultant,PwC,India,KA,Bangalore,22/01/04,Manager,Management Consulting,4.0,5.0,48.0,40.0,0.0,8.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,22/01/04,Manager,Organizational Transformation,4.0,10.0,202.0,158.0,0.0,44.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/01/04,Consultant,GPS | Human Capital,0.0,2.0,95.0,90.0,0.0,5.0,0.0
+Management Consultant,Wipro Limited,India,MH,Pune,22/01/04,L2,change manager,2.0,7.0,9.0,9.0,0.0,0.0,0.0
 Management Consultant,Accenture,Canada,ON,Toronto,22/01/04,Consultant,Financial Services,4.0,4.0,92.0,86.0,0.0,6.0,0.0
 Management Consultant,McKinsey,United States,NY,New York,22/01/03,Associate,Digital,3.0,6.0,204.0,174.0,0.0,30.0,0.0
 Management Consultant,Qualtrics,United States,UT,Orem,22/01/03,L5,Delivery,7.0,9.0,180.0,130.0,30.0,20.0,0.0
