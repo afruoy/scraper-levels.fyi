@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Wayfair,United States,MA,Boston,22/01/05,L3,Distributed Systems (Back-End),5.0,8.0,235.0,150.0,70.0,15.0,0.0
+Software Engineering Manager,Vanguard,United States,PA,Malvern,22/01/04,TM03,Full Stack,7.0,7.0,150.0,135.0,0.0,15.0,0.0
+Software Engineering Manager,Sonos,United States,WA,Seattle,22/01/04,M4,Distributed Systems (Back-End),3.0,20.0,318.0,220.0,65.0,33.0,0.0
+Software Engineering Manager,General Motors,United States,TX,Austin,22/01/04,L8,API Development (Back-End),8.0,15.0,169.0,144.0,0.0,25.0,0.0
+Software Engineering Manager,Cruise,United States,CA,San Francisco,22/01/04,Engineering Manager,Testing (SDET),2.0,15.0,575.0,232.0,250.0,93.0,0.0
+Software Engineering Manager,Facebook,United States,NY,New York,22/01/04,M1,Distributed Systems (Back-End),0.0,20.0,650.0,250.0,300.0,100.0,0.0
 Software Engineering Manager,Wayfair,Germany,BE,Berlin,22/01/04,L4,Data,4.0,15.0,195.0,91.0,90.0,14.0,0.0
 Software Engineering Manager,Apple,United Kingdom,EN,London,22/01/04,ICT4,Site Reliability (SRE),1.0,10.0,206.0,160.0,30.0,16.0,0.0
 Software Engineering Manager,Discord,United States,TX,Austin,22/01/04,M4,Full Stack,1.0,18.0,514.0,244.0,270.0,0.0,0.0

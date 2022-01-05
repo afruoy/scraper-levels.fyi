@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Google,United States,CA,Mountain View,22/01/04,Product Manager 2,Growth,0.0,10.0,380.0,200.0,150.0,30.0,0.0
+Product Manager,Uber,United States,WA,Seattle,22/01/04,Group Product Manager,Product,2.0,18.0,610.0,250.0,300.0,60.0,0.0
+Product Manager,Facebook,United States,CA,Menlo Park,22/01/04,L5 Product Manager,Consumer,4.0,10.0,325.0,195.0,100.0,30.0,0.0
+Product Manager,Twilio,United States,NY,New York,22/01/04,L2,Full Stack,3.0,5.0,165.0,120.0,45.0,0.0,0.0
+Product Manager,Moody's,United States,NY,New York,22/01/04,L4,Product,3.0,5.0,130.0,116.0,2.0,12.0,0.0
+Product Manager,Publicis Sapient,Canada,ON,Toronto,22/01/04,New Grad,Product,0.0,0.0,73.0,70.0,0.0,3.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/04,Senior Product Manager,Product,7.0,13.0,238.0,130.0,108.0,0.0,0.0
 Product Manager,Apple,United States,CA,Cupertino,22/01/04,IC3,Product,0.0,2.0,193.0,155.0,23.0,15.0,0.0
 Product Manager,JPMorgan Chase,United States,OH,Columbus,22/01/04,Senior Associate,Consumer,2.0,2.0,83.0,77.0,0.0,6.0,0.0
 Product Manager,Microsoft,India,TS,Hyderabad,22/01/04,62,Product,7.0,10.0,51.0,43.0,4.0,4.0,0.0

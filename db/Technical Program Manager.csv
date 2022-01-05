@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Tesla,United States,NV,Reno,22/01/05,P3,Manufacturing,1.0,3.0,120.0,104.0,16.0,0.0,0.0
+Technical Program Manager,Apple,United States,CA,Cupertino,22/01/04,ICT4,General,2.0,7.0,278.0,168.0,90.0,20.0,0.0
+Technical Program Manager,Cubic,United States,CA,San Diego,22/01/04,L5,Defense,1.0,11.0,195.0,180.0,0.0,15.0,0.0
+Technical Program Manager,Apple,United States,CA,Cupertino,22/01/04,M1,General,2.0,20.0,382.0,204.0,148.0,30.0,0.0
+Technical Program Manager,Goldman Sachs,United States,NY,New York,22/01/04,Vice President,Cybersecurity,6.0,8.0,220.0,155.0,0.0,65.0,0.0
+Technical Program Manager,TELUS,Canada,BC,Vancouver,22/01/04,Senior,Agile,3.0,8.0,101.0,83.0,10.0,8.0,0.0
 Technical Program Manager,Google,United States,CA,Los Angeles,22/01/04,L7,AI,5.0,15.0,390.0,160.0,200.0,30.0,0.0
 Technical Program Manager,Google,United States,CA,San Francisco,22/01/04,L5,General,2.0,8.0,499.0,173.0,300.0,26.0,0.0
 Technical Program Manager,Snap,United States,CA,Los Angeles,22/01/04,L4,general,2.0,13.0,396.0,190.0,19.0,187.0,0.0

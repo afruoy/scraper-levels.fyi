@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,CO,Denver,22/01/05,Manager,"ESG, Sustainability, Sustainable Finance",1.0,14.0,180.0,160.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,PA,Philadelphia,22/01/04,Senior Manager,CBO,9.0,14.0,262.0,202.0,0.0,60.0,0.0
+Management Consultant,Deloitte,United States,MD,Silver Spring,22/01/04,Senior Consultant,Enterprise Performance,3.0,5.0,205.0,160.0,0.0,45.0,0.0
+Management Consultant,McKinsey,United States,GA,Atlanta,22/01/04,Senior Business Analyst,Generalist,4.0,5.0,180.0,145.0,0.0,35.0,0.0
+Management Consultant,Accenture,United States,MA,Boston,22/01/04,Senior Analyst,general,1.0,1.0,93.0,91.0,1.0,1.0,0.0
 Management Consultant,Booz Allen Hamilton,United States,DC,Washington,22/01/04,L3,"Health, Federal",2.0,3.0,99.0,92.0,0.0,7.0,0.0
 Management Consultant,PwC,India,KA,Bangalore,22/01/04,Manager,Management Consulting,4.0,5.0,48.0,40.0,0.0,8.0,0.0
 Management Consultant,Deloitte,United States,IL,Chicago,22/01/04,Manager,Organizational Transformation,4.0,10.0,202.0,158.0,0.0,44.0,0.0
