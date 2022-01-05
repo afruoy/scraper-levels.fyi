@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Shopee,Singapore,SG,Singapore,22/01/05,12,Data,1.0,3.0,66.0,56.0,0.0,10.0,0.0
+Product Manager,AT&T,United States,CA,Los Angeles,22/01/05,L3,Technical,5.0,16.0,183.0,165.0,0.0,18.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/05,Senior Product Manager,Consumer,1.0,8.0,200.0,160.0,30.0,10.0,0.0
+Product Manager,Synopsys,United States,CA,San Francisco,22/01/05,L8,Product,15.0,15.0,379.0,214.0,95.0,70.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/05,63,Product,2.0,10.0,200.0,175.0,15.0,10.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/05,Director,Consumer,15.0,15.0,650.0,160.0,490.0,0.0,0.0
 Product Manager,Google,United States,CA,Mountain View,22/01/04,Product Manager 2,Growth,0.0,10.0,380.0,200.0,150.0,30.0,0.0
 Product Manager,Uber,United States,WA,Seattle,22/01/04,Group Product Manager,Product,2.0,18.0,610.0,250.0,300.0,60.0,0.0
 Product Manager,Facebook,United States,CA,Menlo Park,22/01/04,L5 Product Manager,Consumer,4.0,10.0,325.0,195.0,100.0,30.0,0.0
