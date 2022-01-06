@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Human Resources,JP Morgan,United States,NY,New York,22/01/06,Analyst,HR,2.0,2.0,80.0,80.0,0.0,0.0,0.0
+Human Resources,Delivery Hero,Germany,BE,Berlin,22/01/06,M3,General,4.0,9.0,184.0,139.0,45.0,0.0,0.0
 Human Resources,Amazon,United States,WA,Seattle,22/01/04,L5,Learning,3.0,22.0,146.0,116.0,30.0,0.0,0.0
 Human Resources,Amazon,United States,WA,Seattle,21/12/30,L7,people analytics,3.0,10.0,356.0,152.0,204.0,0.0,0.0
 Human Resources,IBM,United States,GA,Atlanta,21/12/29,Band 9,Compensation,14.0,18.0,161.0,161.0,0.0,0.0,0.0

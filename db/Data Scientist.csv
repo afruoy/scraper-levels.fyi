@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/06,IC3,General,0.0,0.0,170.0,130.0,25.0,15.0,0.0
+Data Scientist,Tesla,United States,CA,Palo Alto,22/01/06,P2,General,1.0,1.0,162.0,140.0,22.0,0.0,0.0
+Data Scientist,Gopuff,United States,PA,Philadelphia,22/01/06,Data Scientist,General,1.0,2.0,138.0,125.0,0.0,13.0,0.0
+Data Scientist,Booz Allen Hamilton,United States,VA,Arlington,22/01/06,Associate,General,4.0,4.0,116.0,116.0,0.0,0.0,0.0
+Data Scientist,Guidehouse,United States,DC,Washington,22/01/06,Senior Consultant,Data Analytics,1.0,8.0,126.0,122.0,0.0,4.0,0.0
+Data Scientist,Balyasny Asset Management L.P.,United States,CA,San Francisco,22/01/06,Entry,Data Scientist within portfolio management team,1.0,1.0,150.0,125.0,0.0,25.0,0.0
+Data Scientist,Walmart Labs,United States,CA,Sunnyvale,22/01/06,L3,General,0.0,2.0,200.0,150.0,25.0,25.0,0.0
 Data Scientist,Wayfair,United States,MA,Boston,22/01/05,L2,Data,1.0,2.0,150.0,140.0,0.0,10.0,0.0
 Data Scientist,Capgemini,United Kingdom,EN,London,22/01/05,C3,Data Science,2.0,5.0,81.0,81.0,0.0,0.0,0.0
 Data Scientist,MITRE,United States,DC,Washington,22/01/05,L4,Web Development (Front-End),8.0,15.0,170.0,170.0,0.0,0.0,0.0
