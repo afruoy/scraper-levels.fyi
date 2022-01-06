@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,AWS,United States,CO,Denver,22/01/06,L5,Sales Operations,3.0,7.0,153.0,112.0,41.0,0.0,0.0
+Recruiter,SquareSpace,United States,NY,New York,22/01/05,5,Technical,1.0,8.0,150.0,140.0,7.0,3.0,0.0
+Recruiter,Amazon,Canada,ON,Toronto,22/01/05,L7,Recruiter,0.0,9.0,250.0,200.0,50.0,0.0,0.0
 Recruiter,Thumbtack,United States,CA,San Francisco,22/01/05,L5,Technical,1.0,6.0,120.0,120.0,0.0,0.0,0.0
 Recruiter,Robinhood,United States,WA,Seattle,22/01/04,L2,Technical,0.0,4.0,137.0,113.0,13.0,11.0,0.0
 Recruiter,Illumina,United States,CA,San Diego,22/01/04,L3,Technical,1.0,4.0,95.0,85.0,5.0,5.0,0.0

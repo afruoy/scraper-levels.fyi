@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,CA,San Jose,22/01/05,Senior Product Manager,Technical,0.0,9.0,315.0,180.0,65.0,70.0,0.0
+Product Manager,Refinitiv,United States,NY,New York,22/01/05,N/A,Product,10.0,15.0,250.0,200.0,0.0,50.0,0.0
+Product Manager,Microsoft,United States,GA,Atlanta,22/01/05,63,Product,0.0,8.0,219.0,147.0,50.0,22.0,0.0
+Product Manager,TELUS,Canada,BC,Vancouver,22/01/05,L6,Consumer,5.0,5.0,89.0,78.0,0.0,11.0,0.0
+Product Manager,Amazon,India,TS,Hyderabad,22/01/05,Principal Product Manager,Product,0.0,13.0,107.0,100.0,7.0,0.0,0.0
+Product Manager,Lenovo,United States,NC,Raleigh,22/01/05,Band 8,Operations,3.0,8.0,140.0,105.0,10.0,25.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/05,Senior Product Manager,Technical,0.0,5.0,282.0,160.0,72.0,50.0,0.0
+Product Manager,Natera,United States,VA,Ashburn,22/01/05,Senior Technical Product Manager,Full Stack,1.0,6.0,195.0,165.0,15.0,15.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/05,Senior Product Manager,Product,4.0,8.0,220.0,136.0,84.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/05,Senior Product Manager,Product,1.0,10.0,250.0,160.0,40.0,50.0,0.0
+Product Manager,Instacart,United States,NV,Incline Village,22/01/05,L6,Growth,2.0,6.0,741.0,216.0,525.0,0.0,0.0
 Product Manager,Grainger,United States,IL,Chicago,22/01/05,L2,Technical,2.0,3.0,193.0,148.0,15.0,30.0,0.0
 Product Manager,Shopee,Singapore,SG,Singapore,22/01/05,12,Data,1.0,3.0,66.0,56.0,0.0,10.0,0.0
 Product Manager,AT&T,United States,CA,Los Angeles,22/01/05,L3,Technical,5.0,16.0,183.0,165.0,0.0,18.0,0.0

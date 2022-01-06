@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Ernst and Young,United States,NY,New York,22/01/05,Consultant,General,1.0,3.0,155.0,125.0,0.0,30.0,0.0
+Management Consultant,KPMG,United States,TX,Houston,22/01/05,Senior Manager,Transformation Delivery,6.0,14.0,185.0,175.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,NY,New York,22/01/05,Director,Data Analytics,0.0,7.0,244.0,208.0,5.0,31.0,0.0
+Management Consultant,CGI Group,United States,FL,Orlando,22/01/05,3DX,Systems Integration,0.0,4.0,110.0,95.0,3.0,12.0,10.0
+Management Consultant,Accenture,United States,VA,Arlington,22/01/05,Senior Analyst,Business Process Analyst,2.0,2.0,95.0,92.0,0.0,3.0,0.0
+Management Consultant,Ernst and Young,United States,IL,Chicago,22/01/05,Manager,General,2.0,4.0,260.0,200.0,0.0,60.0,0.0
 Management Consultant,Deloitte,United States,NC,Charlotte,22/01/05,Senior Consultant,Digital and cloud enablement,0.0,10.0,171.0,145.0,0.0,26.0,0.0
 Management Consultant,Deloitte,United States,CO,Denver,22/01/05,Manager,"ESG, Sustainability, Sustainable Finance",1.0,14.0,180.0,160.0,0.0,20.0,0.0
 Management Consultant,Deloitte,United States,PA,Philadelphia,22/01/04,Senior Manager,CBO,9.0,14.0,262.0,202.0,0.0,60.0,0.0

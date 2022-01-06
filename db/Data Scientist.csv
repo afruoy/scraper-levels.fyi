@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Wayfair,United States,MA,Boston,22/01/05,L2,Data,1.0,2.0,150.0,140.0,0.0,10.0,0.0
+Data Scientist,Capgemini,United Kingdom,EN,London,22/01/05,C3,Data Science,2.0,5.0,81.0,81.0,0.0,0.0,0.0
+Data Scientist,MITRE,United States,DC,Washington,22/01/05,L4,Web Development (Front-End),8.0,15.0,170.0,170.0,0.0,0.0,0.0
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/05,IC5,Analytics,0.0,5.0,317.0,190.0,99.0,29.0,0.0
 Data Scientist,Delivery Hero,Germany,BE,Berlin,22/01/05,IC1,ML / AI,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Data Scientist,Bayer,United States,MO,St. Louis,22/01/05,V2,ML / AI,5.0,5.0,231.0,165.0,33.0,33.0,0.0
 Data Scientist,Google,United States,MA,Cambridge,22/01/04,L4,general,0.0,0.0,231.0,143.0,66.0,21.0,0.0
