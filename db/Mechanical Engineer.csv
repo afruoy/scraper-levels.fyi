@@ -2,7 +2,7 @@ Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,
 Mechanical Engineer,Eaton,India,MH,Pune,22/01/06,L6,FEA,3.0,3.0,15.0,15.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L1,General,0.0,2.0,119.0,119.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L2,Computation,0.0,2.0,125.0,125.0,0.0,0.0,0.0
-Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,N/A,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
+Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
 Mechanical Engineer,Raytheon,United States,CT,East Hartford,22/01/05,P1,General,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Mechanical Engineer,Amazon,United States,MA,North Reading,22/01/04,L4,Amazon Robotics,0.0,1.0,87.0,78.0,7.0,2.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/04,L4,Measurement,9.0,10.0,156.0,151.0,0.0,5.0,0.0

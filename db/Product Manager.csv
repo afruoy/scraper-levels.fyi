@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,CA,San Francisco,22/01/06,Senior Product Manager,Technical,6.0,20.0,350.0,160.0,190.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/06,Principal Product Manager,Product,4.0,20.0,610.0,160.0,300.0,150.0,0.0
+Product Manager,NTT DATA,United States,MA,Boston,22/01/06,Grade 11,Operations,15.0,15.0,133.0,121.0,0.0,12.0,0.0
+Product Manager,Disney,United States,FL,Orlando,22/01/06,Senior Product Manager,Product,1.0,5.0,190.0,140.0,40.0,10.0,0.0
+Product Manager,Intel,Israel,HA,Haifa,22/01/06,Grade 9,Product,25.0,25.0,224.0,163.0,20.0,41.0,0.0
+Product Manager,HPE,United States,CA,San Jose,22/01/06,L5,Product,6.0,6.0,199.0,180.0,5.0,14.0,0.0
+Product Manager,Zillow,United States,NY,New York,22/01/06,P4,Infrastructure,1.0,15.0,240.0,160.0,40.0,40.0,0.0
 Product Manager,Walmart,United States,CA,San Francisco,22/01/06,X4,Product,1.0,4.0,213.0,140.0,45.0,28.0,0.0
 Product Manager,Cigna,United States,CO,Denver,22/01/06,Band 4,Product,10.0,15.0,180.0,150.0,0.0,30.0,0.0
 Product Manager,DoorDash,United States,CA,San Francisco,22/01/06,E5,Product,0.0,6.0,420.0,220.0,200.0,0.0,0.0

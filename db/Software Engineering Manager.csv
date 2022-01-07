@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Yahoo,United States,CA,Playa del Rey,22/01/07,IC4,Distributed Systems (Back-End),8.0,11.0,260.0,200.0,30.0,30.0,0.0
+Software Engineering Manager,Citi,United Kingdom,EN,London,22/01/06,C13,Data,0.0,12.0,190.0,170.0,0.0,20.0,0.0
+Software Engineering Manager,Facebook,United States,WA,Seattle,22/01/06,M1,Distributed Systems (Back-End),0.0,10.0,600.0,240.0,300.0,60.0,0.0
+Software Engineering Manager,Airbnb,United States,WA,Seattle,22/01/06,L10,Full Stack,0.0,15.0,600.0,240.0,300.0,60.0,0.0
+Software Engineering Manager,Nordstrom,United States,NY,New York,22/01/06,18,Full Stack,1.0,5.0,267.0,205.0,0.0,62.0,0.0
+Software Engineering Manager,J. P. Morgan Chase,United States,DE,Wilmington,22/01/06,603,Distributed Systems (Back-End),10.0,17.0,190.0,162.0,0.0,28.0,0.0
 Software Engineering Manager,Charles Schwab,United States,TX,Austin,22/01/06,60,Web Development (Front-End),13.0,18.0,300.0,220.0,45.0,35.0,0.0
 Software Engineering Manager,Flipkart,India,KA,Bangalore,22/01/06,L5,Distributed Systems (Back-End),1.0,11.0,120.0,91.0,10.0,18.0,0.0
 Software Engineering Manager,C3.ai,United States,VA,West McLean,22/01/06,L3,ML / AI,1.0,20.0,258.0,190.0,30.0,38.0,0.0
