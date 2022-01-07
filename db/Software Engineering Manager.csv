@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Cigna,United States,NY,New York,22/01/07,Sr.,Data,4.0,7.0,200.0,150.0,25.0,25.0,0.0
 Software Engineering Manager,Datadog,United States,OR,Portland,22/01/07,L1,Networking,1.0,15.0,322.0,210.0,112.0,0.0,0.0
 Software Engineering Manager,Cox Automotive,Canada,ON,Toronto,22/01/07,L5,API Development (Back-End),2.0,14.0,160.0,140.0,0.0,20.0,0.0
 Software Engineering Manager,Yahoo,United States,CA,Playa del Rey,22/01/07,IC4,Distributed Systems (Back-End),8.0,11.0,260.0,200.0,30.0,30.0,0.0
