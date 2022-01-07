@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Bloomberg,United States,NY,New York,22/01/07,L1,Product,2.0,2.0,73.0,73.0,0.0,0.0,0.0
+Business Analyst,Johnson & Johnson,United States,NJ,Skillman,22/01/07,24,Product Owner,2.0,2.0,89.0,83.0,0.0,6.0,0.0
+Business Analyst,Micron Technology,United States,ID,Boise,22/01/07,4,Risk,1.0,4.0,185.0,105.0,50.0,30.0,0.0
 Business Analyst,Red Hat,India,MH,Pune,22/01/06,L2,Anaplan,3.0,3.0,20.0,18.0,0.0,2.0,0.0
 Business Analyst,Vodafone Group,India,MH,Pune,22/01/06,L5,Business Resource Manager,2.0,10.0,24.0,22.0,0.0,3.0,0.0
 Business Analyst,American Airlines,United States,TX,Fort Worth,22/01/06,L3,General,7.0,7.0,80.0,80.0,0.0,0.0,0.0

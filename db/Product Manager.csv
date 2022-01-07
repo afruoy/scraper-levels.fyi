@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Xandr,United States,NY,New York,22/01/07,PM 2,Product,8.0,8.0,159.0,142.0,0.0,17.0,0.0
+Product Manager,Better Mortgage,United States,NY,New York,22/01/07,Director,Product,1.0,12.0,513.0,263.0,200.0,50.0,0.0
+Product Manager,Natera,United States,CA,San Carlos,22/01/07,L6,Biotech,2.0,11.0,310.0,195.0,95.0,20.0,0.0
+Product Manager,Best Buy,United States,MN,Minneapolis,22/01/07,Associate Product Manager,Internal,1.0,1.0,105.0,90.0,0.0,15.0,0.0
+Product Manager,Twilio,United States,ID,Idaho Falls,22/01/07,L4,Product,1.0,7.0,185.0,140.0,45.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/07,59,Technical,0.0,0.0,173.0,111.0,38.0,25.0,0.0
+Product Manager,IBM,United States,TX,Austin,22/01/07,Associate Offering Manager,Consumer,1.0,1.0,160.0,140.0,0.0,20.0,0.0
+Product Manager,Coinbase,Canada,BC,Vancouver,22/01/07,IC5,Product,0.0,7.0,291.0,146.0,131.0,15.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/01/07,Product Manager 2,Consumer,3.0,8.0,392.0,179.0,182.0,32.0,0.0
+Product Manager,Wattpad,Canada,ON,Toronto,22/01/07,Senior,Consumer,4.0,4.0,126.0,110.0,0.0,16.0,0.0
+Product Manager,Flipkart,India,KA,Bengaluru,22/01/07,GPM,Product,3.0,10.0,130.0,80.0,30.0,20.0,0.0
+Product Manager,Shift,United States,DC,Washington,22/01/07,L3,Internal,3.0,6.0,186.0,135.0,37.0,14.0,0.0
 Product Manager,Amazon,United States,CA,San Francisco,22/01/06,Senior Product Manager,Technical,6.0,20.0,350.0,160.0,190.0,0.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/06,Principal Product Manager,Product,4.0,20.0,610.0,160.0,300.0,150.0,0.0
 Product Manager,NTT DATA,United States,MA,Boston,22/01/06,Grade 11,Operations,15.0,15.0,133.0,121.0,0.0,12.0,0.0
