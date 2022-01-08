@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/08,L6 SDM,Distributed Systems (Back-End),7.0,16.0,510.0,160.0,350.0,0.0,0.0
+Software Engineering Manager,Capital One,United States,CA,San Francisco,22/01/08,Director,Distributed Systems (Back-End),6.0,15.0,350.0,270.0,40.0,40.0,0.0
+Software Engineering Manager,Ciena,United States,CA,San Francisco,22/01/08,M4,Networking,6.0,6.0,216.0,176.0,14.0,26.0,0.0
 Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/07,L6 SDM,Android,1.0,13.0,452.0,160.0,206.0,86.0,0.0
 Software Engineering Manager,Morgan Stanley,United States,NY,New York,22/01/07,L5,Production,18.0,20.0,295.0,200.0,0.0,95.0,0.0
 Software Engineering Manager,Salesforce,United States,CA,San Francisco,22/01/07,Director,Full Stack,4.0,25.0,350.0,250.0,50.0,50.0,0.0

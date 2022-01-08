@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Ernst and Young,Singapore,SG,Singapore,22/01/08,Consultant,Technology Consulting (Financial Services),1.0,1.0,41.0,35.0,0.0,6.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,22/01/08,Associate Consultant,General,0.0,0.0,127.0,100.0,0.0,27.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,22/01/08,3,Identity and Access Management,4.0,7.0,140.0,140.0,0.0,0.0,0.0
 Management Consultant,McKinsey,United States,NY,New York,22/01/07,Associate,General,3.0,5.0,236.0,200.0,0.0,36.0,0.0
 Management Consultant,Deloitte,United States,DC,Washington,22/01/07,Senior Consultant,Strategy,3.0,5.0,136.0,122.0,0.0,14.0,0.0
 Management Consultant,Deloitte,United States,TX,Austin,22/01/07,Senior Consultant,Analytics & Cognitive,1.0,5.0,164.0,138.0,0.0,26.0,0.0

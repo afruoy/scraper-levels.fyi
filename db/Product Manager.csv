@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,WarnerMedia,United States,GA,Atlanta,22/01/08,II,Product,0.0,5.0,160.0,118.0,30.0,12.0,0.0
+Product Manager,PayPal,United States,CA,San Jose,22/01/08,T28,Product,9.0,13.0,550.0,240.0,250.0,60.0,0.0
+Product Manager,Tesla,United States,CA,Fremont,22/01/08,P3,Product,1.0,6.0,190.0,145.0,30.0,15.0,0.0
+Product Manager,Capital One,United States,TX,Plano,22/01/08,Principle Associate,Production,4.0,10.0,143.0,131.0,0.0,12.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/08,66,Infrastructure,3.0,25.0,415.0,215.0,140.0,60.0,0.0
+Product Manager,Capital One,United States,NY,New York,22/01/08,Director,Product,4.0,13.0,335.0,260.0,35.0,40.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/08,Senior Product Manager,Product,2.0,20.0,195.0,140.0,42.0,13.0,0.0
+Product Manager,American Express,United States,AZ,Phoenix,22/01/08,VP,Product,6.0,20.0,340.0,200.0,40.0,100.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/08,Principal Product Manager,Technical,7.0,20.0,390.0,150.0,240.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/08,Senior Product Manager,Technical,10.0,10.0,294.0,144.0,150.0,0.0,0.0
+Product Manager,VMware,United States,CA,Palo Alto,22/01/08,L3,Enterprise,0.0,3.0,193.0,155.0,20.0,18.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/07,Senior Product Manager,Product,7.0,7.0,300.0,140.0,160.0,0.0,0.0
 Product Manager,Convoy,United States,WA,Seattle,22/01/07,T8,Technical,4.0,10.0,759.0,259.0,500.0,0.0,0.0
 Product Manager,Target,United States,MN,Minneapolis,22/01/07,L7,Enterprise,8.0,15.0,300.0,200.0,50.0,50.0,0.0

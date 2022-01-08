@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,JP Morgan,United States,DC,Washington,22/01/08,604,General,5.0,15.0,465.0,255.0,50.0,160.0,0.0
+Technical Program Manager,Apple,United States,CA,Cupertino,22/01/08,ICT4,AI/ML,3.0,10.0,330.0,185.0,120.0,25.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/08,L5,L5,1.0,12.0,173.0,142.0,20.0,11.0,0.0
+Technical Program Manager,Amazon,United States,VA,Herndon,22/01/08,L4,Software,3.0,3.0,185.0,135.0,20.0,30.0,0.0
 Technical Program Manager,Cognizant,United States,TX,Dallas,22/01/07,L6,General,17.0,17.0,129.0,123.0,0.0,6.0,0.0
 Technical Program Manager,Amazon,United States,WA,Seattle,22/01/07,L6,Analytics/Data Science,1.0,6.0,273.0,155.0,68.0,50.0,0.0
 Technical Program Manager,Google,United States,CA,Sunnyvale,22/01/06,L5,Product Operations,0.0,10.0,237.0,180.0,30.0,27.0,0.0
