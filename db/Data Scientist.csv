@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Booz Allen Hamilton,United States,DC,Washington,22/01/08,L2,"Machine Learning, NLP",3.0,3.0,116.0,116.0,0.0,0.0,0.0
+Data Scientist,SparkCognition,United States,TX,Austin,22/01/07,L3,General,2.0,3.0,120.0,110.0,10.0,0.0,0.0
+Data Scientist,Oracle,United States,CO,Denver,22/01/07,IC,General,0.0,0.0,145.0,130.0,15.0,0.0,0.0
+Data Scientist,Etsy,United States,NY,New York,22/01/07,IC2,Finance,2.0,4.0,127.0,115.0,0.0,12.0,0.0
+Data Scientist,Microsoft,United States,WA,Seattle,22/01/07,62,Azure,2.0,4.0,202.0,158.0,21.0,23.0,0.0
+Data Scientist,Deloitte,United States,CA,Los Angeles,22/01/07,Consultant,Applied AI,0.0,1.0,121.0,107.0,0.0,14.0,0.0
 Data Scientist,Societe Generale,France,IL,Paris,22/01/07,L1,General,1.0,1.0,62.0,57.0,0.0,6.0,0.0
 Data Scientist,Siemens,India,KA,Bangalore,22/01/07,T06,Computer Vision,0.0,3.0,23.0,23.0,0.0,0.0,0.0
 Data Scientist,Lyft,United States,CA,San Francisco,22/01/07,T5,Algorithms,0.0,5.0,370.0,190.0,175.0,5.0,0.0

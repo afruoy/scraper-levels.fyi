@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,JP Morgan Chase,United States,TX,Dallas,22/01/08,Associate,Operations,1.0,3.0,98.0,90.0,0.0,8.0,0.0
+Recruiter,Boeing,United States,AZ,Phoenix,22/01/07,L4,General,3.0,5.0,107.0,102.0,0.0,5.0,0.0
+Recruiter,Google,United States,TX,Austin,22/01/07,Contract,Technical,1.0,3.0,112.0,112.0,0.0,0.0,0.0
+Recruiter,Salesforce,United States,FL,Fort Lauderdale,22/01/07,IC7,Leadership,3.0,15.0,225.0,145.0,58.0,22.0,0.0
+Recruiter,Amazon,United States,TX,Dallas,22/01/07,L5,Technical,1.0,10.0,132.0,110.0,11.0,11.0,0.0
+Recruiter,Wise,United Kingdom,EN,London,22/01/07,L5,Technical,2.0,16.0,231.0,145.0,86.0,0.0,0.0
 Recruiter,Salesforce,United States,NY,New York,22/01/07,L6,Sales,2.0,8.0,171.0,158.0,0.0,13.0,0.0
 Recruiter,DoorDash,United States,CA,San Francisco,22/01/06,P4,Technical,1.0,7.0,201.0,160.0,41.0,0.0,0.0
 Recruiter,IBM,United States,TX,Austin,22/01/06,Band 7,Operations,2.0,4.0,89.0,89.0,0.0,0.0,0.0

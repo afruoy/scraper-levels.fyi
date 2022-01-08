@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Comcast,United States,CO,Denver,22/01/07,L6,General,10.0,20.0,235.0,165.0,40.0,30.0,0.0
+Sales,Amazon,Canada,ON,Toronto,22/01/07,L5,Ad sales,0.0,10.0,159.0,86.0,9.0,63.0,0.0
 Sales,Google,United Kingdom,EN,London,22/01/07,L3,EMEA Cloud,1.0,1.0,80.0,78.0,0.0,2.0,0.0
 Sales,Google,United Kingdom,EN,London,22/01/07,L3,Google Cloud EMEA,1.0,1.0,82.0,80.0,0.0,2.0,0.0
 Sales,Adobe,Singapore,SG,Singapore,22/01/07,L4,Sales,5.0,14.0,150.0,100.0,30.0,20.0,0.0

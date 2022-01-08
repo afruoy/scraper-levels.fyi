@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/07,L6 SDM,Android,1.0,13.0,452.0,160.0,206.0,86.0,0.0
+Software Engineering Manager,Morgan Stanley,United States,NY,New York,22/01/07,L5,Production,18.0,20.0,295.0,200.0,0.0,95.0,0.0
+Software Engineering Manager,Salesforce,United States,CA,San Francisco,22/01/07,Director,Full Stack,4.0,25.0,350.0,250.0,50.0,50.0,0.0
 Software Engineering Manager,Cigna,United States,NY,New York,22/01/07,Sr.,Data,4.0,7.0,200.0,150.0,25.0,25.0,0.0
 Software Engineering Manager,Datadog,United States,OR,Portland,22/01/07,L1,Networking,1.0,15.0,322.0,210.0,112.0,0.0,0.0
 Software Engineering Manager,Cox Automotive,Canada,ON,Toronto,22/01/07,L5,API Development (Back-End),2.0,14.0,160.0,140.0,0.0,20.0,0.0
