@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Amazon,United States,WA,Bellevue,22/01/08,L5,Alexa AI,3.0,10.0,370.0,160.0,152.0,58.0,0.0
+Data Scientist,DataRobot,United States,MA,Boston,22/01/08,P3,Professional Services,1.0,10.0,212.0,165.0,14.0,33.0,0.0
+Data Scientist,Twitter,United States,WA,Seattle,22/01/08,L5,General,1.0,5.0,241.0,155.0,63.0,23.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/08,L5,ML,0.0,4.0,349.0,149.0,50.0,150.0,0.0
 Data Scientist,Booz Allen Hamilton,United States,TX,San Antonio,22/01/08,Junior/Entry,Machine Learning,1.0,1.0,75.0,75.0,0.0,0.0,0.0
 Data Scientist,Unity Technologies,Canada,QC,Montreal,22/01/08,IC5,Ads,1.0,2.0,115.0,83.0,30.0,2.0,0.0
