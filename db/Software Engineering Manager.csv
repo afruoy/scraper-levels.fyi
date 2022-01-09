@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/09,L6 SDM,Mobile (iOS + Android),1.0,15.0,400.0,160.0,40.0,200.0,0.0
+Software Engineering Manager,Amazon,Canada,ON,Toronto,22/01/09,VP,Full Stack,10.0,19.0,1.0,556.0,444.0,0.0,0.0
+Software Engineering Manager,Airbnb,United States,WA,Seattle,22/01/09,M1,Data,2.0,11.0,494.0,235.0,200.0,59.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/09,66,Software Delivery,15.0,23.0,425.0,225.0,155.0,45.0,0.0
+Software Engineering Manager,Mastercard,Canada,BC,Vancouver,22/01/09,L6,DevOps,5.0,5.0,111.0,98.0,3.0,10.0,0.0
 Software Engineering Manager,Apple,United States,TX,Austin,22/01/09,M1,API Development (Back-End),3.0,15.0,288.0,158.0,110.0,20.0,0.0
 Software Engineering Manager,Apple,United States,CA,Cupertino,22/01/08,ICT5,ML / AI,3.0,6.0,810.0,300.0,470.0,40.0,0.0
 Software Engineering Manager,Amazon,United States,TX,Austin,22/01/08,Senior SDM,Full Stack,5.0,15.0,575.0,160.0,415.0,0.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Shell,India,TN,Chennai,22/01/09,JG5,General,2.0,6.0,28.0,24.0,0.0,4.0,0.0
+Data Scientist,Bell Canada,Canada,ON,Toronto,22/01/09,Senior,General,3.0,3.0,92.0,77.0,2.0,14.0,0.0
+Data Scientist,Deloitte,United States,MA,Boston,22/01/09,Senior Consultant,Analytics and Cognitive,4.0,4.0,158.0,143.0,0.0,15.0,0.0
+Data Scientist,Nike,United States,OR,Beaverton,22/01/09,U,Analytics,0.0,2.0,143.0,124.0,0.0,19.0,0.0
+Data Scientist,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/09,SES 1,Machine Learning,0.0,0.0,140.0,140.0,0.0,0.0,0.0
 Data Scientist,DoorDash,United States,NY,New York,22/01/08,E4,General,3.0,3.0,201.0,157.0,44.0,0.0,0.0
 Data Scientist,Amazon,United States,WA,Bellevue,22/01/08,L5,Alexa AI,3.0,10.0,370.0,160.0,152.0,58.0,0.0
 Data Scientist,DataRobot,United States,MA,Boston,22/01/08,P3,Professional Services,1.0,10.0,212.0,165.0,14.0,33.0,0.0

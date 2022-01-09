@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,MediaTek,Taiwan,TP,Hsin-chu,22/01/09,E7,SoC Design,1.0,1.0,67.0,40.0,0.0,27.0,0.0
+Hardware Engineer,Wistron,Taiwan,TP,Taipei,22/01/09,A3,Embedded Systems,0.0,3.0,23.0,22.0,0.0,2.0,0.0
 Hardware Engineer,Apple,United States,CA,Santa Clara,22/01/08,ICT3,ASIC Design,2.0,5.0,220.0,145.0,60.0,15.0,0.0
 Hardware Engineer,AMD,United States,CA,San Francisco,22/01/08,MTS,ASIC Design,10.0,10.0,230.0,170.0,30.0,30.0,0.0
 Hardware Engineer,TSMC,United States,AZ,Phoenix,22/01/08,31,PE,0.0,0.0,89.0,75.0,0.0,14.0,0.0

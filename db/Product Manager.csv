@@ -1,7 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Oracle,United States,CA,Los Angeles,22/01/09,IC,Product,0.0,5.0,330.0,235.0,95.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/09,Principal Product Manager,Product,5.0,18.0,370.0,157.0,213.0,0.0,0.0
 Product Manager,Uber,United States,CA,San Francisco,22/01/08,Product Manager II,Product,2.0,5.0,181.0,145.0,13.0,23.0,0.0
 Product Manager,Zynga,United States,CA,San Francisco,22/01/08,L3,Product,2.0,3.0,179.0,140.0,15.0,24.0,0.0
-Product Manager,Appian,United States,VA,West McLean,22/01/08,N/A,Infrastructure,0.0,9.0,178.0,160.0,9.0,10.0,0.0
+Product Manager,Appian,United States,VA,West McLean,22/01/08,,Infrastructure,0.0,9.0,178.0,160.0,9.0,10.0,0.0
 Product Manager,Gopuff,United Kingdom,EN,London,22/01/08,L3,Product,1.0,1.0,40.0,38.0,1.0,0.0,0.0
 Product Manager,WarnerMedia,United States,GA,Atlanta,22/01/08,II,Product,0.0,5.0,160.0,118.0,30.0,12.0,0.0
 Product Manager,PayPal,United States,CA,San Jose,22/01/08,T28,Product,9.0,13.0,550.0,240.0,250.0,60.0,0.0
