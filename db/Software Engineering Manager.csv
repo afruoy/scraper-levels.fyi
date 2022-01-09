@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Apple,United States,TX,Austin,22/01/09,M1,API Development (Back-End),3.0,15.0,288.0,158.0,110.0,20.0,0.0
+Software Engineering Manager,Apple,United States,CA,Cupertino,22/01/08,ICT5,ML / AI,3.0,6.0,810.0,300.0,470.0,40.0,0.0
+Software Engineering Manager,Amazon,United States,TX,Austin,22/01/08,Senior SDM,Full Stack,5.0,15.0,575.0,160.0,415.0,0.0,0.0
+Software Engineering Manager,Amazon,India,TS,Hyderabad,22/01/08,L6 SDM,Distributed Systems (Back-End),2.0,17.0,142.0,88.0,54.0,0.0,0.0
 Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/08,L6 SDM,Distributed Systems (Back-End),7.0,16.0,510.0,160.0,350.0,0.0,0.0
 Software Engineering Manager,Capital One,United States,CA,San Francisco,22/01/08,Director,Distributed Systems (Back-End),6.0,15.0,350.0,270.0,40.0,40.0,0.0
 Software Engineering Manager,Ciena,United States,CA,San Francisco,22/01/08,M4,Networking,6.0,6.0,216.0,176.0,14.0,26.0,0.0

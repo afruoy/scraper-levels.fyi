@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Apple,United States,CA,Santa Clara,22/01/08,ICT3,ASIC Design,2.0,5.0,220.0,145.0,60.0,15.0,0.0
+Hardware Engineer,AMD,United States,CA,San Francisco,22/01/08,MTS,ASIC Design,10.0,10.0,230.0,170.0,30.0,30.0,0.0
 Hardware Engineer,TSMC,United States,AZ,Phoenix,22/01/08,31,PE,0.0,0.0,89.0,75.0,0.0,14.0,0.0
 Hardware Engineer,Sandia National Labs,United States,NM,Albuquerque,22/01/08,L4,Imaging,3.0,22.0,154.0,154.0,0.0,0.0,0.0
 Hardware Engineer,Intel,United States,CO,Fort Collins,22/01/07,Grade 7,SoC Design,10.0,10.0,162.0,136.0,10.0,16.0,0.0
