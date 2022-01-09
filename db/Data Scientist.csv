@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Google,United States,CA,San Francisco,22/01/09,L3,General,0.0,2.0,120.0,120.0,0.0,0.0,0.0
+Data Scientist,Shopify,France,IL,Paris,22/01/09,L5,Product,0.0,2.0,121.0,102.0,19.0,0.0,0.0
 Data Scientist,Shell,India,TN,Chennai,22/01/09,JG5,General,2.0,6.0,28.0,24.0,0.0,4.0,0.0
 Data Scientist,Bell Canada,Canada,ON,Toronto,22/01/09,Senior,General,3.0,3.0,92.0,77.0,2.0,14.0,0.0
 Data Scientist,Deloitte,United States,MA,Boston,22/01/09,Senior Consultant,Analytics and Cognitive,4.0,4.0,158.0,143.0,0.0,15.0,0.0
