@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Discover,United States,IL,Chicago,22/01/09,pg7,General,2.0,4.0,120.0,113.0,0.0,7.0,0.0
+Data Scientist,PwC,Germany,BE,Berlin,22/01/09,Associate,General,3.0,4.0,62.0,57.0,0.0,5.0,0.0
+Data Scientist,Tata Consultancy Services,India,WB,Kolkata,22/01/09,L1,AI/ML Research,1.0,1.0,13.0,13.0,0.0,0.0,0.0
+Data Scientist,MiQ,India,KA,Bangalore,22/01/09,L3,Analytics,5.0,8.0,80.0,80.0,0.0,0.0,0.0
 Data Scientist,Google,United States,CA,San Francisco,22/01/09,L3,General,0.0,2.0,120.0,120.0,0.0,0.0,0.0
 Data Scientist,Shopify,France,IL,Paris,22/01/09,L5,Product,0.0,2.0,121.0,102.0,19.0,0.0,0.0
 Data Scientist,Shell,India,TN,Chennai,22/01/09,JG5,General,2.0,6.0,28.0,24.0,0.0,4.0,0.0
