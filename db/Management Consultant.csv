@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Bain,United States,NY,New York,22/01/10,Associate Consultant,General,0.0,0.0,115.0,100.0,0.0,15.0,0.0
+Management Consultant,Salesforce,United States,TX,Dallas,22/01/10,L7,Salesforce,0.0,10.0,255.0,210.0,14.0,32.0,0.0
 Management Consultant,Bain,United States,WA,Seattle,22/01/09,Associate Consultant,Generalist,1.0,1.0,120.0,100.0,0.0,20.0,0.0
 Management Consultant,Capital One,United States,DC,Washington,22/01/09,Associate,Strategy consulting,0.0,0.0,105.0,96.0,3.0,6.0,0.0
 Management Consultant,Accenture,United States,IL,Chicago,22/01/09,Manager,General,0.0,10.0,209.0,190.0,0.0,19.0,0.0

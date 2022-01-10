@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Cisco,United States,GA,Lawrenceville,22/01/10,12,Program management,10.0,15.0,230.0,150.0,50.0,30.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/10,L6,General,5.0,17.0,240.0,156.0,84.0,0.0,0.0
+Technical Program Manager,Facebook,United States,WA,Seattle,22/01/10,IC5,Machine Learning,1.0,20.0,305.0,195.0,80.0,30.0,0.0
 Technical Program Manager,Google,India,KA,Bangalore,22/01/09,L5,Android,3.0,3.0,114.0,58.0,44.0,12.0,0.0
 Technical Program Manager,Amazon,United States,TX,Austin,22/01/09,L5,security,0.0,12.0,193.0,155.0,20.0,18.0,0.0
 Technical Program Manager,SAP,India,KA,Bangalore,22/01/09,T4,DevOps,5.0,14.0,63.0,46.0,9.0,8.0,0.0
