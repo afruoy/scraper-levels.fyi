@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Expedia,United Kingdom,EN,London,22/01/10,L,Enterprise,1.0,6.0,130.0,123.0,0.0,7.0,0.0
+Product Manager,Microsoft,India,KA,Bangalore,22/01/10,63,Product,0.0,7.0,163.0,57.0,100.0,6.0,0.0
+Product Manager,Amazon,Singapore,SG,Singapore,22/01/10,Senior Product Manager,Product,1.0,11.0,200.0,140.0,40.0,20.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/09,Senior Product Manager,Product,11.0,11.0,185.0,125.0,60.0,0.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/09,Senior Product Manager,Product,8.0,8.0,265.0,145.0,120.0,0.0,0.0
 Product Manager,Oracle,United States,CA,Los Angeles,22/01/09,IC,Product,0.0,5.0,330.0,235.0,95.0,0.0,0.0
