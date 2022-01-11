@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Google,Canada,ON,Waterloo,22/01/11,L6,Imaging,3.0,5.0,562.0,200.0,320.0,42.0,0.0
+Hardware Engineer,Aeva,United States,CA,Mountain View,22/01/11,Intermediate,Validation,0.0,2.0,192.0,127.0,50.0,15.0,0.0
+Hardware Engineer,Georgia Tech Research Institute,United States,GA,Atlanta,22/01/11,L4,Embedded Systems,2.0,4.0,93.0,93.0,0.0,0.0,0.0
 Hardware Engineer,Intel,United States,TX,Austin,22/01/10,Grade 7,Verification,6.0,9.0,141.0,125.0,4.0,12.0,0.0
 Hardware Engineer,Applied Materials,United States,CA,San Francisco,22/01/09,E4,Process,4.0,4.0,208.0,157.0,20.0,31.0,0.0
 Hardware Engineer,MediaTek,Taiwan,TP,Hsin-chu,22/01/09,E7,SoC Design,1.0,1.0,67.0,40.0,0.0,27.0,0.0

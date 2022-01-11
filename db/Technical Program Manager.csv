@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,JPMorgan Chase,United States,NJ,Jersey City,22/01/11,603,Data,5.0,23.0,173.0,173.0,0.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/11,63,Azure,3.0,15.0,219.0,162.0,36.0,21.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/11,L6,general,8.0,12.0,255.0,150.0,105.0,0.0,0.0
+Technical Program Manager,Ericsson,United States,TX,Dallas,22/01/11,7,5G,15.0,18.0,138.0,120.0,0.0,18.0,0.0
 Technical Program Manager,Amazon,United States,CA,San Diego,22/01/10,L5,General,3.0,9.0,165.0,117.0,48.0,0.0,0.0
 Technical Program Manager,GE,United States,LA,New Orleans,22/01/10,SPB,#M&A,5.0,17.0,150.0,130.0,0.0,20.0,0.0
 Technical Program Manager,Amazon,United States,TX,Austin,22/01/10,L5,Network Engineering,0.0,10.0,200.0,150.0,25.0,25.0,0.0

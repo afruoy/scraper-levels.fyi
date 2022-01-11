@@ -1,6 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
 Recruiter,Facebook,United States,IL,Chicago,22/01/10,IC5,Technical,4.0,7.0,165.0,135.0,10.0,20.0,0.0
-Recruiter,Upstart,United States,CO,Boulder,22/01/10,n/a,Technical,0.0,15.0,210.0,150.0,40.0,20.0,0.0
+Recruiter,Upstart,United States,CO,Boulder,22/01/10,,Technical,0.0,15.0,210.0,150.0,40.0,20.0,0.0
 Recruiter,Twitter,United States,CO,Denver,22/01/08,L5,Technical,0.0,5.0,163.0,125.0,19.0,19.0,0.0
 Recruiter,JP Morgan Chase,United States,TX,Dallas,22/01/08,Associate,Operations,1.0,3.0,98.0,90.0,0.0,8.0,0.0
 Recruiter,Boeing,United States,AZ,Phoenix,22/01/07,L4,General,3.0,5.0,107.0,102.0,0.0,5.0,0.0
