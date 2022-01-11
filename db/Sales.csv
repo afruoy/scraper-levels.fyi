@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,VMware,United States,CA,San Francisco,22/01/11,L5,Enterprise,2.0,15.0,380.0,170.0,40.0,170.0,0.0
+Sales,Infosys,United Kingdom,EN,London,22/01/11,L5,Account Management,0.0,6.0,100.0,84.0,0.0,17.0,0.0
 Sales,Salesforce,United States,CA,San Francisco,22/01/11,L4,General,3.0,5.0,250.0,75.0,0.0,175.0,0.0
 Sales,CGI Group,Canada,ON,Toronto,22/01/11,Director,Sales,1.0,13.0,175.0,150.0,10.0,15.0,0.0
 Sales,Google,United States,WA,Seattle,22/01/10,L4,Retail,3.0,7.0,168.0,102.0,26.0,40.0,0.0

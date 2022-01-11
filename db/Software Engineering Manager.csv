@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/01/11,Director,Full Stack,15.0,15.0,475.0,350.0,0.0,125.0,0.0
+Software Engineering Manager,Agoda,Thailand,BM,Bangkok,22/01/11,L6,API Development (Back-End),5.0,6.0,228.0,108.0,90.0,30.0,0.0
 Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/11,Principal EM,Security,10.0,10.0,307.0,199.0,68.0,40.0,0.0
 Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/11,Senior SDM,Distributed Systems (Back-End),7.0,19.0,525.0,160.0,365.0,0.0,0.0
 Software Engineering Manager,Nike,United States,OR,Portland,22/01/11,L5,API Development (Back-End),5.0,15.0,206.0,186.0,0.0,20.0,0.0
