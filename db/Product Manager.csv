@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,American Express,United States,AZ,Phoenix,22/01/10,35,Technical,8.0,11.0,140.0,120.0,0.0,20.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/10,Senior Product Manager,Product,2.0,10.0,195.0,135.0,40.0,20.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/01/10,Product Manager 1,Product,2.0,7.0,228.0,178.0,30.0,20.0,0.0
+Product Manager,Salesforce,United States,CA,San Francisco,22/01/10,Senior Product Manager,Technical,2.0,15.0,318.0,206.0,80.0,32.0,0.0
+Product Manager,Walmart,United States,NY,New York,22/01/10,L9,Consumer,6.0,20.0,734.0,340.0,275.0,119.0,0.0
+Product Manager,Best Buy,United States,MN,Minneapolis,22/01/10,9,Product,1.0,5.0,150.0,120.0,0.0,30.0,0.0
 Product Manager,Expedia,United Kingdom,EN,London,22/01/10,L,Enterprise,1.0,6.0,130.0,123.0,0.0,7.0,0.0
 Product Manager,Microsoft,India,KA,Bangalore,22/01/10,63,Product,0.0,7.0,163.0,57.0,100.0,6.0,0.0
 Product Manager,Amazon,Singapore,SG,Singapore,22/01/10,Senior Product Manager,Product,1.0,11.0,200.0,140.0,40.0,20.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Designer,IBM,United States,CA,San Jose,22/01/10,L2,User Research,2.0,2.0,139.0,139.0,0.0,0.0,0.0
+Product Designer,Facebook,United States,CA,San Francisco,22/01/10,IC5,User Experience (UX),1.0,20.0,295.0,190.0,75.0,30.0,0.0
+Product Designer,Amazon,United States,CA,San Francisco,22/01/10,IC4,User Experience (UX),1.0,1.0,234.0,102.0,94.0,38.0,0.0
+Product Designer,Intuit,United States,CA,Mountain View,22/01/10,Senior,Design,4.0,5.0,191.0,150.0,16.0,26.0,0.0
+Product Designer,Oscar Health,United States,CO,Boulder,22/01/10,E3,User Experience (UX),3.0,6.0,251.0,175.0,50.0,26.0,0.0
 Product Designer,EPAM Systems,Poland,MA,Krakow,22/01/10,L4,User Experience (UX),3.0,10.0,74.0,74.0,0.0,0.0,0.0
 Product Designer,Microsoft,Canada,BC,Vancouver,22/01/08,60,User Experience (UX),0.0,2.0,119.0,79.0,30.0,10.0,0.0
 Product Designer,Compass,United States,WA,Seattle,22/01/08,IC5,User Experience (UX),1.0,6.0,193.0,148.0,25.0,20.0,0.0

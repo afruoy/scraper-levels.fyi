@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Northrop Grumman,United States,CA,San Diego,22/01/11,T3,"Data ETL, ML/AI",4.0,4.0,128.0,128.0,0.0,0.0,0.0
+Data Scientist,Northrop Grumman,United States,CA,San Diego,22/01/11,L3,Data,4.0,4.0,128.0,128.0,0.0,0.0,0.0
+Data Scientist,Northrop Grumman,United States,CA,San Diego,22/01/11,T3,Data,4.0,4.0,128.0,128.0,0.0,0.0,0.0
+Data Scientist,Microsoft,Canada,BC,Vancouver,22/01/10,60,Machine Learning,1.0,3.0,170.0,80.0,35.0,55.0,0.0
+Data Scientist,Zalando,United States,CT,Berlin,22/01/10,C5,Machine Learning,0.0,1.0,79.0,79.0,0.0,0.0,0.0
+Data Scientist,Johnson & Johnson,United States,NJ,Titusville,22/01/10,L5,"Data Science, Business Intelligence",1.0,3.0,128.0,115.0,0.0,13.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/10,L6,General,6.0,6.0,400.0,160.0,240.0,0.0,0.0
+Data Scientist,Zoox,United States,CA,Foster City,22/01/10,L5,General,0.0,7.0,334.0,234.0,60.0,40.0,30.0
+Data Scientist,IBM,United States,MN,Minneapolis,22/01/10,8,Client Engineer - Data Scientist,2.0,5.0,199.0,154.0,0.0,45.0,0.0
+Data Scientist,Treasure Data,United States,NC,Raleigh,22/01/10,L4,AI/ML,0.0,4.0,186.0,120.0,15.0,51.0,0.0
+Data Scientist,Ernst and Young,India,KA,Bengaluru,22/01/10,Senior 3,Machine Learning implmentation,5.0,8.0,27.0,25.0,0.0,2.0,0.0
 Data Scientist,Discover,United States,IL,Chicago,22/01/09,pg7,General,2.0,4.0,120.0,113.0,0.0,7.0,0.0
 Data Scientist,PwC,Germany,BE,Berlin,22/01/09,Associate,General,3.0,4.0,62.0,57.0,0.0,5.0,0.0
 Data Scientist,Tata Consultancy Services,India,WB,Kolkata,22/01/09,L1,AI/ML Research,1.0,1.0,13.0,13.0,0.0,0.0,0.0

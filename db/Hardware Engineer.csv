@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Intel,United States,TX,Austin,22/01/10,Grade 7,Verification,6.0,9.0,141.0,125.0,4.0,12.0,0.0
 Hardware Engineer,Applied Materials,United States,CA,San Francisco,22/01/09,E4,Process,4.0,4.0,208.0,157.0,20.0,31.0,0.0
 Hardware Engineer,MediaTek,Taiwan,TP,Hsin-chu,22/01/09,E7,SoC Design,1.0,1.0,67.0,40.0,0.0,27.0,0.0
 Hardware Engineer,Wistron,Taiwan,TP,Taipei,22/01/09,A3,Embedded Systems,0.0,3.0,23.0,22.0,0.0,2.0,0.0

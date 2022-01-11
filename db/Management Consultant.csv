@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,CA,San Francisco,22/01/10,Consultant,EP,3.0,3.0,107.0,107.0,0.0,0.0,0.0
+Management Consultant,Kearney,United States,CA,San Francisco,22/01/10,Associate,MBA,3.0,3.0,202.0,168.0,0.0,34.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,22/01/10,Manager,Salesforce,5.0,5.0,180.0,180.0,0.0,0.0,0.0
 Management Consultant,Bain,United States,NY,New York,22/01/10,Associate Consultant,General,0.0,0.0,115.0,100.0,0.0,15.0,0.0
 Management Consultant,Salesforce,United States,TX,Dallas,22/01/10,L7,Salesforce,0.0,10.0,255.0,210.0,14.0,32.0,0.0
 Management Consultant,Bain,United States,WA,Seattle,22/01/09,Associate Consultant,Generalist,1.0,1.0,120.0,100.0,0.0,20.0,0.0
