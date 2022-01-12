@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Infosys,India,KA,Bangalore,22/01/12,L6,AI/ML,10.0,22.0,50.0,40.0,0.0,10.0,0.0
+Data Scientist,Intuit,United States,CA,Mountain View,22/01/12,M2,Analytics,0.0,10.0,339.0,225.0,69.0,45.0,0.0
+Data Scientist,Capital One,United States,VA,Vienna,22/01/12,L4,modeling,3.0,4.0,138.0,130.0,0.0,8.0,0.0
+Data Scientist,Capital One,United States,VA,West McLean,22/01/12,55,Credit Risk,4.0,10.0,228.0,206.0,0.0,22.0,0.0
+Data Scientist,Liberty Mutual,United States,WA,Seattle,22/01/12,19,ML / AI,8.0,9.0,220.0,184.0,0.0,36.0,0.0
+Data Scientist,Ibotta,United States,CO,Denver,22/01/12,l3,Product,1.0,1.0,85.0,75.0,5.0,5.0,0.0
+Data Scientist,RBC,Canada,ON,Toronto,22/01/12,PL08,Fraud,3.0,4.0,68.0,57.0,2.0,9.0,0.0
+Data Scientist,Medtronic,United States,CA,Los Angeles,22/01/12,L3,data science,0.0,3.0,154.0,140.0,0.0,14.0,0.0
+Data Scientist,PwC,United States,WA,Seattle,22/01/12,L3,Product,2.0,5.0,214.0,191.0,0.0,23.0,0.0
+Data Scientist,Morgan Stanley,United States,NY,New York,22/01/12,Associate,IST,0.0,0.0,110.0,110.0,0.0,0.0,0.0
 Data Scientist,Thermo Fisher Scientific,United States,MA,Cambridge,22/01/11,L5,General,1.0,4.0,120.0,100.0,0.0,20.0,0.0
 Data Scientist,Microsoft,United States,WA,Bellevue,22/01/11,63,Data Science,2.0,5.0,224.0,158.0,46.0,20.0,0.0
 Data Scientist,Grab,Singapore,SG,Singapore,22/01/11,5,Analytics,4.0,4.0,101.0,98.0,3.0,0.0,0.0

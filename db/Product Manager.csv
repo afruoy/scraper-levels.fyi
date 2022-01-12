@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,WA,Seattle,22/01/12,Principal Product Manager,Product,8.0,12.0,380.0,160.0,220.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/12,62,Operations,6.0,6.0,188.0,135.0,36.0,17.0,0.0
+Product Manager,Microsoft,United States,NY,New York,22/01/12,60,Infrastructure,1.0,1.0,210.0,136.0,60.0,14.0,0.0
+Product Manager,Unity Technologies,United States,NY,New York,22/01/12,IC7,Product,4.0,10.0,267.0,162.0,105.0,0.0,0.0
+Product Manager,fuboTV,United States,NY,New York,22/01/12,L5,Product,1.0,12.0,266.0,180.0,65.0,21.0,0.0
+Product Manager,Amazon,United States,CA,Irvine,22/01/12,Senior Product Manager,Technical,1.0,11.0,350.0,160.0,90.0,100.0,0.0
 Product Manager,Amazon,United States,VA,Arlington,22/01/12,Senior Product Manager,Technical,0.0,5.0,220.0,144.0,45.0,31.0,0.0
 Product Manager,Twitter,United States,CA,San Francisco,22/01/11,PM I,Product,3.0,3.0,219.0,133.0,80.0,6.0,0.0
 Product Manager,Microsoft,United States,WA,Redmond,22/01/11,59,Product,0.0,0.0,168.0,113.0,30.0,25.0,0.0

@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Apple,United States,CA,Cupertino,22/01/12,ICT2,iPhone TechOps,2.0,2.0,178.0,131.0,40.0,7.0,0.0
+Technical Program Manager,Amazon,United States,NC,Raleigh,22/01/12,L6,General,15.0,15.0,195.0,150.0,25.0,20.0,0.0
+Technical Program Manager,Amazon,United States,VA,Herndon,22/01/12,L6,Customer,0.0,10.0,155.0,155.0,0.0,0.0,0.0
+Technical Program Manager,Twitch,United States,MO,St. Louis,22/01/12,L6,Software Development,1.0,10.0,290.0,154.0,66.0,70.0,0.0
 Technical Program Manager,Amazon,United States,WA,Seattle,22/01/11,L5,Healthcare,1.0,14.0,175.0,175.0,0.0,0.0,0.0
 Technical Program Manager,Amazon,United States,WA,Seattle,22/01/11,L5,Technical,5.0,6.0,160.0,110.0,50.0,0.0,0.0
 Technical Program Manager,PayPal,United States,CA,San Jose,22/01/11,T25,General,1.0,7.0,200.0,148.0,37.0,15.0,0.0
