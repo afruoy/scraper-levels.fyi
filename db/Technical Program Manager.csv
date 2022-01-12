@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/11,L5,Healthcare,1.0,14.0,175.0,175.0,0.0,0.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/11,L5,Technical,5.0,6.0,160.0,110.0,50.0,0.0,0.0
+Technical Program Manager,PayPal,United States,CA,San Jose,22/01/11,T25,General,1.0,7.0,200.0,148.0,37.0,15.0,0.0
+Technical Program Manager,Amazon,United States,OH,Columbus,22/01/11,L6,Prof Services,1.0,10.0,285.0,160.0,65.0,60.0,0.0
+Technical Program Manager,Airbnb,United States,CA,San Francisco,22/01/11,L9,TPM,1.0,14.0,360.0,200.0,120.0,40.0,0.0
+Technical Program Manager,Airbnb,United States,CA,San Francisco,22/01/11,L10,TPM,1.0,12.0,475.0,220.0,200.0,55.0,0.0
 Technical Program Manager,Amazon,United States,CA,Sunnyvale,22/01/11,L6,Software,6.0,11.0,320.0,174.0,146.0,0.0,0.0
 Technical Program Manager,JPMorgan Chase,United States,NJ,Jersey City,22/01/11,603,Data,5.0,23.0,173.0,173.0,0.0,0.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/11,63,Azure,3.0,15.0,219.0,162.0,36.0,21.0,0.0

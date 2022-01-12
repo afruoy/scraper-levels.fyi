@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,VA,Arlington,22/01/12,Senior Product Manager,Technical,0.0,5.0,220.0,144.0,45.0,31.0,0.0
+Product Manager,Twitter,United States,CA,San Francisco,22/01/11,PM I,Product,3.0,3.0,219.0,133.0,80.0,6.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/11,59,Product,0.0,0.0,168.0,113.0,30.0,25.0,0.0
+Product Manager,Medidata Solutions,United States,NY,New York,22/01/11,P3,Product,3.0,7.0,106.0,101.0,0.0,5.0,0.0
+Product Manager,Supermicro,United States,CA,San Jose,22/01/11,L2,Product,10.0,10.0,163.0,150.0,10.0,3.0,0.0
+Product Manager,Expedia,United States,IL,Chicago,22/01/11,M,Product,4.0,10.0,199.0,167.0,18.0,15.0,0.0
 Product Manager,Amazon,United States,CA,Sunnyvale,22/01/11,Principal Product Manager,Consumer,8.0,16.0,497.0,180.0,317.0,0.0,0.0
 Product Manager,SAP,Germany,BW,Walldorf,22/01/11,T5,Product,18.0,20.0,200.0,120.0,25.0,55.0,0.0
 Product Manager,eBay,Netherlands,NH,Amsterdam,22/01/11,L27,Product,1.0,16.0,180.0,150.0,15.0,15.0,0.0

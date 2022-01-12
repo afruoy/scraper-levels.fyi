@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,CIBC,Canada,ON,Toronto,22/01/11,9,Full Stack,15.0,20.0,110.0,91.0,0.0,19.0,0.0
+Software Engineering Manager,Twitter,United States,NY,New York,22/01/11,L6,ML / AI,1.0,10.0,505.0,220.0,190.0,95.0,0.0
+Software Engineering Manager,Walmart Labs,United States,CA,Sunnyvale,22/01/11,L6,Full Stack,7.0,20.0,360.0,210.0,100.0,50.0,0.0
+Software Engineering Manager,DigitalOcean,Canada,ON,Toronto,22/01/11,M3,Distributed Systems (Back-End),4.0,13.0,250.0,180.0,50.0,20.0,0.0
+Software Engineering Manager,Booking.com,Netherlands,NH,Amsterdam,22/01/11,G,Full Stack,5.0,12.0,197.0,131.0,40.0,26.0,0.0
+Software Engineering Manager,Coursera,Canada,ON,Toronto,22/01/11,M4,Full Stack,1.0,20.0,165.0,150.0,10.0,5.0,0.0
+Software Engineering Manager,Intuit,United States,CA,Mountain View,22/01/11,Director,Web Development (Front-End),4.0,15.0,400.0,230.0,100.0,70.0,0.0
+Software Engineering Manager,Bloomberg LP,United Kingdom,EN,London,22/01/11,TL,Full Stack,8.0,10.0,205.0,170.0,0.0,35.0,0.0
+Software Engineering Manager,Facebook,United States,WA,Seattle,22/01/11,M1,Distributed Systems (Back-End),0.0,10.0,683.0,240.0,300.0,143.0,0.0
 Software Engineering Manager,Bloomberg,United States,NY,New York,22/01/11,Director,Full Stack,15.0,15.0,475.0,350.0,0.0,125.0,0.0
 Software Engineering Manager,Agoda,Thailand,BM,Bangkok,22/01/11,L6,API Development (Back-End),5.0,6.0,228.0,108.0,90.0,30.0,0.0
 Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/11,Principal EM,Security,10.0,10.0,307.0,199.0,68.0,40.0,0.0
