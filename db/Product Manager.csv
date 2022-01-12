@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Zeta,India,KA,Bangalore,22/01/12,L5,Product,2.0,8.0,85.0,70.0,9.0,6.0,0.0
+Product Manager,Google,Switzerland,ZH,Zurich,22/01/12,Product Manager 1,Product,0.0,8.0,253.0,165.0,63.0,25.0,0.0
+Product Manager,Flexport,United States,WA,Seattle,22/01/12,M4,Product,2.0,20.0,287.0,247.0,0.0,40.0,0.0
+Product Manager,JPMorgan Chase,United States,NY,New York,22/01/12,603,Product,5.0,21.0,192.0,180.0,0.0,12.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/12,Principal Product Manager,Product,8.0,12.0,380.0,160.0,220.0,0.0,0.0
 Product Manager,Microsoft,United States,WA,Redmond,22/01/12,62,Operations,6.0,6.0,188.0,135.0,36.0,17.0,0.0
 Product Manager,Microsoft,United States,NY,New York,22/01/12,60,Infrastructure,1.0,1.0,210.0,136.0,60.0,14.0,0.0
