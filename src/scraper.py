@@ -18,7 +18,6 @@ def scrape_category(category, driver, log_txt):
 	driver.get(url_top + "?track=" + category)
 	sleep(500 / 1000)
 	iter = 0
-	print(category)
 	while iter <= 100:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
