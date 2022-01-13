@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Deloitte,United States,TX,Dallas,22/01/14,Staff 1,product strategy,3.0,3.0,90.0,85.0,0.0,5.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/13,63,Security Assurance,2.0,8.0,194.0,159.0,20.0,16.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/13,61,Security Risk Engineering,1.0,10.0,155.0,135.0,10.0,10.0,5.0
 Technical Program Manager,Envestnet,United States,NC,Raleigh,22/01/13,L5,Product Management,1.0,20.0,193.0,150.0,13.0,30.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/01/13,L7,Hardware,6.0,15.0,515.0,245.0,200.0,70.0,0.0

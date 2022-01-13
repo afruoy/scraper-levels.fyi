@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Stripe,United States,WA,Seattle,22/01/13,M1,Distributed Systems (Back-End),0.0,12.0,825.0,280.0,414.0,131.0,0.0
+Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/01/13,L5 SDM,Distributed Systems (Back-End),5.0,10.0,406.0,173.0,233.0,0.0,0.0
+Software Engineering Manager,Accenture,United States,CA,San Francisco,22/01/13,L6,Testing (SDET),15.0,18.0,250.0,202.0,0.0,48.0,0.0
+Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/01/13,L6 SDM,Distributed Systems (Back-End),6.0,10.0,413.0,185.0,228.0,0.0,0.0
 Software Engineering Manager,PlayStation,United States,CA,San Francisco,22/01/13,Senior,API Development (Back-End),5.0,11.0,490.0,270.0,75.0,145.0,0.0
 Software Engineering Manager,Facebook,United States,WA,Bellevue,22/01/13,M2,Data,0.0,13.0,1.0,280.0,675.0,94.0,0.0
 Software Engineering Manager,Microsoft,India,TS,Hyderabad,22/01/13,64,Web Development (Front-End),7.0,9.0,96.0,61.0,25.0,10.0,0.0

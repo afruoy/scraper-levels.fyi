@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Gopuff,United States,NY,New York,22/01/13,L6,General,0.0,4.0,210.0,150.0,38.0,23.0,0.0
+Data Scientist,CVS Health,United States,RI,Woonsocket,22/01/13,109,Analytics,2.0,2.0,110.0,100.0,0.0,10.0,0.0
 Data Scientist,ING,France,IL,Paris,22/01/13,L4,General,1.0,5.0,88.0,80.0,0.0,8.0,0.0
 Data Scientist,Facebook,United States,NY,New York,22/01/13,IC4,Product Analytics,0.0,6.0,226.0,160.0,50.0,16.0,0.0
 Data Scientist,Google,United States,CA,Mountain View,22/01/13,L5,Product Analytics,0.0,11.0,313.0,185.0,100.0,28.0,0.0
