@@ -39,7 +39,7 @@ Basic web-scraping.
     - Remove duplicates
     - "Google", "google", "GOOGLE" should refer to the same company
     - ...
-    
+
 - **Improving performance**
 
     The current fetch rate is about 8 rows/s.

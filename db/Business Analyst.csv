@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Google,United States,CA,San Francisco,22/01/12,L3,General,1.0,1.0,135.0,135.0,0.0,0.0,0.0
+Business Analyst,HubSpot,United States,NY,New York,22/01/12,L3,"iPaaS, RPA",5.0,5.0,167.0,127.0,40.0,0.0,0.0
+Business Analyst,Chegg,United States,CA,San Diego,22/01/12,E24,"Data Analyst, Tableau, SQL, DataBricks",3.0,7.0,185.0,125.0,60.0,0.0,0.0
 Business Analyst,Centene,United States,MO,St. Louis,22/01/12,L,General,2.0,2.0,72.0,70.0,0.0,2.0,0.0
 Business Analyst,Shell,India,KA,Bangalore,22/01/12,JG4,IT Engineering,4.0,9.0,41.0,36.0,0.0,5.0,0.0
 Business Analyst,Southwest Airlines,United States,TX,Dallas,22/01/12,Senior,Customer Support,12.0,12.0,93.0,92.0,0.0,1.0,0.0

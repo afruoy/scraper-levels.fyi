@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Google,United States,CA,Mountain View,22/01/13,L7,Hardware,6.0,15.0,515.0,245.0,200.0,70.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/13,62,Hardware,2.0,5.0,177.0,146.0,14.0,17.0,0.0
+Technical Program Manager,Facebook,United Kingdom,EN,London,22/01/12,IC5,Business Development,4.0,9.0,179.0,140.0,25.0,14.0,0.0
+Technical Program Manager,Google,United States,CA,Sunnyvale,22/01/12,L5,Focus Undisclosed,0.0,9.0,335.0,188.0,112.0,35.0,0.0
+Technical Program Manager,Uber,United States,CA,San Francisco,22/01/12,L5a,Engineering,3.0,8.0,360.0,190.0,135.0,35.0,0.0
+Technical Program Manager,Nvidia,United States,CA,Santa Clara,22/01/12,IC2,Data Center GPU,1.0,2.0,195.0,140.0,30.0,25.0,0.0
+Technical Program Manager,Oracle,United States,WA,Seattle,22/01/12,IC,OCI,2.0,5.0,230.0,120.0,110.0,0.0,0.0
 Technical Program Manager,HP Inc,Taiwan,TP,Taipei,22/01/12,Specialist,R&D,8.0,9.0,51.0,43.0,0.0,7.0,0.0
 Technical Program Manager,Grid Dynamics,Ukraine,KK,Kharkiv,22/01/12,D1,Project management,1.0,5.0,44.0,44.0,0.0,0.0,0.0
 Technical Program Manager,Facebook,United States,WA,Seattle,22/01/12,IC5,Product,0.0,12.0,349.0,199.0,100.0,50.0,0.0

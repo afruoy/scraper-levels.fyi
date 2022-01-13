@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Unacademy,India,KA,Bengaluru,22/01/13,L2,Sales,5.0,5.0,12.0,10.0,0.0,1.0,0.0
+Sales,Google,United States,NY,New York,22/01/13,L5,Programmatic,8.0,9.0,330.0,165.0,70.0,95.0,0.0
+Sales,Wipro Limited,United States,CA,Mountain View,22/01/12,D1,Hi-Tech,2.0,20.0,285.0,195.0,0.0,90.0,0.0
+Sales,Google,Singapore,SG,Singapore,22/01/12,L6,Advertising Sales,8.0,8.0,356.0,190.0,82.0,84.0,0.0
+Sales,Wipro Limited,United States,CA,San Francisco,22/01/12,D,Hi-Tech,2.0,20.0,292.0,192.0,0.0,100.0,0.0
+Sales,Okta,United States,CO,Denver,22/01/12,L4,SaaS,2.0,15.0,265.0,225.0,40.0,0.0,0.0
+Sales,Condé Nast,United States,NY,New York,22/01/12,,General,1.0,8.0,140.0,125.0,0.0,15.0,0.0
 Sales,Elastic,United States,TX,Austin,22/01/11,L1,Inside Cloud Sales,0.0,3.0,158.0,75.0,8.0,75.0,0.0
 Sales,Accenture,United States,NY,New York,22/01/11,L6,FS Sales,0.0,20.0,285.0,210.0,25.0,50.0,0.0
 Sales,VMware,United States,CA,San Francisco,22/01/11,L5,Enterprise,2.0,15.0,380.0,170.0,40.0,170.0,0.0

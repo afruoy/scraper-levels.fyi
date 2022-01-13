@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Designer,Domo,United States,UT,Salt Lake City,22/01/13,L1,User Experience (UX),3.0,3.0,122.0,82.0,28.0,12.0,0.0
+Product Designer,Smartsheet,United States,WA,Seattle,22/01/13,Product designer II,User Experience (UX),3.0,3.0,185.0,118.0,55.0,12.0,0.0
+Product Designer,Appian,United States,VA,Arlington,22/01/12,2,User Experience (UX),2.0,4.0,98.0,92.0,2.0,4.0,0.0
+Product Designer,realtor.com,Canada,BC,Vancouver,22/01/12,L1,User Experience (UX),1.0,3.0,108.0,91.0,10.0,7.0,0.0
+Product Designer,Capital One,United States,DC,Washington,22/01/12,Principle Associate,Full Stack,2.0,6.0,120.0,114.0,0.0,6.0,0.0
+Product Designer,Facebook,United States,CA,Menlo Park,22/01/12,IC7,User Experience (UX),7.0,10.0,1.0,242.0,760.0,60.0,0.0
+Product Designer,Accenture,Costa Rica,SJ,San Jose,22/01/12,CL11,Interaction Design,3.0,5.0,31.0,30.0,0.0,2.0,0.0
 Product Designer,Better Mortgage,United States,NY,New York,22/01/12,L4,User Experience (UX),2.0,6.0,185.0,140.0,20.0,25.0,0.0
 Product Designer,Capital One,United States,VA,West McLean,22/01/12,Manager,User Experience (UX),5.0,15.0,163.0,150.0,0.0,13.0,0.0
 Product Designer,Microsoft,United States,WA,Redmond,22/01/11,60,User Research,0.0,0.0,154.0,117.0,25.0,12.0,0.0

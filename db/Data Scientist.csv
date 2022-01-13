@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Optum,United States,MN,Minnetonka,22/01/13,L2,General,1.0,4.0,120.0,115.0,0.0,5.0,0.0
+Data Scientist,Walmart,United States,NY,New York,22/01/13,L3,Analytics,0.0,3.0,199.0,128.0,45.0,26.0,0.0
+Data Scientist,United States Air Force,United States,OH,Dayton,22/01/13,3,weapon systems,7.0,7.0,101.0,101.0,0.0,0.0,0.0
+Data Scientist,Lyft,United States,NY,New York,22/01/13,T4,PRODUCT,1.0,4.0,345.0,170.0,130.0,45.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/12,L5,NLP,5.0,5.0,210.0,144.0,66.0,0.0,0.0
+Data Scientist,T-Mobile,United States,WA,Bellevue,22/01/12,L8,General,0.0,2.0,138.0,117.0,3.0,18.0,0.0
+Data Scientist,Geotab,Canada,ON,Toronto,22/01/12,New Grad,Data Analyst,1.0,1.0,80.0,80.0,0.0,0.0,0.0
+Data Scientist,IBM,United States,NY,New York,22/01/12,7,General,2.0,2.0,153.0,153.0,0.0,0.0,0.0
+Data Scientist,Chewy,United States,MA,Boston,22/01/12,250000,e-commerce,1.0,7.0,375.0,250.0,100.0,25.0,0.0
 Data Scientist,JPMorgan Chase,United States,NJ,Jersey City,22/01/12,602,AI,0.0,8.0,180.0,155.0,0.0,25.0,0.0
 Data Scientist,Infosys,India,KA,Bangalore,22/01/12,L6,AI/ML,10.0,22.0,50.0,40.0,0.0,10.0,0.0
 Data Scientist,Intuit,United States,CA,Mountain View,22/01/12,M2,Analytics,0.0,10.0,339.0,225.0,69.0,45.0,0.0

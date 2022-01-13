@@ -1,4 +1,23 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Gartner,India,HR,Gurgaon,22/01/13,Mid level,Product,5.0,7.0,27.0,23.0,0.0,4.0,0.0
+Product Manager,Startup,United States,TN,Nashville,22/01/13,L2,Technical,3.0,3.0,52.0,52.0,0.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Bellevue,22/01/13,63,Product,6.0,6.0,210.0,155.0,40.0,15.0,0.0
+Product Manager,JLL,Canada,ON,Mississauga,22/01/13,L4,Product,1.0,15.0,130.0,116.0,0.0,14.0,0.0
+Product Manager,Target,United States,CA,San Francisco,22/01/13,7,Product,4.0,11.0,285.0,205.0,20.0,60.0,0.0
+Product Manager,Capital One,United States,VA,West McLean,22/01/13,Associate,Product,0.0,0.0,99.0,96.0,0.0,3.0,0.0
+Product Manager,Salesforce,United States,CA,San Francisco,22/01/13,Director,Product,4.0,10.0,393.0,253.0,90.0,51.0,0.0
+Product Manager,Square,United States,NY,New York,22/01/13,L5,Operations,0.0,6.0,190.0,160.0,0.0,30.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/01/13,63,Enterprise,5.0,7.0,203.0,159.0,22.0,22.0,0.0
+Product Manager,Facebook,United States,CO,Boulder,22/01/13,L6 Product Manager,Infrastructure,3.0,15.0,520.0,265.0,200.0,55.0,0.0
+Product Manager,Dell Technologies,United States,TX,Austin,22/01/12,L6,Product,2.0,2.0,89.0,83.0,0.0,6.0,0.0
+Product Manager,JPMorgan Chase,United States,NJ,Jersey City,22/01/12,604,Mobile (iOS + Android),0.0,20.0,400.0,250.0,30.0,120.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/12,Senior Product Manager,Technical,0.0,7.0,221.0,152.0,41.0,28.0,0.0
+Product Manager,Capital One,United States,NY,New York,22/01/12,Manager,Product,0.0,5.0,188.0,173.0,0.0,15.0,0.0
+Product Manager,OpenTable,United States,CA,San Francisco,22/01/12,L3,Product,0.0,2.0,164.0,140.0,10.0,14.0,0.0
+Product Manager,Amazon,United States,CA,San Francisco,22/01/12,Senior Product Manager,Product,3.0,8.0,260.0,155.0,60.0,45.0,0.0
+Product Manager,Shopee,Singapore,SG,Singapore,22/01/12,10,Product,1.0,1.0,67.0,55.0,0.0,12.0,0.0
+Product Manager,Udacity,Canada,ON,Toronto,22/01/12,L5,Enterprise,1.0,6.0,250.0,175.0,50.0,25.0,0.0
+Product Manager,American Express,United Kingdom,EN,London,22/01/12,L1,Product,0.0,0.0,62.0,55.0,0.0,7.0,0.0
 Product Manager,Zeta,India,KA,Bangalore,22/01/12,L5,Product,2.0,8.0,85.0,70.0,9.0,6.0,0.0
 Product Manager,Google,Switzerland,ZH,Zurich,22/01/12,Product Manager 1,Product,0.0,8.0,253.0,165.0,63.0,25.0,0.0
 Product Manager,Flexport,United States,WA,Seattle,22/01/12,M4,Product,2.0,20.0,287.0,247.0,0.0,40.0,0.0

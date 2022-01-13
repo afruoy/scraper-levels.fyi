@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Western Digital,United States,CA,Irvine,22/01/13,L1,GTM,1.0,1.0,79.0,76.0,0.0,3.0,0.0
+Marketing,Albertsons,United States,CA,Pleasanton,22/01/13,Manager,Strategy,0.0,6.0,179.0,140.0,0.0,39.0,0.0
+Marketing,Google,United States,CA,Mountain View,22/01/13,L7,Developer Marketing,9.0,20.0,780.0,274.0,415.0,91.0,0.0
 Marketing,American Express,Canada,ON,Toronto,22/01/12,Manager,General,4.0,5.0,87.0,75.0,2.0,10.0,0.0
 Marketing,Amazon,United States,WA,Seattle,22/01/12,L5,Email,0.0,5.0,154.0,125.0,20.0,9.0,0.0
 Marketing,Salesforce,United States,NY,New York,22/01/11,Manager,Product Marketing,1.0,5.0,170.0,145.0,10.0,15.0,0.0
