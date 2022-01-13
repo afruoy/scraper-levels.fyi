@@ -11,17 +11,16 @@ import numpy as np
 
 
 def scrape_category(category, driver, log_txt):
-	log_txt += category + " : "
 	path_file_category = os.path.join(FOLDER_DB, category + ".csv")
 	prev_category_rows = pd.read_csv(path_file_category).values.tolist() if os.path.exists(path_file_category) else []
 	category_rows = []
 
 	driver.get(url_top + "?track=" + category)
 	sleep(500 / 1000)
-	i = 0
-	#print(category)
-	while True:
-		i += 1
+	iter = 0
+	print(category)
+	while iter <= 100:
+		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
 			for i, td in enumerate(tr.find_all("td")[1:]):
@@ -63,25 +62,23 @@ def scrape_category(category, driver, log_txt):
 
 			bool_finished, final_rows = lap_finished(new_row, prev_category_rows, category_rows, tol=2)
 			if bool_finished:
-				log_txt += f"{len(category_rows)} (new) + {len(prev_category_rows)} (previous) = {len(final_rows)}\n"
+				log_txt += f"{category} : {len(category_rows)} (new) + {len(prev_category_rows)} (previous) = {len(final_rows)}\n"
 				df_tmp = pd.DataFrame(final_rows, columns=DF_COLUMNS)
 				df_tmp.to_csv(path_file_category, index=False)
-				return df_tmp, log_txt
+				return log_txt
 			else:
 				category_rows.append(new_row)
 
 		element = driver.find_element(By.CSS_SELECTOR, 'li.page-item:last-child')
 		driver.execute_script("arguments[0].click();", element)
 		sleep(1500 / 1000)
-		if i == 100:
-			send_mail_if_error(category)
-			break
-
+	send_mail_if_error(category)
+	log_txt += f"{category} : ERROR\n"
+	return log_txt
 
 if __name__ == "__main__":
 
 	os.chdir(FOLDER_PROJECT)
-
 	log_txt = '\n-----' + str(datetime.now()).split('.')[0] + '-----\n'
 
 	options = webdriver.ChromeOptions()
@@ -90,13 +87,9 @@ if __name__ == "__main__":
 
 	soup = BeautifulSoup(requests.get(url_top).content, 'html.parser')
 	category_jobs = [i.text for i in soup.find_all("option")]
-	all_dfs = []
-	for category in category_jobs:
-		df_cat, log_txt = scrape_category(category, driver, log_txt)
-		all_dfs.append(df_cat)
 
-	all_dfs = pd.concat(all_dfs)
-	all_dfs.to_csv(os.path.join(FOLDER_DB, "ALL.csv"), index=False)
+	for category in category_jobs:
+		log_txt = scrape_category(category, driver, log_txt)
 
 	write_log_file(log_txt)
 	driver.quit()
