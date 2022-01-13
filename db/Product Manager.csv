@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Wayfair,Germany,BE,Berlin,22/01/13,L4,Product,5.0,10.0,162.0,110.0,35.0,17.0,0.0
+Product Manager,Uber,United States,CA,Sunnyvale,22/01/13,Group Product Manager,Product,4.0,22.0,700.0,250.0,400.0,50.0,0.0
+Product Manager,Cisco,United States,NJ,Edison,22/01/13,G14,Product,0.0,15.0,486.0,280.0,110.0,96.0,0.0
+Product Manager,Samsung,United States,NY,New York,22/01/13,L2,Product,5.0,12.0,205.0,160.0,0.0,45.0,0.0
+Product Manager,Facebook,United States,CA,Menlo Park,22/01/13,L5 Product Manager,Product,1.0,8.0,367.0,210.0,125.0,32.0,0.0
 Product Manager,Gartner,India,HR,Gurgaon,22/01/13,Mid level,Product,5.0,7.0,27.0,23.0,0.0,4.0,0.0
 Product Manager,Startup,United States,TN,Nashville,22/01/13,L2,Technical,3.0,3.0,52.0,52.0,0.0,0.0,0.0
 Product Manager,Microsoft,United States,WA,Bellevue,22/01/13,63,Product,6.0,6.0,210.0,155.0,40.0,15.0,0.0

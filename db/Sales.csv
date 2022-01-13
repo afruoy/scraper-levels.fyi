@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Procter & Gamble,Russia,MC,Moscow,22/01/13,B1,TAM,1.0,1.0,20.0,19.0,0.0,0.0,0.0
+Sales,PepsiCo,United States,CO,Denver,22/01/13,L8,Energy,1.0,4.0,84.0,84.0,0.0,0.0,0.0
 Sales,Unacademy,India,KA,Bengaluru,22/01/13,L2,Sales,5.0,5.0,12.0,10.0,0.0,1.0,0.0
 Sales,Google,United States,NY,New York,22/01/13,L5,Programmatic,8.0,9.0,330.0,165.0,70.0,95.0,0.0
 Sales,Wipro Limited,United States,CA,Mountain View,22/01/12,D1,Hi-Tech,2.0,20.0,285.0,195.0,0.0,90.0,0.0

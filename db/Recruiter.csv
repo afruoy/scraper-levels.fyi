@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Verkada,United States,CA,San Mateo,22/01/13,l5,Technical,1.0,8.0,180.0,165.0,15.0,0.0,0.0
+Recruiter,Seismic,United States,CA,San Diego,22/01/13,P3,Operations,1.0,7.0,115.0,105.0,0.0,10.0,0.0
+Recruiter,Amazon,United Kingdom,EN,London,22/01/13,L6,Technical,2.0,15.0,232.0,150.0,82.0,0.0,0.0
 Recruiter,Amazon,United States,CA,San Diego,22/01/13,L6,Technical,5.0,8.0,201.0,125.0,76.0,0.0,0.0
 Recruiter,Microsoft,United States,TX,Dallas,22/01/12,58,Technical,3.0,3.0,85.0,81.0,2.0,2.0,0.0
 Recruiter,Facebook,United States,CA,Los Angeles,22/01/12,IC4,Technical,1.0,4.0,144.0,119.0,13.0,13.0,0.0

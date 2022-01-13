@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,ING,France,IL,Paris,22/01/13,L4,General,1.0,5.0,88.0,80.0,0.0,8.0,0.0
+Data Scientist,Facebook,United States,NY,New York,22/01/13,IC4,Product Analytics,0.0,6.0,226.0,160.0,50.0,16.0,0.0
+Data Scientist,Google,United States,CA,Mountain View,22/01/13,L5,Product Analytics,0.0,11.0,313.0,185.0,100.0,28.0,0.0
+Data Scientist,Credit Suisse,Switzerland,ZH,Zurich,22/01/13,AVP,Analytics,1.0,7.0,142.0,137.0,0.0,6.0,0.0
 Data Scientist,Optum,United States,MN,Minnetonka,22/01/13,L2,General,1.0,4.0,120.0,115.0,0.0,5.0,0.0
 Data Scientist,Walmart,United States,NY,New York,22/01/13,L3,Analytics,0.0,3.0,199.0,128.0,45.0,26.0,0.0
 Data Scientist,United States Air Force,United States,OH,Dayton,22/01/13,3,weapon systems,7.0,7.0,101.0,101.0,0.0,0.0,0.0

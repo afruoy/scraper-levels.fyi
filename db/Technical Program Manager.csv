@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/13,61,Security Risk Engineering,1.0,10.0,155.0,135.0,10.0,10.0,5.0
+Technical Program Manager,Envestnet,United States,NC,Raleigh,22/01/13,L5,Product Management,1.0,20.0,193.0,150.0,13.0,30.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/01/13,L7,Hardware,6.0,15.0,515.0,245.0,200.0,70.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/13,62,Hardware,2.0,5.0,177.0,146.0,14.0,17.0,0.0
 Technical Program Manager,Facebook,United Kingdom,EN,London,22/01/12,IC5,Business Development,4.0,9.0,179.0,140.0,25.0,14.0,0.0
