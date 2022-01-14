@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L7,Product,1.0,8.0,231.0,180.0,15.0,36.0,0.0
+Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L8,Product,1.0,4.0,183.0,150.0,10.0,23.0,0.0
+Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L7,Product,2.0,7.0,226.0,176.0,15.0,35.0,0.0
+Product Manager,Adobe,United States,CA,San Jose,22/01/14,P40,Consumer,4.0,11.0,350.0,200.0,100.0,50.0,0.0
+Product Manager,Indeed,United States,WA,Seattle,22/01/14,L3,Enterprise,2.0,6.0,259.0,175.0,60.0,24.0,0.0
 Product Manager,Dell Technologies,Ireland,LK,Limerick,22/01/13,Advisor,Product,5.0,5.0,64.0,60.0,0.0,5.0,0.0
 Product Manager,Wayfair,Germany,BE,Berlin,22/01/13,L4,Product,5.0,10.0,162.0,110.0,35.0,17.0,0.0
 Product Manager,Uber,United States,CA,Sunnyvale,22/01/13,Group Product Manager,Product,4.0,22.0,700.0,250.0,400.0,50.0,0.0

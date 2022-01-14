@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Ernst and Young,United States,DC,Washington,22/01/14,Manager,IT Consulting,5.0,10.0,143.0,132.0,0.0,11.0,0.0
+Management Consultant,Protiviti,United States,CA,Los Angeles,22/01/14,Manager,Risk and Compliance,5.0,5.0,136.0,122.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/01/14,Analyst,Strategy and operations,1.0,2.0,89.0,87.0,0.0,2.0,0.0
 Management Consultant,Ernst and Young,United States,CA,San Francisco,22/01/13,Senior Consultant,Data and Analytics,2.0,2.0,103.0,103.0,0.0,0.0,0.0
 Management Consultant,PayPal,United States,CA,Los Angeles,22/01/13,T24,Strategy and biz ops,1.0,5.0,159.0,130.0,25.0,4.0,0.0
 Management Consultant,Slalom,United States,MN,Minneapolis,22/01/13,Consultant,Data Engineering,2.0,5.0,126.0,118.0,0.0,8.0,0.0

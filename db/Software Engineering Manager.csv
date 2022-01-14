@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,CIBC,Canada,ON,Toronto,22/01/14,L9,Distributed Systems (Back-End),4.0,13.0,146.0,108.0,10.0,28.0,0.0
+Software Engineering Manager,Lowe's,India,KA,Bangalore,22/01/14,T59,Mobile (iOS + Android),0.0,15.0,71.0,62.0,0.0,9.0,2.7
+Software Engineering Manager,Globant,United States,CA,San Francisco,22/01/14,L4,Distributed Systems (Back-End),8.0,20.0,196.0,176.0,0.0,20.0,0.0
+Software Engineering Manager,Affirm,United States,WA,Seattle,22/01/14,L8,Full Stack,0.0,12.0,630.0,240.0,350.0,40.0,0.0
 Software Engineering Manager,Stripe,United States,WA,Seattle,22/01/13,M1,Distributed Systems (Back-End),0.0,12.0,825.0,280.0,414.0,131.0,0.0
 Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/01/13,L5 SDM,Distributed Systems (Back-End),5.0,10.0,406.0,173.0,233.0,0.0,0.0
 Software Engineering Manager,Accenture,United States,CA,San Francisco,22/01/13,L6,Testing (SDET),15.0,18.0,250.0,202.0,0.0,48.0,0.0

@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Optum,United States,NJ,Basking Ridge,22/01/14,28,General,5.0,5.0,128.0,120.0,0.0,8.0,0.0
+Data Scientist,Amazon,United States,CA,Palo Alto,22/01/14,L7,Computer Vision,10.0,10.0,800.0,185.0,615.0,0.0,0.0
 Data Scientist,Gopuff,United States,NY,New York,22/01/13,L6,General,0.0,4.0,210.0,150.0,38.0,23.0,0.0
 Data Scientist,CVS Health,United States,RI,Woonsocket,22/01/13,109,Analytics,2.0,2.0,110.0,100.0,0.0,10.0,0.0
 Data Scientist,ING,France,IL,Paris,22/01/13,L4,General,1.0,5.0,88.0,80.0,0.0,8.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Itron,United States,CA,San Diego,22/01/14,2,Business Intelligence,3.0,3.0,93.0,93.0,0.0,0.0,0.0
+Business Analyst,UserTesting,United States,CA,San Francisco,22/01/14,L1,General,0.0,3.0,170.0,120.0,50.0,0.0,0.0
+Business Analyst,JPMorgan Chase,United States,OH,Columbus,22/01/14,Sr Associate,Finance,7.0,7.0,104.0,99.0,0.0,5.0,0.0
+Business Analyst,Amazon,United States,WA,Bellevue,22/01/14,L5,Supply Chain,0.0,1.0,126.0,105.0,13.0,9.0,0.0
+Business Analyst,ByteDance,United States,TX,Austin,22/01/14,2,General,2.0,4.0,125.0,100.0,10.0,15.0,0.0
 Business Analyst,PepsiCo,United States,TX,Dallas,22/01/13,L7,SQL,1.0,2.0,80.0,80.0,0.0,0.0,0.0
 Business Analyst,Morgan Stanley,United States,NY,New York,22/01/13,L1,Technology,1.0,1.0,115.0,110.0,0.0,5.0,0.0
 Business Analyst,Genesys,United States,IN,Indianapolis,22/01/13,10,Strategy Function,0.0,3.0,160.0,150.0,0.0,10.0,0.0
