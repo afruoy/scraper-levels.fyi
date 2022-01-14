@@ -1,4 +1,26 @@
 
+-----2022-01-14 22:55:08-----
+Software Engineer : 55 (new) + 57728 (previous) = 57783
+Software Engineering Manager : 4 (new) + 4775 (previous) = 4779
+Data Scientist : 6 (new) + 3839 (previous) = 3845
+Product Designer : 0 (new) + 2079 (previous) = 2079
+Product Manager : 5 (new) + 6318 (previous) = 6323
+Technical Program Manager : 1 (new) + 2068 (previous) = 2069
+Accountant : 0 (new) + 404 (previous) = 404
+Human Resources : 0 (new) + 499 (previous) = 499
+Marketing : 2 (new) + 1019 (previous) = 1021
+Marketing Operations : 0 (new) + 244 (previous) = 244
+Recruiter : 1 (new) + 704 (previous) = 705
+Sales : 0 (new) + 826 (previous) = 826
+Biomedical Engineer : 0 (new) + 58 (previous) = 58
+Civil Engineer : 0 (new) + 32 (previous) = 32
+Hardware Engineer : 1 (new) + 2962 (previous) = 2963
+Mechanical Engineer : 1 (new) + 777 (previous) = 778
+Solution Architect : 1 (new) + 1539 (previous) = 1540
+Business Analyst : 2 (new) + 1423 (previous) = 1425
+Investment Banker : 0 (new) + 233 (previous) = 233
+Management Consultant : 1 (new) + 1500 (previous) = 1501
+
 -----2022-01-14 14:55:08-----
 Software Engineer : 24 (new) + 57704 (previous) = 57728
 Software Engineering Manager : 1 (new) + 4774 (previous) = 4775
