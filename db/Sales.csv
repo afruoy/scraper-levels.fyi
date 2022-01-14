@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Cisco,Germany,NW,Cologne,22/01/14,Grade 9,AM,8.0,9.0,140.0,70.0,0.0,70.0,0.0
 Sales,Procter & Gamble,Russia,MC,Moscow,22/01/13,B1,TAM,1.0,1.0,20.0,19.0,0.0,0.0,0.0
 Sales,PepsiCo,United States,CO,Denver,22/01/13,L8,Energy,1.0,4.0,84.0,84.0,0.0,0.0,0.0
 Sales,Unacademy,India,KA,Bengaluru,22/01/13,L2,Sales,5.0,5.0,12.0,10.0,0.0,1.0,0.0

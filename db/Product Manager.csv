@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,India,KA,Bangalore,22/01/14,Senior Product Manager,Consumer,0.0,9.0,94.0,65.0,16.0,13.0,0.0
+Product Manager,walmart,United States,CA,San Francisco,22/01/14,X6,Product,2.0,5.0,325.0,180.0,100.0,45.0,0.0
+Product Manager,Box,United States,CA,Redwood City,22/01/14,Product Manager II,Product,0.0,3.0,221.0,163.0,46.0,12.0,0.0
+Product Manager,Microsoft,India,KA,Bangalore,22/01/14,62,Product,2.0,12.0,70.0,52.0,13.0,5.0,0.0
 Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L7,Product,1.0,8.0,231.0,180.0,15.0,36.0,0.0
 Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L8,Product,1.0,4.0,183.0,150.0,10.0,23.0,0.0
 Product Manager,T-Mobile,United States,WA,Bellevue,22/01/14,L7,Product,2.0,7.0,226.0,176.0,15.0,35.0,0.0
