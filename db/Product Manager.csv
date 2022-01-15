@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Google,Canada,ON,Waterloo,22/01/15,Product Manager 3,Enterprise,2.0,16.0,454.0,146.0,272.0,36.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/15,Senior Product Manager,Product,8.0,8.0,194.0,128.0,66.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/15,Senior Product Manager,Product,4.0,9.0,225.0,134.0,91.0,0.0,0.0
+Product Manager,BlackRock,United States,NY,New York,22/01/14,Associate,Product,4.0,4.0,170.0,140.0,0.0,30.0,0.0
 Product Manager,Cigna,United States,NJ,Franklin Lakes,22/01/14,1,Product,2.0,2.0,107.0,97.0,0.0,10.0,0.0
 Product Manager,Capital One,United States,VA,West McLean,22/01/14,Manager,Product,0.0,1.0,173.0,160.0,0.0,13.0,0.0
 Product Manager,Zendesk,United States,MA,Boston,22/01/14,Senior Manager,Internal,4.0,17.0,314.0,176.0,120.0,18.0,0.0

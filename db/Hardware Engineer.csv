@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Intel,United States,OR,Portland,22/01/15,Grade 7,SoC Design,8.0,11.0,160.0,127.0,18.0,15.0,0.0
+Hardware Engineer,Raytheon,United States,TX,Dallas,22/01/15,L3,DevOps,3.0,4.0,98.0,95.0,0.0,3.0,0.0
+Hardware Engineer,SpaceX,United States,WA,Redmond,22/01/15,L2,Electrical,1.0,4.0,158.0,97.0,56.0,5.0,0.0
+Hardware Engineer,Microsoft,United States,WA,Redmond,22/01/15,60,Validation,2.0,2.0,150.0,120.0,15.0,15.0,0.0
 Hardware Engineer,AMD,United States,TX,Austin,22/01/14,9,ASIC Design,5.0,15.0,400.0,250.0,75.0,75.0,0.0
 Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/01/14,IC6,ASIC Design,1.0,25.0,505.0,270.0,160.0,75.0,0.0
 Hardware Engineer,NVIDIA,United States,CA,Santa Clara,22/01/13,IC2,Security,0.0,0.0,153.0,128.0,25.0,0.0,0.0

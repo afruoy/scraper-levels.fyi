@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/15,602,Home Lending,7.0,7.0,105.0,99.0,0.0,6.0,0.0
+Data Scientist,Labcorp,United States,NC,Durham,22/01/15,L3,Tableau,1.0,4.0,86.0,85.0,0.0,1.0,0.0
+Data Scientist,Slalom,United States,MN,Minneapolis,22/01/15,Senior Consultant,Data Science,2.0,5.0,127.0,115.0,0.0,12.0,0.0
+Data Scientist,Zillow,United States,WA,Seattle,22/01/14,P5,General,3.0,7.0,261.0,181.0,80.0,0.0,0.0
 Data Scientist,NBCUniversal,United States,NY,New York,22/01/14,Principal,General,5.0,6.0,194.0,185.0,0.0,9.0,0.0
 Data Scientist,Bell,Canada,ON,Toronto,22/01/14,CP3,ML,4.0,4.0,97.0,81.0,0.0,15.0,0.0
 Data Scientist,Activision,United States,CA,Los Angeles,22/01/14,P3,HR,2.0,3.0,115.0,105.0,0.0,10.0,0.0
