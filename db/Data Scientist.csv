@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Transfix,United States,NY,New York,22/01/15,L1,Data Science,0.0,1.0,130.0,130.0,0.0,0.0,0.0
+Data Scientist,Spotify,Germany,BE,Berlin,22/01/15,Data Scientist,General,0.0,3.0,130.0,103.0,27.0,0.0,0.0
+Data Scientist,Autodesk,United States,WA,Seattle,22/01/15,P2,General,0.0,0.0,154.0,115.0,18.0,21.0,0.0
 Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/15,602,Home Lending,7.0,7.0,105.0,99.0,0.0,6.0,0.0
 Data Scientist,Labcorp,United States,NC,Durham,22/01/15,L3,Tableau,1.0,4.0,86.0,85.0,0.0,1.0,0.0
 Data Scientist,Slalom,United States,MN,Minneapolis,22/01/15,Senior Consultant,Data Science,2.0,5.0,127.0,115.0,0.0,12.0,0.0

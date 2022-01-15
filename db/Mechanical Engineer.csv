@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,General Motors,United States,MI,Detroit,22/01/15,L5,General,0.0,0.0,83.0,75.0,0.0,8.0,0.0
+Mechanical Engineer,Caterpillar,United States,IL,Peoria,22/01/15,23,Systems Engineering,15.0,15.0,157.0,125.0,0.0,32.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Kennewick,22/01/15,L5,Data Center Support,3.0,10.0,175.0,126.0,49.0,0.0,0.0
 Mechanical Engineer,Jacobs,United States,TX,Houston,22/01/14,L1,General,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/14,ICT2,General,2.0,2.0,153.0,120.0,13.0,20.0,0.0
