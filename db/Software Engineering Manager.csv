@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Akamai,United States,MA,Boston,22/01/15,Senior Software Lead II,Distributed Systems (Back-End),6.0,9.0,260.0,200.0,30.0,30.0,0.0
+Software Engineering Manager,Synopsys,India,UP,Noida,22/01/15,68,C++,8.0,12.0,102.0,73.0,19.0,10.0,0.0
 Software Engineering Manager,Accenture,United States,IL,Chicago,22/01/15,Level 8,Production,9.0,18.0,105.0,100.0,0.0,5.0,0.0
 Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/01/14,L6 SDM,Full Stack,2.0,20.0,317.0,185.0,89.0,43.0,0.0
 Software Engineering Manager,Navi,India,KA,Bangalore,22/01/14,L5,Full Stack,1.0,9.0,120.0,90.0,20.0,10.0,0.0
