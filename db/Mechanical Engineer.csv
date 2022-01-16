@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/16,L2,general,3.0,3.0,98.0,95.0,0.0,3.0,0.0
+Mechanical Engineer,AWS,United States,VA,Herndon,22/01/16,L4,Hardware,2.0,5.0,145.0,92.0,50.0,3.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,NJ,Moorestown,22/01/16,L2,System Safety,0.0,0.0,85.0,85.0,0.0,0.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Everett,22/01/16,K,New Programs,11.0,11.0,187.0,156.0,0.0,31.0,0.0
 Mechanical Engineer,General Motors,United States,MI,Detroit,22/01/15,L5,General,0.0,0.0,83.0,75.0,0.0,8.0,0.0
 Mechanical Engineer,Caterpillar,United States,IL,Peoria,22/01/15,23,Systems Engineering,15.0,15.0,157.0,125.0,0.0,32.0,0.0

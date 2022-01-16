@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,PROS,United States,TX,Houston,22/01/16,4,"Saas software implementations, contracting",3.0,15.0,125.0,115.0,5.0,5.0,0.0
+Technical Program Manager,Amazon,Canada,ON,Toronto,22/01/16,L7,AWS,2.0,15.0,260.0,160.0,100.0,0.0,0.0
 Technical Program Manager,MITRE,United States,VA,West McLean,22/01/15,L3,Cyber,4.0,4.0,120.0,120.0,0.0,0.0,0.0
 Technical Program Manager,Amazon,United States,TX,Austin,22/01/15,L7,General,7.0,20.0,300.0,160.0,40.0,100.0,0.0
 Technical Program Manager,Ford Motor,United States,MI,Dearborn,22/01/14,GS5,"Human Centered Design, People & Department Connector",0.0,10.0,130.0,120.0,0.0,10.0,0.0

@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Amazon,United States,VA,Herndon,22/01/16,L5,ML / AI,0.0,17.0,230.0,150.0,50.0,30.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,22/01/16,L4,Full Stack,0.0,0.0,142.0,105.0,21.0,15.0,0.0
 Solution Architect,Amazon,United States,WA,Seattle,22/01/15,L6,Full Stack,2.0,15.0,265.0,156.0,60.0,50.0,0.0
 Solution Architect,EPAM Systems,Ukraine,KC,Kiev,22/01/15,B1,API Development (Back-End),2.0,12.0,92.0,72.0,5.0,15.0,0.0
 Solution Architect,EPAM Systems,Russia,MC,Moscow,22/01/14,L4,DevOps,1.0,16.0,66.0,66.0,0.0,0.0,0.0
