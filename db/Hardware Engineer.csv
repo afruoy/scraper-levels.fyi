@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/16,ICT5,ASIC Design,7.0,11.0,675.0,225.0,410.0,40.0,0.0
+Hardware Engineer,MediaTek,United States,CA,San Diego,22/01/16,L3,Modem,3.0,3.0,250.0,150.0,0.0,100.0,0.0
+Hardware Engineer,Micron,United States,TX,Dallas,22/01/16,E5,ASIC Design,5.0,12.0,280.0,175.0,55.0,50.0,0.0
+Hardware Engineer,Molex,United States,IL,Lisle,22/01/16,Senior Engineer,EE,4.0,10.0,116.0,105.0,0.0,11.0,0.0
+Hardware Engineer,Lockheed Martin,United States,TX,Dallas,22/01/15,L3,Analog,3.0,5.0,109.0,105.0,0.0,4.0,0.0
 Hardware Engineer,Micron Technology,United States,TX,Dallas,22/01/15,L2,Design Engineer,2.0,2.0,110.0,95.0,5.0,10.0,0.0
 Hardware Engineer,AMD,Canada,ON,Markham,22/01/15,Sr. Engineer,hardware,3.0,3.0,105.0,80.0,15.0,10.0,0.0
 Hardware Engineer,Intel,United States,OR,Portland,22/01/15,Grade 7,SoC Design,8.0,11.0,160.0,127.0,18.0,15.0,0.0

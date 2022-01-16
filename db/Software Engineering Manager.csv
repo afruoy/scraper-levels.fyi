@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Google,United States,WA,Bellevue,22/01/16,Senior Manager,Data,15.0,25.0,950.0,300.0,560.0,90.0,0.0
+Software Engineering Manager,Interactive Brokers,United States,CT,Greenwich,22/01/16,L4,Distributed Systems (Back-End),2.0,21.0,370.0,280.0,40.0,50.0,0.0
+Software Engineering Manager,Nike,United States,OR,Beaverton,22/01/16,E,Production,4.0,8.0,235.0,200.0,15.0,20.0,0.0
+Software Engineering Manager,Chegg,United States,CA,Santa Clara,22/01/16,NA,Full Stack,5.0,12.0,252.0,192.0,60.0,0.0,0.0
+Software Engineering Manager,Allscripts,United States,NC,Raleigh,22/01/15,M3,DevOps,15.0,20.0,200.0,170.0,4.0,26.0,0.0
 Software Engineering Manager,Akamai,United States,MA,Boston,22/01/15,Senior Software Lead II,Distributed Systems (Back-End),6.0,9.0,260.0,200.0,30.0,30.0,0.0
 Software Engineering Manager,Synopsys,India,UP,Noida,22/01/15,68,C++,8.0,12.0,102.0,73.0,19.0,10.0,0.0
 Software Engineering Manager,Accenture,United States,IL,Chicago,22/01/15,Level 8,Production,9.0,18.0,105.0,100.0,0.0,5.0,0.0

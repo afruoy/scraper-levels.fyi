@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,General Dynamics Information Technology,United States,AR,Little Rock,22/01/15,L1,Healthacare,2.0,2.0,66.0,66.0,0.0,0.0,0.0
+Data Scientist,Fidelity Investments,United States,NC,Durham,22/01/15,L6,General,3.0,3.0,185.0,135.0,16.0,34.0,0.0
 Data Scientist,Transfix,United States,NY,New York,22/01/15,L1,Data Science,0.0,1.0,130.0,130.0,0.0,0.0,0.0
 Data Scientist,Spotify,Germany,BE,Berlin,22/01/15,Data Scientist,General,0.0,3.0,130.0,103.0,27.0,0.0,0.0
 Data Scientist,Autodesk,United States,WA,Seattle,22/01/15,P2,General,0.0,0.0,154.0,115.0,18.0,21.0,0.0
