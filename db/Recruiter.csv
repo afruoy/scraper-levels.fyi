@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Google,United States,CA,Mountain View,22/01/16,L4,Operations,0.0,12.0,150.0,150.0,0.0,0.0,0.0
 Recruiter,Amazon,United States,WA,Seattle,22/01/16,L5,Technical,3.0,5.0,125.0,81.0,11.0,33.0,0.0
 Recruiter,Google,United States,CA,San Francisco,22/01/15,L5,Leadership,5.0,18.0,310.0,195.0,76.0,39.0,0.0
 Recruiter,Raytheon,United States,AZ,Tucson,22/01/14,8,Recruitement,4.0,10.0,92.0,90.0,0.0,2.0,0.0

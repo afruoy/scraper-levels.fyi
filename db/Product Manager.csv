@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Cisco,United States,CA,San Francisco,22/01/17,G10,Product,0.0,9.0,202.0,172.0,10.0,20.0,0.0
+Product Manager,Google,United States,CA,Sunnyvale,22/01/17,Group Product Manager,Product,2.0,21.0,790.0,290.0,410.0,90.0,0.0
+Product Manager,Socure,United States,AZ,Phoenix,22/01/17,L7,Product,3.0,10.0,810.0,275.0,480.0,55.0,0.0
+Product Manager,Cox Automotive,United States,GA,Atlanta,22/01/17,M3,Product,4.0,6.0,163.0,133.0,0.0,30.0,0.0
+Product Manager,Capital One,United States,VA,Arlington,22/01/16,Senior Manager,Product,5.0,5.0,170.0,145.0,0.0,25.0,0.0
+Product Manager,HCL Technologies,United States,KY,Louisville,22/01/16,4,Product,4.0,15.0,140.0,114.0,0.0,26.0,0.0
 Product Manager,FedEx,United States,DC,Washington,22/01/16,Principal,Product,0.0,6.0,158.0,140.0,0.0,18.0,0.0
 Product Manager,Amazon,Luxembourg,LU,Luxembourg,22/01/16,Principal Product Manager,Product,6.0,10.0,250.0,108.0,142.0,0.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/16,Senior Product Manager,Technical,3.0,12.0,203.0,133.0,70.0,0.0,0.0
