@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Facebook,United Kingdom,EN,London,22/01/17,IC4,Operations,0.0,6.0,118.0,94.0,10.0,14.0,0.0
+Recruiter,Amazon,United States,AZ,Scottsdale,22/01/17,L5,Technical,1.0,4.0,150.0,105.0,20.0,25.0,0.0
 Recruiter,Google,United States,CA,Mountain View,22/01/16,L4,Operations,0.0,12.0,150.0,150.0,0.0,0.0,0.0
 Recruiter,Amazon,United States,WA,Seattle,22/01/16,L5,Technical,3.0,5.0,125.0,81.0,11.0,33.0,0.0
 Recruiter,Google,United States,CA,San Francisco,22/01/15,L5,Leadership,5.0,18.0,310.0,195.0,76.0,39.0,0.0
