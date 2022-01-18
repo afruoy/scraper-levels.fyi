@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Splunk,United States,CA,San Jose,22/01/18,M3,DevOps,0.0,11.0,350.0,200.0,120.0,30.0,0.0
+Software Engineering Manager,Wells Fargo,United States,IA,Des Moines,22/01/18,l2,Full Stack,26.0,30.0,181.0,151.0,10.0,20.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/17,L6 SDM,Full Stack,3.0,25.0,401.0,160.0,241.0,0.0,0.0
 Software Engineering Manager,Expedia,United States,WA,Seattle,22/01/17,M,API Development (Back-End),8.0,18.0,310.0,200.0,100.0,10.0,0.0
 Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/17,Senior SDM,Distributed Systems (Back-End),1.0,17.0,700.0,150.0,250.0,300.0,0.0
 Software Engineering Manager,Bloomberg,United States,NY,New York,22/01/17,Engineering Manager,Distributed Systems (Back-End),11.0,12.0,450.0,350.0,0.0,100.0,0.0

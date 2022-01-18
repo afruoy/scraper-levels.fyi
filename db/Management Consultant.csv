@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,AWS,Canada,ON,Toronto,22/01/17,L7,General,2.0,20.0,290.0,165.0,100.0,25.0,0.0
+Management Consultant,Ernst and Young,United States,MA,Boston,22/01/17,Consultant,Software,2.0,2.0,170.0,170.0,0.0,0.0,0.0
 Management Consultant,PwC,India,MH,Mumbai,22/01/17,Associate,Healthcare,1.0,2.0,30.0,28.0,0.0,2.0,0.0
 Management Consultant,Capgemini,United States,IL,Chicago,22/01/17,A,Consulting,0.0,1.0,88.0,78.0,0.0,10.0,0.0
 Management Consultant,BCG,United States,NJ,Summit,22/01/16,Associate,General,0.0,0.0,120.0,100.0,0.0,20.0,0.0
