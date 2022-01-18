@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Adobe,United States,CA,San Jose,22/01/18,M40,Site Reliability (SRE),4.0,16.0,400.0,250.0,120.0,30.0,0.0
+Software Engineering Manager,JPMorgan Chase,United States,NY,New York,22/01/18,VP,Security,4.0,15.0,330.0,205.0,25.0,100.0,0.0
+Software Engineering Manager,Microsoft,United States,IL,Chicago,22/01/18,64,Full Stack,15.0,25.0,301.0,231.0,36.0,34.0,0.0
+Software Engineering Manager,Altimetrik,Canada,ON,Toronto,22/01/18,L4,DevOps,1.0,6.0,145.0,135.0,0.0,10.0,0.0
+Software Engineering Manager,HSBC,United States,NY,New York,22/01/18,L4,DevOps,2.0,15.0,165.0,150.0,0.0,15.0,0.0
 Software Engineering Manager,Microsoft,India,TS,Hyderabad,22/01/18,66,Distributed Systems (Back-End),5.0,17.0,275.0,200.0,75.0,0.0,0.0
 Software Engineering Manager,Splunk,United States,CA,San Jose,22/01/18,M3,DevOps,0.0,11.0,350.0,200.0,120.0,30.0,0.0
 Software Engineering Manager,Wells Fargo,United States,IA,Des Moines,22/01/18,l2,Full Stack,26.0,30.0,181.0,151.0,10.0,20.0,0.0
