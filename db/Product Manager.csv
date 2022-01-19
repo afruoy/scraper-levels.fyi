@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,IBM,Canada,ON,Toronto,22/01/19,Offering Manager,Product,2.0,8.0,140.0,125.0,5.0,10.0,0.0
+Product Manager,Accenture,Canada,ON,Toronto,22/01/19,L8,Product,0.0,8.0,132.0,108.0,8.0,16.0,0.0
+Product Manager,Google,United States,NY,New York,22/01/19,Product Manager 2,Product,3.0,3.0,373.0,200.0,128.0,45.0,0.0
+Product Manager,Walmart,United States,CA,Sunnyvale,22/01/19,l5,Consumer,1.0,20.0,290.0,180.0,80.0,30.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/19,Product Manager,Product,1.0,4.0,154.0,125.0,18.0,12.0,0.0
 Product Manager,Two Sigma,United States,NY,New York Mills,22/01/19,L2,Product,2.0,4.0,320.0,190.0,0.0,130.0,0.0
 Product Manager,Rivian,United States,CA,Irvine,22/01/19,6,Technical,6.0,8.0,355.0,205.0,150.0,0.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/19,Product Manager,Product,6.0,8.0,146.0,102.0,44.0,0.0,0.0
