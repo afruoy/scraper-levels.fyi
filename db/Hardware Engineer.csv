@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/01/19,IC3,ASIC Design,3.0,3.0,260.0,155.0,105.0,0.0,0.0
+Hardware Engineer,Samsung Semiconductor Inc,United States,CA,San Jose,22/01/19,Staff Engineer,ASIC Design,5.0,7.0,200.0,160.0,0.0,40.0,0.0
+Hardware Engineer,Intel,United States,CA,Santa Clara,22/01/19,Grade 10,Validation,0.0,5.0,161.0,156.0,5.0,0.0,0.0
+Hardware Engineer,SpaceX,United States,CA,Mountain View,22/01/18,L4,ASIC Design,1.0,8.0,205.0,155.0,50.0,0.0,0.0
 Hardware Engineer,IBM,United States,NY,Poughkeepsie,22/01/18,B7,Hardware,4.0,4.0,108.0,108.0,0.0,0.0,0.0
 Hardware Engineer,Arm,Israel,HM,Raanana,22/01/18,Grade 4,Verification,5.0,5.0,150.0,123.0,0.0,27.0,0.0
 Hardware Engineer,Amazon,United States,CA,Los Angeles,22/01/17,L5,Quality Assurance,0.0,4.0,215.0,135.0,7.0,73.0,0.0

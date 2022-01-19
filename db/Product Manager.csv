@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Two Sigma,United States,NY,New York Mills,22/01/19,L2,Product,2.0,4.0,320.0,190.0,0.0,130.0,0.0
+Product Manager,Rivian,United States,CA,Irvine,22/01/19,6,Technical,6.0,8.0,355.0,205.0,150.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/19,Product Manager,Product,6.0,8.0,146.0,102.0,44.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/01/19,63,Growth,0.0,5.0,245.0,150.0,50.0,45.0,0.0
+Product Manager,Google,United States,CA,Mountain View,22/01/19,Product Manager 3,ML,0.0,8.0,498.0,218.0,236.0,44.0,0.0
+Product Manager,Dell Technologies,United States,TX,Austin,22/01/19,L5,Analytic,1.0,1.0,72.0,65.0,0.0,7.0,0.0
+Product Manager,BNY Mellon,United States,NY,New York,22/01/19,IC6,Data,1.0,10.0,216.0,180.0,0.0,36.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/01/19,64,Product,8.0,8.0,245.0,170.0,42.0,33.0,0.0
+Product Manager,Overstock,United States,UT,Salt Lake City,22/01/18,L1,Product,2.0,7.0,134.0,120.0,0.0,14.0,0.0
 Product Manager,Sprout Social,United States,IL,Chicago,22/01/18,L2,Product,2.0,7.0,150.0,135.0,15.0,0.0,0.0
 Product Manager,Google,United States,CA,Mountain View,22/01/18,Product Manager 2,Product,8.0,8.0,330.0,185.0,115.0,30.0,0.0
 Product Manager,Facebook,United States,CA,San Francisco,22/01/18,Rotational Product Manager (RPM),Product,1.0,6.0,199.0,130.0,34.0,35.0,0.0
