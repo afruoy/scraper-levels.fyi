@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/19,L1,Project Mangement,2.0,2.0,110.0,110.0,0.0,0.0,0.0
+Mechanical Engineer,TSMC,Taiwan,TP,Hsin-chu,22/01/19,32,hardware,5.0,5.0,60.0,60.0,0.0,0.0,0.0
 Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/19,ICT2,Design,1.0,1.0,163.0,125.0,13.0,25.0,0.0
 Mechanical Engineer,Tesla,United States,CA,Palo Alto,22/01/18,P3,Low Voltage,4.0,4.0,150.0,120.0,30.0,0.0,0.0
 Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/17,ICT4,Special Projects,8.0,30.0,305.0,195.0,90.0,20.0,0.0

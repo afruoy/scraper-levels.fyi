@@ -52,8 +52,8 @@ def lap_finished(r, prev_r, curr_r, tol=1):
 			return False, 0
 
 
-def send_mail_if_error(category):
+def send_mail_if_error(category, new_row):
 	recipient = 'yourfa@protonmail.com'
-	subject = f'ERROR for {category}'
-	subprocess.Popen(['mail', '-s', subject, recipient], stdin=subprocess.PIPE).communicate()
+	subject = f'Error for {category}'
+	subprocess.Popen(['mail', '-s', subject, recipient], stdin=subprocess.PIPE).communicate(str(new_row).encode('ascii'))
 	return

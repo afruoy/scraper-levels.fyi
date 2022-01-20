@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/20,L6,Distributed Systems (Back-End),5.0,9.0,440.0,240.0,35.0,165.0,0.0
+Software Engineering Manager,Expedia,United States,WA,Seattle,22/01/20,M,API Development (Back-End),10.0,12.0,243.0,201.0,42.0,0.0,0.0
+Software Engineering Manager,Amazon,Canada,BC,Vancouver,22/01/20,L6 SDM,Full Stack,0.0,11.0,291.0,200.0,56.0,35.0,0.0
+Software Engineering Manager,Amazon,Canada,BC,Vancouver,22/01/19,L6 SDM,Distributed Systems (Back-End),2.0,16.0,302.0,184.0,78.0,41.0,0.0
+Software Engineering Manager,Salesforce,United States,CA,San Francisco,22/01/19,Senior Manager,Backend,4.0,4.0,317.0,215.0,70.0,32.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/19,66,Distributed Systems (Back-End),14.0,18.0,358.0,233.0,80.0,45.0,0.0
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/19,Vice president,Full Stack,7.0,15.0,325.0,183.0,21.0,122.0,0.0
+Software Engineering Manager,Flipkart,India,KA,Bangalore,22/01/19,12,Distributed Systems (Back-End),2.0,13.0,137.0,102.0,15.0,20.0,0.0
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/19,Vice President,API Development (Back-End),12.0,16.0,326.0,207.0,15.0,104.0,0.0
+Software Engineering Manager,Comcast,United States,TX,Austin,22/01/19,Dir 1,Security,14.0,16.0,296.0,188.0,70.0,38.0,0.0
+Software Engineering Manager,Citi,United States,NJ,Jersey City,22/01/19,C14,Full Stack,6.0,17.0,201.0,191.0,0.0,10.0,0.0
+Software Engineering Manager,JPMorgan Chase,United Kingdom,EN,London,22/01/19,603,Data,6.0,11.0,284.0,155.0,26.0,103.0,0.0
 Software Engineering Manager,Samsung,Israel,TA,Tel Aviv,22/01/19,L7,ML / AI,4.0,15.0,256.0,180.0,0.0,76.0,0.0
 Software Engineering Manager,Cognizant,United States,CA,Orange,22/01/19,L5,Full Stack,15.0,18.0,136.0,126.0,0.0,10.0,0.0
 Software Engineering Manager,CloudBees,Canada,ON,Toronto,22/01/19,L1,Full Stack,2.0,5.0,150.0,130.0,10.0,10.0,0.0

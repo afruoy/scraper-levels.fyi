@@ -13,12 +13,12 @@ import numpy as np
 def scrape_category(category, driver, log_txt):
 	path_file_category = os.path.join(FOLDER_DB, category + ".csv")
 	prev_category_rows = pd.read_csv(path_file_category).values.tolist() if os.path.exists(path_file_category) else []
-	category_rows = []
+	category_rows, new_row = [], []
 
 	driver.get(url_top + "?track=" + category)
 	sleep(500 / 1000)
 	iter = 0
-	while iter <= 100:
+	while iter < 100:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
@@ -71,7 +71,7 @@ def scrape_category(category, driver, log_txt):
 		element = driver.find_element(By.CSS_SELECTOR, 'li.page-item:last-child')
 		driver.execute_script("arguments[0].click();", element)
 		sleep(1500 / 1000)
-	send_mail_if_error(category)
+	send_mail_if_error(category, new_row)
 	log_txt += f"{category} : ERROR\n"
 	return log_txt
 

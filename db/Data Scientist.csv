@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Amazon,United States,DC,Washington,22/01/19,L4,Machine learning,0.0,2.0,181.0,125.0,29.0,27.0,0.0
+Data Scientist,Spotify,United States,NY,New York,22/01/19,Mid level,Promotion,2.0,4.0,185.0,150.0,35.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/19,L6,General,0.0,10.0,475.0,155.0,195.0,125.0,0.0
 Data Scientist,Facebook,United Kingdom,EN,London,22/01/19,IC5,Data Science,3.0,6.0,251.0,136.0,95.0,20.0,0.0
 Data Scientist,Zebra Technologies,India,KA,Bengaluru,22/01/19,16,General,2.0,7.0,65.0,36.0,25.0,4.0,0.0
 Data Scientist,Walmart,United States,AR,Bentonville,22/01/19,86,General,4.0,12.0,250.0,146.0,75.0,29.0,0.0
