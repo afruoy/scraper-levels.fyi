@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Grant Thornton,Canada,ON,Toronto,22/01/20,L2,Audit,1.0,1.0,48.0,48.0,0.0,0.0,0
+Accountant,KPMG,Canada,BC,Vancouver,22/01/20,Tax Specialist,Canadian Corporation,2.0,5.0,79.0,76.0,0.0,3.0,0
+Accountant,Ernst and Young,United States,CA,San Francisco,22/01/20,Staff 1,Tax,1.0,1.0,77.0,77.0,0.0,0.0,0
+Accountant,Moss Adams,United States,WA,Seattle,22/01/20,L1,Tax,0.0,0.0,67.0,67.0,0.0,0.0,0
 Accountant,PwC,United States,CA,San Francisco,22/01/19,A2,Audit,0.0,1.0,80.0,80.0,0.0,0.0,0
 Accountant,PwC,United States,UT,Salt Lake City,22/01/19,Experienced Associate,Audit,2.0,2.0,68.0,60.0,0.0,8.0,0
 Accountant,Ernst and Young,Canada,ON,Toronto,22/01/18,Senior manager,Audit,8.0,8.0,105.0,97.0,0.0,8.0,0

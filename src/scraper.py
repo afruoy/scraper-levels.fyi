@@ -16,7 +16,7 @@ def scrape_category(category, driver, log_txt):
 	category_rows, new_row = [], []
 
 	driver.get(url_top + "?track=" + category)
-	sleep(500 / 1000)
+	sleep(900 / 1000)
 	iter = 0
 	while iter < 100:
 		iter += 1
@@ -58,22 +58,20 @@ def scrape_category(category, driver, log_txt):
 
 			new_row = [category, comp_name, comp_country, comp_region, comp_city, date, level, tag, yrs_comp,
 			           yrs_xp, tot_salary, base_salary, stock_salary, bonus_salary, nego_up]
-			print(new_row, prev_category_rows[0])
 
 			bool_finished, final_rows = lap_finished(new_row, prev_category_rows, category_rows, tol=2)
 			if bool_finished:
 				log_txt += f"{category} : {len(category_rows)} (new) + {len(prev_category_rows)} (previous) = {len(final_rows)}\n"
 				df_tmp = pd.DataFrame(final_rows, columns=DF_COLUMNS)
-				#df_tmp.to_csv(path_file_category, index=False)
+				df_tmp.to_csv(path_file_category, index=False)
 				return log_txt
 			else:
 				category_rows.append(new_row)
 
 		element = driver.find_element(By.CSS_SELECTOR, 'li.page-item:last-child')
 		driver.execute_script("arguments[0].click();", element)
-		sleep(1500 / 1000)
-	#send_mail_if_error(category, new_row)
-	print("send email")
+		sleep(2100 / 1000)
+	send_mail_if_error(category, new_row)
 	log_txt += f"{category} : ERROR\n"
 	return log_txt
 
@@ -88,9 +86,8 @@ if __name__ == "__main__":
 
 	soup = BeautifulSoup(requests.get(url_top).content, 'html.parser')
 	category_jobs = [i.text for i in soup.find_all("option")]
-	category_jobs = ["Software Engineer"]
 	for category in category_jobs:
 		log_txt = scrape_category(category, driver, log_txt)
 
-	#write_log_file(log_txt)
+	write_log_file(log_txt)
 	driver.quit()

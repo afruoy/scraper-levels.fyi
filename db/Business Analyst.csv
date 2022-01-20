@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,JPMorgan Chase,United States,OH,Columbus,22/01/20,Vice President,Business,7.0,10.0,175.0,160.0,0.0,15.0,0.0
+Business Analyst,McKinsey,India,DL,New Delhi,22/01/20,L1,General,1.0,1.0,32.0,25.0,0.0,7.0,0.0
+Business Analyst,T-Mobile,United States,TX,Dallas,22/01/20,L09,Finance,2.0,2.0,74.0,65.0,3.0,7.0,0.0
+Business Analyst,Cloudflare,United States,TX,Austin,22/01/20,Mid,Finance,1.0,5.0,129.0,115.0,14.0,0.0,7.0
+Business Analyst,Goldman Sachs,United States,TX,Dallas,22/01/20,Associate,General,3.0,6.0,122.0,91.0,0.0,31.0,0.0
 Business Analyst,Capital One,United States,VA,West McLean,22/01/19,Business Manager,Business Analysis,4.0,4.0,158.0,141.0,4.0,13.0,0.0
 Business Analyst,Capgemini,United States,TX,Dallas,22/01/19,C1,PM,5.0,5.0,110.0,110.0,0.0,0.0,0.0
 Business Analyst,Instacart,United States,CA,San Francisco,22/01/19,L6,Strategy,0.0,5.0,306.0,160.0,138.0,8.0,0.0

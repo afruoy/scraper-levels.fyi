@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Facebook,United States,WA,Seattle,22/01/21,IC5,Infrastructure,0.0,5.0,350.0,195.0,105.0,50.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/20,63,Cloud Delivery,6.0,10.0,220.0,165.0,27.0,28.0,0.0
+Technical Program Manager,Capgemini,United States,WA,Seattle,22/01/20,L4,Program Management,8.0,15.0,149.0,142.0,0.0,7.0,0.0
+Technical Program Manager,MongoDB,United States,NY,New York,22/01/20,L3,Core Engineering,1.0,9.0,215.0,165.0,50.0,0.0,0.0
+Technical Program Manager,Facebook,United States,WA,Seattle,22/01/20,IC4,Product,1.0,7.0,198.0,138.0,25.0,35.0,0.0
+Technical Program Manager,Cisco,Saudi Arabia,RI,Riyadh,22/01/20,G11,Sales,5.0,15.0,264.0,229.0,5.0,30.0,0.0
+Technical Program Manager,Google,United States,CA,Sunnyvale,22/01/20,L5,Privacy,0.0,10.0,248.0,179.0,42.0,27.0,0.0
+Technical Program Manager,Apple,United States,CA,Cupertino,22/01/20,ICT3,General,0.0,5.0,143.0,122.0,13.0,9.0,0.0
+Technical Program Manager,Egnyte,United States,TX,Austin,22/01/19,L4,General,1.0,12.0,155.0,155.0,0.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/19,64,Azure,11.0,15.0,239.0,170.0,44.0,25.0,0.0
+Technical Program Manager,Walmart,United States,AR,Bentonville,22/01/19,76,Software,12.0,12.0,169.0,114.0,25.0,30.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/01/19,L5,pgm,3.0,12.0,345.0,190.0,120.0,35.0,0.0
 Technical Program Manager,Google,United States,CA,San Francisco,22/01/19,L6,Engineering,5.0,18.0,430.0,190.0,190.0,50.0,0.0
 Technical Program Manager,Google,India,TS,Hyderabad,22/01/19,L5,General,4.0,9.0,94.0,62.0,24.0,9.0,0.0

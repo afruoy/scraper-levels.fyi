@@ -1,4 +1,19 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Indeed,United States,CA,San Francisco,22/01/20,L1,General,0.0,2.0,156.0,125.0,12.0,19.0,0.0
+Data Scientist,Afiniti,United States,DC,Washington,22/01/20,L4,AI,1.0,4.0,140.0,127.0,0.0,13.0,0.0
+Data Scientist,Dell Technologies,United States,TX,Austin,22/01/20,I6,General,1.0,3.0,105.0,100.0,0.0,5.0,0.0
+Data Scientist,CVS Health,United States,NY,New York,22/01/20,Senior,General,2.0,2.0,147.0,130.0,0.0,17.0,0.0
+Data Scientist,Citi,United States,NY,New York,22/01/20,C13,General,0.0,7.0,190.0,160.0,0.0,30.0,0.0
+Data Scientist,Accenture,United States,VA,Alexandria,22/01/20,L9,Federal Services,0.0,1.0,123.0,115.0,0.0,8.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/20,L4,General,0.0,0.0,156.0,98.0,20.0,38.0,0.0
+Data Scientist,Nielsen,United States,NY,New York,22/01/20,Senior,General,1.0,3.0,140.0,120.0,0.0,20.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/20,L5,Machine Learning,3.0,7.0,245.0,150.0,95.0,0.0,0.0
+Data Scientist,Gap,United States,CA,San Francisco,22/01/20,L2,Customer Analytics,2.0,2.0,144.0,134.0,0.0,10.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/20,L4,Software engineer,4.0,5.0,135.0,135.0,0.0,0.0,0.0
+Data Scientist,Walmart,United States,CA,Sunnyvale,22/01/20,X4,ML/AI,0.0,2.0,237.0,160.0,45.0,32.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/19,L5,Data scientist general,2.0,3.0,200.0,150.0,30.0,20.0,0.0
+Data Scientist,Cisco,United States,CO,Denver,22/01/19,L10,ML/AI,4.0,5.0,205.0,165.0,15.0,25.0,0.0
+Data Scientist,eBay,United States,CA,San Francisco,22/01/19,24,Shipping,1.0,2.0,183.0,144.0,25.0,14.0,0.0
 Data Scientist,Amazon,United States,DC,Washington,22/01/19,L4,Machine learning,0.0,2.0,181.0,125.0,29.0,27.0,0.0
 Data Scientist,Spotify,United States,NY,New York,22/01/19,Mid level,Promotion,2.0,4.0,185.0,150.0,35.0,0.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/19,L6,General,0.0,10.0,475.0,155.0,195.0,125.0,0.0

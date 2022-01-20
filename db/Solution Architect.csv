@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Amazon,United States,PA,Philadelphia,22/01/20,L5,Full Stack,0.0,12.0,155.0,155.0,0.0,0.0,0.0
+Solution Architect,Microsoft,United States,NY,New York,22/01/20,61,ML / AI,3.0,4.0,181.0,134.0,12.0,35.0,0.0
+Solution Architect,Amazon,United States,TX,Houston,22/01/19,L6,DevOps,4.0,7.0,265.0,160.0,105.0,0.0,0.0
 Solution Architect,Amazon,United States,GA,Atlanta,22/01/19,L5,Full Stack,0.0,10.0,189.0,160.0,29.0,0.0,0.0
 Solution Architect,Databricks,United States,CA,San Francisco,22/01/18,L3,Data,0.0,3.0,210.0,160.0,40.0,10.0,0.0
 Solution Architect,Microsoft,United States,PA,Philadelphia,22/01/18,65,Security,0.0,20.0,367.0,196.0,113.0,59.0,0.0

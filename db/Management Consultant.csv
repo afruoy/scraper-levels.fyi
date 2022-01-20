@@ -1,4 +1,12 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,TX,Houston,22/01/20,Senior Consultant,"Implementation, Data",4.0,4.0,160.0,129.0,0.0,31.0,0.0
+Management Consultant,Oliver Wyman,United States,TX,Dallas,22/01/20,Consultant,General,1.0,2.0,112.0,100.0,0.0,12.0,0.0
+Management Consultant,PwC,United States,NC,Charlotte,22/01/20,Senior Associate,General,5.0,5.0,151.0,126.0,0.0,25.0,0.0
+Management Consultant,Mastercard,Canada,ON,Toronto,22/01/20,L7,General,0.0,4.0,120.0,105.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,TX,Houston,22/01/20,Consultant,Finance,0.0,8.0,130.0,115.0,0.0,15.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,22/01/20,Senior Manager,Technology consulting,4.0,20.0,270.0,235.0,0.0,35.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,22/01/19,Manager,Data Science,7.0,11.0,209.0,180.0,0.0,29.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,22/01/19,Manager,Data Science,7.0,11.0,209.0,180.0,0.0,29.0,0.0
 Management Consultant,Infosys,United States,TX,Houston,22/01/19,L6,General,3.0,15.0,162.0,130.0,0.0,32.0,0.0
 Management Consultant,BCG,United States,WA,Seattle,22/01/19,Project Leader,General,3.0,3.0,250.0,210.0,0.0,40.0,0.0
 Management Consultant,Slalom,United States,PA,Philadelphia,22/01/18,Principal,Business Advisory Services,4.0,6.0,146.0,130.0,0.0,16.0,0.0

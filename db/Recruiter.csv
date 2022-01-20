@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Facebook,United States,TX,Austin,22/01/20,IC5,Leadership,4.0,9.0,205.0,144.0,32.0,29.0,0.0
+Recruiter,Amazon,United States,NY,New York,22/01/20,L5,Technical,0.0,3.0,126.0,95.0,4.0,27.0,0.0
+Recruiter,Cruise,United States,MO,St. Louis,22/01/20,L5,Technical,1.0,5.0,193.0,125.0,30.0,38.0,0.0
 Recruiter,Hopin,United Kingdom,EN,London,22/01/19,M4,People/Recruting,1.0,8.0,204.0,178.0,13.0,13.0,0.0
 Recruiter,Chewy,United States,MA,Boston,22/01/17,C06,Leadership,3.0,10.0,190.0,140.0,50.0,0.0,0.0
 Recruiter,Facebook,United Kingdom,EN,London,22/01/17,IC4,Operations,0.0,6.0,118.0,94.0,10.0,14.0,0.0

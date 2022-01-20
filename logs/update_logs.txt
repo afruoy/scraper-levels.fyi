@@ -1,4 +1,48 @@
 
+-----2022-01-21 00:42:31-----
+Software Engineer : 0 (new) + 58662 (previous) = 58662
+Software Engineering Manager : 0 (new) + 4844 (previous) = 4844
+Data Scientist : 0 (new) + 3895 (previous) = 3895
+Product Designer : 0 (new) + 2098 (previous) = 2098
+Product Manager : 0 (new) + 6413 (previous) = 6413
+Technical Program Manager : 0 (new) + 2094 (previous) = 2094
+Accountant : 0 (new) + 415 (previous) = 415
+Human Resources : 0 (new) + 505 (previous) = 505
+Marketing : 0 (new) + 1031 (previous) = 1031
+Marketing Operations : 0 (new) + 246 (previous) = 246
+Recruiter : 0 (new) + 716 (previous) = 716
+Sales : 0 (new) + 840 (previous) = 840
+Biomedical Engineer : 0 (new) + 59 (previous) = 59
+Civil Engineer : 0 (new) + 32 (previous) = 32
+Hardware Engineer : 0 (new) + 2995 (previous) = 2995
+Mechanical Engineer : 0 (new) + 793 (previous) = 793
+Solution Architect : 0 (new) + 1555 (previous) = 1555
+Business Analyst : 0 (new) + 1447 (previous) = 1447
+Investment Banker : 0 (new) + 234 (previous) = 234
+Management Consultant : 0 (new) + 1527 (previous) = 1527
+
+-----2022-01-21 00:41:43-----
+Software Engineer : 0 (new) + 58662 (previous) = 58662
+Software Engineering Manager : 0 (new) + 4844 (previous) = 4844
+Data Scientist : 0 (new) + 3895 (previous) = 3895
+Product Designer : 0 (new) + 2098 (previous) = 2098
+Product Manager : 0 (new) + 6413 (previous) = 6413
+Technical Program Manager : 0 (new) + 2094 (previous) = 2094
+Accountant : 0 (new) + 415 (previous) = 415
+Human Resources : 0 (new) + 505 (previous) = 505
+Marketing : 0 (new) + 1031 (previous) = 1031
+Marketing Operations : 0 (new) + 246 (previous) = 246
+Recruiter : 0 (new) + 716 (previous) = 716
+Sales : 0 (new) + 840 (previous) = 840
+Biomedical Engineer : 0 (new) + 59 (previous) = 59
+Civil Engineer : 0 (new) + 32 (previous) = 32
+Hardware Engineer : 0 (new) + 2995 (previous) = 2995
+Mechanical Engineer : 2 (new) + 791 (previous) = 793
+Solution Architect : 3 (new) + 1552 (previous) = 1555
+Business Analyst : 5 (new) + 1442 (previous) = 1447
+Investment Banker : 0 (new) + 234 (previous) = 234
+Management Consultant : 8 (new) + 1519 (previous) = 1527
+
 -----2022-01-19 14:55:08-----
 Software Engineer : 97 (new) + 58223 (previous) = 58320
 Software Engineering Manager : 1 (new) + 4815 (previous) = 4816

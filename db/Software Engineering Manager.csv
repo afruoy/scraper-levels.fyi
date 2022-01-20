@@ -1,4 +1,20 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,eBay,United States,CA,San Jose,22/01/20,L3,Web Development (Front-End),9.0,15.0,297.0,175.0,90.0,32.0,0.0
+Software Engineering Manager,Oracle,United States,CA,Redwood City,22/01/20,M5,Distributed Systems (Back-End),20.0,20.0,525.0,275.0,250.0,0.0,0.0
+Software Engineering Manager,Stripe,United States,CA,San Francisco,22/01/20,M1,Full Stack,0.0,16.0,668.0,250.0,368.0,50.0,0.0
+Software Engineering Manager,Optum,United States,TX,Austin,22/01/20,29,Full Stack,10.0,15.0,150.0,130.0,0.0,20.0,0.0
+Software Engineering Manager,Walmart Labs,United States,CA,Sunnyvale,22/01/20,Senior Software Engineer,API Development (Back-End),1.0,6.0,233.0,157.0,45.0,31.0,0.0
+Software Engineering Manager,PlayStation,United States,CA,San Francisco,22/01/20,M1,API Development (Back-End),8.0,10.0,305.0,182.0,0.0,123.0,0.0
+Software Engineering Manager,Arrival,United Kingdom,EN,London,22/01/20,Senior Software Engineer,Robotics,4.0,16.0,190.0,190.0,0.0,0.0,0.0
+Software Engineering Manager,Zalando,Germany,BE,Berlin,22/01/20,C7,Distributed Systems (Back-End),5.0,11.0,104.0,104.0,0.0,0.0,0.0
+Software Engineering Manager,Splunk,United States,WA,Seattle,22/01/20,M5,Distributed Systems (Back-End),2.0,20.0,425.0,240.0,125.0,60.0,0.0
+Software Engineering Manager,Apple,United States,CA,Cupertino,22/01/20,M2,Full Stack,3.0,16.0,504.0,254.0,200.0,50.0,0.0
+Software Engineering Manager,Google,United States,WA,Seattle,22/01/20,Manager (L6),Distributed Systems (Back-End),0.0,15.0,539.0,237.0,255.0,47.0,0.0
+Software Engineering Manager,Shopify,United States,NY,New York,22/01/20,L4,Distributed Systems (Back-End),2.0,9.0,287.0,170.0,100.0,17.0,0.0
+Software Engineering Manager,Oscar Health,United States,NY,New York,22/01/20,E3,Full Stack,1.0,20.0,460.0,220.0,200.0,40.0,0.0
+Software Engineering Manager,Stripe,United States,NJ,Trenton,22/01/20,M1,Full Stack,0.0,20.0,792.0,280.0,456.0,56.0,0.0
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/20,Vice President,API Development (Back-End),12.0,15.0,326.0,207.0,15.0,104.0,0.0
+Software Engineering Manager,Nvidia,United States,WA,Redmond,22/01/20,IC3,Kernel,0.0,4.0,268.0,175.0,63.0,30.0,0.0
 Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/20,L6,Distributed Systems (Back-End),5.0,9.0,440.0,240.0,35.0,165.0,0.0
 Software Engineering Manager,Expedia,United States,WA,Seattle,22/01/20,M,API Development (Back-End),10.0,12.0,243.0,201.0,42.0,0.0,0.0
 Software Engineering Manager,Amazon,Canada,BC,Vancouver,22/01/20,L6 SDM,Full Stack,0.0,11.0,291.0,200.0,56.0,35.0,0.0
