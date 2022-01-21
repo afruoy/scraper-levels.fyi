@@ -1,5 +1,7 @@
 import os
 import subprocess
+from fake_useragent import UserAgent
+from selenium import webdriver
 
 url_top = "https://www.levels.fyi/comp.html"
 
@@ -7,6 +9,30 @@ DF_COLUMNS = ["Job", "Company", "Country", "Region", "City",
               "Date", "Level", "Tag", "Years Comp",
               "Years Xp", "Compensation", "Base",
               "Stock", "Bonus", "Nego Gain"]
+
+# soup = BeautifulSoup(requests.get(url_top).content, 'html.parser')
+# category_jobs = [i.text for i in soup.find_all("option")]
+
+category_jobs = ['Software Engineer',
+                 'Software Engineering Manager',
+                 'Data Scientist',
+                 'Product Designer',
+                 'Product Manager',
+                 'Technical Program Manager',
+                 'Accountant',
+                 'Human Resources',
+                 'Marketing',
+                 'Marketing Operations',
+                 'Recruiter',
+                 'Sales',
+                 'Biomedical Engineer',
+                 'Civil Engineer',
+                 'Hardware Engineer',
+                 'Mechanical Engineer',
+                 'Solution Architect',
+                 'Business Analyst',
+                 'Investment Banker',
+                 'Management Consultant']
 
 FOLDER_PROJECT = os.path.join(os.path.expanduser('~') + '/scraper-levels.fyi/')
 FOLDER_DB = os.path.join(FOLDER_PROJECT, "db")
@@ -55,5 +81,13 @@ def lap_finished(r, prev_r, curr_r, tol=1):
 def send_mail_if_error(category, new_row):
 	recipient = 'yourfa@protonmail.com'
 	subject = f'Error for {category}'
-	subprocess.Popen(['mail', '-s', subject, recipient], stdin=subprocess.PIPE).communicate(str(new_row).encode('ascii'))
+	subprocess.Popen(['mail', '-s', subject, recipient], stdin=subprocess.PIPE).communicate(
+		str(new_row).encode('ascii'))
 	return
+
+
+def get_options():
+	options = webdriver.ChromeOptions()
+	options.add_argument('--headless')
+	options.add_argument(f'user-agent={UserAgent().google}')
+	return options

@@ -1,8 +1,6 @@
 from bs4 import BeautifulSoup
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 import pandas as pd
-import requests
 from time import sleep
 from utils import *
 import os
@@ -16,14 +14,12 @@ def scrape_category(category, driver, log_txt):
 	category_rows, new_row = [], []
 	print(f"RENTRE DANS {category}")
 	driver.get(url_top + "?track=" + category)
-	sleep(1000 / 1000)
+	sleep(3000 / 1000)
 	iter = 0
 
-	print(BeautifulSoup(driver.page_source, "html.parser").find_all("tr", attrs={"data-has-detail-view": "true"}))
 	while iter < 50:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
-		print(f"ICIII {iter}")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
 			for i, td in enumerate(tr.find_all("td")[1:]):
 				td = td.text.strip().replace("\n\n", " ").split("\n")
@@ -78,20 +74,19 @@ def scrape_category(category, driver, log_txt):
 	log_txt += f"{category} : ERROR\n"
 	return log_txt
 
+
 if __name__ == "__main__":
 
 	os.chdir(FOLDER_PROJECT)
 	log_txt = '\n-----' + str(datetime.now()).split('.')[0] + '-----\n'
 
-	options = webdriver.ChromeOptions()
-	options.add_argument('--headless')
-	driver = webdriver.Chrome(options=options)
+	# driver.execute_cdp_cmd("Network.enable", {})
+	# driver.execute_cdp_cmd("Network.setExtraHTTPHeaders", {"headers": {"User-Agent": f"{ua.google}"}})
 
-	soup = BeautifulSoup(requests.get(url_top).content, 'html.parser')
-	category_jobs = [i.text for i in soup.find_all("option")]
-	for category in category_jobs[::-1]:
-		sleep(2500/1000)
+	for category in category_jobs:
+		driver = webdriver.Chrome(options=get_options())
+		sleep(5500 / 1000)
 		log_txt = scrape_category(category, driver, log_txt)
+		driver.quit()
 
 	write_log_file(log_txt)
-	driver.quit()

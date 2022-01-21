@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,The D. E. Shaw Group,India,TS,Hyderabad,22/01/21,L4,Python Developer,3.0,3.0,54.0,43.0,0.0,11.0,0.0
+Mechanical Engineer,10x Genomics,United States,CA,Pleasanton,22/01/21,Senior,Manufacturing,1.0,6.0,228.0,145.0,64.0,19.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Irvine,22/01/21,Riv,Aerodynamics,3.0,3.0,124.0,124.0,0.0,0.0,0.0
 Mechanical Engineer,Johnson & Johnson,United States,CA,Santa Clara,22/01/20,26,Robotics,2.0,4.0,207.0,170.0,18.0,19.0,0.0
 Mechanical Engineer,Samsung,United States,TX,Austin,22/01/20,Senior,Semiconductor,1.0,8.0,160.0,135.0,0.0,25.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/19,L1,Project Mangement,2.0,2.0,110.0,110.0,0.0,0.0,0.0

@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Qualcomm,United States,CA,Santa Clara,22/01/21,Staff Engineer,SoC Design,1.0,7.0,220.0,165.0,35.0,20.0,0.0
+Hardware Engineer,Arm,United States,TX,Austin,22/01/21,Grade 7,Design,5.0,18.0,325.0,230.0,50.0,45.0,0.0
 Hardware Engineer,Google,United States,CA,Mountain View,22/01/20,L5,EMC,4.0,7.0,293.0,188.0,75.0,30.0,0.0
 Hardware Engineer,Northrop Grumman,United States,MD,Baltimore,22/01/20,T5,SoC Design,2.0,15.0,184.0,184.0,0.0,0.0,0.0
 Hardware Engineer,Arm,United States,TX,Austin,22/01/20,Grade 6,SoC Design,10.0,17.0,300.0,210.0,54.0,36.0,0.0

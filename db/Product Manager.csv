@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Rivian,United States,CA,Palo Alto,22/01/21,L4,Product,0.0,3.0,192.0,140.0,38.0,14.0,0.0
+Product Manager,Expedia,United States,WA,Seattle,22/01/21,K,Product,0.0,4.0,167.0,145.0,5.0,17.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/21,Senior Product Manager,Product,10.0,11.0,165.0,135.0,30.0,0.0,0.0
+Product Manager,Salesforce,United States,CA,San Francisco,22/01/21,Director,Growth,5.0,8.0,294.0,220.0,30.0,44.0,0.0
+Product Manager,Electronic Arts,United States,CA,Redwood City,22/01/21,22,Product,1.0,10.0,290.0,200.0,50.0,40.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/01/21,Principal Product Manager,Product,5.0,14.0,310.0,160.0,150.0,0.0,0.0
+Product Manager,Capital One,United States,VA,West McLean,22/01/21,Manager,ML / AI,3.0,8.0,223.0,165.0,32.0,26.0,0.0
+Product Manager,JPMorgan Chase,United States,NY,New York,22/01/21,L5,Product,6.0,11.0,240.0,165.0,9.0,67.0,0.0
+Product Manager,DocuSign,United States,CA,San Francisco,22/01/21,P1,Consumer,1.0,1.0,155.0,120.0,25.0,10.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/21,Senior Product Manager,Technical,6.0,10.0,230.0,139.0,91.0,0.0,0.0
 Product Manager,Amazon,United States,NY,New York,22/01/20,Director,Technical,4.0,15.0,535.0,185.0,350.0,0.0,0.0
 Product Manager,Qualcomm,United States,CA,San Diego,22/01/20,Director,Mobile (iOS + Android),8.0,14.0,434.0,226.0,140.0,68.0,0.0
