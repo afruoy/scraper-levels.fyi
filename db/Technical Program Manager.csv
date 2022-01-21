@@ -21,7 +21,7 @@ Technical Program Manager,Boeing,United States,CA,Los Angeles,22/01/19,L4,Hardwa
 Technical Program Manager,Nordstrom,United States,WA,Seattle,22/01/19,L19,Supply Chain,1.0,12.0,226.0,180.0,0.0,46.0,0.0
 Technical Program Manager,HCL Technologies,United States,WA,Seattle,22/01/19,4.1,Data Analytics,8.0,16.0,140.0,128.0,0.0,12.0,0.0
 Technical Program Manager,U.S. Bank,United States,MN,Minneapolis,22/01/19,G15,Digital Banking,1.0,8.0,171.0,135.0,0.0,36.0,0.0
-Technical Program Manager,Deloitte,United States,IL,Chicago,22/01/18,l5,general,5.0,18.0,190.0,180.0,0.0,10.0,0.0
+Technical Program Manager,Deloitte,United States,IL,Chicago,22/01/18,L5,general,5.0,18.0,190.0,180.0,0.0,10.0,0.0
 Technical Program Manager,MAQ Software,India,TS,Hyderabad,22/01/18,L4,Project Management,1.0,5.0,45.0,45.0,0.0,0.0,0.0
 Technical Program Manager,Amazon,United States,VA,Herndon,22/01/17,L6,Networking,5.0,22.0,268.0,163.0,105.0,0.0,0.0
 Technical Program Manager,PROS,United States,TX,Houston,22/01/16,4,"Saas software implementations, contracting",3.0,15.0,125.0,115.0,5.0,5.0,0.0
@@ -35,6 +35,7 @@ Technical Program Manager,Deloitte,United States,TX,Dallas,22/01/14,Staff 1,prod
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/13,63,Security Assurance,2.0,8.0,194.0,159.0,20.0,16.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/13,61,Security Risk Engineering,1.0,10.0,155.0,135.0,10.0,10.0,5.0
 Technical Program Manager,Envestnet,United States,NC,Raleigh,22/01/13,L5,Product Management,1.0,20.0,193.0,150.0,13.0,30.0,0.0
+Technical Program Manager,Vertex Pharmaceuticals,United States,MA,Boston,22/01/13,L8,Medical Devices,2.0,6.0,305.0,135.0,150.0,20.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/01/13,L7,Hardware,6.0,15.0,515.0,245.0,200.0,70.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/13,62,Hardware,2.0,5.0,177.0,146.0,14.0,17.0,0.0
 Technical Program Manager,Facebook,United Kingdom,EN,London,22/01/12,IC5,Business Development,4.0,9.0,179.0,140.0,25.0,14.0,0.0
@@ -71,7 +72,7 @@ Technical Program Manager,Google,India,KA,Bangalore,22/01/09,L5,Android,3.0,3.0,
 Technical Program Manager,Amazon,United States,TX,Austin,22/01/09,L5,security,0.0,12.0,193.0,155.0,20.0,18.0,0.0
 Technical Program Manager,SAP,India,KA,Bangalore,22/01/09,T4,DevOps,5.0,14.0,63.0,46.0,9.0,8.0,0.0
 Technical Program Manager,Capgemini,United States,TX,Dallas,22/01/09,E2,Program Management,0.0,22.0,235.0,190.0,10.0,35.0,0.0
-Technical Program Manager,Booz Allen Hamilton,United States,DC,Washington,22/01/08,l6,@BAH,1.0,4.0,170.0,155.0,0.0,15.0,0.0
+Technical Program Manager,Booz Allen Hamilton,United States,DC,Washington,22/01/08,L6,@BAH,1.0,4.0,170.0,155.0,0.0,15.0,0.0
 Technical Program Manager,Amazon,United States,CA,San Francisco,22/01/08,L7,Alexa AI,0.0,8.0,660.0,160.0,440.0,60.0,0.0
 Technical Program Manager,JP Morgan,United States,DC,Washington,22/01/08,604,General,5.0,15.0,465.0,255.0,50.0,160.0,0.0
 Technical Program Manager,Apple,United States,CA,Cupertino,22/01/08,ICT4,AI/ML,3.0,10.0,330.0,185.0,120.0,25.0,0.0
@@ -92,7 +93,6 @@ Technical Program Manager,Apple,United States,CA,Cupertino,22/01/04,M1,General,2
 Technical Program Manager,Goldman Sachs,United States,NY,New York,22/01/04,Vice President,Cybersecurity,6.0,8.0,220.0,155.0,0.0,65.0,0.0
 Technical Program Manager,TELUS,Canada,BC,Vancouver,22/01/04,Senior,Agile,3.0,8.0,101.0,83.0,10.0,8.0,0.0
 Technical Program Manager,Google,United States,CA,Los Angeles,22/01/04,L7,AI,5.0,15.0,390.0,160.0,200.0,30.0,0.0
-Technical Program Manager,Google,United States,CA,San Francisco,22/01/04,L5,General,2.0,8.0,499.0,173.0,300.0,26.0,0.0
 Technical Program Manager,Snap,United States,CA,Los Angeles,22/01/04,L4,general,2.0,13.0,396.0,190.0,19.0,187.0,0.0
 Technical Program Manager,General Motors,United States,TX,Austin,22/01/03,L7,Business Intelligence,5.0,10.0,123.0,108.0,0.0,15.0,0.0
 Technical Program Manager,JPMorgan Chase,United States,OH,Columbus,22/01/03,603,Project Execution,11.0,15.0,152.0,136.0,0.0,16.0,0.0
@@ -120,7 +120,7 @@ Technical Program Manager,Salesforce,United States,WA,Bellevue,21/12/30,L8,Secur
 Technical Program Manager,Amazon,United States,CA,South San Francisco,21/12/29,L6,Security,1.0,22.0,350.0,180.0,85.0,85.0,0.0
 Technical Program Manager,Apple,United States,CA,Cupertino,21/12/29,ICT3,SWE,2.0,10.0,185.0,154.0,26.0,5.0,0.0
 Technical Program Manager,LinkedIn,United States,CA,Sunnyvale,21/12/29,Staff Technical Program Manager,SRE,1.0,9.0,371.0,225.0,113.0,34.0,0.0
-Technical Program Manager,Walmart Labs,United States,WA,Seattle,21/12/29,L5,Tech Platforms,5.0,9.0,201.0,155.0,15.0,31.0,0.0
+Technical Program Manager,Walmart Global Tech,United States,WA,Seattle,21/12/29,L5,Tech Platforms,5.0,9.0,201.0,155.0,15.0,31.0,0.0
 Technical Program Manager,Salesforce,United States,GA,Atlanta,21/12/29,L7,"Salesforce, industries, sfdc",1.0,10.0,200.0,160.0,20.0,20.0,0.0
 Technical Program Manager,Cisco,United States,NC,Raleigh,21/12/28,Grade 6,General,1.0,1.0,91.0,84.0,0.0,7.0,0.0
 Technical Program Manager,Cruise,United States,CA,San Francisco,21/12/28,L5,Program Manager,0.0,9.0,360.0,200.0,100.0,60.0,0.0

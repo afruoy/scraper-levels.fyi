@@ -21,9 +21,9 @@ Sales,Procter & Gamble,Russia,MC,Moscow,22/01/13,B1,TAM,1.0,1.0,20.0,19.0,0.0,0.
 Sales,PepsiCo,United States,CO,Denver,22/01/13,L8,Energy,1.0,4.0,84.0,84.0,0.0,0.0,0.0
 Sales,Unacademy,India,KA,Bengaluru,22/01/13,L2,Sales,5.0,5.0,12.0,10.0,0.0,1.0,0.0
 Sales,Google,United States,NY,New York,22/01/13,L5,Programmatic,8.0,9.0,330.0,165.0,70.0,95.0,0.0
-Sales,Wipro Limited,United States,CA,Mountain View,22/01/12,D1,Hi-Tech,2.0,20.0,285.0,195.0,0.0,90.0,0.0
+Sales,Wipro,United States,CA,Mountain View,22/01/12,D1,Hi-Tech,2.0,20.0,285.0,195.0,0.0,90.0,0.0
 Sales,Google,Singapore,SG,Singapore,22/01/12,L6,Advertising Sales,8.0,8.0,356.0,190.0,82.0,84.0,0.0
-Sales,Wipro Limited,United States,CA,San Francisco,22/01/12,D,Hi-Tech,2.0,20.0,292.0,192.0,0.0,100.0,0.0
+Sales,Wipro,United States,CA,San Francisco,22/01/12,D,Hi-Tech,2.0,20.0,292.0,192.0,0.0,100.0,0.0
 Sales,Okta,United States,CO,Denver,22/01/12,L4,SaaS,2.0,15.0,265.0,225.0,40.0,0.0,0.0
 Sales,Condé Nast,United States,NY,New York,22/01/12,,General,1.0,8.0,140.0,125.0,0.0,15.0,0.0
 Sales,Elastic,United States,TX,Austin,22/01/11,L1,Inside Cloud Sales,0.0,3.0,158.0,75.0,8.0,75.0,0.0
@@ -31,7 +31,7 @@ Sales,Accenture,United States,NY,New York,22/01/11,L6,FS Sales,0.0,20.0,285.0,21
 Sales,VMware,United States,CA,San Francisco,22/01/11,L5,Enterprise,2.0,15.0,380.0,170.0,40.0,170.0,0.0
 Sales,Infosys,United Kingdom,EN,London,22/01/11,L5,Account Management,0.0,6.0,100.0,84.0,0.0,17.0,0.0
 Sales,Salesforce,United States,CA,San Francisco,22/01/11,L4,General,3.0,5.0,250.0,75.0,0.0,175.0,0.0
-Sales,CGI Group,Canada,ON,Toronto,22/01/11,Director,Sales,1.0,13.0,175.0,150.0,10.0,15.0,0.0
+Sales,CGI,Canada,ON,Toronto,22/01/11,Director,Sales,1.0,13.0,175.0,150.0,10.0,15.0,0.0
 Sales,Google,United States,WA,Seattle,22/01/10,L4,Retail,3.0,7.0,168.0,102.0,26.0,40.0,0.0
 Sales,Salesforce,United States,NY,New York,22/01/08,7,General,7.0,9.0,250.0,125.0,0.0,125.0,0.0
 Sales,Comcast,United States,CO,Denver,22/01/07,L6,General,10.0,20.0,235.0,165.0,40.0,30.0,0.0
@@ -53,7 +53,6 @@ Sales,TikTok,United States,CA,San Francisco,22/01/04,G5,General,0.0,7.0,220.0,12
 Sales,Degreed,United States,ID,Boise,22/01/04,L3,Salesforce,1.0,4.0,95.0,90.0,0.0,5.0,0.0
 Sales,Google,United States,NY,New York,22/01/04,L6,ads,8.0,14.0,351.0,205.0,44.0,103.0,0.0
 Sales,Amazon,United States,WA,Seattle,22/01/04,L5,General,4.0,8.0,224.0,88.0,136.0,0.0,0.0
-Sales,Target,United States,PA,State College,22/01/03,Bottom,Cashier,1.0,1.0,25.0,25.0,0.0,0.0,0.0
 Sales,Google,United States,CA,Mountain View,22/01/02,L6,Business Development,0.0,8.0,338.0,221.0,73.0,44.0,0.0
 Sales,Zillow,United States,NY,New York,22/01/01,P4,Flex,2.0,9.0,201.0,125.0,51.0,25.0,0.0
 Sales,Google,United States,CA,San Francisco,21/12/31,L5,Analytics,0.0,9.0,321.0,163.0,90.0,68.0,0.0

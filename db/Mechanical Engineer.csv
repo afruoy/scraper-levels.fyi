@@ -15,7 +15,7 @@ Mechanical Engineer,AWS,United States,VA,Herndon,22/01/16,L4,Hardware,2.0,5.0,14
 Mechanical Engineer,Lockheed Martin,United States,NJ,Moorestown,22/01/16,L2,System Safety,0.0,0.0,85.0,85.0,0.0,0.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Everett,22/01/16,K,New Programs,11.0,11.0,187.0,156.0,0.0,31.0,0.0
 Mechanical Engineer,General Motors,United States,MI,Detroit,22/01/15,L5,General,0.0,0.0,83.0,75.0,0.0,8.0,0.0
-Mechanical Engineer,Caterpillar,United States,IL,Peoria,22/01/15,23,Systems Engineering,15.0,15.0,157.0,125.0,0.0,32.0,0.0
+Mechanical Engineer,Cat Financial,United States,IL,Peoria,22/01/15,23,Systems Engineering,15.0,15.0,157.0,125.0,0.0,32.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Kennewick,22/01/15,L5,Data Center Support,3.0,10.0,175.0,126.0,49.0,0.0,0.0
 Mechanical Engineer,Jacobs,United States,TX,Houston,22/01/14,L1,General,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/14,ICT2,General,2.0,2.0,153.0,120.0,13.0,20.0,0.0
@@ -23,7 +23,7 @@ Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/13,4,Test,1.0,7.0,164.
 Mechanical Engineer,Boeing,United States,OK,Oklahoma City,22/01/13,L1,GTS&S,1.0,1.0,69.0,66.0,3.0,0.0,0.0
 Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/12,ICT3,Image & Sensing Technology,4.0,8.0,235.0,150.0,70.0,15.0,0.0
 Mechanical Engineer,Rivian,United States,CA,Irvine,22/01/12,2,General,0.0,1.0,140.0,105.0,30.0,5.0,0.0
-Mechanical Engineer,L3Harris Technologies,United States,TX,Dallas,22/01/12,L2,Design,0.0,2.0,85.0,80.0,5.0,0.0,0.0
+Mechanical Engineer,L3Harris,United States,TX,Dallas,22/01/12,L2,Design,0.0,2.0,85.0,80.0,5.0,0.0,0.0
 Mechanical Engineer,Blue Origin,United States,WA,Seattle,22/01/11,L1,New Graduate,0.0,2.0,97.0,97.0,0.0,0.0,0.0
 Mechanical Engineer,Baker Hughes,United States,NV,Minden,22/01/11,PB2,General,1.0,1.0,78.0,72.0,0.0,6.0,0.0
 Mechanical Engineer,Harry's,United States,NY,New York,22/01/11,L2,Hard products,1.0,5.0,130.0,120.0,5.0,5.0,0.0
@@ -36,17 +36,16 @@ Mechanical Engineer,Raytheon,United States,CT,Hartford,22/01/07,4,General,4.0,9.
 Mechanical Engineer,Eaton,India,MH,Pune,22/01/06,L6,FEA,3.0,3.0,15.0,15.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L1,General,0.0,2.0,119.0,119.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L2,Computation,0.0,2.0,125.0,125.0,0.0,0.0,0.0
-Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
+Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,N/A,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
 Mechanical Engineer,Raytheon,United States,CT,East Hartford,22/01/05,P1,General,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Mechanical Engineer,Amazon,United States,MA,North Reading,22/01/04,L4,Amazon Robotics,0.0,1.0,87.0,78.0,7.0,2.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/04,L4,Measurement,9.0,10.0,156.0,151.0,0.0,5.0,0.0
-Mechanical Engineer,Intuitive,United States,CA,Sunnyvale,22/01/04,L3,Manufacturing,2.0,7.0,213.0,123.0,75.0,15.0,0.0
 Mechanical Engineer,Raytheon,United States,MA,Marlborough,22/01/04,P2,Mechanical Engineering,2.0,4.0,94.0,89.0,0.0,5.0,0.0
 Mechanical Engineer,Medtronic,United States,CA,Irvine,22/01/03,L2,General,0.0,0.0,92.0,85.0,0.0,7.0,0.0
 Mechanical Engineer,NASA JPL,United States,CA,Pasadena,22/01/02,L3,Systems,5.0,5.0,138.0,137.0,0.0,1.0,0.0
 Mechanical Engineer,Northrop Grumman,United States,CA,Los Angeles,22/01/02,T3,Aerospace,2.0,2.0,120.0,120.0,0.0,0.0,0.0
-Mechanical Engineer,L3Harris Technologies,United States,TX,Dallas,22/01/01,L1,Product Design,2.0,2.0,79.0,75.0,4.0,0.0,0.0
-Mechanical Engineer,Maxar Technologies,United States,CA,Los Angeles,21/12/31,l3,General,5.0,13.0,180.0,163.0,0.0,17.0,0.0
+Mechanical Engineer,L3Harris,United States,TX,Dallas,22/01/01,L1,Product Design,2.0,2.0,79.0,75.0,4.0,0.0,0.0
+Mechanical Engineer,Maxar Technologies,United States,CA,Los Angeles,21/12/31,L3,General,5.0,13.0,180.0,163.0,0.0,17.0,0.0
 Mechanical Engineer,Northrop Grumman,United States,FL,Melbourne,21/12/31,T1,Aerodynamics,0.0,1.0,70.0,70.0,0.0,0.0,0.0
 Mechanical Engineer,NASA,United States,CA,Los Angeles,21/12/31,L2,General,0.0,2.0,120.0,120.0,0.0,0.0,0.0
 Mechanical Engineer,Boeing,United States,CA,El Segundo,21/12/31,L1,Product Design,0.0,0.0,96.0,88.0,0.0,8.0,0.0
@@ -73,6 +72,7 @@ Mechanical Engineer,Thermo Fisher Scientific,United States,TX,Austin,21/12/18,Ba
 Mechanical Engineer,Startup,United States,CA,San Jose,21/12/17,L3,General,1.0,3.0,150.0,150.0,0.0,0.0,0.0
 Mechanical Engineer,Intel,United States,NM,Rio Rancho,21/12/17,Grade 6,Fab,3.0,3.0,106.0,89.0,5.0,12.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Seattle,21/12/17,1,Design,1.0,2.0,84.0,82.0,0.0,2.0,0.0
+Mechanical Engineer,Aeva,United States,CA,Mountain View,21/12/17,L2,General,0.0,1.0,185.0,145.0,30.0,10.0,0.0
 Mechanical Engineer,Blue Origin,United States,FL,Cape Canaveral,21/12/16,L3,Sensors,0.0,10.0,145.0,145.0,0.0,0.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Kennewick,21/12/15,L6,Infrastructure,3.0,10.0,230.0,155.0,75.0,0.0,0.0
 Mechanical Engineer,Tesla,United States,CA,Palo Alto,21/12/15,Senior Engineer,Design,1.0,3.0,130.0,110.0,15.0,5.0,0.0

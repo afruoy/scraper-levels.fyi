@@ -15,7 +15,7 @@ Recruiter,Raytheon,United States,AZ,Tucson,22/01/14,8,Recruitement,4.0,10.0,92.0
 Recruiter,Coinbase,United States,NY,New York,22/01/14,IC4,Technical,1.0,5.0,156.0,120.0,30.0,6.0,0.0
 Recruiter,Amazon,United States,FL,Orlando,22/01/14,SDE II,Technical,1.0,5.0,97.0,97.0,0.0,0.0,0.0
 Recruiter,Facebook,United States,CA,Los Angeles,22/01/14,IC3,Technical,2.0,5.0,116.0,98.0,10.0,8.0,0.0
-Recruiter,Verkada,United States,CA,San Mateo,22/01/13,l5,Technical,1.0,8.0,180.0,165.0,15.0,0.0,0.0
+Recruiter,Verkada,United States,CA,San Mateo,22/01/13,L5,Technical,1.0,8.0,180.0,165.0,15.0,0.0,0.0
 Recruiter,Seismic,United States,CA,San Diego,22/01/13,P3,Operations,1.0,7.0,115.0,105.0,0.0,10.0,0.0
 Recruiter,Amazon,United Kingdom,EN,London,22/01/13,L6,Technical,2.0,15.0,232.0,150.0,82.0,0.0,0.0
 Recruiter,Amazon,United States,CA,San Diego,22/01/13,L6,Technical,5.0,8.0,201.0,125.0,76.0,0.0,0.0
@@ -38,7 +38,7 @@ Recruiter,DoorDash,United States,CA,San Francisco,22/01/06,P4,Technical,1.0,7.0,
 Recruiter,IBM,United States,TX,Austin,22/01/06,Band 7,Operations,2.0,4.0,89.0,89.0,0.0,0.0,0.0
 Recruiter,Amazon,United States,CA,San Francisco,22/01/06,L2,University,1.0,1.0,90.0,70.0,10.0,10.0,0.0
 Recruiter,AWS,United States,CO,Denver,22/01/06,L5,Sales Operations,3.0,7.0,153.0,112.0,41.0,0.0,0.0
-Recruiter,SquareSpace,United States,NY,New York,22/01/05,5,Technical,1.0,8.0,150.0,140.0,7.0,3.0,0.0
+Recruiter,Squarespace,United States,NY,New York,22/01/05,5,Technical,1.0,8.0,150.0,140.0,7.0,3.0,0.0
 Recruiter,Amazon,Canada,ON,Toronto,22/01/05,L7,Recruiter,0.0,9.0,250.0,200.0,50.0,0.0,0.0
 Recruiter,Thumbtack,United States,CA,San Francisco,22/01/05,L5,Technical,1.0,6.0,120.0,120.0,0.0,0.0,0.0
 Recruiter,Robinhood,United States,WA,Seattle,22/01/04,L2,Technical,0.0,4.0,137.0,113.0,13.0,11.0,0.0
@@ -57,7 +57,6 @@ Recruiter,Amazon,Canada,ON,Toronto,21/12/27,L4,Technical,0.0,8.0,94.0,70.0,9.0,1
 Recruiter,Stripe,Italy,AB,Pescara,21/12/26,L3,Technical,1.0,1.0,31.0,30.0,1.0,0.0,0.0
 Recruiter,Nvidia,United States,WA,Seattle,21/12/26,IC3,Technical,0.0,0.0,300.0,200.0,100.0,0.0,0.0
 Recruiter,Facebook,United States,LA,New Orleans,21/12/22,IC4,Technical,0.0,10.0,131.0,107.0,14.0,11.0,0.0
-Recruiter,Appian,United States,DC,Washington,21/12/21,L2,Technical,1.0,6.0,93.0,82.0,6.0,5.0,0.0
 Recruiter,Facebook,United States,TX,Austin,21/12/21,IC4,Technical,1.0,4.0,136.0,112.0,13.0,11.0,0.0
 Recruiter,Samsara,United States,CA,San Francisco,21/12/21,L2,Sales,0.0,2.0,103.0,80.0,15.0,8.0,0.0
 Recruiter,Facebook,United States,CA,Los Angeles,21/12/21,Entry Level,Technical,0.0,0.0,70.0,70.0,0.0,0.0,0.0

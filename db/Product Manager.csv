@@ -12,9 +12,10 @@ Product Manager,Amazon,United States,WA,Seattle,22/01/21,Senior Product Manager,
 Product Manager,Amazon,United States,NY,New York,22/01/20,Director,Technical,4.0,15.0,535.0,185.0,350.0,0.0,0.0
 Product Manager,Qualcomm,United States,CA,San Diego,22/01/20,Director,Mobile (iOS + Android),8.0,14.0,434.0,226.0,140.0,68.0,0.0
 Product Manager,Expedia,United States,WA,Seattle,22/01/20,M,Product,3.0,8.0,207.0,194.0,13.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/01/20,65,Distributed Systems (Back-End),2.0,17.0,378.0,206.0,100.0,72.0,0.0
 Product Manager,McKesson,United States,TX,Houston,22/01/20,P4,Product,5.0,8.0,150.0,130.0,0.0,20.0,0.0
 Product Manager,Cisco,United States,CA,San Jose,22/01/20,G12,Enterprise,10.0,25.0,239.0,176.0,20.0,44.0,0.0
-Product Manager,JP Morgan Chase,United States,NY,New York,22/01/20,602,Product,1.0,1.0,115.0,100.0,0.0,15.0,0.0
+Product Manager,JPMorgan Chase,United States,NY,New York,22/01/20,602,Product,1.0,1.0,115.0,100.0,0.0,15.0,0.0
 Product Manager,Convoy,United States,WA,Seattle,22/01/20,T5,Marketplace,5.0,6.0,257.0,157.0,100.0,0.0,0.0
 Product Manager,Walmart Global Tech,United States,NY,New York,22/01/20,x4,Product,3.0,8.0,219.0,170.0,15.0,34.0,0.0
 Product Manager,Capital One,United States,DC,Washington,22/01/20,L3,Enterprise,2.0,2.0,119.0,112.0,0.0,7.0,0.0
@@ -47,7 +48,7 @@ Product Manager,The Home Depot,United States,GA,Atlanta,22/01/19,L5,Product,4.0,
 Product Manager,IBM,Canada,ON,Toronto,22/01/19,Offering Manager,Product,2.0,8.0,140.0,125.0,5.0,10.0,0.0
 Product Manager,Accenture,Canada,ON,Toronto,22/01/19,L8,Product,0.0,8.0,132.0,108.0,8.0,16.0,0.0
 Product Manager,Google,United States,NY,New York,22/01/19,Product Manager 2,Product,3.0,3.0,373.0,200.0,128.0,45.0,0.0
-Product Manager,Walmart,United States,CA,Sunnyvale,22/01/19,l5,Consumer,1.0,20.0,290.0,180.0,80.0,30.0,0.0
+Product Manager,Walmart,United States,CA,Sunnyvale,22/01/19,L5,Consumer,1.0,20.0,290.0,180.0,80.0,30.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/01/19,Product Manager,Product,1.0,4.0,154.0,125.0,18.0,12.0,0.0
 Product Manager,Two Sigma,United States,NY,New York Mills,22/01/19,L2,Product,2.0,4.0,320.0,190.0,0.0,130.0,0.0
 Product Manager,Rivian,United States,CA,Irvine,22/01/19,6,Technical,6.0,8.0,355.0,205.0,150.0,0.0,0.0

@@ -12,7 +12,7 @@ Data Scientist,T-Mobile,United States,WA,Bellevue,22/01/21,L8,Forcasting,0.0,2.0
 Data Scientist,Rock Central,United States,MI,Detroit,22/01/21,Medium,Machine Learning,2.0,4.0,128.0,112.0,0.0,16.0,0.0
 Data Scientist,Indeed,United States,CA,San Francisco,22/01/20,L1,General,0.0,2.0,156.0,125.0,12.0,19.0,0.0
 Data Scientist,Afiniti,United States,DC,Washington,22/01/20,L4,AI,1.0,4.0,140.0,127.0,0.0,13.0,0.0
-Data Scientist,Dell Technologies,United States,TX,Austin,22/01/20,I6,General,1.0,3.0,105.0,100.0,0.0,5.0,0.0
+Data Scientist,Dell Technologies,United States,TX,Austin,22/01/20,L6,General,1.0,3.0,105.0,100.0,0.0,5.0,0.0
 Data Scientist,CVS Health,United States,NY,New York,22/01/20,Senior,General,2.0,2.0,147.0,130.0,0.0,17.0,0.0
 Data Scientist,Citi,United States,NY,New York,22/01/20,C13,General,0.0,7.0,190.0,160.0,0.0,30.0,0.0
 Data Scientist,Accenture,United States,VA,Alexandria,22/01/20,L9,Federal Services,0.0,1.0,123.0,115.0,0.0,8.0,0.0
@@ -84,14 +84,13 @@ Data Scientist,Amazon,United States,WA,Seattle,22/01/12,L5,NLP,5.0,5.0,210.0,144
 Data Scientist,T-Mobile,United States,WA,Bellevue,22/01/12,L8,General,0.0,2.0,138.0,117.0,3.0,18.0,0.0
 Data Scientist,Geotab,Canada,ON,Toronto,22/01/12,New Grad,Data Analyst,1.0,1.0,80.0,80.0,0.0,0.0,0.0
 Data Scientist,IBM,United States,NY,New York,22/01/12,7,General,2.0,2.0,153.0,153.0,0.0,0.0,0.0
-Data Scientist,Chewy,United States,MA,Boston,22/01/12,250000,e-commerce,1.0,7.0,375.0,250.0,100.0,25.0,0.0
 Data Scientist,JPMorgan Chase,United States,NJ,Jersey City,22/01/12,602,AI,0.0,8.0,180.0,155.0,0.0,25.0,0.0
 Data Scientist,Infosys,India,KA,Bangalore,22/01/12,L6,AI/ML,10.0,22.0,50.0,40.0,0.0,10.0,0.0
 Data Scientist,Intuit,United States,CA,Mountain View,22/01/12,M2,Analytics,0.0,10.0,339.0,225.0,69.0,45.0,0.0
 Data Scientist,Capital One,United States,VA,Vienna,22/01/12,L4,modeling,3.0,4.0,138.0,130.0,0.0,8.0,0.0
 Data Scientist,Capital One,United States,VA,West McLean,22/01/12,55,Credit Risk,4.0,10.0,228.0,206.0,0.0,22.0,0.0
 Data Scientist,Liberty Mutual,United States,WA,Seattle,22/01/12,19,ML / AI,8.0,9.0,220.0,184.0,0.0,36.0,0.0
-Data Scientist,Ibotta,United States,CO,Denver,22/01/12,l3,Product,1.0,1.0,85.0,75.0,5.0,5.0,0.0
+Data Scientist,Ibotta,United States,CO,Denver,22/01/12,L3,Product,1.0,1.0,85.0,75.0,5.0,5.0,0.0
 Data Scientist,RBC,Canada,ON,Toronto,22/01/12,PL08,Fraud,3.0,4.0,68.0,57.0,2.0,9.0,0.0
 Data Scientist,Medtronic,United States,CA,Los Angeles,22/01/12,L3,data science,0.0,3.0,154.0,140.0,0.0,14.0,0.0
 Data Scientist,PwC,United States,WA,Seattle,22/01/12,L3,Product,2.0,5.0,214.0,191.0,0.0,23.0,0.0
@@ -158,7 +157,7 @@ Data Scientist,Gopuff,United States,PA,Philadelphia,22/01/06,Data Scientist,Gene
 Data Scientist,Booz Allen Hamilton,United States,VA,Arlington,22/01/06,Associate,General,4.0,4.0,116.0,116.0,0.0,0.0,0.0
 Data Scientist,Guidehouse,United States,DC,Washington,22/01/06,Senior Consultant,Data Analytics,1.0,8.0,126.0,122.0,0.0,4.0,0.0
 Data Scientist,Balyasny Asset Management L.P.,United States,CA,San Francisco,22/01/06,Entry,Data Scientist within portfolio management team,1.0,1.0,150.0,125.0,0.0,25.0,0.0
-Data Scientist,Walmart Labs,United States,CA,Sunnyvale,22/01/06,L3,General,0.0,2.0,200.0,150.0,25.0,25.0,0.0
+Data Scientist,Walmart Global Tech,United States,CA,Sunnyvale,22/01/06,L3,General,0.0,2.0,200.0,150.0,25.0,25.0,0.0
 Data Scientist,Wayfair,United States,MA,Boston,22/01/05,L2,Data,1.0,2.0,150.0,140.0,0.0,10.0,0.0
 Data Scientist,Capgemini,United Kingdom,EN,London,22/01/05,C3,Data Science,2.0,5.0,81.0,81.0,0.0,0.0,0.0
 Data Scientist,MITRE,United States,DC,Washington,22/01/05,L4,Web Development (Front-End),8.0,15.0,170.0,170.0,0.0,0.0,0.0
@@ -174,7 +173,7 @@ Data Scientist,Verisk,United States,CA,San Francisco,22/01/04,L3,Data Science,0.
 Data Scientist,Klarna,Germany,BE,Berlin,22/01/04,L2,ML,2.0,3.0,68.0,65.0,3.0,0.0,0.0
 Data Scientist,Stripe,United States,WA,Seattle,22/01/03,L2,General,0.0,5.0,215.0,157.0,43.0,15.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/03,L6,Machine Learning,9.0,9.0,468.0,145.0,323.0,0.0,0.0
-Data Scientist,Walmart Labs,United States,CA,Sunnyvale,22/01/03,E5,General,3.0,3.0,300.0,180.0,80.0,40.0,0.0
+Data Scientist,Walmart Global Tech,United States,CA,Sunnyvale,22/01/03,E5,General,3.0,3.0,300.0,180.0,80.0,40.0,0.0
 Data Scientist,Shopify,Canada,BC,Vancouver,22/01/03,L5,Decision science/analytics,1.0,3.0,116.0,91.0,25.0,0.0,0.0
 Data Scientist,Intuit,United States,CA,Mountain View,22/01/03,M3,ML/Deep learning,2.0,10.0,325.0,200.0,75.0,50.0,0.0
 Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/03,Executive Director,Machine Learning,8.0,15.0,250.0,200.0,5.0,45.0,0.0
@@ -182,7 +181,7 @@ Data Scientist,General Dynamics Information Technology,United States,IA,West Des
 Data Scientist,Target,India,KA,Bengaluru,22/01/03,L5,Pricing and Promotions,0.0,2.0,40.0,36.0,0.0,4.0,0.0
 Data Scientist,Twitch,United States,CA,San Francisco,22/01/03,L6,Operations,3.0,7.0,310.0,165.0,135.0,10.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/03,L5,General,2.0,5.0,187.0,130.0,42.0,15.0,0.0
-Data Scientist,PwC,United States,TX,Dallas,22/01/02,Senior Associate,data scientist,3.0,4.0,128.0,120.0,0.0,8.0,0.0
+Data Scientist,PwC,United States,TX,Dallas,22/01/03,Senior Associate,data scientist,3.0,4.0,128.0,120.0,0.0,8.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/01/02,L5,Forecasting,0.0,4.0,233.0,152.0,50.0,32.0,0.0
 Data Scientist,Facebook,United States,CA,Menlo Park,22/01/02,IC3,General,0.0,0.0,150.0,118.0,20.0,12.0,0.0
 Data Scientist,Morningstar,United States,IL,Chicago,22/01/02,Na,Research,0.0,3.0,130.0,115.0,0.0,15.0,0.0
@@ -194,7 +193,7 @@ Data Scientist,Facebook,Canada,ON,Toronto,22/01/01,IC5,General,1.0,5.0,180.0,120
 Data Scientist,Deloitte,United States,FL,Tampa,22/01/01,Consultant,Cloud Engineer,0.0,7.0,140.0,125.0,0.0,15.0,0.0
 Data Scientist,Goldman Sachs,United States,NY,New York,21/12/31,Vice President,risk models,4.0,4.0,220.0,170.0,0.0,50.0,0.0
 Data Scientist,Citadel,United States,NY,New York,21/12/31,,General,0.0,5.0,280.0,180.0,0.0,100.0,0.0
-Data Scientist,Microsoft,United States,WA,Redmond,21/12/31,L62,Machine learning,4.0,6.0,140.0,126.0,10.0,4.0,0.0
+Data Scientist,Microsoft,United States,WA,Redmond,21/12/31,62,Machine learning,4.0,6.0,140.0,126.0,10.0,4.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,21/12/31,L5,scientist,2.0,2.0,267.0,160.0,107.0,0.0,0.0
 Data Scientist,Indeed,United States,NY,New York,21/12/31,L1,General,0.0,0.0,163.0,130.0,13.0,20.0,0.0
 Data Scientist,Spotify,United States,NY,New York,21/12/31,DS,General,0.0,1.0,190.0,150.0,40.0,0.0,0.0

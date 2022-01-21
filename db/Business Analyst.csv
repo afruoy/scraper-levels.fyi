@@ -28,7 +28,7 @@ Business Analyst,Walmart,United States,AR,Bentonville,22/01/15,84,Business Analy
 Business Analyst,Scotiabank,Canada,ON,Toronto,22/01/14,L7,Risk Unsecured Lending,8.0,12.0,77.0,70.0,0.0,7.0,0.0
 Business Analyst,SoftServe,Ukraine,KC,Kiev,22/01/14,L3,General BA,0.0,6.0,30.0,30.0,0.0,0.0,0.0
 Business Analyst,Mindtree,United Kingdom,EN,London,22/01/14,C4,Business Analyst,0.0,6.0,103.0,103.0,0.0,0.0,0.0
-Business Analyst,Walmart Labs,United States,VA,Reston,22/01/14,L1,Analytics,1.0,1.0,100.0,75.0,25.0,0.0,0.0
+Business Analyst,Walmart Global Tech,United States,VA,Reston,22/01/14,L1,Analytics,1.0,1.0,100.0,75.0,25.0,0.0,0.0
 Business Analyst,Itron,United States,CA,San Diego,22/01/14,2,Business Intelligence,3.0,3.0,93.0,93.0,0.0,0.0,0.0
 Business Analyst,UserTesting,United States,CA,San Francisco,22/01/14,L1,General,0.0,3.0,170.0,120.0,50.0,0.0,0.0
 Business Analyst,JPMorgan Chase,United States,OH,Columbus,22/01/14,Sr Associate,Finance,7.0,7.0,104.0,99.0,0.0,5.0,0.0
@@ -44,6 +44,7 @@ Business Analyst,Centene,United States,MO,St. Louis,22/01/12,L,General,2.0,2.0,7
 Business Analyst,Shell,India,KA,Bangalore,22/01/12,JG4,IT Engineering,4.0,9.0,41.0,36.0,0.0,5.0,0.0
 Business Analyst,Southwest Airlines,United States,TX,Dallas,22/01/12,Senior,Customer Support,12.0,12.0,93.0,92.0,0.0,1.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/01/11,L5,General,0.0,2.0,130.0,100.0,15.0,15.0,0.0
+Business Analyst,Amazon,United States,TN,Nashville,22/01/11,L4,Production,5.0,5.0,89.0,54.0,28.0,7.0,0.0
 Business Analyst,Wayfair,United States,MA,Boston,22/01/11,L2,Pricing,3.0,5.0,102.0,85.0,8.0,9.0,0.0
 Business Analyst,Amazon,United Kingdom,EN,London,22/01/11,L6,Sql,0.0,15.0,235.0,160.0,25.0,50.0,0.0
 Business Analyst,Capital One,United States,VA,West McLean,22/01/11,ADP,Analysis,0.0,0.0,95.0,91.0,0.0,3.0,0.0
@@ -53,7 +54,7 @@ Business Analyst,GoDaddy,United States,CA,San Francisco,22/01/10,L2,Product,0.0,
 Business Analyst,PayPal,India,KA,Bangalore,22/01/09,T23,FPA,1.0,1.0,34.0,25.0,6.0,3.0,0.0
 Business Analyst,Capital One,United States,VA,Mc Lean,22/01/08,Senior associate,General,3.0,7.0,120.0,109.0,0.0,11.0,0.0
 Business Analyst,Kantar,India,KA,Bangalore,22/01/08,L1,General,1.0,1.0,7.0,6.0,0.0,0.0,0.0
-Business Analyst,Comerica Bank,United States,CA,Santa Clara,22/01/08,1,Technology and life science,1.0,1.0,70.0,70.0,0.0,0.0,0.0
+Business Analyst,Comerica,United States,CA,Santa Clara,22/01/08,1,Technology and life science,1.0,1.0,70.0,70.0,0.0,0.0,0.0
 Business Analyst,Morgan Stanley,United States,NY,New York,22/01/07,AVP,Reinvestment,2.0,6.0,145.0,120.0,0.0,25.0,0.0
 Business Analyst,Pluralsight,United States,UT,Salt Lake City,22/01/07,P3,Customer Success,2.0,4.0,86.0,80.0,0.0,6.0,0.0
 Business Analyst,Intuit,United States,GA,Atlanta,22/01/07,L4,Strategy,2.0,5.0,221.0,115.0,77.0,29.0,0.0
@@ -62,7 +63,7 @@ Business Analyst,Bloomberg,United States,NY,New York,22/01/07,L1,Product,2.0,2.0
 Business Analyst,Johnson & Johnson,United States,NJ,Skillman,22/01/07,24,Product Owner,2.0,2.0,89.0,83.0,0.0,6.0,0.0
 Business Analyst,Micron Technology,United States,ID,Boise,22/01/07,4,Risk,1.0,4.0,185.0,105.0,50.0,30.0,0.0
 Business Analyst,Red Hat,India,MH,Pune,22/01/06,L2,Anaplan,3.0,3.0,20.0,18.0,0.0,2.0,0.0
-Business Analyst,Vodafone Group,India,MH,Pune,22/01/06,L5,Business Resource Manager,2.0,10.0,24.0,22.0,0.0,3.0,0.0
+Business Analyst,Vodafone,India,MH,Pune,22/01/06,L5,Business Resource Manager,2.0,10.0,24.0,22.0,0.0,3.0,0.0
 Business Analyst,American Airlines,United States,TX,Fort Worth,22/01/06,L3,General,7.0,7.0,80.0,80.0,0.0,0.0,0.0
 Business Analyst,Walmart,United States,CA,Sunnyvale,22/01/05,L6,General,0.0,7.0,263.0,190.0,25.0,48.0,0.0
 Business Analyst,Wayfair,United States,MA,Boston,22/01/05,L2,Operations,1.0,2.0,92.0,84.0,0.0,8.0,0.0

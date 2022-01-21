@@ -12,12 +12,12 @@ def scrape_category(category, driver, log_txt):
 	path_file_category = os.path.join(FOLDER_DB, category + ".csv")
 	prev_category_rows = pd.read_csv(path_file_category).values.tolist() if os.path.exists(path_file_category) else []
 	category_rows, new_row = [], []
-	print(f"RENTRE DANS {category}")
-	driver.get(url_top + "?track=" + category)
-	sleep(3000 / 1000)
-	iter = 0
 
-	while iter < 50:
+	driver.get(url_top + "?track=" + category)
+	sleep(2500 / 1000)
+
+	iter = 0
+	while iter <= 25:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
@@ -57,7 +57,7 @@ def scrape_category(category, driver, log_txt):
 
 			new_row = [category, comp_name, comp_country, comp_region, comp_city, date, level, tag, yrs_comp,
 			           yrs_xp, tot_salary, base_salary, stock_salary, bonus_salary, nego_up]
-			print(new_row, prev_category_rows[0])
+
 			bool_finished, final_rows = lap_finished(new_row, prev_category_rows, category_rows, tol=2)
 			if bool_finished:
 				log_txt += f"{category} : {len(category_rows)} (new) + {len(prev_category_rows)} (previous) = {len(final_rows)}\n"
@@ -69,7 +69,7 @@ def scrape_category(category, driver, log_txt):
 
 		element = driver.find_element(By.CSS_SELECTOR, 'li.page-item:last-child')
 		driver.execute_script("arguments[0].click();", element)
-		sleep(1500 / 1000)
+		sleep(3800 / 1000)
 	send_mail_if_error(category, new_row)
 	log_txt += f"{category} : ERROR\n"
 	return log_txt
@@ -80,12 +80,9 @@ if __name__ == "__main__":
 	os.chdir(FOLDER_PROJECT)
 	log_txt = '\n-----' + str(datetime.now()).split('.')[0] + '-----\n'
 
-	# driver.execute_cdp_cmd("Network.enable", {})
-	# driver.execute_cdp_cmd("Network.setExtraHTTPHeaders", {"headers": {"User-Agent": f"{ua.google}"}})
-
 	for category in category_jobs:
 		driver = webdriver.Chrome(options=get_options())
-		sleep(5500 / 1000)
+		sleep(4000 / 1000)
 		log_txt = scrape_category(category, driver, log_txt)
 		driver.quit()
 
