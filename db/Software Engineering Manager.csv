@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Hired,United States,NY,New York,22/01/21,Senior,Full Stack,7.0,9.0,300.0,185.0,0.0,115.0,0.0
+Software Engineering Manager,SEEK,Australia,VI,Melbourne,22/01/21,P5,Web Development (Front-End),4.0,15.0,125.0,125.0,0.0,0.0,0.0
+Software Engineering Manager,Dell,United States,TX,Round Rock,22/01/21,1,Web Development (Front-End),0.0,21.0,170.0,170.0,0.0,0.0,0.0
+Software Engineering Manager,Twilio,United States,GA,Atlanta,22/01/21,M3,Web Development (Front-End),0.0,8.0,300.0,200.0,100.0,0.0,0.0
+Software Engineering Manager,Compass,United States,WA,Seattle,22/01/21,M5,Full Stack,0.0,15.0,588.0,293.0,210.0,85.0,0.0
+Software Engineering Manager,Balyasny Asset Management L.P.,United States,IL,Chicago,22/01/21,L6,API Development (Back-End),5.0,9.0,490.0,200.0,0.0,290.0,0.0
+Software Engineering Manager,KLA,United States,MI,Ann Arbor,22/01/21,Not sure,Full Stack,0.0,10.0,185.0,150.0,20.0,15.0,0.0
+Software Engineering Manager,Google,United States,CA,Mountain View,22/01/21,Manager (L6),Mobile (iOS + Android),13.0,25.0,452.0,229.0,153.0,70.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/21,L6 SDM,Embedded,10.0,20.0,274.0,160.0,114.0,0.0,0.0
+Software Engineering Manager,Elastic,United Kingdom,EN,London,22/01/21,L7,Full Stack,2.0,20.0,267.0,174.0,93.0,0.0,0.0
+Software Engineering Manager,Google,United States,WA,Seattle,22/01/21,Manager (L6),Networking,2.0,15.0,560.0,260.0,200.0,100.0,0.0
 Software Engineering Manager,eBay,United States,CA,San Jose,22/01/20,L3,Web Development (Front-End),9.0,15.0,297.0,175.0,90.0,32.0,0.0
 Software Engineering Manager,Oracle,United States,CA,Redwood City,22/01/20,M5,Distributed Systems (Back-End),20.0,20.0,525.0,275.0,250.0,0.0,0.0
 Software Engineering Manager,Stripe,United States,CA,San Francisco,22/01/20,M1,Full Stack,0.0,16.0,668.0,250.0,368.0,50.0,0.0

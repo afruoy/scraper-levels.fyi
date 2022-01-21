@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Google,United Kingdom,EN,London,22/01/21,L4,General,4.0,7.0,162.0,111.0,34.0,17.0,0.0
+Data Scientist,Grab,Singapore,SG,Singapore,22/01/21,L3,Data Scientist,2.0,4.0,100.0,70.0,15.0,15.0,0.0
+Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/21,603,machine learning,2.0,7.0,230.0,180.0,5.0,45.0,0.0
+Data Scientist,InMobi,India,KA,Bangalore,22/01/21,L3,ML/AI,4.0,4.0,75.0,72.0,3.0,0.0,0.0
+Data Scientist,Capital One,United States,NY,New York,22/01/21,L4,Fraud,3.0,5.0,150.0,130.0,0.0,20.0,0.0
+Data Scientist,MITRE,United States,VA,West McLean,22/01/21,3,General,3.0,3.0,122.0,122.0,0.0,0.0,0.0
+Data Scientist,Nielsen,United States,FL,Oldsmar,22/01/21,Senior,ML | DS,2.0,4.0,95.0,95.0,0.0,0.0,0.0
+Data Scientist,Eli Lilly and Company,United States,IN,Indianapolis,22/01/21,R2,machine learning,4.0,4.0,177.0,145.0,10.0,22.0,0.0
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/21,IC3,General,0.0,0.0,144.0,144.0,0.0,0.0,0.0
+Data Scientist,T-Mobile,United States,WA,Bellevue,22/01/21,L8,Forcasting,0.0,2.0,162.0,118.0,20.0,24.0,0.0
+Data Scientist,Rock Central,United States,MI,Detroit,22/01/21,Medium,Machine Learning,2.0,4.0,128.0,112.0,0.0,16.0,0.0
 Data Scientist,Indeed,United States,CA,San Francisco,22/01/20,L1,General,0.0,2.0,156.0,125.0,12.0,19.0,0.0
 Data Scientist,Afiniti,United States,DC,Washington,22/01/20,L4,AI,1.0,4.0,140.0,127.0,0.0,13.0,0.0
 Data Scientist,Dell Technologies,United States,TX,Austin,22/01/20,I6,General,1.0,3.0,105.0,100.0,0.0,5.0,0.0

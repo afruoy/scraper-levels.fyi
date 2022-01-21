@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Google,United States,CA,Sunnyvale,22/01/21,L5,Data Management,2.0,10.0,318.0,181.0,107.0,30.0,0.0
+Business Analyst,NTT DATA,India,UP,Noida,22/01/21,8,Business Analysis,0.0,5.0,21.0,19.0,0.0,1.0,0.0
+Business Analyst,Google,United States,CA,Mountain View,22/01/21,L4,General,0.0,4.0,187.0,138.0,28.0,21.0,0.0
+Business Analyst,Uber,United States,CA,San Francisco,22/01/21,3,General,0.0,1.0,110.0,93.0,7.0,10.0,0.0
 Business Analyst,JPMorgan Chase,United States,OH,Columbus,22/01/20,Vice President,Business,7.0,10.0,175.0,160.0,0.0,15.0,0.0
 Business Analyst,McKinsey,India,DL,New Delhi,22/01/20,L1,General,1.0,1.0,32.0,25.0,0.0,7.0,0.0
 Business Analyst,T-Mobile,United States,TX,Dallas,22/01/20,L09,Finance,2.0,2.0,74.0,65.0,3.0,7.0,0.0
