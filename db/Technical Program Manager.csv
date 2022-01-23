@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/22,63,General,1.0,11.0,182.0,137.0,25.0,20.0,0.0
+Technical Program Manager,Google,United States,CA,Sunnyvale,22/01/22,L3,General,0.0,1.0,185.0,133.0,32.0,20.0,0.0
+Technical Program Manager,Audible,United States,NJ,Newark,22/01/22,L6,General,0.0,15.0,260.0,160.0,60.0,40.0,0.0
+Technical Program Manager,Google,India,KA,Bangalore,22/01/22,L5,Research,5.0,5.0,99.0,49.0,40.0,10.0,0.0
+Technical Program Manager,Google,United States,WA,Kirkland,22/01/22,L6,Cloud,5.0,25.0,399.0,183.0,166.0,50.0,0.0
+Technical Program Manager,Trimble,United States,CA,Santa Clara,22/01/22,L3,GPS Systems,1.0,4.0,140.0,135.0,0.0,5.0,0.0
+Technical Program Manager,Amazon,United States,FL,Tampa,22/01/21,L5,aws,1.0,10.0,190.0,145.0,20.0,25.0,0.0
+Technical Program Manager,C3.ai,United States,IL,Chicago,22/01/21,L1,AI/ML,1.0,5.0,167.0,135.0,12.0,20.0,0.0
+Technical Program Manager,Facebook,United States,WA,Seattle,22/01/21,IC4,Design Validation,0.0,2.0,150.0,150.0,0.0,0.0,0.0
+Technical Program Manager,Uber,United States,NY,New York,22/01/21,4,Pricing,3.0,6.0,168.0,128.0,25.0,15.0,0.0
 Technical Program Manager,Amazon,Australia,NS,Sydney,22/01/21,L5,General,4.0,4.0,98.0,76.0,22.0,0.0,0.0
 Technical Program Manager,Slalom,United States,WA,Seattle,22/01/21,Principal,Product,5.0,15.0,190.0,190.0,0.0,0.0,0.0
 Technical Program Manager,Slalom,United States,DC,Washington,22/01/21,Solution Architect,Salesforce,3.0,10.0,152.0,145.0,0.0,7.0,0.0

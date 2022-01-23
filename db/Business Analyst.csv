@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Slalom Build,United States,TX,Houston,22/01/23,Analyst,agile,2.0,2.0,85.0,82.0,0.0,3.0,0.0
+Business Analyst,Amazon,United States,VA,Arlington,22/01/23,L5,General,1.0,5.0,151.0,120.0,3.0,28.0,0.0
+Business Analyst,Align Technology,United States,NC,Morrisville,22/01/22,L6,General,1.0,1.0,101.0,92.0,0.0,9.0,0.0
+Business Analyst,Avanade,United States,TX,Houston,22/01/22,Consultant,General,3.0,3.0,90.0,87.0,0.0,3.0,0.0
+Business Analyst,Amazon,Luxembourg,LU,Luxembourg,22/01/22,L5,General,5.0,13.0,145.0,132.0,10.0,3.0,0.0
+Business Analyst,Stanford Health Care,United States,CA,Palo Alto,22/01/22,2,Finance,2.0,6.0,115.0,115.0,0.0,0.0,0.0
+Business Analyst,Amazon,United States,WA,Seattle,22/01/22,L5,Analytics,2.0,8.0,131.0,100.0,18.0,13.0,0.0
+Business Analyst,Capital One,United States,NY,New York,22/01/21,Manager,General,4.0,4.0,164.0,153.0,0.0,11.0,0.0
+Business Analyst,Lowe's,United States,NC,Charlotte,22/01/21,Mid level,Internal Affairs,2.0,3.0,85.0,72.0,0.0,13.0,0.0
+Business Analyst,SquareSpace,United States,NY,New York,22/01/21,L3,General,1.0,2.0,130.0,120.0,10.0,0.0,0.0
+Business Analyst,Oracle,United States,OH,Akron,22/01/21,IC,Delivery Manager,7.0,7.0,65.0,65.0,0.0,0.0,0.0
+Business Analyst,Walmart,India,KA,Bangalore,22/01/21,L3,Product,1.0,6.0,47.0,35.0,5.0,7.0,0.0
 Business Analyst,GoDaddy,United States,MA,Boston,22/01/21,L3,Business Intelligence,0.0,4.0,153.0,125.0,12.0,16.0,0.0
 Business Analyst,Google,United States,CA,Sunnyvale,22/01/21,L5,Data Management,2.0,10.0,318.0,181.0,107.0,30.0,0.0
 Business Analyst,NTT DATA,India,UP,Noida,22/01/21,8,Business Analysis,0.0,5.0,21.0,19.0,0.0,1.0,0.0

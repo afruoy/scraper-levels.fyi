@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Lockheed Martin,United States,CA,Sunnyvale,22/01/23,E3G,Hardware,5.0,5.0,145.0,142.0,0.0,3.0,0.0
+Mechanical Engineer,Google,United States,CA,Mountain View,22/01/22,L5,Mechanical,2.0,7.0,310.0,200.0,80.0,30.0,0.0
+Mechanical Engineer,Shell,United States,LA,New Orleans,22/01/22,Staff,General,10.0,10.0,198.0,171.0,2.0,25.0,0.0
+Mechanical Engineer,Rivian,United States,CA,Irvine,22/01/22,Riv7,Mechanical,1.0,14.0,235.0,185.0,50.0,0.0,0.0
+Mechanical Engineer,ExxonMobil,United States,TX,Midland,22/01/22,27,"Software engineering, Research, Optimization",13.0,15.0,253.0,253.0,0.0,0.0,0.0
+Mechanical Engineer,Apple,United States,CA,Cupertino,22/01/22,ICT4,General,4.0,10.0,430.0,161.0,248.0,21.0,0.0
 Mechanical Engineer,The D. E. Shaw Group,India,TS,Hyderabad,22/01/21,L4,Python Developer,3.0,3.0,54.0,43.0,0.0,11.0,0.0
 Mechanical Engineer,10x Genomics,United States,CA,Pleasanton,22/01/21,Senior,Manufacturing,1.0,6.0,228.0,145.0,64.0,19.0,0.0
 Mechanical Engineer,Rivian,United States,CA,Irvine,22/01/21,Riv,Aerodynamics,3.0,3.0,124.0,124.0,0.0,0.0,0.0
@@ -36,7 +42,7 @@ Mechanical Engineer,Raytheon,United States,CT,Hartford,22/01/07,4,General,4.0,9.
 Mechanical Engineer,Eaton,India,MH,Pune,22/01/06,L6,FEA,3.0,3.0,15.0,15.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L1,General,0.0,2.0,119.0,119.0,0.0,0.0,0.0
 Mechanical Engineer,Lawrence Livermore National Laboratory,United States,CA,Livermore,22/01/06,L2,Computation,0.0,2.0,125.0,125.0,0.0,0.0,0.0
-Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,N/A,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
+Mechanical Engineer,Ubiquiti,Taiwan,TP,Taipei,22/01/05,,Mechanical,1.0,4.0,66.0,60.0,0.0,6.0,0.0
 Mechanical Engineer,Raytheon,United States,CT,East Hartford,22/01/05,P1,General,1.0,1.0,69.0,69.0,0.0,0.0,0.0
 Mechanical Engineer,Amazon,United States,MA,North Reading,22/01/04,L4,Amazon Robotics,0.0,1.0,87.0,78.0,7.0,2.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Seattle,22/01/04,L4,Measurement,9.0,10.0,156.0,151.0,0.0,5.0,0.0

@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Human Resources,Amazon,United States,CA,San Francisco,22/01/22,L6,Human Resources Partner,2.0,5.0,180.0,130.0,50.0,0.0,0.0
+Human Resources,Facebook,United States,FL,Miami,22/01/22,IC4,Product,0.0,4.0,152.0,117.0,18.0,18.0,0.0
+Human Resources,Google,United States,NY,New York,22/01/22,L4,General,2.0,8.0,235.0,110.0,110.0,15.0,0.0
 Human Resources,Google,United States,GA,Atlanta,22/01/21,L5,General,0.0,5.0,192.0,145.0,25.0,22.0,0.0
 Human Resources,ADP,Canada,NS,Halifax,22/01/20,L2,General,8.0,10.0,50.0,47.0,2.0,2.0,0.0
 Human Resources,Georgia Tech Research Institute,United States,GA,Atlanta,22/01/20,L1,"Recruiting, Human Resources",3.0,3.0,52.0,52.0,0.0,0.0,0.0

@@ -1,4 +1,26 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/23,IC3,Infra,0.0,2.0,198.0,140.0,33.0,25.0,0.0
+Data Scientist,Bank of America,United States,DE,Wilmington,22/01/23,B4,Model Risk Management,5.0,5.0,180.0,135.0,10.0,35.0,0.0
+Data Scientist,realtor.com,United States,CA,Santa Clara,22/01/23,T2,Analytics,1.0,4.0,139.0,133.0,5.0,0.0,0.0
+Data Scientist,Change Healthcare,United States,WA,Seattle,22/01/23,L3,general,0.0,0.0,143.0,130.0,0.0,13.0,0.0
+Data Scientist,Lyft,Brazil,MA,Sao Luis,22/01/23,L4,Perception,1.0,5.0,110.0,60.0,40.0,10.0,0.0
+Data Scientist,Cloudflare,United States,DC,Washington,22/01/22,P3,BI team,0.0,6.0,200.0,172.0,28.0,0.0,0.0
+Data Scientist,Goldman Sachs,United States,DE,Wilmington,22/01/22,Associate,Data,1.0,7.0,146.0,110.0,0.0,36.0,0.0
+Data Scientist,GlobalFoundries,United States,NY,Albany,22/01/22,L4,General,7.0,7.0,131.0,115.0,3.0,13.0,0.0
+Data Scientist,The Home Depot,United States,GA,Atlanta,22/01/22,L2,analytics,3.0,11.0,90.0,88.0,0.0,2.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/22,L5,ML/AI,3.0,5.0,230.0,150.0,80.0,0.0,0.0
+Data Scientist,Synchrony,United States,CT,Stamford,22/01/22,L3,Analytics,1.0,6.0,165.0,150.0,0.0,15.0,0.0
+Data Scientist,Uber,United States,CA,Sunnyvale,22/01/22,L3,general,1.0,1.0,156.0,114.0,30.0,11.0,0.0
+Data Scientist,Dell Technologies,United States,TX,Austin,22/01/22,I6,Data science,1.0,3.0,108.0,103.0,0.0,5.0,0.0
+Data Scientist,Microsoft,United States,WA,Seattle,22/01/22,62,Customer experience,4.0,7.0,180.0,152.0,19.0,9.0,0.0
+Data Scientist,Boeing,United States,CA,Los Angeles,22/01/21,L3,General,5.0,5.0,105.0,100.0,0.0,5.0,0.0
+Data Scientist,JPMorgan Chase,United States,WA,Seattle,22/01/21,Associate,Data,5.0,5.0,95.0,92.0,0.0,3.0,0.0
+Data Scientist,Autodesk,United States,WA,Seattle,22/01/21,P2,ML / AI,0.0,0.0,160.0,120.0,25.0,15.0,0.0
+Data Scientist,Google,United States,CA,Mountain View,22/01/21,L5,General,8.0,10.0,271.0,173.0,63.0,35.0,0.0
+Data Scientist,JPMorgan Chase,United States,NY,New York,22/01/21,602,Analytics,2.0,4.0,148.0,130.0,0.0,18.0,0.0
+Data Scientist,Grab,Singapore,SG,Singapore,22/01/21,G5,ML,0.0,3.0,189.0,120.0,45.0,24.0,0.0
+Data Scientist,General Motors,Israel,TA,Herzliyya,22/01/21,L7,General,1.0,2.0,177.0,149.0,0.0,28.0,0.0
+Data Scientist,The Climate Corporation,United States,WA,Seattle,22/01/21,Manager,ML/AI,7.0,7.0,202.0,182.0,10.0,9.0,0.0
 Data Scientist,Google,United Kingdom,EN,London,22/01/21,L4,General,4.0,7.0,162.0,111.0,34.0,17.0,0.0
 Data Scientist,Grab,Singapore,SG,Singapore,22/01/21,L3,Data Scientist,2.0,4.0,100.0,70.0,15.0,15.0,0.0
 Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/21,603,machine learning,2.0,7.0,230.0,180.0,5.0,45.0,0.0

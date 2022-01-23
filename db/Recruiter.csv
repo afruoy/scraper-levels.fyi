@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Facebook,United States,NC,Lewisville,22/01/23,IC3,Technical,0.0,3.0,109.0,84.0,7.0,18.0,0.0
+Recruiter,HubSpot,United States,MA,Boston,22/01/22,Associate,Technical,2.0,2.0,70.0,65.0,5.0,0.0,0.0
+Recruiter,Salesforce,United States,TX,Dallas,22/01/22,4,Technical,1.0,3.0,109.0,100.0,0.0,9.0,0.0
+Recruiter,Amazon,United Kingdom,EN,London,22/01/22,L6,Technical,5.0,18.0,123.0,106.0,17.0,0.0,0.0
+Recruiter,Facebook,United States,CA,San Francisco,22/01/22,IC4,Operations,4.0,8.0,160.0,129.0,18.0,13.0,0.0
 Recruiter,Medallia,United States,CA,San Francisco,22/01/21,L4,Sales,1.0,5.0,180.0,140.0,40.0,0.0,0.0
 Recruiter,Dropbox,United States,CA,San Francisco,22/01/21,IC3,Technical,2.0,8.0,171.0,140.0,10.0,21.0,0.0
 Recruiter,Facebook,United States,TX,Austin,22/01/20,IC5,Leadership,4.0,9.0,205.0,144.0,32.0,29.0,0.0

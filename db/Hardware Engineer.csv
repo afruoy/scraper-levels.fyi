@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Samsung,India,KA,Bangalore,22/01/22,L1,ASIC Design,2.0,2.0,21.0,19.0,0.0,2.0,0.0
+Hardware Engineer,Qualcomm,Canada,ON,Markham,22/01/22,senior engineer,ASIC Design,3.0,8.0,121.0,87.0,24.0,10.0,0.0
+Hardware Engineer,Western Digital,United States,CA,Milpitas,22/01/21,Senior Engineer,ASIC Design,3.0,3.0,134.0,114.0,10.0,10.0,0.0
+Hardware Engineer,Raytheon,United States,AZ,Tucson,22/01/21,L1,FPGA Design,2.0,2.0,77.0,75.0,0.0,2.0,0.0
 Hardware Engineer,Qualcomm,United States,CA,Santa Clara,22/01/21,Staff Engineer,SoC Design,1.0,7.0,220.0,165.0,35.0,20.0,0.0
 Hardware Engineer,Arm,United States,TX,Austin,22/01/21,Grade 7,Design,5.0,18.0,325.0,230.0,50.0,45.0,0.0
 Hardware Engineer,Google,United States,CA,Mountain View,22/01/20,L5,EMC,4.0,7.0,293.0,188.0,75.0,30.0,0.0

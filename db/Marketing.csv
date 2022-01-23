@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Anheuser-Busch InBev,United States,NY,New York,22/01/23,5b,Insights,4.0,8.0,207.0,133.0,24.0,50.0,0.0
+Marketing,Microsoft,United States,NY,New York,22/01/22,62,Analytics,1.0,5.0,215.0,145.0,40.0,30.0,0.0
 Marketing,ByteDance,United Kingdom,EN,London,22/01/21,2,Brand,2.0,7.0,97.0,92.0,0.0,5.0,0.0
 Marketing,Google,United States,CA,Los Angeles,22/01/21,L7,marketing media,2.0,12.0,457.0,247.0,135.0,75.0,0.0
 Marketing,Amazon,United States,WA,Seattle,22/01/21,L5,Functional,5.0,5.0,155.0,105.0,50.0,0.0,0.0
