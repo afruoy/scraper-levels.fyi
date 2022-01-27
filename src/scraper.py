@@ -17,7 +17,7 @@ def scrape_category(category, driver, log_txt):
 	sleep(2500 / 1000)
 
 	iter = 0
-	while iter <= 25:
+	while iter <= 30:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
@@ -57,7 +57,6 @@ def scrape_category(category, driver, log_txt):
 
 			new_row = [category, comp_name, comp_country, comp_region, comp_city, date, level, tag, yrs_comp,
 			           yrs_xp, tot_salary, base_salary, stock_salary, bonus_salary, nego_up]
-
 			bool_finished, final_rows = lap_finished(new_row, prev_category_rows, category_rows, tol=2)
 			if bool_finished:
 				log_txt += f"{category} : {len(category_rows)} (new) + {len(prev_category_rows)} (previous) = {len(final_rows)}\n"
@@ -80,7 +79,7 @@ if __name__ == "__main__":
 	os.chdir(FOLDER_PROJECT)
 	log_txt = '\n-----' + str(datetime.now()).split('.')[0] + '-----\n'
 
-	for category in category_jobs:
+	for category in category_jobs[::-1]:
 		driver = webdriver.Chrome(options=get_options())
 		sleep(4000 / 1000)
 		log_txt = scrape_category(category, driver, log_txt)

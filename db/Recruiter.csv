@@ -1,5 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Recruiter,Facebook,United States,NC,Lewisville,22/01/23,IC3,Technical,0.0,3.0,109.0,84.0,7.0,18.0,0.0
+Recruiter,Google,United States,NY,New York,02022/01/26,L3,Sales,4.0,8.0,176.0,113.0,43.0,21.0,0.0
+Recruiter,Google,United States,CA,Mountain View,02022/01/26,L5,Technical,11.0,14.0,300.0,170.0,95.0,35.0,0.0
+Recruiter,Amazon,United States,NJ,Jersey City,02022/01/26,L6,Technical,0.0,16.0,249.0,170.0,5.0,74.0,0.0
+Recruiter,Microsoft,Ireland,DN,Dublin,02022/01/26,62,Technical,1.0,8.0,150.0,125.0,12.0,13.0,0.0
+Recruiter,Qualtrics,United States,UT,Provo,02022/01/25,L4,Operations,4.0,7.0,161.0,110.0,40.0,11.0,0.0
+Recruiter,Amazon,United States,VA,Arlington,02022/01/25,L6,Technical,6.0,8.0,198.0,140.0,58.0,0.0,0.0
+Recruiter,Redfin,United States,WA,Seattle,02022/01/24,L3,Technical,1.0,10.0,130.0,115.0,0.0,15.0,0.0
+Recruiter,Vercel,United States,AZ,Phoenix,02022/01/24,L4,HR,0.0,3.0,155.0,135.0,20.0,0.0,0.0
+Recruiter,Oracle,United States,TX,Austin,02022/01/24,IC,University,3.0,3.0,88.0,88.0,0.0,0.0,0.0
+Recruiter,Facebook,United States,NC,Lewisville,02022/01/23,IC3,Technical,0.0,3.0,109.0,84.0,7.0,18.0,0.0
 Recruiter,HubSpot,United States,MA,Boston,22/01/22,Associate,Technical,2.0,2.0,70.0,65.0,5.0,0.0,0.0
 Recruiter,Salesforce,United States,TX,Dallas,22/01/22,4,Technical,1.0,3.0,109.0,100.0,0.0,9.0,0.0
 Recruiter,Amazon,United Kingdom,EN,London,22/01/22,L6,Technical,5.0,18.0,123.0,106.0,17.0,0.0,0.0

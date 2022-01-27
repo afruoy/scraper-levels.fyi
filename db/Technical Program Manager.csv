@@ -1,5 +1,35 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/22,63,General,1.0,11.0,182.0,137.0,25.0,20.0,0.0
+Technical Program Manager,Apple,United States,TX,Austin,02022/01/27,M1,Operations,10.0,20.0,305.0,200.0,80.0,25.0,0.0
+Technical Program Manager,Tata Consultancy Services,United States,IL,Chicago,02022/01/27,C4,Full Stack,10.0,20.0,152.0,137.0,0.0,15.0,0.0
+Technical Program Manager,Facebook,United States,CA,San Francisco,02022/01/27,IC6,General,2.0,10.0,300.0,200.0,80.0,20.0,0.0
+Technical Program Manager,Starbucks,United States,WA,Seattle,02022/01/26,30,Privacy,1.0,7.0,153.0,140.0,3.0,10.0,0.0
+Technical Program Manager,PayPal,United States,IL,Chicago,02022/01/26,T24,Project Management,0.0,5.0,180.0,129.0,38.0,13.0,0.0
+Technical Program Manager,Siemens Energy,United States,NC,Raleigh,02022/01/26,L3,General,10.0,10.0,163.0,140.0,0.0,23.0,0.0
+Technical Program Manager,Accenture,United States,TX,Houston,02022/01/26,CL7,General,11.0,12.0,162.0,155.0,0.0,7.0,0.0
+Technical Program Manager,Protiviti,United States,IL,Chicago,02022/01/26,L4,Enterprise,2.0,9.0,180.0,160.0,0.0,20.0,0.0
+Technical Program Manager,Google,Switzerland,ZH,Zurich,02022/01/26,L5,Security,10.0,10.0,290.0,188.0,63.0,39.0,0.0
+Technical Program Manager,ServiceNow,United States,WA,Seattle,02022/01/26,IC5,General,2.0,25.0,400.0,200.0,160.0,40.0,0.0
+Technical Program Manager,Nvidia,United States,OH,Columbus,02022/01/26,IC3,Senior Technical Program Manager,0.0,8.0,275.0,200.0,60.0,15.0,0.0
+Technical Program Manager,Apptio,United States,OR,Portland,02022/01/26,3,FinOps,4.0,20.0,127.0,127.0,0.0,0.0,0.0
+Technical Program Manager,Uber,United States,CA,San Francisco,02022/01/25,4,GTM,0.0,6.0,179.0,141.0,25.0,13.0,0.0
+Technical Program Manager,Twitch,United States,CA,San Francisco,02022/01/25,L5,Technical,2.0,10.0,220.0,168.0,30.0,22.0,0.0
+Technical Program Manager,Applied Materials,United States,CA,San Francisco,02022/01/25,E4,Production,0.0,6.0,220.0,173.0,8.0,40.0,0.0
+Technical Program Manager,Google,United States,WA,Seattle,02022/01/25,L4,Security,1.0,6.0,269.0,132.0,107.0,30.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,02022/01/25,L6,E-commerce,1.0,12.0,250.0,160.0,10.0,80.0,0.0
+Technical Program Manager,Google,United States,NY,New York,02022/01/25,L5,General,7.0,11.0,299.0,176.0,85.0,38.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,02022/01/25,L7,AWS,2.0,22.0,337.0,160.0,112.0,65.0,0.0
+Technical Program Manager,Google,United States,TX,Austin,02022/01/24,L5,PgM,1.0,8.0,295.0,150.0,122.0,23.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,02022/01/24,65,General,6.0,25.0,316.0,196.0,75.0,45.0,0.0
+Technical Program Manager,Google,United States,WA,Seattle,02022/01/24,L5,Software development program management,5.0,7.0,280.0,150.0,60.0,70.0,0.0
+Technical Program Manager,SingleStore,United States,GA,Atlanta,02022/01/24,L5,database,1.0,14.0,205.0,165.0,0.0,40.0,0.0
+Technical Program Manager,JPMorgan Chase,United Kingdom,EN,London,02022/01/24,Senior Associate,General,1.0,5.0,130.0,110.0,0.0,20.0,0.0
+Technical Program Manager,Google,Taiwan,TP,Taipei,02022/01/24,L4,Hardware,8.0,10.0,118.0,81.0,25.0,12.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,02022/01/24,65,General,2.0,21.0,342.0,182.0,100.0,60.0,0.0
+Technical Program Manager,Department of Defense,United States,MD,Baltimore,02022/01/24,L3,Cybersecurity,11.0,11.0,149.0,147.0,0.0,2.0,0.0
+Technical Program Manager,Amazon,Canada,ON,Toronto,02022/01/23,L6,Advertising,1.0,13.0,200.0,120.0,80.0,0.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,02022/01/23,L6,AwS,2.0,12.0,183.0,143.0,40.0,0.0,0.0
+Technical Program Manager,Google,United States,WA,Seattle,02022/01/23,L5,Security,7.0,20.0,300.0,189.0,76.0,35.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,02022/01/22,63,General,1.0,11.0,182.0,137.0,25.0,20.0,0.0
 Technical Program Manager,Google,United States,CA,Sunnyvale,22/01/22,L3,General,0.0,1.0,185.0,133.0,32.0,20.0,0.0
 Technical Program Manager,Audible,United States,NJ,Newark,22/01/22,L6,General,0.0,15.0,260.0,160.0,60.0,40.0,0.0
 Technical Program Manager,Google,India,KA,Bangalore,22/01/22,L5,Research,5.0,5.0,99.0,49.0,40.0,10.0,0.0

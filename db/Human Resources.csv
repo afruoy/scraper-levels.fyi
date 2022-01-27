@@ -1,5 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Human Resources,Amazon,United States,CA,San Francisco,22/01/22,L6,Human Resources Partner,2.0,5.0,180.0,130.0,50.0,0.0,0.0
+Human Resources,Anonymous,United States,NY,New York,02022/01/26,L8,"human resources, strategy, leadership",1.0,20.0,201.0,175.0,0.0,26.0,0.0
+Human Resources,The New York Times Company,United States,NY,New York,02022/01/26,Mid,Tech recruiting,1.0,5.0,120.0,105.0,0.0,15.0,0.0
+Human Resources,Amazon,United States,DC,Washington,02022/01/26,L5,SDE,1.0,3.0,134.0,105.0,0.0,29.0,0.0
+Human Resources,Carbon,United States,CA,Redwood City,02022/01/26,l4,Engineering,5.0,10.0,215.0,175.0,40.0,0.0,0.0
+Human Resources,Nike,United States,OR,Portland,02022/01/25,U band,Human Resources,1.0,15.0,144.0,120.0,0.0,24.0,0.0
+Human Resources,Amazon,United States,WA,Seattle,02022/01/25,L6,HR,6.0,10.0,162.0,105.0,57.0,0.0,0.0
+Human Resources,Google,United States,TX,Austin,02022/01/25,L5,"Recruiting, HR",6.0,6.0,273.0,148.0,100.0,25.0,0.0
+Human Resources,Google,United States,CA,Mountain View,02022/01/25,L4,Program Management,4.0,7.0,240.0,140.0,75.0,25.0,0.0
+Human Resources,VMware,United States,WA,Seattle,02022/01/25,P4,HRBP,3.0,10.0,163.0,143.0,0.0,20.0,0.0
+Human Resources,Amazon,United States,CA,San Francisco,02022/01/22,L6,Human Resources Partner,2.0,5.0,180.0,130.0,50.0,0.0,0.0
 Human Resources,Facebook,United States,FL,Miami,22/01/22,IC4,Product,0.0,4.0,152.0,117.0,18.0,18.0,0.0
 Human Resources,Google,United States,NY,New York,22/01/22,L4,General,2.0,8.0,235.0,110.0,110.0,15.0,0.0
 Human Resources,Google,United States,GA,Atlanta,22/01/21,L5,General,0.0,5.0,192.0,145.0,25.0,22.0,0.0
