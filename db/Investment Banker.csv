@@ -1,11 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Investment Banker,Goldman Sachs,United States,NY,New York,02022/01/27,Associate,Quant,2.0,2.0,234.0,150.0,34.0,50.0,0
-Investment Banker,Goldman Sachs,United States,TX,Dallas,02022/01/26,Associate,Legal,0.0,4.0,130.0,120.0,0.0,10.0,0
-Investment Banker,Goldman Sachs,United States,NY,New York,02022/01/26,Associate,Private Equity,6.0,6.0,600.0,160.0,100.0,340.0,0
-Investment Banker,Goldman Sachs,United States,NY,New York,02022/01/26,Executive Director,Vice President,5.0,7.0,316.0,169.0,0.0,147.0,0
-Investment Banker,PNC,United States,PA,Scranton,02022/01/25,L4,Private Banking,7.0,7.0,120.0,90.0,10.0,20.0,0
-Investment Banker,JPMorgan Chase & Co.,United Kingdom,EN,London,02022/01/23,602,Middle Office,5.0,5.0,79.0,72.0,0.0,7.0,0
-Investment Banker,JPMorgan Chase,United States,NY,Manhattan,02022/01/23,Analyst,FIG,1.0,1.0,85.0,85.0,0.0,0.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,22/01/27,Associate,Quant,2.0,2.0,234.0,150.0,34.0,50.0,0
+Investment Banker,Goldman Sachs,United States,TX,Dallas,22/01/26,Associate,Legal,0.0,4.0,130.0,120.0,0.0,10.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,22/01/26,Associate,Private Equity,6.0,6.0,600.0,160.0,100.0,340.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,22/01/26,Executive Director,Vice President,5.0,7.0,316.0,169.0,0.0,147.0,0
+Investment Banker,PNC,United States,PA,Scranton,22/01/25,L4,Private Banking,7.0,7.0,120.0,90.0,10.0,20.0,0
+Investment Banker,JPMorgan Chase & Co.,United Kingdom,EN,London,22/01/23,602,Middle Office,5.0,5.0,79.0,72.0,0.0,7.0,0
+Investment Banker,JPMorgan Chase,United States,NY,Manhattan,22/01/23,Analyst,FIG,1.0,1.0,85.0,85.0,0.0,0.0,0
 Investment Banker,Goldman Sachs,United States,NY,New York,22/01/23,Executive Director,M&A,6.0,6.0,1.0,300.0,450.0,650.0,0
 Investment Banker,Credit Suisse,United States,NY,New York,22/01/21,Director,Investment Banking,3.0,15.0,800.0,250.0,0.0,550.0,0
 Investment Banker,Evercore,United States,NY,New York,22/01/15,Analyst 1,M&A,1.0,1.0,245.0,120.0,0.0,125.0,0

@@ -1,15 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Solution Architect,Accenture,United States,NJ,Florham Park,02022/01/27,8,DevOps,1.0,4.0,187.0,178.0,2.0,7.0,0.0
-Solution Architect,Electronic Arts,India,AP,Hyderabad,02022/01/27,21,Site Reliability (SRE),1.0,9.0,68.0,40.0,15.0,13.0,0.0
-Solution Architect,Amazon,United States,NC,Raleigh,02022/01/27,L6,DevOps,1.0,10.0,280.0,160.0,70.0,50.0,0.0
-Solution Architect,Adobe,United States,MA,Boston,02022/01/26,L5,Full Stack,12.0,13.0,316.0,193.0,75.0,48.0,0.0
-Solution Architect,DataStax,United States,CA,Santa Clara,02022/01/26,L3,Cassandra,1.0,7.0,207.0,180.0,0.0,27.0,0.0
-Solution Architect,General Motors,United States,MI,Detroit,02022/01/26,L7,Full Stack,4.0,6.0,150.0,132.0,0.0,18.0,0.0
-Solution Architect,Amazon,United States,CA,San Francisco,02022/01/25,L6,API Development (Back-End),1.0,15.0,265.0,165.0,50.0,50.0,0.0
-Solution Architect,Accenture,United States,NY,New York,02022/01/24,L11 (Analyst),Full Stack,0.0,0.0,87.0,87.0,0.0,0.0,0.0
-Solution Architect,Amazon,United States,WA,Seattle,02022/01/24,L3,Data,1.0,1.0,169.0,108.0,22.0,39.0,0.0
-Solution Architect,Okta,United States,CA,Los Angeles,02022/01/24,P3,Identity,2.0,5.0,218.0,143.0,40.0,36.0,0.0
-Solution Architect,Amazon,Switzerland,ZH,Zurich,02022/01/23,L5,Production,5.0,7.0,235.0,169.0,66.0,0.0,0.0
+Solution Architect,Accenture,United States,NJ,Florham Park,22/01/27,8,DevOps,1.0,4.0,187.0,178.0,2.0,7.0,0.0
+Solution Architect,Electronic Arts,India,AP,Hyderabad,22/01/27,21,Site Reliability (SRE),1.0,9.0,68.0,40.0,15.0,13.0,0.0
+Solution Architect,Amazon,United States,NC,Raleigh,22/01/27,L6,DevOps,1.0,10.0,280.0,160.0,70.0,50.0,0.0
+Solution Architect,Adobe,United States,MA,Boston,22/01/26,L5,Full Stack,12.0,13.0,316.0,193.0,75.0,48.0,0.0
+Solution Architect,DataStax,United States,CA,Santa Clara,22/01/26,L3,Cassandra,1.0,7.0,207.0,180.0,0.0,27.0,0.0
+Solution Architect,General Motors,United States,MI,Detroit,22/01/26,L7,Full Stack,4.0,6.0,150.0,132.0,0.0,18.0,0.0
+Solution Architect,Amazon,United States,CA,San Francisco,22/01/25,L6,API Development (Back-End),1.0,15.0,265.0,165.0,50.0,50.0,0.0
+Solution Architect,Accenture,United States,NY,New York,22/01/24,L11 (Analyst),Full Stack,0.0,0.0,87.0,87.0,0.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,22/01/24,L3,Data,1.0,1.0,169.0,108.0,22.0,39.0,0.0
+Solution Architect,Okta,United States,CA,Los Angeles,22/01/24,P3,Identity,2.0,5.0,218.0,143.0,40.0,36.0,0.0
+Solution Architect,Amazon,Switzerland,ZH,Zurich,22/01/23,L5,Production,5.0,7.0,235.0,169.0,66.0,0.0,0.0
 Solution Architect,Amazon,Germany,BY,Munich,22/01/22,L6,Generalist,3.0,10.0,170.0,118.0,52.0,0.0,0.0
 Solution Architect,T-Mobile,United States,WA,Bellevue,22/01/22,T5,Networking,7.0,13.0,270.0,213.0,15.0,43.0,0.0
 Solution Architect,Amazon,United States,PA,Philadelphia,22/01/20,L5,Full Stack,0.0,12.0,155.0,155.0,0.0,0.0,0.0

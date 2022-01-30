@@ -1,13 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Marketing,Apple,Singapore,SG,Singapore,02022/01/26,IC4,General,4.0,14.0,140.0,100.0,30.0,10.0,0.0
-Marketing,VMware,United States,CA,Palo Alto,02022/01/26,M4,Go To Market,4.0,15.0,248.0,202.0,5.0,41.0,0.0
-Marketing,HP Inc,United States,WA,Vancouver,02022/01/25,L4,analyst,3.0,15.0,149.0,133.0,3.0,13.0,0.0
-Marketing,Salesforce,France,IL,Paris,02022/01/25,5,PMM,4.0,5.0,61.0,55.0,0.0,6.0,0.0
-Marketing,Salesforce,United States,CA,San Francisco,02022/01/25,L8,Field Marketing,6.0,10.0,199.0,164.0,10.0,25.0,0.0
-Marketing,Amazon Web Services,United States,NY,New York,02022/01/24,L7,PR,1.0,12.0,315.0,302.0,13.0,0.0,0.0
-Marketing,Wayfair,United States,MA,Boston,02022/01/24,L1,Marketing,1.0,1.0,106.0,89.0,10.0,7.0,0.0
-Marketing,Apple,Canada,ON,Toronto,02022/01/23,ICT4,General,2.0,10.0,131.0,100.0,28.0,3.0,0.0
-Marketing,Anheuser-Busch InBev,United States,NY,New York,02022/01/23,5b,Insights,4.0,8.0,207.0,133.0,24.0,50.0,0.0
+Marketing,Apple,Singapore,SG,Singapore,22/01/26,IC4,General,4.0,14.0,140.0,100.0,30.0,10.0,0.0
+Marketing,VMware,United States,CA,Palo Alto,22/01/26,M4,Go To Market,4.0,15.0,248.0,202.0,5.0,41.0,0.0
+Marketing,HP Inc,United States,WA,Vancouver,22/01/25,L4,analyst,3.0,15.0,149.0,133.0,3.0,13.0,0.0
+Marketing,Salesforce,France,IL,Paris,22/01/25,5,PMM,4.0,5.0,61.0,55.0,0.0,6.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,22/01/25,L8,Field Marketing,6.0,10.0,199.0,164.0,10.0,25.0,0.0
+Marketing,Amazon Web Services,United States,NY,New York,22/01/24,L7,PR,1.0,12.0,315.0,302.0,13.0,0.0,0.0
+Marketing,Wayfair,United States,MA,Boston,22/01/24,L1,Marketing,1.0,1.0,106.0,89.0,10.0,7.0,0.0
+Marketing,Apple,Canada,ON,Toronto,22/01/23,ICT4,General,2.0,10.0,131.0,100.0,28.0,3.0,0.0
+Marketing,Anheuser-Busch InBev,United States,NY,New York,22/01/23,5b,Insights,4.0,8.0,207.0,133.0,24.0,50.0,0.0
 Marketing,Microsoft,United States,NY,New York,22/01/22,62,Analytics,1.0,5.0,215.0,145.0,40.0,30.0,0.0
 Marketing,ByteDance,United Kingdom,EN,London,22/01/21,2,Brand,2.0,7.0,97.0,92.0,0.0,5.0,0.0
 Marketing,Google,United States,CA,Los Angeles,22/01/21,L7,marketing media,2.0,12.0,457.0,247.0,135.0,75.0,0.0

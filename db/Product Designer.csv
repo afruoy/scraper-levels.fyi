@@ -1,31 +1,31 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Product Designer,Black Knight,United States,FL,Jacksonville,02022/01/27,L2,User Experience (UX),3.0,3.0,78.0,76.0,0.0,2.0,0.0
-Product Designer,Chegg,United States,CA,Santa Clara,02022/01/27,L3,User Experience (UX),2.0,5.0,144.0,126.0,18.0,0.0,0.0
-Product Designer,Global Relay,Canada,BC,Vancouver,02022/01/26,Mid level,User Experience (UX),1.0,6.0,90.0,85.0,0.0,5.0,0.0
-Product Designer,Weave,United States,UT,Lehi,02022/01/26,L2,User Experience (UX),2.0,3.0,110.0,105.0,0.0,5.0,0.0
-Product Designer,Google,United States,CA,San Francisco,02022/01/26,L3,Mobile,7.0,8.0,90.0,80.0,2.0,8.0,0.0
-Product Designer,IHS Markit,United States,CO,Denver,02022/01/26,L1,Web and Mobile,1.0,4.0,98.0,88.0,0.0,10.0,0.0
-Product Designer,Dyson,Singapore,SG,Singapore,02022/01/26,D9,Usability,1.0,8.0,100.0,90.0,0.0,10.0,0.0
-Product Designer,Seagate,United States,CA,Fremont,02022/01/26,3,Interaction Design,1.0,7.0,159.0,126.0,18.0,15.0,0.0
-Product Designer,Google,United States,WA,Seattle,02022/01/26,L5,User Experience (UX),0.0,12.0,306.0,177.0,103.0,27.0,0.0
-Product Designer,eBay,United States,CA,San Jose,02022/01/26,L26,User Experience (UX),4.0,7.0,246.0,169.0,60.0,17.0,0.0
-Product Designer,Facebook,United States,CA,San Francisco,02022/01/26,IC4,User Experience (UX),3.0,7.0,211.0,154.0,45.0,12.0,0.0
-Product Designer,Exelon,United States,MD,Baltimore,02022/01/25,E3,User Experience (UX),3.0,7.0,115.0,105.0,0.0,10.0,0.0
-Product Designer,IBM,Canada,ON,Toronto,02022/01/25,8,User Experience (UX),1.0,5.0,87.0,87.0,0.0,0.0,0.0
-Product Designer,EPAM Systems,United States,MA,Boston,02022/01/25,4,User Experience (UX),6.0,6.0,130.0,120.0,0.0,10.0,0.0
-Product Designer,C3.ai,United States,CA,Redwood City,02022/01/25,L3,Interaction Design,1.0,6.0,213.0,161.0,20.0,32.0,0.0
-Product Designer,Twitter,United Kingdom,EN,London,02022/01/25,L4,User Experience (UX),1.0,6.0,160.0,104.0,40.0,16.0,0.0
-Product Designer,Workday,United States,CA,Pleasanton,02022/01/25,P2,User Research,0.0,0.0,149.0,117.0,20.0,12.0,0.0
-Product Designer,BlackRock,United States,CA,San Francisco,02022/01/25,L1,None,0.0,0.0,100.0,100.0,0.0,0.0,0.0
-Product Designer,LinkedIn,United States,CA,San Francisco,02022/01/25,UED,User Experience (UX),4.0,4.0,205.0,145.0,50.0,10.0,0.0
-Product Designer,Amazon,United States,MA,Boston,02022/01/24,L6,User Experience (UX),6.0,10.0,280.0,150.0,130.0,0.0,0.0
-Product Designer,The Athletic,United States,CA,San Francisco,02022/01/24,L2,User Experience (UX),1.0,6.0,135.0,135.0,0.0,0.0,0.0
-Product Designer,Stripe,United States,NY,New York,02022/01/24,L2,User Experience (UX),1.0,4.0,226.0,149.0,63.0,15.0,0.0
-Product Designer,Google,United States,WA,Seattle,02022/01/24,L5,User Experience (UX),2.0,18.0,255.0,177.0,45.0,33.0,0.0
-Product Designer,Carta,Canada,ON,Waterloo,02022/01/24,L3,User Experience (UX),1.0,5.0,97.0,87.0,5.0,5.0,0.0
-Product Designer,Google,Switzerland,ZH,Zurich,02022/01/24,L4,User Interfaces,2.0,16.0,206.0,161.0,16.0,29.0,0.0
-Product Designer,Shopify,Canada,ON,Toronto,02022/01/23,L6,User Experience (UX),4.0,8.0,165.0,93.0,72.0,0.0,0.0
-Product Designer,Google,United States,CA,Mountain View,02022/01/23,L6,User Experience (UX),1.0,11.0,478.0,220.0,192.0,66.0,0.0
+Product Designer,Black Knight,United States,FL,Jacksonville,22/01/27,L2,User Experience (UX),3.0,3.0,78.0,76.0,0.0,2.0,0.0
+Product Designer,Chegg,United States,CA,Santa Clara,22/01/27,L3,User Experience (UX),2.0,5.0,144.0,126.0,18.0,0.0,0.0
+Product Designer,Global Relay,Canada,BC,Vancouver,22/01/26,Mid level,User Experience (UX),1.0,6.0,90.0,85.0,0.0,5.0,0.0
+Product Designer,Weave,United States,UT,Lehi,22/01/26,L2,User Experience (UX),2.0,3.0,110.0,105.0,0.0,5.0,0.0
+Product Designer,Google,United States,CA,San Francisco,22/01/26,L3,Mobile,7.0,8.0,90.0,80.0,2.0,8.0,0.0
+Product Designer,IHS Markit,United States,CO,Denver,22/01/26,L1,Web and Mobile,1.0,4.0,98.0,88.0,0.0,10.0,0.0
+Product Designer,Dyson,Singapore,SG,Singapore,22/01/26,D9,Usability,1.0,8.0,100.0,90.0,0.0,10.0,0.0
+Product Designer,Seagate,United States,CA,Fremont,22/01/26,3,Interaction Design,1.0,7.0,159.0,126.0,18.0,15.0,0.0
+Product Designer,Google,United States,WA,Seattle,22/01/26,L5,User Experience (UX),0.0,12.0,306.0,177.0,103.0,27.0,0.0
+Product Designer,eBay,United States,CA,San Jose,22/01/26,L26,User Experience (UX),4.0,7.0,246.0,169.0,60.0,17.0,0.0
+Product Designer,Facebook,United States,CA,San Francisco,22/01/26,IC4,User Experience (UX),3.0,7.0,211.0,154.0,45.0,12.0,0.0
+Product Designer,Exelon,United States,MD,Baltimore,22/01/25,E3,User Experience (UX),3.0,7.0,115.0,105.0,0.0,10.0,0.0
+Product Designer,IBM,Canada,ON,Toronto,22/01/25,8,User Experience (UX),1.0,5.0,87.0,87.0,0.0,0.0,0.0
+Product Designer,EPAM Systems,United States,MA,Boston,22/01/25,4,User Experience (UX),6.0,6.0,130.0,120.0,0.0,10.0,0.0
+Product Designer,C3.ai,United States,CA,Redwood City,22/01/25,L3,Interaction Design,1.0,6.0,213.0,161.0,20.0,32.0,0.0
+Product Designer,Twitter,United Kingdom,EN,London,22/01/25,L4,User Experience (UX),1.0,6.0,160.0,104.0,40.0,16.0,0.0
+Product Designer,Workday,United States,CA,Pleasanton,22/01/25,P2,User Research,0.0,0.0,149.0,117.0,20.0,12.0,0.0
+Product Designer,BlackRock,United States,CA,San Francisco,22/01/25,L1,None,0.0,0.0,100.0,100.0,0.0,0.0,0.0
+Product Designer,LinkedIn,United States,CA,San Francisco,22/01/25,UED,User Experience (UX),4.0,4.0,205.0,145.0,50.0,10.0,0.0
+Product Designer,Amazon,United States,MA,Boston,22/01/24,L6,User Experience (UX),6.0,10.0,280.0,150.0,130.0,0.0,0.0
+Product Designer,The Athletic,United States,CA,San Francisco,22/01/24,L2,User Experience (UX),1.0,6.0,135.0,135.0,0.0,0.0,0.0
+Product Designer,Stripe,United States,NY,New York,22/01/24,L2,User Experience (UX),1.0,4.0,226.0,149.0,63.0,15.0,0.0
+Product Designer,Google,United States,WA,Seattle,22/01/24,L5,User Experience (UX),2.0,18.0,255.0,177.0,45.0,33.0,0.0
+Product Designer,Carta,Canada,ON,Waterloo,22/01/24,L3,User Experience (UX),1.0,5.0,97.0,87.0,5.0,5.0,0.0
+Product Designer,Google,Switzerland,ZH,Zurich,22/01/24,L4,User Interfaces,2.0,16.0,206.0,161.0,16.0,29.0,0.0
+Product Designer,Shopify,Canada,ON,Toronto,22/01/23,L6,User Experience (UX),4.0,8.0,165.0,93.0,72.0,0.0,0.0
+Product Designer,Google,United States,CA,Mountain View,22/01/23,L6,User Experience (UX),1.0,11.0,478.0,220.0,192.0,66.0,0.0
 Product Designer,Intuit,United States,CA,San Diego,22/01/23,PD1,User Experience (UX),1.0,6.0,135.0,135.0,0.0,0.0,0.0
 Product Designer,Facebook,United States,NY,New York,22/01/22,IC5,User Experience (UX),0.0,0.0,228.0,170.0,33.0,26.0,0.0
 Product Designer,Oracle,United States,CA,Redwood City,22/01/22,IC,User Experience (UX),3.0,3.0,200.0,140.0,50.0,10.0,0.0

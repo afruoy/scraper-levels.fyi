@@ -1,35 +1,35 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Hardware Engineer,Apple,China,SH,Shanghai,02022/01/27,ICT4,Quality Assurance,1.0,7.0,246.0,142.0,98.0,6.0,0.0
-Hardware Engineer,Qualcomm,United States,CA,San Diego,02022/01/27,Staff Engineer,ASIC Design,4.0,8.0,245.0,170.0,55.0,20.0,0.0
-Hardware Engineer,Intel,United States,OR,Portland,02022/01/27,Grade 10,SoC Design,22.0,22.0,378.0,220.0,88.0,70.0,0.0
-Hardware Engineer,NXP Semiconductors,United States,TX,Austin,02022/01/26,G5,Automotive,4.0,16.0,286.0,196.0,55.0,35.0,0.0
-Hardware Engineer,AMD,United States,TX,Austin,02022/01/26,L9,Hardware Engineer,0.0,16.0,338.0,225.0,63.0,50.0,0.0
-Hardware Engineer,Microsoft,United States,OR,Portland,02022/01/26,61,SoC Design,0.0,4.0,179.0,120.0,35.0,24.0,0.0
-Hardware Engineer,Amazon,United States,MA,North Reading,02022/01/26,L4,HW Q&R,0.0,4.0,96.0,80.0,6.0,10.0,0.0
-Hardware Engineer,Apple,United States,CA,Cupertino,02022/01/26,ICT5,HWT,7.0,7.0,516.0,228.0,243.0,45.0,0.0
-Hardware Engineer,IBM,United States,NY,Poughkeepsie,02022/01/26,B8,Other,20.0,20.0,130.0,130.0,0.0,0.0,0.0
-Hardware Engineer,Morgan Stanley,United Kingdom,EN,London,02022/01/26,L5,ASIC Design,2.0,5.0,399.0,189.0,0.0,209.0,0.0
-Hardware Engineer,Johnson & Johnson,United States,CA,Santa Clara,02022/01/26,26,Analog,1.0,3.0,220.0,155.0,50.0,15.0,0.0
-Hardware Engineer,Maxim Integrated,United States,CA,San Jose,02022/01/25,MTS,Analog,1.0,2.0,123.0,105.0,8.0,10.0,0.0
-Hardware Engineer,Google,United States,CA,Mountain View,02022/01/25,L5,Sensor,3.0,8.0,307.0,188.0,86.0,33.0,0.0
-Hardware Engineer,Nvidia,India,KA,Bangalore,02022/01/25,IC4,ASIC Design,8.0,8.0,71.0,51.0,20.0,0.0,0.0
-Hardware Engineer,Apple,United States,CA,Cupertino,02022/01/25,ICT2,SoC Design,0.0,1.0,180.0,135.0,20.0,25.0,0.0
-Hardware Engineer,Qualcomm,India,KA,Bangalore,02022/01/25,Lead Engineer,Verification,0.0,5.0,64.0,48.0,11.0,5.0,0.0
-Hardware Engineer,Apple,United States,CA,Cupertino,02022/01/25,ICT4,IC Packaging,1.0,19.0,300.0,210.0,70.0,20.0,0.0
-Hardware Engineer,Apple,United States,CA,Sunnyvale,02022/01/25,ICT4,Analog,2.0,13.0,358.0,203.0,130.0,25.0,0.0
-Hardware Engineer,Marvell,United States,MA,Marlborough,02022/01/25,T2,Engineer,3.0,3.0,140.0,121.0,9.0,10.0,0.0
-Hardware Engineer,Samsung,United States,CA,San Jose,02022/01/24,L3,Verification,3.0,3.0,130.0,120.0,0.0,10.0,0.0
-Hardware Engineer,Lattice Semiconductor,United States,CA,San Jose,02022/01/24,L3,Analog,0.0,8.0,159.0,135.0,10.0,14.0,0.0
-Hardware Engineer,Intel,India,KA,Bangalore,02022/01/24,Grade 11,SoC Design,5.0,23.0,315.0,170.0,75.0,70.0,0.0
-Hardware Engineer,Samsung,India,KA,Bengaluru,02022/01/24,L2,Verification,3.0,3.0,33.0,31.0,0.0,3.0,0.0
-Hardware Engineer,Nvidia,United States,OR,Hillsboro,02022/01/24,IC4,Validation,0.0,6.0,232.0,170.0,62.0,0.0,0.0
-Hardware Engineer,Cadence Design Systems,United States,CA,San Jose,02022/01/24,T5,SoC Design,3.0,13.0,230.0,200.0,10.0,20.0,0.0
-Hardware Engineer,Qualcomm,United States,CA,San Diego,02022/01/24,9 years of experience,SOC Product Engineering,9.0,10.0,154.0,140.0,14.0,0.0,0.0
-Hardware Engineer,IBM,Canada,AB,Calgary,02022/01/24,L5,SSR,10.0,18.0,77.0,60.0,0.0,17.0,0.0
-Hardware Engineer,AMD,United States,CA,Folsom,02022/01/24,MTS,Verification,0.0,11.0,280.0,200.0,40.0,40.0,0.0
-Hardware Engineer,Apple,United States,CA,Cupertino,02022/01/24,ICT3,RF,4.0,4.0,200.0,140.0,40.0,20.0,0.0
-Hardware Engineer,Google,United States,CA,Mountain View,02022/01/23,L7,Analog,6.0,15.0,794.0,270.0,437.0,87.0,0.0
-Hardware Engineer,Samsung,India,KA,Bangalore,02022/01/22,L1,ASIC Design,2.0,2.0,21.0,19.0,0.0,2.0,0.0
+Hardware Engineer,Apple,China,SH,Shanghai,22/01/27,ICT4,Quality Assurance,1.0,7.0,246.0,142.0,98.0,6.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/27,Staff Engineer,ASIC Design,4.0,8.0,245.0,170.0,55.0,20.0,0.0
+Hardware Engineer,Intel,United States,OR,Portland,22/01/27,Grade 10,SoC Design,22.0,22.0,378.0,220.0,88.0,70.0,0.0
+Hardware Engineer,NXP Semiconductors,United States,TX,Austin,22/01/26,G5,Automotive,4.0,16.0,286.0,196.0,55.0,35.0,0.0
+Hardware Engineer,AMD,United States,TX,Austin,22/01/26,L9,Hardware Engineer,0.0,16.0,338.0,225.0,63.0,50.0,0.0
+Hardware Engineer,Microsoft,United States,OR,Portland,22/01/26,61,SoC Design,0.0,4.0,179.0,120.0,35.0,24.0,0.0
+Hardware Engineer,Amazon,United States,MA,North Reading,22/01/26,L4,HW Q&R,0.0,4.0,96.0,80.0,6.0,10.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/26,ICT5,HWT,7.0,7.0,516.0,228.0,243.0,45.0,0.0
+Hardware Engineer,IBM,United States,NY,Poughkeepsie,22/01/26,B8,Other,20.0,20.0,130.0,130.0,0.0,0.0,0.0
+Hardware Engineer,Morgan Stanley,United Kingdom,EN,London,22/01/26,L5,ASIC Design,2.0,5.0,399.0,189.0,0.0,209.0,0.0
+Hardware Engineer,Johnson & Johnson,United States,CA,Santa Clara,22/01/26,26,Analog,1.0,3.0,220.0,155.0,50.0,15.0,0.0
+Hardware Engineer,Maxim Integrated,United States,CA,San Jose,22/01/25,MTS,Analog,1.0,2.0,123.0,105.0,8.0,10.0,0.0
+Hardware Engineer,Google,United States,CA,Mountain View,22/01/25,L5,Sensor,3.0,8.0,307.0,188.0,86.0,33.0,0.0
+Hardware Engineer,Nvidia,India,KA,Bangalore,22/01/25,IC4,ASIC Design,8.0,8.0,71.0,51.0,20.0,0.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/25,ICT2,SoC Design,0.0,1.0,180.0,135.0,20.0,25.0,0.0
+Hardware Engineer,Qualcomm,India,KA,Bangalore,22/01/25,Lead Engineer,Verification,0.0,5.0,64.0,48.0,11.0,5.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/25,ICT4,IC Packaging,1.0,19.0,300.0,210.0,70.0,20.0,0.0
+Hardware Engineer,Apple,United States,CA,Sunnyvale,22/01/25,ICT4,Analog,2.0,13.0,358.0,203.0,130.0,25.0,0.0
+Hardware Engineer,Marvell,United States,MA,Marlborough,22/01/25,T2,Engineer,3.0,3.0,140.0,121.0,9.0,10.0,0.0
+Hardware Engineer,Samsung,United States,CA,San Jose,22/01/24,L3,Verification,3.0,3.0,130.0,120.0,0.0,10.0,0.0
+Hardware Engineer,Lattice Semiconductor,United States,CA,San Jose,22/01/24,L3,Analog,0.0,8.0,159.0,135.0,10.0,14.0,0.0
+Hardware Engineer,Intel,India,KA,Bangalore,22/01/24,Grade 11,SoC Design,5.0,23.0,315.0,170.0,75.0,70.0,0.0
+Hardware Engineer,Samsung,India,KA,Bengaluru,22/01/24,L2,Verification,3.0,3.0,33.0,31.0,0.0,3.0,0.0
+Hardware Engineer,Nvidia,United States,OR,Hillsboro,22/01/24,IC4,Validation,0.0,6.0,232.0,170.0,62.0,0.0,0.0
+Hardware Engineer,Cadence Design Systems,United States,CA,San Jose,22/01/24,T5,SoC Design,3.0,13.0,230.0,200.0,10.0,20.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/24,9 years of experience,SOC Product Engineering,9.0,10.0,154.0,140.0,14.0,0.0,0.0
+Hardware Engineer,IBM,Canada,AB,Calgary,22/01/24,L5,SSR,10.0,18.0,77.0,60.0,0.0,17.0,0.0
+Hardware Engineer,AMD,United States,CA,Folsom,22/01/24,MTS,Verification,0.0,11.0,280.0,200.0,40.0,40.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/24,ICT3,RF,4.0,4.0,200.0,140.0,40.0,20.0,0.0
+Hardware Engineer,Google,United States,CA,Mountain View,22/01/23,L7,Analog,6.0,15.0,794.0,270.0,437.0,87.0,0.0
+Hardware Engineer,Samsung,India,KA,Bangalore,22/01/22,L1,ASIC Design,2.0,2.0,21.0,19.0,0.0,2.0,0.0
 Hardware Engineer,Qualcomm,Canada,ON,Markham,22/01/22,senior engineer,ASIC Design,3.0,8.0,121.0,87.0,24.0,10.0,0.0
 Hardware Engineer,Western Digital,United States,CA,Milpitas,22/01/21,Senior Engineer,ASIC Design,3.0,3.0,134.0,114.0,10.0,10.0,0.0
 Hardware Engineer,Raytheon,United States,AZ,Tucson,22/01/21,L1,FPGA Design,2.0,2.0,77.0,75.0,0.0,2.0,0.0

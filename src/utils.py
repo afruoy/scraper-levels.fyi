@@ -52,7 +52,7 @@ def format_salary(s):
 
 def format_date(d):
 	revers = d.split("/")[::-1]
-	a = revers[0] if len(revers[0]) == 2 else "0" + revers[0]
+	a = revers[0][-2:]
 	b = revers[1] if len(revers[1]) == 2 else "0" + revers[1]
 	c = revers[2] if len(revers[2]) == 2 else "0" + revers[2]
 	return a + "/" + c + "/" + b

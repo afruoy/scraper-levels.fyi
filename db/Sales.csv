@@ -1,22 +1,22 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Sales,Salesforce,United States,PA,Philadelphia,02022/01/27,L2,Core SE,1.0,3.0,131.0,92.0,0.0,39.0,0.0
-Sales,IBM,United States,TX,Austin,02022/01/26,Band 8,"Pre-sales consulting, IBM Software",0.0,5.0,197.0,137.0,60.0,0.0,0.0
-Sales,Google,Switzerland,ZH,Zurich,02022/01/25,L6,Cloud,4.0,14.0,397.0,145.0,35.0,217.0,0.0
-Sales,Google,United States,DC,Washington,02022/01/25,L5,Ads,6.0,10.0,269.0,146.0,37.0,86.0,0.0
-Sales,Google,United States,NY,New York,02022/01/25,L3,Looker,2.0,3.0,115.0,70.0,11.0,34.0,0.0
-Sales,Google,Singapore,SG,Singapore,02022/01/25,L5,Strategy and operations,4.0,10.0,300.0,165.0,80.0,55.0,0.0
-Sales,Google,Ireland,DN,Dublin,02022/01/25,L3,DV360 Media Specialist,3.0,3.0,121.0,74.0,21.0,25.0,0.0
-Sales,Amazon,United States,VA,Arlington,02022/01/25,L5,Healthcare,0.0,2.0,146.0,145.0,0.0,0.0,0.0
-Sales,Amazon,United States,WA,Seattle,02022/01/25,L5,General,10.0,10.0,165.0,85.0,40.0,40.0,0.0
-Sales,Rippling,United States,CA,San Francisco,02022/01/25,L5,General,2.0,6.0,150.0,80.0,10.0,60.0,0.0
-Sales,Google,United States,NY,New York,02022/01/25,L6,General,3.0,16.0,400.0,220.0,105.0,75.0,0.0
-Sales,Microsoft,United States,WA,Bellevue,02022/01/24,63,Support services,0.0,6.0,244.0,134.0,25.0,85.0,0.0
-Sales,1Password,United States,OR,Portland,02022/01/24,L2,SMB,6.0,7.0,78.0,66.0,0.0,12.0,0.0
-Sales,Dell Technologies,United States,TX,Houston,02022/01/24,S5,General,2.0,2.0,129.0,109.0,0.0,20.0,0.0
-Sales,TTEC,United States,AZ,Phoenix,02022/01/24,M2,Sales Operations manager,3.0,3.0,52.0,47.0,0.0,5.0,0.0
-Sales,Cisco,United States,TN,Nashville,02022/01/24,11,Core,4.0,20.0,280.0,112.0,0.0,168.0,0.0
-Sales,Google,United States,NY,New York,02022/01/23,L3,Programmatic Advertising (DV360),3.0,4.0,170.0,98.0,34.0,38.0,0.0
-Sales,Google,Singapore,SG,Singapore,02022/01/23,L6,Sales Strategy,7.0,15.0,360.0,240.0,70.0,50.0,0.0
+Sales,Salesforce,United States,PA,Philadelphia,22/01/27,L2,Core SE,1.0,3.0,131.0,92.0,0.0,39.0,0.0
+Sales,IBM,United States,TX,Austin,22/01/26,Band 8,"Pre-sales consulting, IBM Software",0.0,5.0,197.0,137.0,60.0,0.0,0.0
+Sales,Google,Switzerland,ZH,Zurich,22/01/25,L6,Cloud,4.0,14.0,397.0,145.0,35.0,217.0,0.0
+Sales,Google,United States,DC,Washington,22/01/25,L5,Ads,6.0,10.0,269.0,146.0,37.0,86.0,0.0
+Sales,Google,United States,NY,New York,22/01/25,L3,Looker,2.0,3.0,115.0,70.0,11.0,34.0,0.0
+Sales,Google,Singapore,SG,Singapore,22/01/25,L5,Strategy and operations,4.0,10.0,300.0,165.0,80.0,55.0,0.0
+Sales,Google,Ireland,DN,Dublin,22/01/25,L3,DV360 Media Specialist,3.0,3.0,121.0,74.0,21.0,25.0,0.0
+Sales,Amazon,United States,VA,Arlington,22/01/25,L5,Healthcare,0.0,2.0,146.0,145.0,0.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,22/01/25,L5,General,10.0,10.0,165.0,85.0,40.0,40.0,0.0
+Sales,Rippling,United States,CA,San Francisco,22/01/25,L5,General,2.0,6.0,150.0,80.0,10.0,60.0,0.0
+Sales,Google,United States,NY,New York,22/01/25,L6,General,3.0,16.0,400.0,220.0,105.0,75.0,0.0
+Sales,Microsoft,United States,WA,Bellevue,22/01/24,63,Support services,0.0,6.0,244.0,134.0,25.0,85.0,0.0
+Sales,1Password,United States,OR,Portland,22/01/24,L2,SMB,6.0,7.0,78.0,66.0,0.0,12.0,0.0
+Sales,Dell Technologies,United States,TX,Houston,22/01/24,S5,General,2.0,2.0,129.0,109.0,0.0,20.0,0.0
+Sales,TTEC,United States,AZ,Phoenix,22/01/24,M2,Sales Operations manager,3.0,3.0,52.0,47.0,0.0,5.0,0.0
+Sales,Cisco,United States,TN,Nashville,22/01/24,11,Core,4.0,20.0,280.0,112.0,0.0,168.0,0.0
+Sales,Google,United States,NY,New York,22/01/23,L3,Programmatic Advertising (DV360),3.0,4.0,170.0,98.0,34.0,38.0,0.0
+Sales,Google,Singapore,SG,Singapore,22/01/23,L6,Sales Strategy,7.0,15.0,360.0,240.0,70.0,50.0,0.0
 Sales,Google,United States,CA,Sunnyvale,22/01/22,L7,Cloud,2.0,10.0,480.0,205.0,70.0,205.0,0.0
 Sales,Google,Australia,NS,Sydney,22/01/22,L5,Cloud,2.0,8.0,219.0,135.0,26.0,58.0,0.0
 Sales,Cisco,United States,IL,Chicago,22/01/22,Grade 9,Partners,2.0,15.0,260.0,110.0,20.0,130.0,0.0

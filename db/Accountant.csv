@@ -1,10 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Accountant,Capital One,United States,VA,Richmond,02022/01/27,L3,FP&A,6.0,8.0,120.0,110.0,0.0,10.0,0
-Accountant,Raytheon,United States,AZ,Tucson,02022/01/25,P3,General,3.0,5.0,85.0,82.0,0.0,3.0,0
-Accountant,Microsoft,United States,GA,Atlanta,02022/01/25,62,Services projects,0.0,18.0,148.0,130.0,5.0,13.0,0
-Accountant,Jane Street,United States,NY,New York,02022/01/24,N/A,Accounts Payable,4.0,4.0,140.0,100.0,0.0,40.0,0
-Accountant,Deloitte,United States,CA,Costa Mesa,02022/01/24,Staff 1,Tax,0.0,0.0,67.0,67.0,0.0,0.0,0
-Accountant,Grant Thornton,Canada,ON,Toronto,02022/01/20,L2,Audit,1.0,1.0,48.0,48.0,0.0,0.0,0
+Accountant,Capital One,United States,VA,Richmond,22/01/27,L3,FP&A,6.0,8.0,120.0,110.0,0.0,10.0,0
+Accountant,Raytheon,United States,AZ,Tucson,22/01/25,P3,General,3.0,5.0,85.0,82.0,0.0,3.0,0
+Accountant,Microsoft,United States,GA,Atlanta,22/01/25,62,Services projects,0.0,18.0,148.0,130.0,5.0,13.0,0
+Accountant,Jane Street,United States,NY,New York,22/01/24,N/A,Accounts Payable,4.0,4.0,140.0,100.0,0.0,40.0,0
+Accountant,Deloitte,United States,CA,Costa Mesa,22/01/24,Staff 1,Tax,0.0,0.0,67.0,67.0,0.0,0.0,0
+Accountant,Grant Thornton,Canada,ON,Toronto,22/01/20,L2,Audit,1.0,1.0,48.0,48.0,0.0,0.0,0
 Accountant,KPMG,Canada,BC,Vancouver,22/01/20,Tax Specialist,Canadian Corporation,2.0,5.0,79.0,76.0,0.0,3.0,0
 Accountant,Ernst and Young,United States,CA,San Francisco,22/01/20,Staff 1,Tax,1.0,1.0,77.0,77.0,0.0,0.0,0
 Accountant,Moss Adams,United States,WA,Seattle,22/01/20,L1,Tax,0.0,0.0,67.0,67.0,0.0,0.0,0

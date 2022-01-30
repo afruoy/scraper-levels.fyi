@@ -1,53 +1,53 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
-Software Engineering Manager,Amazon,India,KA,Bangalore,02022/01/27,L6 SDM,Data,5.0,12.0,150.0,80.0,70.0,0.0,0.0
-Software Engineering Manager,Navi,India,KA,Bangalore,02022/01/27,L8,Full Stack,0.0,9.0,125.0,83.0,33.0,9.0,0.0
-Software Engineering Manager,Dropbox,United States,CA,San Francisco,02022/01/27,M5,ML / AI,0.0,15.0,675.0,260.0,350.0,65.0,0.0
-Software Engineering Manager,Samsung,United States,CA,San Diego,02022/01/27,L2,RF Test Software,2.0,20.0,200.0,168.0,0.0,32.0,0.0
-Software Engineering Manager,Storable,United States,UT,West Jordan,02022/01/27,1,DevOps,0.0,16.0,170.0,155.0,0.0,15.0,0.0
-Software Engineering Manager,Amazon,United States,CA,San Francisco,02022/01/26,Senior SDM,ML / AI,4.0,20.0,850.0,180.0,670.0,0.0,0.0
-Software Engineering Manager,Amdocs,United States,GA,Atlanta,02022/01/26,Director,Web Development (Front-End),15.0,16.0,203.0,180.0,0.0,23.0,0.0
-Software Engineering Manager,Lenovo,United States,IL,Chicago,02022/01/26,Band 7,Android,0.0,0.0,83.0,75.0,0.0,8.0,0.0
-Software Engineering Manager,Morgan Stanley,India,MH,Mumbai,02022/01/26,VP,API Development (Back-End),7.0,12.0,49.0,42.0,0.0,7.0,0.0
-Software Engineering Manager,Servicenow,India,TS,Hyderabad,02022/01/26,M3,Full Stack,2.0,18.0,195.0,86.0,91.0,18.0,0.0
-Software Engineering Manager,Yum! Brands,United States,TX,Plano,02022/01/26,M1,ML / AI,1.0,5.0,174.0,155.0,0.0,19.0,0.0
-Software Engineering Manager,Hulu,United States,WA,Seattle,02022/01/26,M2,Data,6.0,30.0,320.0,200.0,70.0,50.0,0.0
-Software Engineering Manager,CommScope,United States,CA,Sunnyvale,02022/01/26,D1,Networking,1.0,20.0,388.0,248.0,100.0,40.0,0.0
-Software Engineering Manager,Oracle,United States,TX,Austin,02022/01/25,M2,Full Stack,0.0,10.0,183.0,180.0,3.0,0.0,0.0
-Software Engineering Manager,Amazon,United States,WA,Seattle,02022/01/25,L6 SDM,Full Stack,5.0,9.0,300.0,165.0,135.0,0.0,0.0
-Software Engineering Manager,Target Corporation,United States,MN,Minneapolis,02022/01/25,L6,Full Stack,1.0,7.0,173.0,155.0,0.0,18.0,0.0
-Software Engineering Manager,Groupon,United States,IL,Chicago,02022/01/25,Senior Engineering Manager,Mobile (iOS + Android),2.0,7.0,285.0,200.0,35.0,50.0,0.0
-Software Engineering Manager,Applied Materials,United States,CA,Santa Clara,02022/01/25,M4,Enterprise software,14.0,14.0,258.0,190.0,30.0,38.0,0.0
-Software Engineering Manager,Webflow,United States,PA,Pittsburgh,02022/01/25,M1,Full Stack,3.0,3.0,165.0,165.0,0.0,0.0,0.0
-Software Engineering Manager,Microsoft,United States,WA,Redmond,02022/01/25,Principal EM,Full Stack,8.0,8.0,302.0,181.0,79.0,42.0,0.0
-Software Engineering Manager,JPMorgan Chase,United States,NY,New York,02022/01/25,VP,Data,12.0,20.0,201.0,170.0,0.0,31.0,0.0
-Software Engineering Manager,Publicis Sapient,United States,MA,Boston,02022/01/25,L5,Web Development (Front-End),1.0,12.0,196.0,176.0,0.0,20.0,0.0
-Software Engineering Manager,Microsoft,United States,WA,Redmond,02022/01/25,66,Distributed Systems (Back-End),5.0,23.0,380.0,245.0,75.0,60.0,0.0
-Software Engineering Manager,Facebook,United States,WA,Seattle,02022/01/25,M2,AR / VR,0.0,18.0,1.0,290.0,638.0,73.0,0.0
-Software Engineering Manager,Microsoft,United States,WA,Redmond,02022/01/25,Senior Director,Production,16.0,19.0,553.0,242.0,235.0,75.0,0.0
-Software Engineering Manager,BlackRock,United States,DE,Wilmington,02022/01/25,Senior,Full Stack,12.0,14.0,184.0,168.0,0.0,16.0,0.0
-Software Engineering Manager,Amazon,Canada,BC,Vancouver,02022/01/25,L6 SDM,Mobile (iOS + Android),0.0,15.0,284.0,162.0,61.0,60.0,0.0
-Software Engineering Manager,Amazon,United States,DC,Washington,02022/01/25,L6 SDM,Data,7.0,26.0,377.0,156.0,221.0,0.0,0.0
-Software Engineering Manager,Amazon,United States,WA,Seattle,02022/01/24,Senior SDM,Distributed Systems (Back-End),15.0,30.0,850.0,160.0,690.0,0.0,0.0
-Software Engineering Manager,Google,United States,CA,San Diego,02022/01/24,Manager,Android,17.0,19.0,250.0,200.0,20.0,30.0,0.0
-Software Engineering Manager,Google,United States,GA,Atlanta,02022/01/24,Manager (L6),Distributed Systems (Back-End),1.0,16.0,400.0,205.0,154.0,41.0,0.0
-Software Engineering Manager,Booking.com,United Kingdom,EN,Manchester,02022/01/24,H,Full Stack,5.0,12.0,170.0,120.0,20.0,30.0,0.0
-Software Engineering Manager,Capital One,United States,VA,West McLean,02022/01/24,Senior Director,Full Stack,6.0,20.0,440.0,301.0,90.0,49.0,0.0
-Software Engineering Manager,Walmart Labs,India,KA,Bangalore,02022/01/24,IN 5,API Development (Back-End),1.0,15.0,100.0,60.0,25.0,15.0,0.0
-Software Engineering Manager,Google,Poland,MZ,Warsaw,02022/01/24,Manager (L6),Distributed Systems (Back-End),5.0,15.0,222.0,100.0,100.0,22.0,0.0
-Software Engineering Manager,Refinitiv,India,KA,Bangalore,02022/01/24,L3,Full Stack,2.0,18.0,56.0,49.0,0.0,7.0,0.0
-Software Engineering Manager,Google,United States,CA,Mountain View,02022/01/24,Manager (L6),Full Stack,3.0,13.0,498.0,237.0,210.0,51.0,0.0
-Software Engineering Manager,Groupon,India,KA,Bangalore,02022/01/24,SDE 4,API Development (Back-End),3.0,14.0,80.0,65.0,5.0,10.0,0.0
-Software Engineering Manager,Apple,United States,CA,Cupertino,02022/01/24,M1,Data,9.0,15.0,413.0,228.0,140.0,45.0,0.0
-Software Engineering Manager,Goldman Sachs,United States,NY,New York,02022/01/24,Vice President,API Development (Back-End),13.0,13.0,300.0,200.0,10.0,90.0,0.0
-Software Engineering Manager,Infoblox,United States,WA,Tacoma,02022/01/23,Staff,Data,7.0,9.0,270.0,183.0,0.0,87.0,0.0
-Software Engineering Manager,Facebook,United States,CA,Menlo Park,02022/01/23,D1,ML / AI,1.0,15.0,1.0,300.0,750.0,90.0,0.0
-Software Engineering Manager,Amazon,United States,WA,Seattle,02022/01/23,L6 SDM,Full Stack,7.0,11.0,400.0,160.0,240.0,0.0,0.0
-Software Engineering Manager,Bloomberg,United States,NY,New York,02022/01/23,L4,Distributed Systems (Back-End),6.0,6.0,290.0,230.0,0.0,60.0,0.0
-Software Engineering Manager,Microsoft,United States,WA,Redmond,02022/01/23,Principal EM,Full Stack,18.0,21.0,257.0,185.0,36.0,36.0,0.0
-Software Engineering Manager,Amazon,United States,MA,Boston,02022/01/23,Senior SDM,Full Stack,3.0,10.0,510.0,160.0,350.0,0.0,0.0
-Software Engineering Manager,Amazon,United States,VA,Herndon,02022/01/23,L6 SDM,Full Stack,2.0,20.0,400.0,160.0,220.0,20.0,0.0
-Software Engineering Manager,Aetna,United States,DE,Wilmington,02022/01/23,M2,Mobile (iOS + Android),0.0,8.0,193.0,168.0,0.0,25.0,0.0
-Software Engineering Manager,Google,India,KA,Bangalore,02022/01/23,Manager (L6),Distributed Systems (Back-End),0.0,15.0,247.0,120.0,103.0,24.0,0.0
+Software Engineering Manager,Amazon,India,KA,Bangalore,22/01/27,L6 SDM,Data,5.0,12.0,150.0,80.0,70.0,0.0,0.0
+Software Engineering Manager,Navi,India,KA,Bangalore,22/01/27,L8,Full Stack,0.0,9.0,125.0,83.0,33.0,9.0,0.0
+Software Engineering Manager,Dropbox,United States,CA,San Francisco,22/01/27,M5,ML / AI,0.0,15.0,675.0,260.0,350.0,65.0,0.0
+Software Engineering Manager,Samsung,United States,CA,San Diego,22/01/27,L2,RF Test Software,2.0,20.0,200.0,168.0,0.0,32.0,0.0
+Software Engineering Manager,Storable,United States,UT,West Jordan,22/01/27,1,DevOps,0.0,16.0,170.0,155.0,0.0,15.0,0.0
+Software Engineering Manager,Amazon,United States,CA,San Francisco,22/01/26,Senior SDM,ML / AI,4.0,20.0,850.0,180.0,670.0,0.0,0.0
+Software Engineering Manager,Amdocs,United States,GA,Atlanta,22/01/26,Director,Web Development (Front-End),15.0,16.0,203.0,180.0,0.0,23.0,0.0
+Software Engineering Manager,Lenovo,United States,IL,Chicago,22/01/26,Band 7,Android,0.0,0.0,83.0,75.0,0.0,8.0,0.0
+Software Engineering Manager,Morgan Stanley,India,MH,Mumbai,22/01/26,VP,API Development (Back-End),7.0,12.0,49.0,42.0,0.0,7.0,0.0
+Software Engineering Manager,Servicenow,India,TS,Hyderabad,22/01/26,M3,Full Stack,2.0,18.0,195.0,86.0,91.0,18.0,0.0
+Software Engineering Manager,Yum! Brands,United States,TX,Plano,22/01/26,M1,ML / AI,1.0,5.0,174.0,155.0,0.0,19.0,0.0
+Software Engineering Manager,Hulu,United States,WA,Seattle,22/01/26,M2,Data,6.0,30.0,320.0,200.0,70.0,50.0,0.0
+Software Engineering Manager,CommScope,United States,CA,Sunnyvale,22/01/26,D1,Networking,1.0,20.0,388.0,248.0,100.0,40.0,0.0
+Software Engineering Manager,Oracle,United States,TX,Austin,22/01/25,M2,Full Stack,0.0,10.0,183.0,180.0,3.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/25,L6 SDM,Full Stack,5.0,9.0,300.0,165.0,135.0,0.0,0.0
+Software Engineering Manager,Target Corporation,United States,MN,Minneapolis,22/01/25,L6,Full Stack,1.0,7.0,173.0,155.0,0.0,18.0,0.0
+Software Engineering Manager,Groupon,United States,IL,Chicago,22/01/25,Senior Engineering Manager,Mobile (iOS + Android),2.0,7.0,285.0,200.0,35.0,50.0,0.0
+Software Engineering Manager,Applied Materials,United States,CA,Santa Clara,22/01/25,M4,Enterprise software,14.0,14.0,258.0,190.0,30.0,38.0,0.0
+Software Engineering Manager,Webflow,United States,PA,Pittsburgh,22/01/25,M1,Full Stack,3.0,3.0,165.0,165.0,0.0,0.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/25,Principal EM,Full Stack,8.0,8.0,302.0,181.0,79.0,42.0,0.0
+Software Engineering Manager,JPMorgan Chase,United States,NY,New York,22/01/25,VP,Data,12.0,20.0,201.0,170.0,0.0,31.0,0.0
+Software Engineering Manager,Publicis Sapient,United States,MA,Boston,22/01/25,L5,Web Development (Front-End),1.0,12.0,196.0,176.0,0.0,20.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/25,66,Distributed Systems (Back-End),5.0,23.0,380.0,245.0,75.0,60.0,0.0
+Software Engineering Manager,Facebook,United States,WA,Seattle,22/01/25,M2,AR / VR,0.0,18.0,1.0,290.0,638.0,73.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/25,Senior Director,Production,16.0,19.0,553.0,242.0,235.0,75.0,0.0
+Software Engineering Manager,BlackRock,United States,DE,Wilmington,22/01/25,Senior,Full Stack,12.0,14.0,184.0,168.0,0.0,16.0,0.0
+Software Engineering Manager,Amazon,Canada,BC,Vancouver,22/01/25,L6 SDM,Mobile (iOS + Android),0.0,15.0,284.0,162.0,61.0,60.0,0.0
+Software Engineering Manager,Amazon,United States,DC,Washington,22/01/25,L6 SDM,Data,7.0,26.0,377.0,156.0,221.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/24,Senior SDM,Distributed Systems (Back-End),15.0,30.0,850.0,160.0,690.0,0.0,0.0
+Software Engineering Manager,Google,United States,CA,San Diego,22/01/24,Manager,Android,17.0,19.0,250.0,200.0,20.0,30.0,0.0
+Software Engineering Manager,Google,United States,GA,Atlanta,22/01/24,Manager (L6),Distributed Systems (Back-End),1.0,16.0,400.0,205.0,154.0,41.0,0.0
+Software Engineering Manager,Booking.com,United Kingdom,EN,Manchester,22/01/24,H,Full Stack,5.0,12.0,170.0,120.0,20.0,30.0,0.0
+Software Engineering Manager,Capital One,United States,VA,West McLean,22/01/24,Senior Director,Full Stack,6.0,20.0,440.0,301.0,90.0,49.0,0.0
+Software Engineering Manager,Walmart Labs,India,KA,Bangalore,22/01/24,IN 5,API Development (Back-End),1.0,15.0,100.0,60.0,25.0,15.0,0.0
+Software Engineering Manager,Google,Poland,MZ,Warsaw,22/01/24,Manager (L6),Distributed Systems (Back-End),5.0,15.0,222.0,100.0,100.0,22.0,0.0
+Software Engineering Manager,Refinitiv,India,KA,Bangalore,22/01/24,L3,Full Stack,2.0,18.0,56.0,49.0,0.0,7.0,0.0
+Software Engineering Manager,Google,United States,CA,Mountain View,22/01/24,Manager (L6),Full Stack,3.0,13.0,498.0,237.0,210.0,51.0,0.0
+Software Engineering Manager,Groupon,India,KA,Bangalore,22/01/24,SDE 4,API Development (Back-End),3.0,14.0,80.0,65.0,5.0,10.0,0.0
+Software Engineering Manager,Apple,United States,CA,Cupertino,22/01/24,M1,Data,9.0,15.0,413.0,228.0,140.0,45.0,0.0
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/01/24,Vice President,API Development (Back-End),13.0,13.0,300.0,200.0,10.0,90.0,0.0
+Software Engineering Manager,Infoblox,United States,WA,Tacoma,22/01/23,Staff,Data,7.0,9.0,270.0,183.0,0.0,87.0,0.0
+Software Engineering Manager,Facebook,United States,CA,Menlo Park,22/01/23,D1,ML / AI,1.0,15.0,1.0,300.0,750.0,90.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/01/23,L6 SDM,Full Stack,7.0,11.0,400.0,160.0,240.0,0.0,0.0
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/01/23,L4,Distributed Systems (Back-End),6.0,6.0,290.0,230.0,0.0,60.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/01/23,Principal EM,Full Stack,18.0,21.0,257.0,185.0,36.0,36.0,0.0
+Software Engineering Manager,Amazon,United States,MA,Boston,22/01/23,Senior SDM,Full Stack,3.0,10.0,510.0,160.0,350.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,VA,Herndon,22/01/23,L6 SDM,Full Stack,2.0,20.0,400.0,160.0,220.0,20.0,0.0
+Software Engineering Manager,Aetna,United States,DE,Wilmington,22/01/23,M2,Mobile (iOS + Android),0.0,8.0,193.0,168.0,0.0,25.0,0.0
+Software Engineering Manager,Google,India,KA,Bangalore,22/01/23,Manager (L6),Distributed Systems (Back-End),0.0,15.0,247.0,120.0,103.0,24.0,0.0
 Software Engineering Manager,Johnson & Johnson,United States,CA,Redwood City,22/01/23,30,DevOps,0.0,8.0,220.0,192.0,0.0,28.0,0.0
 Software Engineering Manager,Blink Health,United States,NY,New York,22/01/23,M7,Full Stack,3.0,12.0,275.0,250.0,0.0,25.0,0.0
 Software Engineering Manager,Endava,United States,NC,Charlotte,22/01/23,6,API Development (Back-End),4.0,15.0,155.0,140.0,10.0,5.0,0.0
