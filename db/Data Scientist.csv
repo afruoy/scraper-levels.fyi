@@ -1,4 +1,50 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Cigna,United States,CT,Hartford,22/01/31,L4,Marketing,2.0,8.0,163.0,138.0,0.0,25.0,0.0
+Data Scientist,Chegg,United States,NY,Brooklyn,22/01/30,L4,General,5.0,9.0,375.0,175.0,200.0,0.0,0.0
+Data Scientist,Glovo,Spain,CT,Barcelona,22/01/30,L2,Data,1.0,3.0,82.0,67.0,15.0,0.0,0.0
+Data Scientist,LatentView Analytics,United States,CA,San Francisco,22/01/30,L4,General,8.0,12.0,185.0,139.0,33.0,13.0,0.0
+Data Scientist,Slalom,United States,CA,Palo Alto,22/01/30,cosultant,General,1.0,9.0,155.0,145.0,0.0,10.0,0.0
+Data Scientist,Ernst and Young,United States,NY,New York,22/01/30,Senior,DS / AI,0.0,4.0,167.0,147.0,0.0,20.0,9.0
+Data Scientist,RBC,Canada,ON,Toronto,22/01/30,PL06,ML/AI,4.0,4.0,130.0,104.0,0.0,26.0,0.0
+Data Scientist,RBC,Canada,ON,Toronto,22/01/30,PL08,Data,0.0,4.0,84.0,75.0,0.0,9.0,0.0
+Data Scientist,Facebook,United States,NV,Henderson,22/01/30,IC5,General,0.0,6.0,299.0,170.0,83.0,46.0,0.0
+Data Scientist,CVS Health,United States,IL,Chicago,22/01/30,Senior,Optimization/ML,1.0,1.0,127.0,115.0,0.0,12.0,0.0
+Data Scientist,Wayfair,United States,TX,Austin,22/01/29,L3,Product,0.0,2.0,121.0,110.0,0.0,11.0,0.0
+Data Scientist,GE,United States,CA,Los Angeles,22/01/29,Senior,Machine Learning,3.0,3.0,180.0,160.0,0.0,20.0,0.0
+Data Scientist,Kinaxis,Canada,ON,Toronto,22/01/29,Advisory,DS,2.0,3.0,129.0,117.0,0.0,12.0,0.0
+Data Scientist,Facebook,United States,NY,New York,22/01/29,IC3,General,1.0,1.0,215.0,160.0,20.0,35.0,0.0
+Data Scientist,Amazon,United States,NY,New York,22/01/29,L5,Optimization,2.0,5.0,190.0,140.0,50.0,0.0,0.0
+Data Scientist,Capgemini,India,MH,Mumbai,22/01/29,b1,data science,4.0,4.0,9.0,9.0,0.0,0.0,0.0
+Data Scientist,Optum,United States,MN,Eden Prairie,22/01/29,Principal,ML,2.0,5.0,182.0,158.0,0.0,24.0,0.0
+Data Scientist,Freddie Mac,United States,VA,Mc Lean,22/01/29,Sr.,ML,0.0,0.0,160.0,145.0,0.0,15.0,0.0
+Data Scientist,Google,United States,IL,Chicago,22/01/28,L4,Machine Learning,0.0,9.0,210.0,125.0,70.0,15.0,0.0
+Data Scientist,Grubhub,United States,NY,New York,22/01/28,L6,Machine Learning,3.0,10.0,270.0,170.0,100.0,0.0,0.0
+Data Scientist,Anthem,United States,IL,Chicago,22/01/28,L6,Data Engineering,1.0,5.0,145.0,135.0,0.0,10.0,0.0
+Data Scientist,Scotiabank,Canada,ON,Toronto,22/01/28,7,customer behavior,2.0,4.0,93.0,82.0,3.0,8.0,0.0
+Data Scientist,JPMorgan Chase,United States,NY,New York,22/01/28,Vice President,Data Science,2.0,6.0,215.0,170.0,0.0,45.0,0.0
+Data Scientist,Apple,United States,OR,Portland,22/01/28,ICT4,Machine Learning Engineer,2.0,5.0,280.0,160.0,100.0,20.0,0.0
+Data Scientist,Wells Fargo,United States,NC,Charlotte,22/01/28,L3,NLP,3.0,3.0,185.0,145.0,0.0,40.0,0.0
+Data Scientist,RBC,Canada,ON,Toronto,22/01/28,L7,Business Analytics,3.0,3.0,110.0,100.0,0.0,10.0,0.0
+Data Scientist,Principal Financial Group,United States,IA,Des Moines,22/01/28,1,NLP/Advanced Analytics,0.0,1.0,79.0,73.0,0.0,6.0,0.0
+Data Scientist,Amazon,United States,MA,Boston,22/01/28,L4,AWS AI,0.0,3.0,281.0,150.0,41.0,90.0,0.0
+Data Scientist,Monzo,United Kingdom,EN,London,22/01/28,L4,General,2.0,8.0,220.0,150.0,70.0,0.0,0.0
+Data Scientist,Capital One,United States,NY,New York,22/01/28,Principal,Data Science,1.0,2.0,174.0,164.0,0.0,10.0,0.0
+Data Scientist,Zalando,Germany,BE,Berlin,22/01/28,C7,ML / AI,3.0,6.0,101.0,101.0,0.0,0.0,0.0
+Data Scientist,Booz Allen Hamilton,United States,DC,Washington,22/01/28,Senior Consultant,ML,0.0,2.0,110.0,105.0,0.0,5.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/28,L5,Machine Learning,2.0,6.0,244.0,156.0,63.0,25.0,0.0
+Data Scientist,Premera Blue Cross,United States,WA,Mountlake Terrace,22/01/28,L4,DATA,3.0,5.0,172.0,150.0,0.0,22.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/01/28,L6,General,3.0,5.0,252.0,160.0,92.0,0.0,0.0
+Data Scientist,Deloitte Advisory,Canada,ON,Toronto,22/01/28,3,M&A,4.0,4.0,110.0,96.0,0.0,14.0,0.0
+Data Scientist,Google,United States,NY,New York,22/01/28,L5,Data Science (Not PA),0.0,11.0,345.0,210.0,103.0,32.0,0.0
+Data Scientist,Slalom,United States,NY,New York,22/01/28,Principal,General,5.0,6.0,173.0,155.0,0.0,18.0,0.0
+Data Scientist,Procter & Gamble,United States,OH,Cincinnati,22/01/28,1,Natural Language Processing,2.0,2.0,104.0,104.0,0.0,0.0,0.0
+Data Scientist,TripAdvisor,United States,MA,Needham,22/01/27,L1,b2c,1.0,1.0,107.0,95.0,2.0,10.0,0.0
+Data Scientist,Gopuff,United States,CA,San Francisco,22/01/27,L3,Machine Learning,0.0,3.0,245.0,160.0,70.0,15.0,0.0
+Data Scientist,Tinkoff Bank,Russia,MC,Moscow,22/01/27,Junior,Information Security,1.0,1.0,24.0,21.0,0.0,3.0,0.0
+Data Scientist,Walmart Global Tech,United States,CA,Sunnyvale,22/01/27,X4,ML,1.0,4.0,250.0,175.0,40.0,35.0,0.0
+Data Scientist,Nielsen,United States,CA,Emeryville,22/01/27,L3,Meta Data,2.0,4.0,156.0,142.0,0.0,14.0,0.0
+Data Scientist,Wells Fargo,United States,NC,Charlotte,22/01/27,QAS3,ML,3.0,3.0,203.0,153.0,10.0,40.0,0.0
+Data Scientist,Duolingo,United States,PA,Pittsburgh,22/01/27,L1,Data Science,0.0,0.0,197.0,130.0,33.0,34.0,0.0
 Data Scientist,Tesco,United Kingdom,EN,London,22/01/27,Senior,computer vision,2.0,2.0,103.0,94.0,0.0,9.0,0.0
 Data Scientist,Snorkel AI,United States,CA,Palo Alto,22/01/27,L1,General,1.0,6.0,210.0,155.0,35.0,20.0,0.0
 Data Scientist,The Home Depot,United States,GA,Atlanta,22/01/27,L1,Marketing,1.0,1.0,110.0,95.0,8.0,8.0,0.0

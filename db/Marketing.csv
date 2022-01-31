@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Square,United States,CA,San Francisco,22/01/30,L5,Growth,3.0,7.0,175.0,135.0,40.0,0.0,0.0
+Marketing,PayPal,United States,CA,San Jose,22/01/30,T27,Product marketing,3.0,12.0,285.0,185.0,70.0,30.0,0.0
+Marketing,Atlassian,United States,IL,Chicago,22/01/30,P5,ABM,1.0,5.0,176.0,140.0,15.0,21.0,0.0
+Marketing,Amazon,United States,WA,Seattle,22/01/30,L5,Performance,1.0,5.0,165.0,115.0,50.0,0.0,0.0
+Marketing,Union Pacific,United States,NE,Omaha,22/01/29,L15,General,12.0,15.0,200.0,150.0,20.0,30.0,0.0
+Marketing,BigCommerce,United States,TX,Austin,22/01/28,L4,Partner,1.0,10.0,143.0,130.0,13.0,0.0,0.0
+Marketing,Amazon,United States,WA,Seattle,22/01/28,L6,Marketplace,0.0,12.0,190.0,152.0,38.0,0.0,0.0
+Marketing,Microsoft,United States,WA,Redmond,22/01/28,65,General,9.0,16.0,388.0,189.0,171.0,28.0,0.0
+Marketing,Advantest,Germany,BW,Stuttgart,22/01/28,Director,General,2.0,13.0,145.0,105.0,0.0,40.0,0.0
+Marketing,Mitel,United States,TX,Plano,22/01/28,10,Sales Enablement,2.0,20.0,185.0,165.0,0.0,20.0,0.0
 Marketing,Apple,Singapore,SG,Singapore,22/01/26,IC4,General,4.0,14.0,140.0,100.0,30.0,10.0,0.0
 Marketing,VMware,United States,CA,Palo Alto,22/01/26,M4,Go To Market,4.0,15.0,248.0,202.0,5.0,41.0,0.0
 Marketing,HP Inc,United States,WA,Vancouver,22/01/25,L4,analyst,3.0,15.0,149.0,133.0,3.0,13.0,0.0

@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,IBM,United States,NC,Greensboro,22/01/30,Band 9,DevOps,2.0,7.0,250.0,170.0,5.0,75.0,0.0
+Solution Architect,Amazon,United States,NY,New York,22/01/30,L5,Financial Services,3.0,3.0,178.0,152.0,18.0,8.0,0.0
+Solution Architect,Cisco,United States,TX,Dallas,22/01/30,Technical Leader 1,API Development (Back-End),12.0,14.0,250.0,160.0,50.0,40.0,0.0
+Solution Architect,Northrop Grumman,United States,VA,Chantilly,22/01/29,L6,Distributed Systems (Back-End),2.0,20.0,220.0,220.0,0.0,0.0,0.0
+Solution Architect,Fiserv,United States,NJ,Berkeley Heights,22/01/28,Architect,Systems,4.0,19.0,177.0,157.0,10.0,10.0,0.0
+Solution Architect,EPAM Systems,Spain,AN,Malaga,22/01/28,B1,API Development (Back-End),5.0,13.0,76.0,66.0,5.0,5.0,0.0
+Solution Architect,Amazon,Germany,HE,Frankfurt,22/01/28,L6,Full Stack,2.0,17.0,157.0,117.0,40.0,0.0,0.0
+Solution Architect,Google,United States,TX,Austin,22/01/28,L4,Data,3.0,6.0,251.0,123.0,75.0,53.0,0.0
+Solution Architect,Amazon web services,United States,WA,Seattle,22/01/28,L6,Sales,5.0,16.0,260.0,160.0,100.0,0.0,0.0
+Solution Architect,PennyMac Loan Services,United States,CA,Los Angeles,22/01/28,VP,DevOps,1.0,15.0,225.0,180.0,0.0,45.0,0.0
+Solution Architect,Amazon,United States,NY,New York,22/01/28,L6,Full Stack,0.0,19.0,285.0,175.0,10.0,100.0,0.0
+Solution Architect,Accenture,Saudi Arabia,RI,Riyadh,22/01/27,L7,Full Stack,0.0,18.0,144.0,120.0,24.0,0.0,0.0
 Solution Architect,Accenture,United States,NJ,Florham Park,22/01/27,8,DevOps,1.0,4.0,187.0,178.0,2.0,7.0,0.0
 Solution Architect,Electronic Arts,India,AP,Hyderabad,22/01/27,21,Site Reliability (SRE),1.0,9.0,68.0,40.0,15.0,13.0,0.0
 Solution Architect,Amazon,United States,NC,Raleigh,22/01/27,L6,DevOps,1.0,10.0,280.0,160.0,70.0,50.0,0.0

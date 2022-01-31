@@ -1,4 +1,25 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Designer,Altair,United States,CA,San Jose,22/01/31,L3,User Experience (UX),8.0,8.0,102.0,96.0,6.0,0.0,0.0
+Product Designer,Citi,United States,NY,New York,22/01/30,C12,User Experience (UX),2.0,4.0,133.0,130.0,0.0,3.0,0.0
+Product Designer,Ableton,Germany,BE,Berlin,22/01/30,L4,User Interfaces,3.0,5.0,75.0,75.0,0.0,0.0,0.0
+Product Designer,Marqeta,United States,CA,Oakland,22/01/30,M2,User Experience (UX),2.0,7.0,575.0,260.0,250.0,65.0,0.0
+Product Designer,Klarna,Sweden,ST,Stockholm,22/01/29,L3,User Experience (UX),1.0,10.0,74.0,70.0,2.0,2.0,0.0
+Product Designer,State Farm,United States,AZ,Phoenix,22/01/29,L3,User Experience (UX),1.0,1.0,86.0,86.0,0.0,0.0,0.0
+Product Designer,Capital One,United States,DC,Washington,22/01/29,Senior,User Experience (UX),1.0,5.0,111.0,105.0,0.0,6.0,0.0
+Product Designer,Brex,United States,CA,San Francisco,22/01/29,L4,User Experience (UX),2.0,9.0,305.0,200.0,105.0,0.0,0.0
+Product Designer,Google,United States,CA,San Francisco,22/01/28,L5,User Experience (UX),6.0,9.0,254.0,190.0,32.0,32.0,0.0
+Product Designer,Google,United States,CA,Mountain View,22/01/28,L6,User Experience (UX),1.0,11.0,476.0,220.0,192.0,64.0,0.0
+Product Designer,Flipkart,India,KA,Bengaluru,22/01/28,11,User Experience (UX),2.0,10.0,87.0,65.0,12.0,10.0,0.0
+Product Designer,Spotify,Sweden,ST,Stockholm,22/01/28,L5,User Research,1.0,5.0,107.0,85.0,22.0,0.0,0.0
+Product Designer,Spotify,Sweden,ST,Stockholm,22/01/28,L5,User Research,1.0,5.0,129.0,109.0,20.0,0.0,0.0
+Product Designer,Spotify,United Kingdom,EN,London,22/01/28,L4,User Research,2.0,5.0,121.0,99.0,22.0,0.0,0.0
+Product Designer,Visa,United States,CA,Foster City,22/01/28,L6,User Experience (UX),2.0,8.0,285.0,185.0,45.0,55.0,0.0
+Product Designer,Intuit,United States,CA,San Francisco,22/01/28,Senior,User Experience (UX),0.0,3.0,229.0,165.0,31.0,33.0,0.0
+Product Designer,Walmart,United States,CA,Sunnyvale,22/01/28,L5,User Experience (UX),3.0,10.0,293.0,195.0,60.0,38.0,0.0
+Product Designer,Elastic,United States,WA,Seattle,22/01/28,L4,User Experience (UX),3.0,5.0,185.0,132.0,53.0,0.0,15.0
+Product Designer,Google,United States,CA,San Francisco,22/01/27,L5,Communication,2.0,5.0,200.0,130.0,50.0,20.0,0.0
+Product Designer,Comcast,United States,PA,Philadelphia,22/01/27,L4,User Research,3.0,10.0,180.0,148.0,10.0,22.0,10.0
+Product Designer,Opendoor,United States,CA,San Francisco,22/01/27,L4,User Experience (UX),0.0,6.0,350.0,200.0,150.0,0.0,0.0
 Product Designer,Black Knight,United States,FL,Jacksonville,22/01/27,L2,User Experience (UX),3.0,3.0,78.0,76.0,0.0,2.0,0.0
 Product Designer,Chegg,United States,CA,Santa Clara,22/01/27,L3,User Experience (UX),2.0,5.0,144.0,126.0,18.0,0.0,0.0
 Product Designer,Global Relay,Canada,BC,Vancouver,22/01/26,Mid level,User Experience (UX),1.0,6.0,90.0,85.0,0.0,5.0,0.0

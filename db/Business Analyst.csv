@@ -1,4 +1,26 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,IBM,Australia,VI,Ballarat,22/01/30,Band 8,Application Management,0.0,10.0,91.0,91.0,0.0,0.0,0.0
+Business Analyst,Apple,United States,TX,Austin,22/01/29,ICT2,Finance,7.0,7.0,88.0,75.0,8.0,5.0,0.0
+Business Analyst,ZS,United States,NJ,Princeton,22/01/29,Senior,Decision Analytics,2.0,2.0,102.0,93.0,0.0,9.0,0.0
+Business Analyst,LiveRamp,United States,CA,San Francisco,22/01/29,L2,General,1.0,2.0,135.0,115.0,20.0,0.0,0.0
+Business Analyst,Autodesk,United States,CA,San Francisco,22/01/29,L4,analytics & strategy,2.0,4.0,168.0,125.0,30.0,13.0,0.0
+Business Analyst,BNY Mellon,United States,CA,San Francisco,22/01/29,Specialist,General,6.0,12.0,182.0,175.0,0.0,7.0,0.0
+Business Analyst,Veracode,United States,MA,Burlington,22/01/28,Manager,Sales Operations,6.0,6.0,130.0,120.0,0.0,10.0,0.0
+Business Analyst,Capital One,United States,DC,Washington,22/01/28,Entry Level,Strategy,1.0,1.0,111.0,105.0,0.0,6.0,0.0
+Business Analyst,Thermo Fisher Scientific,United States,NC,Durham,22/01/28,6,Thermo Fisher Scientific,1.0,1.0,112.0,103.0,0.0,9.0,0.0
+Business Analyst,Intel,United States,CA,San Jose,22/01/28,Grade 5,General,2.0,3.0,98.0,88.0,2.0,8.0,0.0
+Business Analyst,Slalom,Canada,ON,Toronto,22/01/28,L2,Salesforce,3.0,3.0,87.0,81.0,0.0,6.0,0.0
+Business Analyst,Accenture,Singapore,SG,Singapore,22/01/28,L11 Analyst,General,1.0,1.0,47.0,43.0,0.0,4.0,0.0
+Business Analyst,ServiceTitan,United States,CA,Glendale,22/01/28,L3,Product,5.0,5.0,258.0,120.0,120.0,18.0,0.0
+Business Analyst,Capital One,United States,VA,Richmond,22/01/28,Director,Analytics,13.0,13.0,286.0,218.0,35.0,33.0,0.0
+Business Analyst,Google,United States,CO,Boulder,22/01/28,L4,Payments,3.0,7.0,230.0,150.0,50.0,30.0,0.0
+Business Analyst,FedEx,United States,TN,Collierville,22/01/27,1,Pricing,0.0,0.0,72.0,67.0,0.0,5.0,0.0
+Business Analyst,Amazon,United States,VA,Arlington,22/01/27,L5,General,0.0,4.0,155.0,125.0,17.0,13.0,0.0
+Business Analyst,Amazon,United States,WA,Seattle,22/01/27,L5,General,4.0,4.0,138.0,113.0,25.0,0.0,0.0
+Business Analyst,Intuit,United States,CA,San Diego,22/01/27,Senior,Product,0.0,7.0,207.0,147.0,37.0,23.0,0.0
+Business Analyst,ByteDance,United States,NY,New York,22/01/27,2,General,1.0,3.0,205.0,125.0,50.0,30.0,50.0
+Business Analyst,Intel,United States,OR,Hillsboro,22/01/27,Grade 8,Finance,6.0,11.0,180.0,140.0,14.0,26.0,0.0
+Business Analyst,LatentView Analytics,India,TN,Chennai,22/01/27,L1,General,1.0,1.0,8.0,7.0,0.0,1.0,0.0
 Business Analyst,Peraton,United States,VA,Chantilly,22/01/27,L3,Government,1.0,7.0,125.0,125.0,0.0,0.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/01/27,L5,QA,1.0,6.0,175.0,135.0,25.0,15.0,0.0
 Business Analyst,Apple,United States,CA,Cupertino,22/01/26,IC3,Supply Chain,4.0,6.0,155.0,107.0,40.0,8.0,0.0

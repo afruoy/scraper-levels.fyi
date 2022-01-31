@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Raytheon,United States,CT,Windsor Locks,22/01/31,P4,General,5.0,5.0,97.0,97.0,0.0,0.0,0.0
+Mechanical Engineer,Airbus,Germany,BY,Munich,22/01/29,L2,Structural Dynamics,2.0,3.0,85.0,74.0,0.0,11.0,0.0
+Mechanical Engineer,Northrop Grumman,United States,UT,Salt Lake City,22/01/29,T2,General,2.0,5.0,83.0,83.0,0.0,0.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,22/01/29,GSR6,General,0.0,0.0,97.0,92.0,0.0,5.0,0.0
+Mechanical Engineer,Tesla,United States,CA,Fremont,22/01/28,P2,Mechanical Engineer,1.0,6.0,167.0,130.0,35.0,2.0,0.0
+Mechanical Engineer,Pacific Northwest National Laboratory,United States,WA,Richland,22/01/28,L3,Research,9.0,13.0,120.0,120.0,0.0,0.0,0.0
+Mechanical Engineer,Lockheed Martin,United States,CO,Littleton,22/01/27,L2,Controls,1.0,4.0,105.0,100.0,0.0,5.0,0.0
 Mechanical Engineer,Tesla,United States,CA,Fremont,22/01/27,P1,Mechanical,1.0,1.0,83.0,80.0,0.0,3.0,0.0
 Mechanical Engineer,Google,United States,CA,Mountain View,22/01/27,L5,PD,3.0,8.0,319.0,182.0,101.0,37.0,0.0
 Mechanical Engineer,Dominion Energy,United States,VA,Richmond,22/01/27,L3,Engineer,6.0,7.0,120.0,105.0,0.0,15.0,0.0

@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Investment Banker,Citi,Canada,ON,Toronto,22/01/30,Analyst,General,1.0,1.0,150.0,80.0,0.0,70.0,0
+Investment Banker,JPMorgan Chase,India,MH,Mumbai,22/01/30,Analyst,General,4.0,4.0,544.0,544.0,0.0,0.0,0
+Investment Banker,JPMorgan Chase,India,MH,Mumbai,22/01/29,Analyst,General,3.0,3.0,35.0,25.0,0.0,10.0,0
+Investment Banker,Goldman Sachs,United Kingdom,EN,London,22/01/29,Executive Director,Equity,4.0,12.0,500.0,240.0,50.0,210.0,0
 Investment Banker,Goldman Sachs,United States,NY,New York,22/01/27,Associate,Quant,2.0,2.0,234.0,150.0,34.0,50.0,0
 Investment Banker,Goldman Sachs,United States,TX,Dallas,22/01/26,Associate,Legal,0.0,4.0,130.0,120.0,0.0,10.0,0
 Investment Banker,Goldman Sachs,United States,NY,New York,22/01/26,Associate,Private Equity,6.0,6.0,600.0,160.0,100.0,340.0,0

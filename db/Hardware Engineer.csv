@@ -1,4 +1,27 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Intel,United States,OR,Hillsboro,22/01/30,Grade 6,Verification,1.0,2.0,138.0,118.0,10.0,10.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/30,Senior,Analog,0.0,4.0,185.0,135.0,35.0,15.0,0.0
+Hardware Engineer,Infineon Technologies,United States,WA,Lynnwood,22/01/30,10,Analog,2.0,4.0,110.0,100.0,0.0,10.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/30,Senior Staff Engg,ASIC Design,10.0,15.0,300.0,190.0,80.0,30.0,0.0
+Hardware Engineer,AMD,United States,TX,Austin,22/01/30,L5,ASIC Design,2.0,2.0,120.0,105.0,5.0,10.0,0.0
+Hardware Engineer,Intel,United States,TX,Austin,22/01/29,Grade 5,SoC Design,0.0,1.0,190.0,120.0,40.0,30.0,0.0
+Hardware Engineer,Boston Dynamics,United States,MA,Boston,22/01/29,P2,Embedded Systems,2.0,3.0,168.0,114.0,0.0,54.0,0.0
+Hardware Engineer,AMD,United States,TX,Austin,22/01/29,L8,Verification,0.0,8.0,270.0,185.0,50.0,35.0,0.0
+Hardware Engineer,Facebook,United States,CA,Los Angeles,22/01/29,IC4,ASIC Design,0.0,3.0,240.0,150.0,45.0,45.0,0.0
+Hardware Engineer,AMD,United States,CA,Santa Clara,22/01/29,SDE2,Verification,0.0,0.0,143.0,125.0,8.0,10.0,0.0
+Hardware Engineer,Northrop Grumman,United States,CA,Los Angeles,22/01/29,T3,Verification,2.0,9.0,141.0,141.0,0.0,0.0,0.0
+Hardware Engineer,Nvidia,United States,MA,Westborough,22/01/29,IC3,SoC Design,0.0,6.0,180.0,140.0,40.0,0.0,0.0
+Hardware Engineer,Argo AI,United States,CA,San Jose,22/01/29,Senior,FPGA Design,2.0,30.0,350.0,230.0,90.0,30.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/28,ICT4,Depth HW,3.0,8.0,482.0,185.0,280.0,17.0,0.0
+Hardware Engineer,Qualcomm,United States,ID,Boise,22/01/28,Director,GPU,2.0,27.0,461.0,273.0,130.0,58.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/28,Staff Engineer,GPU,0.0,3.0,352.0,197.0,120.0,35.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/28,ICT5,Analog,7.0,15.0,414.0,219.0,150.0,45.0,0.0
+Hardware Engineer,Texas Instruments,United States,TX,Dallas,22/01/28,26,ASIC Design,2.0,2.0,121.0,99.0,4.0,18.0,0.0
+Hardware Engineer,AMD,United States,CA,Santa Clara,22/01/28,MTS,ASIC Design,3.0,9.0,218.0,160.0,30.0,28.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/27,ICT3,Display,2.0,5.0,230.0,155.0,50.0,25.0,0.0
+Hardware Engineer,Intel,United States,CA,San Francisco,22/01/27,Grade 9,ASIC Design,2.0,11.0,150.0,150.0,0.0,0.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/01/27,ICT4,Display,5.0,8.0,320.0,190.0,100.0,30.0,0.0
+Hardware Engineer,Intel,United States,TX,Austin,22/01/27,Grade 6,SoC Design,5.0,5.0,162.0,135.0,15.0,12.0,0.0
 Hardware Engineer,Apple,China,SH,Shanghai,22/01/27,ICT4,Quality Assurance,1.0,7.0,246.0,142.0,98.0,6.0,0.0
 Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/27,Staff Engineer,ASIC Design,4.0,8.0,245.0,170.0,55.0,20.0,0.0
 Hardware Engineer,Intel,United States,OR,Portland,22/01/27,Grade 10,SoC Design,22.0,22.0,378.0,220.0,88.0,70.0,0.0

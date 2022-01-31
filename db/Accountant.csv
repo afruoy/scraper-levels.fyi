@@ -1,8 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Microsoft,United States,WA,Seattle,22/01/29,66,Finance FP&A,17.0,20.0,370.0,217.0,100.0,53.0,0
+Accountant,RSM,United States,TX,Dallas,22/01/29,S2,General,3.0,3.0,85.0,82.0,0.0,3.0,0
+Accountant,PwC,United States,OH,Cleveland,22/01/28,Senior Associate,Assurance,3.0,3.0,79.0,74.0,0.0,5.0,0
+Accountant,Uber,United States,CA,San Francisco,22/01/28,L5,Accounting,2.0,9.0,185.0,130.0,35.0,20.0,0
+Accountant,HashiCorp,United States,CA,San Francisco,22/01/28,P3,GTM,0.0,3.0,140.0,125.0,15.0,0.0,0
+Accountant,PwC,United States,NY,New York,22/01/27,A2,Tax,1.0,1.0,87.0,85.0,0.0,2.0,0
 Accountant,Capital One,United States,VA,Richmond,22/01/27,L3,FP&A,6.0,8.0,120.0,110.0,0.0,10.0,0
 Accountant,Raytheon,United States,AZ,Tucson,22/01/25,P3,General,3.0,5.0,85.0,82.0,0.0,3.0,0
 Accountant,Microsoft,United States,GA,Atlanta,22/01/25,62,Services projects,0.0,18.0,148.0,130.0,5.0,13.0,0
-Accountant,Jane Street,United States,NY,New York,22/01/24,N/A,Accounts Payable,4.0,4.0,140.0,100.0,0.0,40.0,0
+Accountant,Jane Street,United States,NY,New York,22/01/24,,Accounts Payable,4.0,4.0,140.0,100.0,0.0,40.0,0
 Accountant,Deloitte,United States,CA,Costa Mesa,22/01/24,Staff 1,Tax,0.0,0.0,67.0,67.0,0.0,0.0,0
 Accountant,Grant Thornton,Canada,ON,Toronto,22/01/20,L2,Audit,1.0,1.0,48.0,48.0,0.0,0.0,0
 Accountant,KPMG,Canada,BC,Vancouver,22/01/20,Tax Specialist,Canadian Corporation,2.0,5.0,79.0,76.0,0.0,3.0,0

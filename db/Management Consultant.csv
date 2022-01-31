@@ -1,4 +1,25 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,PwC,United States,NY,New York,22/01/31,Associate,Private Equity,1.0,1.0,100.0,85.0,0.0,15.0,0.0
+Management Consultant,BCG,United States,TX,Houston,22/01/30,Associate,General,0.0,3.0,110.0,100.0,0.0,10.0,0.0
+Management Consultant,EXL,United States,NJ,Jersey City,22/01/30,Senior Engagement Manager,General,9.0,11.0,190.0,159.0,0.0,31.0,0.0
+Management Consultant,Deloitte,United States,FL,Miami,22/01/29,Consultant,Cloud Engineer,1.0,2.0,123.0,105.0,0.0,18.0,0.0
+Management Consultant,ICF,United States,NC,Durham,22/01/29,L3,Consultant,1.0,5.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Deloitte Advisory,India,MH,Mumbai,22/01/29,Senior Consultant,Corporate Strategy,2.0,5.0,39.0,35.0,0.0,4.0,0.0
+Management Consultant,Microsoft,India,KA,Bengaluru,22/01/29,59,dynamics 365,8.0,12.0,37.0,29.0,5.0,3.0,0.0
+Management Consultant,BCG,United States,DC,Washington,22/01/29,Consultant,Generalist,0.0,8.0,197.0,175.0,0.0,22.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/01/29,Consultant,Analytics,2.0,4.0,97.0,97.0,0.0,0.0,0.0
+Management Consultant,Splunk,United States,CA,San Francisco,22/01/28,L4,Data,1.0,7.0,200.0,135.0,40.0,25.0,0.0
+Management Consultant,Genpact,United States,TX,Dallas,22/01/28,L3,Delivery Leader,3.0,15.0,198.0,157.0,18.0,23.0,0.0
+Management Consultant,Google,United States,CA,San Bruno,22/01/28,L5,General,9.0,10.0,207.0,166.0,31.0,10.0,0.0
+Management Consultant,Prosper Marketplace,United States,AZ,Phoenix,22/01/28,L2,Fintech,6.0,6.0,75.0,72.0,0.0,3.0,0.0
+Management Consultant,Salesforce,United States,NY,New York,22/01/28,L10,ProServ,3.0,15.0,360.0,260.0,50.0,50.0,0.0
+Management Consultant,IBM,United States,TX,Houston,22/01/28,B10,Consulting,0.0,15.0,370.0,320.0,0.0,50.0,0.0
+Management Consultant,Deloitte,India,MH,Mumbai,22/01/28,Consultant,General,3.0,3.0,22.0,19.0,0.0,3.0,0.0
+Management Consultant,Accenture,Japan,TY,Tokyo,22/01/28,Manager,Consultant,6.0,6.0,149.0,135.0,0.0,14.0,0.0
+Management Consultant,KPMG,United States,VA,Alexandria,22/01/28,Manager,Change Management,7.0,15.0,154.0,144.0,0.0,10.0,0.0
+Management Consultant,PwC,United States,WA,Seattle,22/01/28,Director,Cybersecurity,4.0,10.0,283.0,231.0,0.0,52.0,0.0
+Management Consultant,Wells Fargo,United States,NC,Charlotte,22/01/28,M4,Strategy,20.0,25.0,500.0,250.0,50.0,200.0,0.0
+Management Consultant,Ernst and Young,United States,DC,Washington,22/01/27,Senior Consultant,Data & Analytics,3.0,3.0,120.0,115.0,0.0,5.0,0.0
 Management Consultant,PwC,Canada,BC,Vancouver,22/01/27,Associate,Technology,1.0,1.0,56.0,54.0,0.0,2.0,0.0
 Management Consultant,BCG,China,SH,Shanghai,22/01/27,Consultant,Consultant,4.0,4.0,180.0,150.0,0.0,30.0,0.0
 Management Consultant,PwC,United States,NY,New York,22/01/27,Associate,Deals,1.0,1.0,86.0,80.0,0.0,6.0,0.0
