@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Roku,United States,CA,San Jose,22/02/03,Sr. Professional,Leadership,3.0,25.0,330.0,250.0,80.0,0.0,0.0
+Recruiter,Blend,United States,CA,San Francisco,22/02/03,IC5,Recruiting,1.0,7.0,235.0,160.0,75.0,0.0,0.0
+Recruiter,Audible,United States,NJ,Newark,22/02/02,L6,Technical,3.0,14.0,175.0,130.0,45.0,0.0,0.0
+Recruiter,Facebook,United States,OH,Columbus,22/02/01,IC4,Technical,1.0,6.0,136.0,107.0,13.0,16.0,0.0
+Recruiter,Amazon,United States,GA,Atlanta,22/02/01,L5,Technical,0.0,5.0,142.0,96.0,25.0,21.0,0.0
+Recruiter,Palo Alto Networks,United States,CA,Santa Clara,22/02/01,P8,Sales,5.0,7.0,161.0,112.0,38.0,11.0,0.0
+Recruiter,Facebook,United States,GA,Atlanta,22/01/31,IC4,Anonymous,1.0,8.0,153.0,120.0,15.0,18.0,0.0
+Recruiter,Fiserv,United States,GA,Atlanta,22/01/31,3,Technical,1.0,4.0,84.0,80.0,0.0,4.0,0.0
+Recruiter,Office Depot,United States,FL,Boca Raton,22/01/31,23,Recruiting,2.0,5.0,99.0,90.0,0.0,9.0,0.0
 Recruiter,IKEA,United States,PA,Conshohocken,22/01/29,No Level,Sales,2.0,3.0,67.0,67.0,0.0,0.0,0.0
 Recruiter,Facebook,United States,CA,Menlo Park,22/01/28,IC6,Technical,7.0,16.0,266.0,193.0,37.0,36.0,0.0
 Recruiter,Facebook,United States,DC,Washington,22/01/28,IC3,Technical,1.0,4.0,145.0,99.0,36.0,10.0,0.0

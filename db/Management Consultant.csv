@@ -1,4 +1,25 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Oliver Wyman,United States,NY,New York,22/02/03,Senior Consultant,General,1.0,3.0,130.0,110.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,22/02/03,Senior Consultant,FSO,1.0,4.0,135.0,130.0,0.0,5.0,0.0
+Management Consultant,Accenture,United States,IL,Chicago,22/02/03,Analyst,Consultant,0.0,1.0,90.0,80.0,0.0,10.0,0.0
+Management Consultant,Bain,United States,DC,Washington,22/02/02,Consultant,General,1.0,6.0,222.0,185.0,0.0,37.0,0.0
+Management Consultant,Accenture,United States,WA,Seattle,22/02/02,Consultant,PMO,3.0,3.0,122.0,119.0,0.0,3.0,0.0
+Management Consultant,Carvana,United States,AZ,Tempe,22/02/02,L3,Project Management,3.0,6.0,112.0,90.0,12.0,10.0,0.0
+Management Consultant,Bain,United States,IL,Chicago,22/02/02,Manager,General,3.0,8.0,257.0,185.0,0.0,72.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,22/02/02,Senior Consultant,Strategy,0.0,7.0,198.0,165.0,0.0,33.0,0.0
+Management Consultant,Hatch,Canada,ON,Toronto,22/02/02,Mid,General,1.0,10.0,105.0,100.0,0.0,5.0,0.0
+Management Consultant,Slalom,United States,MA,Boston,22/02/02,L3,General,2.0,2.0,100.0,93.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,NY,New York,22/02/02,Manager,talent consulting,2.0,8.0,200.0,180.0,0.0,20.0,0.0
+Management Consultant,Ernst and Young,United States,NJ,Hoboken,22/02/01,Senior Consultant,General,0.0,5.0,134.0,122.0,0.0,12.0,0.0
+Management Consultant,Deloitte,Canada,AB,Calgary,22/02/01,Manager,Sourcing & Procurement,1.0,14.0,114.0,103.0,0.0,11.0,0.0
+Management Consultant,Ernst and Young,United States,TX,Dallas,22/02/01,Consultant,Technology,0.0,0.0,85.0,77.0,0.0,8.0,0.0
+Management Consultant,Wells Fargo,United States,NC,Charlotte,22/02/01,4,General,2.0,10.0,159.0,135.0,0.0,24.0,0.0
+Management Consultant,PwC,United States,NY,New York,22/02/01,Associate,SAP,0.0,0.0,90.0,85.0,0.0,5.0,0.0
+Management Consultant,Booz Allen Hamilton,United States,DC,Washington,22/02/01,Senior Consultant,User Experience,2.0,2.0,86.0,86.0,0.0,0.0,0.0
+Management Consultant,KPMG,Australia,CT,Canberra,22/02/01,Manager,Technology,4.0,4.0,113.0,106.0,0.0,7.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,22/01/31,Manager,Deals,5.0,7.0,343.0,228.0,0.0,115.0,0.0
+Management Consultant,McChrystal Group,United States,VA,Alexandria,22/01/31,L5,Management Consulting,2.0,20.0,221.0,177.0,0.0,44.0,0.0
+Management Consultant,Slalom,United States,DC,Washington,22/01/31,Senior Consultant,General,0.0,11.0,180.0,160.0,0.0,20.0,0.0
 Management Consultant,PwC,United States,NY,New York,22/01/31,Associate,Private Equity,1.0,1.0,100.0,85.0,0.0,15.0,0.0
 Management Consultant,BCG,United States,TX,Houston,22/01/30,Associate,General,0.0,3.0,110.0,100.0,0.0,10.0,0.0
 Management Consultant,EXL,United States,NJ,Jersey City,22/01/30,Senior Engagement Manager,General,9.0,11.0,190.0,159.0,0.0,31.0,0.0

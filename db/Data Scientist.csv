@@ -1,4 +1,49 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Zip,Australia,NS,Sydney,22/02/03,Senior,General,2.0,4.0,106.0,96.0,0.0,10.0,0.0
+Data Scientist,Cognizant,United States,NY,New York,22/02/03,L6,Data Scientist,11.0,11.0,200.0,190.0,0.0,10.0,0.0
+Data Scientist,Ford Motor,United States,MI,Dearborn,22/02/03,GSR7,NLP,3.0,3.0,112.0,108.0,0.0,4.0,0.0
+Data Scientist,Fast,United States,CA,San Francisco,22/02/03,L4,ML,0.0,4.0,350.0,170.0,150.0,30.0,0.0
+Data Scientist,Eli Lilly and Company,United States,IN,Indianapolis,22/02/02,R2,General,3.0,3.0,168.0,140.0,8.0,20.0,0.0
+Data Scientist,IBM,United States,LA,Baton Rouge,22/02/02,L3,Big Data,3.0,3.0,52.0,52.0,0.0,0.0,0.0
+Data Scientist,Atlassian,United States,TX,Austin,22/02/02,P6,General,1.0,8.0,386.0,184.0,175.0,27.0,0.0
+Data Scientist,JPMorgan Chase,United States,NY,New York,22/02/02,VP,Business Modeling,1.0,5.0,190.0,155.0,0.0,35.0,0.0
+Data Scientist,Stitch Fix,United States,NY,New York,22/02/02,L5,Data,4.0,4.0,480.0,220.0,260.0,0.0,0.0
+Data Scientist,Zillow,United States,WA,Seattle,22/02/02,P3,General,1.0,7.0,240.0,150.0,55.0,35.0,0.0
+Data Scientist,Capital One,United States,VA,West McLean,22/02/02,Associate,Data,0.0,0.0,102.0,96.0,0.0,6.0,0.0
+Data Scientist,JPMorgan Chase,United States,NY,New York,22/02/02,602,Data Analysis,3.0,3.0,175.0,140.0,0.0,35.0,0.0
+Data Scientist,Sberbank,Russia,MC,Moscow,22/02/02,12,Finance,1.0,10.0,50.0,47.0,0.0,3.0,0.0
+Data Scientist,Citadel,United States,IL,Chicago,22/02/02,NA,None,0.0,6.0,240.0,165.0,0.0,75.0,0.0
+Data Scientist,Expedia,United States,WA,Seattle,22/02/02,L,ML / AI,3.0,3.0,185.0,150.0,25.0,10.0,0.0
+Data Scientist,PayPal,India,KA,Bangalore,22/02/02,T25,data science,2.0,9.0,76.0,54.0,20.0,2.0,0.0
+Data Scientist,Facebook,United States,NY,New York,22/02/02,IC5,Infrastructure,0.0,5.0,318.0,184.0,99.0,35.0,0.0
+Data Scientist,Aetna,United States,CT,Hartford,22/02/02,P3,Marketing,4.0,7.0,140.0,125.0,0.0,15.0,0.0
+Data Scientist,Chewy,United States,FL,Dania,22/02/02,L5,Marketing,1.0,2.0,115.0,100.0,7.0,8.0,0.0
+Data Scientist,Medtronic,United States,CA,Los Angeles,22/02/02,L2,AI/ML,1.0,3.0,140.0,130.0,0.0,10.0,0.0
+Data Scientist,Smartsheet,United States,WA,Bellevue,22/02/02,L3,Data,3.0,5.0,135.0,135.0,0.0,0.0,0.0
+Data Scientist,Amazon,India,KA,Bangalore,22/02/01,L4,ML and AI,2.0,5.0,37.0,22.0,10.0,5.0,0.0
+Data Scientist,Ernst and Young,United States,CA,San Jose,22/02/01,Manager/Asst Director,"Predictive modelling, NLP",4.0,4.0,160.0,155.0,0.0,5.0,0.0
+Data Scientist,Start up,United States,CA,San Francisco,22/02/01,L3,AI Machine learning,2.0,5.0,172.0,172.0,0.0,0.0,0.0
+Data Scientist,Verizon,United States,CA,Los Angeles,22/02/01,Principal Engineer,"Data Science , General",11.0,11.0,178.0,140.0,10.0,28.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/01,L6,Product,4.0,10.0,280.0,160.0,120.0,0.0,0.0
+Data Scientist,Nike,United States,OR,Beaverton,22/02/01,U,ML,2.0,7.0,225.0,196.0,0.0,29.0,0.0
+Data Scientist,Boeing,India,KA,Bangalore,22/02/01,1,Data scientist,2.0,4.0,22.0,20.0,0.0,2.0,0.0
+Data Scientist,Amazon,United States,MN,Minneapolis,22/02/01,L5,Machine Learning,3.0,4.0,227.0,157.0,70.0,0.0,0.0
+Data Scientist,Experian,United States,CA,Costa Mesa,22/02/01,Senior,General,2.0,2.0,98.0,90.0,0.0,8.0,0.0
+Data Scientist,Bank of America,United States,NY,New York,22/02/01,H5,General,6.0,6.0,148.0,135.0,5.0,8.0,0.0
+Data Scientist,Accenture,Spain,CT,Barcelona,22/02/01,Analyst,General,0.0,0.0,39.0,39.0,0.0,0.0,0.0
+Data Scientist,Dell Technologies,United States,TX,Austin,22/01/31,I7,Business Intelligence,0.0,2.0,125.0,117.0,0.0,8.0,0.0
+Data Scientist,General Motors,Canada,ON,Toronto,22/01/31,6A,Software Engineer,2.0,2.0,90.0,83.0,0.0,7.0,0.0
+Data Scientist,Delivery Hero,Germany,BE,Berlin,22/01/31,Senior Data Scientist,General,0.0,8.0,109.0,95.0,14.0,0.0,0.0
+Data Scientist,Thomson Reuters,Canada,ON,Toronto,22/01/31,L4,Machine learning,2.0,8.0,165.0,135.0,5.0,25.0,0.0
+Data Scientist,JPMorgan Chase,India,MH,Mumbai,22/01/31,Associate,Risk Management,0.0,5.0,48.0,35.0,0.0,13.0,0.0
+Data Scientist,VMware,India,KA,Bengaluru,22/01/31,P4,General,1.0,9.0,60.0,43.0,10.0,7.0,0.0
+Data Scientist,Gap,United States,CA,San Francisco,22/01/31,Data Scientist,General,1.0,5.0,160.0,150.0,0.0,10.0,0.0
+Data Scientist,Google,United States,CA,Sunnyvale,22/01/31,L5,General,3.0,3.0,346.0,198.0,112.0,36.0,0.0
+Data Scientist,IBM,Israel,HA,Haifa,22/01/31,8,Security Research,3.0,8.0,158.0,158.0,0.0,0.0,0.0
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/31,IC5,Product,0.0,6.0,365.0,210.0,125.0,30.0,10.0
+Data Scientist,Walmart Global Tech,United States,CA,Sunnyvale,22/01/31,X4,Optimization,1.0,3.0,243.0,165.0,45.0,33.0,0.0
+Data Scientist,JPMorgan Chase,United States,OH,Columbus,22/01/31,602,ML,1.0,1.0,165.0,140.0,0.0,25.0,0.0
+Data Scientist,Facebook,United States,CA,Menlo Park,22/01/31,IC4,Analytics,0.0,5.0,210.0,158.0,40.0,12.0,0.0
 Data Scientist,Cigna,United States,CT,Hartford,22/01/31,L4,Marketing,2.0,8.0,163.0,138.0,0.0,25.0,0.0
 Data Scientist,Chegg,United States,NY,Brooklyn,22/01/30,L4,General,5.0,9.0,375.0,175.0,200.0,0.0,0.0
 Data Scientist,Glovo,Spain,CT,Barcelona,22/01/30,L2,Data,1.0,3.0,82.0,67.0,15.0,0.0,0.0

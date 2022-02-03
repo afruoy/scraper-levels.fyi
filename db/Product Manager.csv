@@ -1,4 +1,78 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Walmart,United States,NY,New York,22/02/03,L5,Product,2.0,13.0,296.0,180.0,80.0,36.0,0.0
+Product Manager,eBay,United States,CA,San Jose,22/02/03,25,Product,0.0,8.0,218.0,180.0,38.0,0.0,0.0
+Product Manager,Amgen,Canada,ON,Mississauga,22/02/03,PM1,Product,8.0,8.0,125.0,93.0,16.0,16.0,0.0
+Product Manager,Cornerstone OnDemand,United States,CA,Santa Monica,22/02/03,L5,Product,7.0,7.0,200.0,150.0,40.0,10.0,0.0
+Product Manager,Amazon,United States,CA,Irvine,22/02/03,Senior Product Manager,Technical,5.0,16.0,430.0,155.0,275.0,0.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/03,59,Product,1.0,1.0,227.0,136.0,70.0,21.0,0.0
+Product Manager,Unity Technologies,United States,CA,San Francisco,22/02/02,IC6,Product,3.0,6.0,258.0,156.0,102.0,0.0,0.0
+Product Manager,Uber,United States,CA,San Francisco,22/02/02,Group Product Manager,Technical,1.0,12.0,660.0,250.0,350.0,60.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/02,Senior Product Manager,Product,8.0,9.0,242.0,127.0,115.0,0.0,0.0
+Product Manager,Morgan Stanley,United States,NY,New York,22/02/02,N/A,Internal,4.0,8.0,165.0,145.0,0.0,20.0,0.0
+Product Manager,Slalom Build,United States,TX,Houston,22/02/02,Director,Product,2.0,15.0,215.0,175.0,0.0,40.0,0.0
+Product Manager,Amazon,United States,GA,Atlanta,22/02/02,Product Manager,Analytic,5.0,7.0,139.0,103.0,36.0,0.0,0.0
+Product Manager,Amazon,United Kingdom,EN,London,22/02/02,Senior Product Manager,Consumer,4.0,8.0,160.0,97.0,63.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/02,Product Manager,Technical,0.0,7.0,195.0,140.0,25.0,30.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/02,Principal Product Manager,Technical,0.0,15.0,400.0,160.0,140.0,100.0,0.0
+Product Manager,New Relic,United States,WA,Seattle,22/02/02,2,Product,0.0,7.0,216.0,175.0,32.0,9.0,0.0
+Product Manager,Amazon,United States,CA,San Francisco,22/02/02,Principal Product Manager,Product,6.0,12.0,600.0,180.0,420.0,0.0,0.0
+Product Manager,Amazon,United States,CA,Sunnyvale,22/02/02,Principal Product Manager,Product,4.0,15.0,460.0,185.0,275.0,0.0,0.0
+Product Manager,Google,United States,WA,Seattle,22/02/02,Director,Consumer,13.0,16.0,1.0,300.0,500.0,200.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/02,63,Product,3.0,5.0,267.0,156.0,91.0,20.0,0.0
+Product Manager,Dell Technologies,United States,CA,Santa Clara,22/02/02,Sr Director,Product,8.0,24.0,420.0,304.0,40.0,76.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/02,Product Manager,Technical,5.0,6.0,186.0,123.0,63.0,0.0,0.0
+Product Manager,Chewy,United States,WA,Seattle,22/02/02,7,Product,1.0,5.0,280.0,195.0,80.0,5.0,0.0
+Product Manager,Amazon,United States,WA,Bellevue,22/02/02,Principal Product Manager,Product,5.0,5.0,248.0,128.0,120.0,0.0,0.0
+Product Manager,Amazon,United States,CA,San Francisco,22/02/02,Senior Product Manager,Product,0.0,6.0,330.0,175.0,80.0,75.0,0.0
+Product Manager,ACV Auctions,United States,NY,Buffalo,22/02/02,L2,Product,3.0,3.0,85.0,85.0,0.0,0.0,0.0
+Product Manager,Allstate,United States,IL,Northbrook,22/02/01,E,Technical,7.0,7.0,142.0,129.0,0.0,13.0,0.0
+Product Manager,IBM,United States,TX,Austin,22/02/01,Senior Offering Manager,Product,1.0,10.0,180.0,165.0,15.0,0.0,0.0
+Product Manager,Walmart,United States,IL,Chicago,22/02/01,X5,Product,0.0,7.0,208.0,165.0,10.0,33.0,0.0
+Product Manager,Microsoft,United States,CA,San Mateo,22/02/01,60,Operations,2.0,2.0,161.0,134.0,10.0,17.0,0.0
+Product Manager,Xero,United States,TX,Austin,22/02/01,L4,Enterprise,1.0,10.0,155.0,135.0,20.0,0.0,0.0
+Product Manager,Uber,United States,CA,San Francisco,22/02/01,Product Manager I,Product,2.0,8.0,420.0,200.0,180.0,40.0,0.0
+Product Manager,Wayfair,United States,MA,Boston,22/02/01,L6,Operations,3.0,9.0,678.0,190.0,450.0,38.0,0.0
+Product Manager,Microsoft,Canada,BC,Vancouver,22/02/01,63,Product,4.0,8.0,135.0,107.0,14.0,14.0,0.0
+Product Manager,Citrix,United States,CA,San Francisco,22/02/01,?,Product,3.0,25.0,375.0,250.0,75.0,50.0,0.0
+Product Manager,Ramsey Solutions,United States,TN,Nashville,22/02/01,1,Product,2.0,2.0,77.0,71.0,0.0,6.0,0.0
+Product Manager,Cisco,Canada,BC,Vancouver,22/02/01,10,Product,1.0,20.0,144.0,122.0,10.0,12.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/02/01,66,Product,21.0,30.0,333.0,210.0,80.0,43.0,0.0
+Product Manager,Amazon,United States,CA,Los Angeles,22/02/01,Senior Product Manager,Technical,0.0,13.0,340.0,155.0,85.0,100.0,0.0
+Product Manager,SAP Labs,United States,CA,Palo Alto,22/02/01,T2,Product,2.0,5.0,135.0,125.0,0.0,10.0,0.0
+Product Manager,Twilio,United States,CA,San Francisco,22/02/01,L3,Product,0.0,5.0,290.0,190.0,100.0,0.0,0.0
+Product Manager,Yahoo,United States,MA,Boston,22/02/01,IC5,Technical,7.0,12.0,274.0,204.0,20.0,50.0,0.0
+Product Manager,Spotify,United States,NY,New York,22/02/01,L6,Growth,2.0,12.0,205.0,180.0,25.0,0.0,0.0
+Product Manager,Intel,Israel,TA,Tel Aviv,22/02/01,Grade 6,Product,5.0,5.0,157.0,119.0,10.0,28.0,0.0
+Product Manager,Oracle,United States,CA,Redwood City,22/02/01,M3,Product,5.0,15.0,340.0,200.0,140.0,0.0,0.0
+Product Manager,JPMorgan Chase,United States,NJ,Jersey City,22/02/01,603,Enterprise,7.0,15.0,160.0,150.0,0.0,10.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/02/01,59,Product,0.0,0.0,175.0,115.0,30.0,30.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/01,Product Manager,Product,2.0,2.0,160.0,125.0,25.0,10.0,0.0
+Product Manager,Plastiq,United States,CA,San Francisco,22/02/01,L1,Product,2.0,4.0,118.0,118.0,0.0,0.0,0.0
+Product Manager,The New York Times Company,United States,NY,New York,22/02/01,Senior,Product,1.0,10.0,180.0,150.0,0.0,30.0,0.0
+Product Manager,PayPal,United States,CA,San Jose,22/02/01,T28,Product,4.0,20.0,535.0,255.0,200.0,80.0,0.0
+Product Manager,Optum,United States,MN,Minneapolis,22/02/01,30,Consumer,2.0,9.0,206.0,172.0,0.0,34.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/02/01,59,Product,0.0,0.0,141.0,111.0,18.0,12.0,20.0
+Product Manager,Pearson,United States,NC,Raleigh,22/02/01,VP,Enterprise,6.0,18.0,290.0,210.0,40.0,40.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/01,Senior Product Manager,Product,4.0,8.0,262.0,145.0,117.0,0.0,0.0
+Product Manager,Publicis Sapient,United States,VA,Arlington,22/02/01,Senior Manager,Product,4.0,15.0,174.0,151.0,0.0,23.0,0.0
+Product Manager,Mailchimp,United States,GA,Atlanta,22/01/31,L1,User Journey,5.0,5.0,103.0,90.0,4.0,9.0,0.0
+Product Manager,Amazon,United States,MA,Boston,22/01/31,Principal Product Manager,Product,8.0,20.0,400.0,160.0,240.0,0.0,0.0
+Product Manager,Dynatrace,Spain,CT,Barcelona,22/01/31,Senior Director,Technical,3.0,20.0,260.0,190.0,70.0,0.0,0.0
+Product Manager,TrueCar,United States,TX,Austin,22/01/31,Senior Product Manager,Consumer,0.0,5.0,238.0,186.0,34.0,18.0,0.0
+Product Manager,Whole Foods Market,United States,TX,Austin,22/01/31,L6,Product,1.0,10.0,233.0,200.0,13.0,20.0,0.0
+Product Manager,Morningstar,United States,IL,Chicago,22/01/31,,Product,5.0,5.0,98.0,85.0,0.0,13.0,0.0
+Product Manager,IQVIA,United States,NC,Raleigh,22/01/31,1,Consumer,0.0,15.0,180.0,165.0,0.0,15.0,0.0
+Product Manager,Snap Finance,United States,UT,Salt Lake City,22/01/31,L3,Enterprise,0.0,15.0,201.0,175.0,0.0,26.0,0.0
+Product Manager,Podium,United States,UT,Lehi,22/01/31,5,Consumer,2.0,4.0,225.0,150.0,75.0,0.0,0.0
+Product Manager,Traveloka,Indonesia,BT,Tangerang,22/01/31,APM 2,Internal,0.0,2.0,18.0,17.0,0.0,1.0,0.0
+Product Manager,GoDaddy,United States,TX,Austin,22/01/31,PM3,Product,3.0,3.0,164.0,127.0,25.0,12.0,0.0
+Product Manager,Walmart Global Tech,United States,CA,San Bruno,22/01/31,x7,Product,3.0,15.0,390.0,225.0,100.0,65.0,0.0
+Product Manager,Goldman Sachs,United States,NY,New York,22/01/31,Vice President,Product,4.0,9.0,280.0,180.0,0.0,100.0,0.0
+Product Manager,VMware,United States,NY,New York,22/01/31,L4,Product,6.0,10.0,208.0,168.0,15.0,25.0,0.0
+Product Manager,Hitachi Vantara,United States,CA,Santa Clara,22/01/31,L2,Product,3.0,4.0,144.0,132.0,0.0,12.0,0.0
+Product Manager,Deloitte,United States,DC,Washington,22/01/31,Senior,Technical,7.0,7.0,150.0,120.0,0.0,30.0,0.0
+Product Manager,Uber,United States,CA,San Francisco,22/01/31,Product Manager II,Analytic,5.0,8.0,282.0,159.0,100.0,23.0,0.0
+Product Manager,Salesforce,United States,WA,Seattle,22/01/31,Senior Product Manager,Product,0.0,15.0,310.0,220.0,57.0,33.0,0.0
 Product Manager,Oracle,United States,WA,Seattle,22/01/31,IC,Product,1.0,5.0,343.0,188.0,130.0,25.0,0.0
 Product Manager,Pure Storage,United States,CA,Mountain View,22/01/31,L6,Product,1.0,20.0,470.0,240.0,170.0,60.0,0.0
 Product Manager,Goldman Sachs,United States,TX,Dallas,22/01/30,L6,Product,1.0,10.0,215.0,165.0,0.0,50.0,0.0

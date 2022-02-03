@@ -1,4 +1,19 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Amazon,United States,WA,Seattle,22/02/03,L5,DevOps,6.0,6.0,176.0,124.0,52.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,22/02/02,L7,ML / AI,2.0,20.0,385.0,160.0,125.0,100.0,0.0
+Solution Architect,Publicis Media,United States,NY,New York,22/02/02,L4,Data,0.0,5.0,150.0,150.0,0.0,0.0,0.0
+Solution Architect,AWS,United States,FL,Orlando,22/02/02,L5,Security,1.0,2.0,200.0,145.0,55.0,0.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,22/02/01,L6,ML / AI,4.0,17.0,230.0,160.0,70.0,0.0,0.0
+Solution Architect,Ericsson,United States,WA,Bellevue,22/02/01,L7,API Development (Back-End),14.0,25.0,180.0,160.0,0.0,20.0,0.0
+Solution Architect,Red Hat,United States,AL,Birmingham,22/02/01,L5,Hybrid Cloud,2.0,25.0,200.0,150.0,10.0,40.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,22/02/01,L6,SA,4.0,16.0,350.0,160.0,140.0,50.0,0.0
+Solution Architect,Amazon,United States,TX,Dallas,22/02/01,L4,Cloud,1.0,2.0,146.0,113.0,20.0,13.0,0.0
+Solution Architect,Google,United States,NY,New York,22/02/01,L6,AppMod,1.0,23.0,376.0,230.0,100.0,46.0,0.0
+Solution Architect,EPAM Systems,United Kingdom,EN,London,22/02/01,L1,DevOps,9.0,10.0,120.0,90.0,20.0,10.0,0.0
+Solution Architect,Amazon,United States,VA,Arlington,22/02/01,L5,Distributed Systems (Back-End),1.0,9.0,203.0,155.0,33.0,15.0,0.0
+Solution Architect,Wipro,India,TS,Hyderabad,22/01/31,C1,Domain & Consulting,4.0,14.0,32.0,30.0,0.0,2.0,0.0
+Solution Architect,Epam,Ukraine,KC,Kiev,22/01/31,L1,Distributed Systems (Back-End),8.0,15.0,75.0,72.0,0.0,3.0,0.0
+Solution Architect,RBC,Canada,ON,Toronto,22/01/31,PL06,Architecture,4.0,19.0,135.0,102.0,8.0,25.0,0.0
 Solution Architect,IBM,United States,NC,Greensboro,22/01/30,Band 9,DevOps,2.0,7.0,250.0,170.0,5.0,75.0,0.0
 Solution Architect,Amazon,United States,NY,New York,22/01/30,L5,Financial Services,3.0,3.0,178.0,152.0,18.0,8.0,0.0
 Solution Architect,Cisco,United States,TX,Dallas,22/01/30,Technical Leader 1,API Development (Back-End),12.0,14.0,250.0,160.0,50.0,40.0,0.0

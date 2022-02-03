@@ -85,7 +85,6 @@ def send_mail_if_error(category, new_row):
 		str(new_row).encode('ascii'))
 	return
 
-
 def get_options():
 	options = webdriver.ChromeOptions()
 	options.add_argument('--headless')

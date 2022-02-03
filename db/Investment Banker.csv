@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Investment Banker,Goldman Sachs,Hong Kong (SAR),HK,Hong Kong,22/02/02,Executive Director,Equities,7.0,9.0,450.0,240.0,40.0,170.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,22/02/01,Analyst,Healthcare,1.0,1.0,170.0,110.0,0.0,60.0,0
+Investment Banker,Goldman Sachs,United States,NY,New York,22/01/31,Analyst,Structured Finance,2.0,2.0,175.0,125.0,0.0,50.0,0
 Investment Banker,Citi,Canada,ON,Toronto,22/01/30,Analyst,General,1.0,1.0,150.0,80.0,0.0,70.0,0
 Investment Banker,JPMorgan Chase,India,MH,Mumbai,22/01/30,Analyst,General,4.0,4.0,544.0,544.0,0.0,0.0,0
 Investment Banker,JPMorgan Chase,India,MH,Mumbai,22/01/29,Analyst,General,3.0,3.0,35.0,25.0,0.0,10.0,0

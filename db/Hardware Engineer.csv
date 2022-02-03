@@ -1,4 +1,28 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/02/03,IC4,Verification,0.0,8.0,283.0,200.0,83.0,0.0,0.0
+Hardware Engineer,AMD,Canada,ON,Markham,22/02/02,L2,SoC Design,1.0,1.0,76.0,68.0,2.0,6.0,0.0
+Hardware Engineer,Embark Trucks,United States,CA,San Francisco,22/02/02,L4,Self Driving,0.0,3.0,246.0,165.0,64.0,17.0,0.0
+Hardware Engineer,Cruise,United States,CA,San Francisco,22/02/02,L4,Self Driving,3.0,3.0,170.0,124.0,22.0,24.0,0.0
+Hardware Engineer,Boeing,United States,CA,Los Angeles,22/02/02,L3,FPGA Design,5.0,5.0,123.0,115.0,0.0,8.0,0.0
+Hardware Engineer,Amazon,United States,WA,Seattle,22/02/02,L7,Hardware,2.0,25.0,500.0,160.0,340.0,0.0,0.0
+Hardware Engineer,Arm,United States,TX,Austin,22/02/02,Grade 4,Verification,3.0,12.0,184.0,159.0,0.0,25.0,0.0
+Hardware Engineer,Canoo,United States,CA,Torrance,22/02/02,Manager,Validation,2.0,7.0,156.0,145.0,11.0,0.0,0.0
+Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/02/02,IC2,SoC Design,0.0,0.0,171.0,145.0,26.0,0.0,0.0
+Hardware Engineer,Applied Materials,United States,CA,Santa Clara,22/02/02,e4,process,1.0,4.0,212.0,160.0,20.0,32.0,0.0
+Hardware Engineer,Applied Materials,United States,CA,Santa Clara,22/02/02,e4,process,1.0,4.0,212.0,160.0,20.0,32.0,0.0
+Hardware Engineer,Facebook,United States,CA,Sunnyvale,22/02/02,IC6,ASIC Design,0.0,10.0,445.0,235.0,163.0,47.0,0.0
+Hardware Engineer,Qualcomm,Canada,ON,Markham,22/02/01,Senior,Verification,5.0,7.0,140.0,90.0,35.0,15.0,0.0
+Hardware Engineer,Microsoft,United States,NC,Raleigh,22/02/01,65,SoC Design,3.0,25.0,242.0,181.0,31.0,30.0,0.0
+Hardware Engineer,AMD,United States,CA,Santa Clara,22/02/01,MTS,SoC Design,0.0,5.0,218.0,165.0,28.0,25.0,0.0
+Hardware Engineer,Facebook,United States,CA,Menlo Park,22/02/01,IC5,ASIC Design,3.0,14.0,500.0,200.0,240.0,60.0,0.0
+Hardware Engineer,Nvidia,India,KA,Bangalore,22/02/01,IC4,ASIC Design,9.0,9.0,70.0,50.0,20.0,0.0,0.0
+Hardware Engineer,Tesla,United States,CA,Fremont,22/02/01,P2,Validation,0.0,0.0,130.0,110.0,20.0,0.0,0.0
+Hardware Engineer,SpaceX,United States,CA,Hawthorne,22/02/01,L1,Avionics,0.0,0.0,110.0,85.0,25.0,0.0,0.0
+Hardware Engineer,Xilinx,United States,CA,San Jose,22/01/31,L5,Verification,2.0,2.0,159.0,121.0,27.0,11.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/31,Engineer,ML / AI,0.0,0.0,155.0,105.0,25.0,25.0,0.0
+Hardware Engineer,Western Digital,United States,CA,Milpitas,22/01/31,Technologist,Verification,5.0,12.0,230.0,165.0,35.0,30.0,0.0
+Hardware Engineer,Facebook,United States,TX,Austin,22/01/31,IC4,Verification,0.0,3.0,210.0,145.0,50.0,15.0,0.0
+Hardware Engineer,Amazon,United States,WA,Seattle,22/01/31,L5,Quality Assurance,1.0,7.0,200.0,140.0,25.0,35.0,0.0
 Hardware Engineer,Intel,United States,OR,Hillsboro,22/01/30,Grade 6,Verification,1.0,2.0,138.0,118.0,10.0,10.0,0.0
 Hardware Engineer,Qualcomm,United States,CA,San Diego,22/01/30,Senior,Analog,0.0,4.0,185.0,135.0,35.0,15.0,0.0
 Hardware Engineer,Infineon Technologies,United States,WA,Lynnwood,22/01/30,10,Analog,2.0,4.0,110.0,100.0,0.0,10.0,0.0

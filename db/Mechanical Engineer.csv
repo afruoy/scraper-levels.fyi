@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Apple,United States,CA,Sunnyvale,22/02/02,ICT3,Manufacturing I,4.0,8.0,282.0,134.0,130.0,18.0,0.0
+Mechanical Engineer,Stellantis,United States,MI,Chelsea,22/02/02,L5,Fuel Economy,7.0,7.0,109.0,99.0,0.0,10.0,0.0
+Mechanical Engineer,Boeing,United States,WA,Renton,22/02/02,L2,Structures,0.0,3.0,93.0,93.0,0.0,0.0,0.0
+Mechanical Engineer,TSMC,Taiwan,TP,Hsin-chu,22/02/01,31,Packageing RD,4.0,4.0,66.0,31.0,0.0,35.0,0.0
+Mechanical Engineer,GE Aviation,United States,OH,Cincinnati,22/01/31,LTB,General,2.0,2.0,75.0,75.0,0.0,0.0,0.0
+Mechanical Engineer,Tesla,United States,TX,Austin,22/01/31,P6,Battery,0.0,5.0,212.0,112.0,50.0,50.0,0.0
+Mechanical Engineer,Tesla,United States,TX,Austin,22/01/31,P2,BIW,2.0,2.0,117.0,99.0,18.0,0.0,0.0
 Mechanical Engineer,Raytheon,United States,CT,Windsor Locks,22/01/31,P4,General,5.0,5.0,97.0,97.0,0.0,0.0,0.0
 Mechanical Engineer,Airbus,Germany,BY,Munich,22/01/29,L2,Structural Dynamics,2.0,3.0,85.0,74.0,0.0,11.0,0.0
 Mechanical Engineer,Northrop Grumman,United States,UT,Salt Lake City,22/01/29,T2,General,2.0,5.0,83.0,83.0,0.0,0.0,0.0

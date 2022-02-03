@@ -1,4 +1,31 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/03,L5,Privacy,0.0,5.0,170.0,130.0,15.0,25.0,0.0
+Technical Program Manager,PlayStation,United States,CA,San Mateo,22/02/03,4,Supply Chain,2.0,6.0,160.0,135.0,0.0,25.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/02,L5,TPM,2.0,13.0,210.0,145.0,5.0,60.0,0.0
+Technical Program Manager,Amazon,United States,TX,Dallas,22/02/02,L6,Tech,0.0,19.0,273.0,160.0,60.0,53.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/02,L5,Supply Chain,1.0,6.0,140.0,110.0,30.0,0.0,0.0
+Technical Program Manager,Intel Corporation,United States,OR,Portland,22/02/02,9,General,13.0,13.0,227.0,163.0,31.0,33.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/02,61,Azure,0.0,3.0,184.0,140.0,30.0,14.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/02,L6,Software Engineering,4.0,14.0,202.0,150.0,52.0,0.0,0.0
+Technical Program Manager,Facebook,United States,MA,Boston,22/02/02,IC5,Technical Program Management,1.0,15.0,340.0,200.0,100.0,40.0,0.0
+Technical Program Manager,Lucid Motors,United States,CA,San Francisco,22/02/01,L10,Systems,0.0,7.0,230.0,160.0,70.0,0.0,0.0
+Technical Program Manager,Amazon,United States,OH,Cincinnati,22/02/01,L4,AWS,0.0,8.0,147.0,134.0,6.0,7.0,0.0
+Technical Program Manager,Citi,United Kingdom,EN,London,22/02/01,C14,Program Manager,10.0,15.0,180.0,150.0,0.0,30.0,0.0
+Technical Program Manager,VMware,India,KA,Bangalore,22/02/01,P3,Software,2.0,8.0,40.0,33.0,7.0,0.0,0.0
+Technical Program Manager,Amazon,United States,CA,Los Angeles,22/02/01,L6,Machine Learning and Algorithms,1.0,16.0,311.0,155.0,26.0,130.0,0.0
+Technical Program Manager,Mobileye,Israel,JM,Jerusalem,22/02/01,Senior Project Manager,General,3.0,8.0,122.0,102.0,20.0,0.0,0.0
+Technical Program Manager,Facebook,United States,OR,Madras,22/02/01,IC3,Tag,0.0,3.0,150.0,100.0,40.0,10.0,0.0
+Technical Program Manager,Mercury Systems,United States,CA,Torrance,22/02/01,L6,General,2.0,17.0,179.0,164.0,0.0,15.0,0.0
+Technical Program Manager,Amazon,United States,CA,Sunnyvale,22/02/01,L6,Software,6.0,11.0,330.0,174.0,156.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/01/31,65,Azure,17.0,24.0,258.0,190.0,36.0,32.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/31,64,Security,10.0,25.0,242.0,191.0,25.0,26.0,0.0
+Technical Program Manager,Intel,United States,CA,Folsom,22/01/31,Grade 8,Program Manager,16.0,16.0,209.0,159.0,25.0,25.0,0.0
+Technical Program Manager,Microsoft Corporation,United States,WA,Redmond,22/01/31,L65,Regulatory Affairs,29.0,36.0,292.0,207.0,45.0,40.0,0.0
+Technical Program Manager,HashiCorp,United States,CA,San Francisco,22/01/31,l5,engineering,1.0,15.0,250.0,175.0,75.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/01/31,63,cloud,4.0,5.0,175.0,145.0,20.0,10.0,0.0
+Technical Program Manager,Oracle,India,KA,Bengaluru,22/01/31,IC,General,1.0,15.0,66.0,66.0,0.0,0.0,0.0
+Technical Program Manager,Citi,United States,TX,Irving,22/01/31,C14,Payment,1.0,15.0,265.0,215.0,0.0,50.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/01/31,L7,Technical Program Manager,9.0,15.0,320.0,160.0,160.0,0.0,0.0
 Technical Program Manager,Epic Systems,United States,WI,Madison,22/01/30,L4,Systems,5.0,5.0,153.0,143.0,0.0,10.0,0.0
 Technical Program Manager,Zillow,United States,WA,Seattle,22/01/30,P3,general,2.0,3.0,95.0,85.0,10.0,0.0,0.0
 Technical Program Manager,Baker Hughes,United States,TX,Houston,22/01/29,Lead,Innovation,1.0,8.0,121.0,110.0,0.0,11.0,0.0

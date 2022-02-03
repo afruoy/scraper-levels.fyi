@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Human Resources,PepsiCo,United States,NY,Purchase,22/02/02,L11,Talent Development,2.0,12.0,145.0,135.0,0.0,10.0,0.0
+Human Resources,The Home Depot,United States,GA,Atlanta,22/02/02,L7,Talent,4.0,7.0,169.0,132.0,24.0,13.0,0.0
+Human Resources,Swisscom,Switzerland,ZH,Zurich,22/02/01,L4,Human Resources,7.0,15.0,223.0,179.0,26.0,18.0,0.0
+Human Resources,Adevinta,France,IL,Paris,22/01/31,14,general,2.0,12.0,94.0,82.0,0.0,12.0,0.0
+Human Resources,DigitalOcean,United States,NY,New York,22/01/31,IC4,general,4.0,10.0,368.0,150.0,200.0,18.0,0.0
+Human Resources,Scotiabank,Canada,ON,Toronto,22/01/31,L6,General,2.0,5.0,56.0,52.0,0.0,4.0,0.0
+Human Resources,Wayfair,United States,CA,Los Angeles,22/01/31,L2,ERC,0.0,7.0,92.0,82.0,0.0,10.0,0.0
 Human Resources,Bank of America,United States,NC,Charlotte,22/01/30,B5,General,0.0,0.0,95.0,90.0,0.0,5.0,0.0
 Human Resources,Amazon,United States,CA,San Francisco,22/01/30,L5,General,1.0,3.0,170.0,130.0,5.0,35.0,0.0
 Human Resources,Vistaprint,United States,MA,Waltham,22/01/29,PR3,Program Management,5.0,7.0,90.0,90.0,0.0,0.0,0.0

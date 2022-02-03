@@ -1,4 +1,21 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Apple,United States,CA,Los Angeles,22/02/03,ICT3,Services,4.0,5.0,161.0,109.0,40.0,12.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,22/02/03,L7,General,1.0,9.0,175.0,140.0,14.0,21.0,0.0
+Marketing,Ipsos,United States,OH,Cincinnati,22/02/03,L5,Marketing,4.0,4.0,85.0,83.0,0.0,2.0,0.0
+Marketing,FedEx,United States,TN,Memphis,22/02/03,s9,Logistics,5.0,12.0,210.0,160.0,20.0,30.0,0.0
+Marketing,Accenture,United States,TX,Houston,22/02/02,L6,location based marketing,0.0,10.0,170.0,160.0,0.0,10.0,0.0
+Marketing,Amazon,United States,NY,New York,22/02/02,L5,General,2.0,9.0,188.0,175.0,13.0,0.0,0.0
+Marketing,ByteDance,United States,CA,Los Angeles,22/02/02,1,General,1.0,2.0,58.0,58.0,0.0,0.0,0.0
+Marketing,Amazon,United States,NY,New York,22/02/02,L4,Training,1.0,1.0,127.0,122.0,5.0,0.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,22/02/01,IC3,Marketing,2.0,9.0,141.0,120.0,9.0,12.0,0.0
+Marketing,Citi,Singapore,SG,Singapore,22/02/01,C11,General,2.0,8.0,65.0,59.0,0.0,6.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,22/02/01,L6,Plus,3.0,5.0,110.0,90.0,20.0,0.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,22/02/01,L6,marketing,3.0,5.0,110.0,90.0,20.0,0.0,0.0
+Marketing,Apple,United States,CA,Cupertino,22/02/01,ICT4,Retail,4.0,10.0,260.0,160.0,85.0,15.0,0.0
+Marketing,Salesforce,United States,CA,San Francisco,22/02/01,Director,General,6.0,10.0,263.0,208.0,13.0,42.0,0.0
+Marketing,Mission Lane,United States,CA,San Francisco,22/01/31,P3,Growth,1.0,4.0,200.0,140.0,20.0,40.0,0.0
+Marketing,Facebook,United States,WA,Seattle,22/01/31,IC6,Business Messaging,1.0,10.0,290.0,200.0,50.0,40.0,0.0
+Marketing,FedEx,United States,TN,Memphis,22/01/31,Advisor,"ecommerce, strategy",25.0,25.0,108.0,104.0,0.0,4.0,0.0
 Marketing,Square,United States,CA,San Francisco,22/01/30,L5,Growth,3.0,7.0,175.0,135.0,40.0,0.0,0.0
 Marketing,PayPal,United States,CA,San Jose,22/01/30,T27,Product marketing,3.0,12.0,285.0,185.0,70.0,30.0,0.0
 Marketing,Atlassian,United States,IL,Chicago,22/01/30,P5,ABM,1.0,5.0,176.0,140.0,15.0,21.0,0.0
