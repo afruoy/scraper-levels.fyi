@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/04,ICT5,Display,8.0,8.0,726.0,230.0,456.0,40.0,0.0
+Hardware Engineer,Samsung,United States,CA,San Jose,22/02/04,Staff Engineer,Analog,5.0,7.0,255.0,175.0,0.0,80.0,0.0
+Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/04,Grade 8,SoC Design,0.0,10.0,269.0,189.0,50.0,30.0,0.0
+Hardware Engineer,Google,United States,CA,Mountain View,22/02/04,L3,ASIC Design,1.0,2.0,250.0,140.0,89.0,21.0,0.0
+Hardware Engineer,Amazon,United States,CA,Sunnyvale,22/02/03,L5,Validation,0.0,3.0,247.0,160.0,45.0,42.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/03,ICT3,Validation,0.0,3.0,251.0,150.0,26.0,75.0,0.0
+Hardware Engineer,Western Digital,United States,CA,San Jose,22/02/03,L5,Optics,3.0,5.0,222.0,160.0,30.0,32.0,0.0
+Hardware Engineer,Palo Alto Networks,United States,CA,Santa Clara,22/02/03,Senior Staff Engineer,ASIC Design,1.0,7.0,280.0,190.0,70.0,20.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/03,ICT4,ASIC Design,7.0,10.0,380.0,190.0,170.0,20.0,0.0
+Hardware Engineer,Apple,United States,TX,Austin,22/02/03,ICT4,Validation,0.0,6.0,218.0,165.0,36.0,17.0,0.0
+Hardware Engineer,Lam Research,United States,CA,Fremont,22/02/03,L5,Electrical Engineer,5.0,12.0,216.0,170.0,20.0,26.0,0.0
 Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/02/03,IC4,Verification,0.0,8.0,283.0,200.0,83.0,0.0,0.0
 Hardware Engineer,AMD,Canada,ON,Markham,22/02/02,L2,SoC Design,1.0,1.0,76.0,68.0,2.0,6.0,0.0
 Hardware Engineer,Embark Trucks,United States,CA,San Francisco,22/02/02,L4,Self Driving,0.0,3.0,246.0,165.0,64.0,17.0,0.0

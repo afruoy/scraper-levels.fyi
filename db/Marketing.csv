@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Amazon,Germany,BY,Munich,22/02/04,L4,Marketing,1.0,3.0,63.0,62.0,0.0,1.0,0.0
+Marketing,Salesforce,United States,TX,Dallas,22/02/03,L3,Product Marketing,1.0,7.0,181.0,145.0,14.0,22.0,0.0
+Marketing,Thermo Fisher Scientific,United States,CA,Carlsbad,22/02/03,Band 7,"Channel Marketing, Non-Digital Marketing",2.0,6.0,110.0,100.0,0.0,10.0,0.0
+Marketing,LinkedIn,United States,NY,New York,22/02/03,L1,General,0.0,2.0,157.0,130.0,14.0,13.0,0.0
+Marketing,Disney,United States,NY,New York,22/02/03,P4,media,2.0,6.0,122.0,111.0,0.0,11.0,0.0
+Marketing,Dyson,United States,IL,Chicago,22/02/03,Associate,Category,0.0,2.0,83.0,80.0,0.0,3.0,0.0
+Marketing,Oracle,United States,GA,Atlanta,22/02/03,IC,Strategy,0.0,16.0,300.0,180.0,0.0,120.0,0.0
 Marketing,Apple,United States,CA,Los Angeles,22/02/03,ICT3,Services,4.0,5.0,161.0,109.0,40.0,12.0,0.0
 Marketing,Salesforce,United States,CA,San Francisco,22/02/03,L7,General,1.0,9.0,175.0,140.0,14.0,21.0,0.0
 Marketing,Ipsos,United States,OH,Cincinnati,22/02/03,L5,Marketing,4.0,4.0,85.0,83.0,0.0,2.0,0.0

@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Walmart,United States,AR,Bentonville,22/02/03,L2,tax,1.0,5.0,122.0,95.0,8.0,19.0,0
+Accountant,PwC,United States,TX,Austin,22/02/03,Associate,External Audit,0.0,0.0,62.0,62.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,CA,San Francisco,22/02/03,Senior 1,Audit,3.0,3.0,99.0,94.0,0.0,5.0,0
 Accountant,Microsoft,United States,WA,Seattle,22/01/29,66,Finance FP&A,17.0,20.0,370.0,217.0,100.0,53.0,0
 Accountant,RSM,United States,TX,Dallas,22/01/29,S2,General,3.0,3.0,85.0,82.0,0.0,3.0,0
 Accountant,PwC,United States,OH,Cleveland,22/01/28,Senior Associate,Assurance,3.0,3.0,79.0,74.0,0.0,5.0,0

@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Shopify,Canada,ON,Toronto,22/02/04,L5,General,2.0,4.0,87.0,79.0,8.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/03,L6,Science,5.0,11.0,305.0,140.0,165.0,0.0,0.0
+Data Scientist,Wish,United States,CA,San Francisco,22/02/03,L4,"Analytics, Casual Inference",2.0,2.0,260.0,160.0,100.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/03,L5,ML Engineering,2.0,6.0,202.0,145.0,57.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/03,L5,General Data Science,0.0,2.0,220.0,145.0,8.0,67.0,0.0
+Data Scientist,Oracle,United States,CA,Los Angeles,22/02/03,IC,ML Model Research,4.0,20.0,233.0,180.0,50.0,3.0,0.0
+Data Scientist,Ericsson,India,TN,Chennai,22/02/03,L5,Data scientist,2.0,5.0,42.0,37.0,0.0,5.0,0.0
+Data Scientist,Sberbank,Russia,SP,Saint Petersburg,22/02/03,L3,Bureaucracy manager,0.0,1.0,20.0,16.0,0.0,4.0,0.0
+Data Scientist,Micro Focus,Canada,ON,Ottawa,22/02/03,L3,Cybersecurity,1.0,3.0,83.0,80.0,0.0,3.0,0.0
+Data Scientist,Sberbank,Russia,MC,Moscow,22/02/03,10,common,0.0,5.0,30.0,27.0,0.0,3.0,0.0
+Data Scientist,Chewy,United States,WA,Seattle,22/02/03,L3,Marketing,0.0,0.0,121.0,110.0,0.0,11.0,0.0
 Data Scientist,Zip,Australia,NS,Sydney,22/02/03,Senior,General,2.0,4.0,106.0,96.0,0.0,10.0,0.0
 Data Scientist,Cognizant,United States,NY,New York,22/02/03,L6,Data Scientist,11.0,11.0,200.0,190.0,0.0,10.0,0.0
 Data Scientist,Ford Motor,United States,MI,Dearborn,22/02/03,GSR7,NLP,3.0,3.0,112.0,108.0,0.0,4.0,0.0
@@ -12,7 +23,7 @@ Data Scientist,Zillow,United States,WA,Seattle,22/02/02,P3,General,1.0,7.0,240.0
 Data Scientist,Capital One,United States,VA,West McLean,22/02/02,Associate,Data,0.0,0.0,102.0,96.0,0.0,6.0,0.0
 Data Scientist,JPMorgan Chase,United States,NY,New York,22/02/02,602,Data Analysis,3.0,3.0,175.0,140.0,0.0,35.0,0.0
 Data Scientist,Sberbank,Russia,MC,Moscow,22/02/02,12,Finance,1.0,10.0,50.0,47.0,0.0,3.0,0.0
-Data Scientist,Citadel,United States,IL,Chicago,22/02/02,NA,None,0.0,6.0,240.0,165.0,0.0,75.0,0.0
+Data Scientist,Citadel,United States,IL,Chicago,22/02/02,,None,0.0,6.0,240.0,165.0,0.0,75.0,0.0
 Data Scientist,Expedia,United States,WA,Seattle,22/02/02,L,ML / AI,3.0,3.0,185.0,150.0,25.0,10.0,0.0
 Data Scientist,PayPal,India,KA,Bangalore,22/02/02,T25,data science,2.0,9.0,76.0,54.0,20.0,2.0,0.0
 Data Scientist,Facebook,United States,NY,New York,22/02/02,IC5,Infrastructure,0.0,5.0,318.0,184.0,99.0,35.0,0.0

@@ -1,4 +1,18 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Blend,United States,CA,San Francisco,22/02/04,M3,General,2.0,7.0,215.0,165.0,0.0,50.0,0.0
+Sales,Laserfiche,United States,CA,Long Beach,22/02/04,1,Customer Service,3.0,5.0,97.0,65.0,0.0,32.0,0.0
+Sales,NetSuite,United States,TX,Austin,22/02/04,L2,Sales,1.0,1.0,120.0,60.0,0.0,60.0,0.0
+Sales,Adobe,United States,NY,New York,22/02/04,Manager,Marketing,5.0,8.0,143.0,124.0,0.0,19.0,0.0
+Sales,Google,United States,CA,San Francisco,22/02/03,L5,Cloud Sales Engineering,2.0,5.0,268.0,162.0,37.0,69.0,0.0
+Sales,Salesforce,United States,TX,San Antonio,22/02/03,Principal,Pre Sales,4.0,17.0,202.0,141.0,0.0,61.0,0.0
+Sales,Snapchat,United States,CA,Los Angeles,22/02/03,3,CPG,3.0,4.0,270.0,115.0,40.0,115.0,0.0
+Sales,Microsoft,United States,DC,Washington,22/02/03,63,General,2.0,3.0,267.0,137.0,30.0,100.0,0.0
+Sales,Amazon,Canada,ON,Toronto,22/02/03,L5,Sales Operations,2.0,6.0,145.0,108.0,25.0,12.0,0.0
+Sales,Flyhomes,United States,WA,Seattle,22/02/03,1,Brokerage,2.0,2.0,70.0,65.0,0.0,5.0,0.0
+Sales,Coupa Software,United States,MA,Boston,22/02/03,Entry Level,Inside Sales,1.0,2.0,80.0,50.0,10.0,20.0,0.0
+Sales,DocuSign,United States,CA,San Francisco,22/02/03,P3,Public Sector,3.0,3.0,124.0,62.0,0.0,62.0,0.0
+Sales,SAP,Germany,BW,Walldorf,22/02/03,T1,sales,0.0,1.0,89.0,80.0,5.0,4.0,0.0
+Sales,Amazon,Canada,ON,Toronto,22/02/03,L5,General,1.0,4.0,114.0,64.0,27.0,23.0,0.0
 Sales,Amazon,Canada,ON,Toronto,22/02/03,L5,General,1.0,6.0,135.0,90.0,15.0,30.0,0.0
 Sales,Salesforce,Canada,ON,Toronto,22/02/03,BDA,Sales,1.0,1.0,48.0,48.0,0.0,0.0,0.0
 Sales,Salesforce,United States,TX,Dallas,22/02/02,L7,Enterprise,4.0,10.0,280.0,134.0,0.0,146.0,0.0

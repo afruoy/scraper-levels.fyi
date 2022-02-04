@@ -1,4 +1,33 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Blackbaud,United States,SC,Charleston,22/02/03,Staff,Financial Edge NXT,1.0,5.0,83.0,75.0,8.0,0.0,0.0
+Business Analyst,Deloitte,United States,VA,Arlington,22/02/03,Analyst 2,General,2.0,2.0,88.0,88.0,0.0,0.0,0.0
+Business Analyst,Splunk,United States,CA,San Francisco,22/02/03,L4,Global,1.0,6.0,200.0,135.0,40.0,25.0,0.0
+Business Analyst,UnitedHealth Group,United States,GA,Atlanta,22/02/03,27,Pharmacy,6.0,16.0,75.0,70.0,0.0,5.0,0.0
+Business Analyst,Bank of America,United States,NC,Charlotte,22/02/03,L3,General,3.0,3.0,84.0,78.0,0.0,6.0,0.0
+Business Analyst,Bank of America,United States,NC,Charlotte,22/02/03,H5,Consumer Card,11.0,14.0,122.0,105.0,10.0,7.0,0.0
+Business Analyst,Capgemini,United States,IL,Chicago,22/02/03,"B2, Senior Consultant",Ecommerce,1.0,4.0,120.0,120.0,0.0,0.0,0.0
+Business Analyst,KPMG,United States,DC,Washington,22/02/03,Associate,IT,1.0,1.0,73.0,72.0,0.0,1.0,0.0
+Business Analyst,Goldman Sachs,India,KA,Bangalore,22/02/02,1,Making strategies,1.0,1.0,107.0,75.0,12.0,20.0,0.0
+Business Analyst,VMware,United States,CA,San Francisco,22/02/02,P3,General,3.0,3.0,121.0,108.0,0.0,13.0,0.0
+Business Analyst,Tatari,United States,CA,Los Angeles,22/02/02,L1,General,2.0,2.0,93.0,85.0,0.0,8.0,0.0
+Business Analyst,Progressive,United States,OH,Cleveland,22/02/02,44,data analysis,2.0,9.0,135.0,109.0,0.0,26.0,0.0
+Business Analyst,McAfee,United States,CA,San Jose,22/02/02,L3,Sales,1.0,3.0,137.0,120.0,0.0,17.0,0.0
+Business Analyst,Tata Consultancy Services,India,KA,Bangalore,22/02/02,C2,Data Analysis,6.0,6.0,3.0,3.0,0.0,0.0,0.0
+Business Analyst,Capital One,United States,DC,Washington,22/02/02,Manager,Finance,8.0,10.0,217.0,182.0,15.0,20.0,0.0
+Business Analyst,Accenture,United States,MO,St. Louis,22/02/01,L10,Full Stack,0.0,3.0,80.0,80.0,0.0,0.0,0.0
+Business Analyst,HPE,United States,IL,Chicago,22/02/01,L4,Cloud Computing,4.0,7.0,142.0,122.0,8.0,12.0,0.0
+Business Analyst,Aruba,United States,TX,Austin,22/02/01,15 Expert,Business Intelligence,2.0,7.0,179.0,137.0,30.0,12.0,0.0
+Business Analyst,ICF,United States,VA,Fairfax,22/02/01,Entry,Data Science,0.0,0.0,80.0,80.0,0.0,0.0,0.0
+Business Analyst,Uber,Netherlands,NH,Amsterdam,22/02/01,4,General,1.0,4.0,103.0,83.0,6.0,14.0,0.0
+Business Analyst,FedEx,United States,TN,Collierville,22/02/01,L1,Pricing,0.0,0.0,72.0,67.0,0.0,5.0,0.0
+Business Analyst,Goldman Sachs,United States,NY,New York,22/02/01,Analyst,Controller,1.0,1.0,85.0,75.0,0.0,10.0,0.0
+Business Analyst,Google,United States,CA,San Francisco,22/02/01,L4,Procurement,1.0,5.0,172.0,130.0,21.0,21.0,0.0
+Business Analyst,Google,United States,NY,New York,22/01/31,L4,Product,6.0,6.0,210.0,135.0,55.0,20.0,0.0
+Business Analyst,Deloitte Advisory,United States,VA,Arlington,22/01/31,L1,General,0.0,0.0,104.0,90.0,0.0,14.0,0.0
+Business Analyst,Pegasystems,United States,MA,Cambridge,22/01/31,l2,Business intelligence,0.0,5.0,120.0,100.0,10.0,10.0,0.0
+Business Analyst,Willis Towers Watson,United States,PA,Philadelphia,22/01/31,2,Software Implementation Consultant,4.0,4.0,70.0,68.0,0.0,2.0,0.0
+Business Analyst,Charter,United States,TX,Austin,22/01/31,Non,Performance & Reliability,4.0,4.0,102.0,92.0,0.0,10.0,0.0
+Business Analyst,Amazon,United States,NY,New York,22/01/31,L5,Marketing,2.0,6.0,150.0,120.0,30.0,0.0,0.0
 Business Analyst,IBM,Australia,VI,Ballarat,22/01/30,Band 8,Application Management,0.0,10.0,91.0,91.0,0.0,0.0,0.0
 Business Analyst,Apple,United States,TX,Austin,22/01/29,ICT2,Finance,7.0,7.0,88.0,75.0,8.0,5.0,0.0
 Business Analyst,ZS,United States,NJ,Princeton,22/01/29,Senior,Decision Analytics,2.0,2.0,102.0,93.0,0.0,9.0,0.0

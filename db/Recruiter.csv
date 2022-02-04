@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Twitter,United States,WA,Seattle,22/02/03,L6,Technical,1.0,10.0,192.0,135.0,30.0,27.0,0.0
+Recruiter,SmartNews,United States,CA,Palo Alto,22/02/03,L4,Technical,1.0,3.0,163.0,120.0,25.0,18.0,0.0
+Recruiter,Juniper Square,Canada,ON,Toronto,22/02/03,P2,Technical,1.0,6.0,151.0,142.0,9.0,0.0,0.0
+Recruiter,Google,United States,TX,Dallas,22/02/03,L3,Operations,0.0,2.0,108.0,108.0,0.0,0.0,0.0
+Recruiter,Tesla,United States,CA,San Francisco,22/02/03,P2,University,1.0,4.0,138.0,105.0,33.0,0.0,0.0
+Recruiter,Amazon,United States,IL,Chicago,22/02/03,L5,Operations,1.0,8.0,122.0,90.0,18.0,14.0,0.0
 Recruiter,Roku,United States,CA,San Jose,22/02/03,Sr. Professional,Leadership,3.0,25.0,330.0,250.0,80.0,0.0,0.0
 Recruiter,Blend,United States,CA,San Francisco,22/02/03,IC5,Recruiting,1.0,7.0,235.0,160.0,75.0,0.0,0.0
 Recruiter,Audible,United States,NJ,Newark,22/02/02,L6,Technical,3.0,14.0,175.0,130.0,45.0,0.0,0.0

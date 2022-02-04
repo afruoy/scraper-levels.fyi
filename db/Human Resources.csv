@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Human Resources,Stanley Black & Decker,United States,CT,New Britain,22/02/04,P1,Generalist,0.0,2.0,65.0,65.0,0.0,0.0,0.0
+Human Resources,IBM,United States,CA,San Francisco,22/02/03,7,Compensation,1.0,1.0,90.0,90.0,0.0,0.0,0.0
+Human Resources,Carvana,United States,AZ,Tempe,22/02/03,4,General,2.0,9.0,66.0,65.0,1.0,0.0,0.0
 Human Resources,PepsiCo,United States,NY,Purchase,22/02/02,L11,Talent Development,2.0,12.0,145.0,135.0,0.0,10.0,0.0
 Human Resources,The Home Depot,United States,GA,Atlanta,22/02/02,L7,Talent,4.0,7.0,169.0,132.0,24.0,13.0,0.0
 Human Resources,Swisscom,Switzerland,ZH,Zurich,22/02/01,L4,Human Resources,7.0,15.0,223.0,179.0,26.0,18.0,0.0

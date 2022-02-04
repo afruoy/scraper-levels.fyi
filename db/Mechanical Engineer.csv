@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Oak Ridge National Laboratory,United States,TN,Knoxville,22/02/04,Tp03,Neutron instruments,2.0,10.0,127.0,127.0,0.0,0.0,0.0
+Mechanical Engineer,Intel,United States,OR,Hillsboro,22/02/04,Grade 5,HVAC Mechanical,1.0,2.0,100.0,90.0,0.0,10.0,0.0
+Mechanical Engineer,GlobalFoundries,United States,NY,Ballston Spa,22/02/03,6,Equipment Engineer,4.0,4.0,99.0,90.0,0.0,9.0,0.0
 Mechanical Engineer,Apple,United States,CA,Sunnyvale,22/02/02,ICT3,Manufacturing I,4.0,8.0,282.0,134.0,130.0,18.0,0.0
 Mechanical Engineer,Stellantis,United States,MI,Chelsea,22/02/02,L5,Fuel Economy,7.0,7.0,109.0,99.0,0.0,10.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Renton,22/02/02,L2,Structures,0.0,3.0,93.0,93.0,0.0,0.0,0.0

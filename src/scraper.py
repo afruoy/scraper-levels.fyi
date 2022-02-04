@@ -17,7 +17,7 @@ def scrape_category(category, driver, log_txt):
 	sleep(2500 / 1000)
 
 	iter = 0
-	while iter <= 70:
+	while iter <= 40:
 		iter += 1
 		soup = BeautifulSoup(driver.page_source, "html.parser")
 		for tr in soup.find_all("tr", attrs={"data-has-detail-view": "true"}):
