@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Boeing,United States,WA,Everett,22/02/04,4,General,8.0,8.0,125.0,118.0,0.0,7.0,0.0
+Business Analyst,Accenture,United States,CA,Los Angeles,22/02/04,L9,Salesforce,2.0,5.0,132.0,125.0,0.0,7.0,0.0
 Business Analyst,Blackbaud,United States,SC,Charleston,22/02/03,Staff,Financial Edge NXT,1.0,5.0,83.0,75.0,8.0,0.0,0.0
 Business Analyst,Deloitte,United States,VA,Arlington,22/02/03,Analyst 2,General,2.0,2.0,88.0,88.0,0.0,0.0,0.0
 Business Analyst,Splunk,United States,CA,San Francisco,22/02/03,L4,Global,1.0,6.0,200.0,135.0,40.0,25.0,0.0

@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Twilio,United States,WI,Madison,22/02/04,2,Sales,1.0,1.0,94.0,94.0,0.0,0.0,0.0
 Recruiter,Twitter,United States,WA,Seattle,22/02/03,L6,Technical,1.0,10.0,192.0,135.0,30.0,27.0,0.0
 Recruiter,SmartNews,United States,CA,Palo Alto,22/02/03,L4,Technical,1.0,3.0,163.0,120.0,25.0,18.0,0.0
 Recruiter,Juniper Square,Canada,ON,Toronto,22/02/03,P2,Technical,1.0,6.0,151.0,142.0,9.0,0.0,0.0

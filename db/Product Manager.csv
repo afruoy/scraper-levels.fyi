@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Uber,Hong Kong (SAR),HK,Hong Kong,22/02/04,Senior Product Manager II,User Journey,1.0,12.0,200.0,140.0,32.0,28.0,0.0
+Product Manager,Facebook,United States,CA,Fremont,22/02/04,L5 Product Manager,Product,0.0,12.0,367.0,210.0,125.0,32.0,0.0
+Product Manager,Amazon,United States,CA,Sunnyvale,22/02/04,L6,Technical,8.0,10.0,293.0,168.0,125.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/04,Principal Product Manager,Technical,3.0,20.0,400.0,160.0,240.0,0.0,0.0
+Product Manager,Amazon,United States,NY,New York,22/02/04,Senior Product Manager,Technical,4.0,15.0,300.0,150.0,150.0,0.0,0.0
+Product Manager,Figure,United States,CA,San Francisco,22/02/04,L1,Product,2.0,2.0,150.0,92.0,40.0,18.0,0.0
+Product Manager,Coinbase,United States,CA,San Francisco,22/02/04,IC6,Product,0.0,14.0,546.0,237.0,275.0,34.0,0.0
+Product Manager,Samsung,United States,WA,Bellevue,22/02/04,Senior Product Manager,Product,5.0,10.0,206.0,165.0,0.0,41.0,0.0
+Product Manager,Walmart Global Tech,United States,CA,Sunnyvale,22/02/04,x5,Enterprise,0.0,6.0,296.0,180.0,80.0,36.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/04,Product Manager,Product,4.0,10.0,143.0,105.0,28.0,10.0,0.0
+Product Manager,Adobe,India,UP,Noida,22/02/04,P30,API Development (Back-End),0.0,6.0,99.0,70.0,19.0,10.0,0.0
+Product Manager,Curology,United States,WA,Seattle,22/02/04,MGR5,Product,2.0,7.0,220.0,165.0,55.0,0.0,0.0
 Product Manager,Electronic Arts,Canada,BC,Vancouver,22/02/04,21,Product,4.0,6.0,118.0,88.0,10.0,20.0,0.0
 Product Manager,Appian,United States,VA,West McLean,22/02/04,l2,Enterprise,1.0,2.0,150.0,130.0,10.0,10.0,0.0
 Product Manager,Mediaocean,United States,NY,New York,22/02/04,PM1,Product,0.0,2.0,110.0,100.0,0.0,10.0,0.0
