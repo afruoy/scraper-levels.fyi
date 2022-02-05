@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Microsoft,Estonia,HA,Tallinn,22/02/05,60,ML,0.0,2.0,51.0,39.0,8.0,4.0,0.0
+Data Scientist,PayPal,United States,CA,San Jose,22/02/05,L1,Data,0.0,0.0,130.0,130.0,0.0,0.0,0.0
+Data Scientist,ING,Netherlands,NH,Amsterdam,22/02/05,III,Machine learning,3.0,3.0,80.0,80.0,0.0,0.0,0.0
+Data Scientist,Publicis Sapient,United States,DC,Washington,22/02/05,Manager,General,6.0,6.0,160.0,145.0,0.0,15.0,0.0
+Data Scientist,Intel,United States,OR,Portland,22/02/05,Grade 8,General,5.0,5.0,201.0,160.0,20.0,21.0,0.0
 Data Scientist,IBM,United States,NY,New York,22/02/05,Band 8,Digital Sales,2.0,6.0,191.0,191.0,0.0,0.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/05,L5,Machine Learning,3.0,12.0,256.0,156.0,100.0,0.0,0.0
 Data Scientist,Ford Motor,United States,MI,Dearborn,22/02/05,L6,Data Science,0.0,3.0,131.0,120.0,0.0,11.0,0.0

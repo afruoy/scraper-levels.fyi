@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Cisco,United States,CA,San Jose,22/02/05,G12,Networking,15.0,16.0,306.0,181.0,80.0,45.0,0.0
+Product Manager,Expedia,United States,WA,Seattle,22/02/05,O,Product,15.0,17.0,395.0,275.0,60.0,60.0,0.0
 Product Manager,Highspot,United States,WA,Seattle,22/02/05,Senior,Product,1.0,10.0,223.0,188.0,35.0,0.0,0.0
 Product Manager,Citi,United States,NY,New York,22/02/05,C14,Product,11.0,13.0,245.0,190.0,0.0,55.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/05,Senior Product Manager,Product,5.0,10.0,220.0,150.0,70.0,0.0,0.0

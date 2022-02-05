@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Citi,United States,NJ,Jersey City,22/02/05,C13,Full Stack,10.0,20.0,223.0,185.0,0.0,38.0,0.0
+Software Engineering Manager,Esri,United States,CA,Redlands,22/02/05,L5,Management,15.0,17.0,251.0,213.0,25.0,13.0,0.0
+Software Engineering Manager,Expedia,United States,TX,Austin,22/02/05,M,API Development (Back-End),4.0,15.0,300.0,235.0,65.0,0.0,0.0
 Software Engineering Manager,Capital One,United States,VA,Vienna,22/02/05,Manager,Full Stack,3.0,5.0,238.0,199.0,20.0,19.0,0.0
 Software Engineering Manager,Coalition,United States,TN,Knoxville,22/02/05,L3,Web Development (Front-End),2.0,4.0,175.0,150.0,25.0,0.0,0.0
 Software Engineering Manager,Bloomberg,United States,NY,New York,22/02/05,L1,API Development (Back-End),12.0,12.0,400.0,300.0,0.0,100.0,0.0
