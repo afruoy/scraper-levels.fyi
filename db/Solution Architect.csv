@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Amazon,Australia,NS,Sydney,22/02/05,L5,Full Stack,2.0,10.0,182.0,125.0,40.0,17.0,0.0
+Solution Architect,Facebook,Singapore,SG,Singapore,22/02/05,IC4,Enterprise Client,0.0,4.0,100.0,75.0,10.0,15.0,0.0
+Solution Architect,Cisco,United States,CA,San Jose,22/02/05,7,Data Center,3.0,3.0,149.0,111.0,0.0,38.0,0.0
+Solution Architect,IBM,United States,OH,Columbus,22/02/04,Band 10,Distributed Systems (Back-End),0.0,24.0,280.0,250.0,0.0,30.0,0.0
+Solution Architect,T-Mobile,United States,WA,Bellevue,22/02/04,T7,Full Stack,4.0,12.0,290.0,180.0,65.0,45.0,0.0
 Solution Architect,Amazon Web Services,United States,CA,San Francisco,22/02/04,6,Distributed Systems (Back-End),6.0,6.0,272.0,161.0,111.0,0.0,0.0
 Solution Architect,Amazon,United States,WA,Seattle,22/02/04,L6,Sales,2.0,15.0,275.0,155.0,92.0,28.0,0.0
 Solution Architect,Salesforce,United States,TX,Austin,22/02/04,7,Web Development (Front-End),2.0,18.0,179.0,146.0,11.0,22.0,0.0

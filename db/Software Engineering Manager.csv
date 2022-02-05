@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Capital One,United States,VA,Vienna,22/02/05,Manager,Full Stack,3.0,5.0,238.0,199.0,20.0,19.0,0.0
+Software Engineering Manager,Coalition,United States,TN,Knoxville,22/02/05,L3,Web Development (Front-End),2.0,4.0,175.0,150.0,25.0,0.0,0.0
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/02/05,L1,API Development (Back-End),12.0,12.0,400.0,300.0,0.0,100.0,0.0
+Software Engineering Manager,Okta,United States,CA,San Francisco,22/02/04,Senior Director,Full Stack,0.0,20.0,1.0,370.0,575.0,93.0,0.0
+Software Engineering Manager,Facebook,United States,CA,Menlo Park,22/02/04,M2,AR / VR,4.0,10.0,1.0,287.0,700.0,113.0,0.0
+Software Engineering Manager,Miro,United States,WA,Seattle,22/02/04,65,Full Stack,8.0,12.0,280.0,200.0,40.0,40.0,0.0
+Software Engineering Manager,GoDaddy,United States,IA,Cedar Rapids,22/02/04,SDE 5,Web Development (Front-End),5.0,16.0,172.0,130.0,30.0,12.0,0.0
+Software Engineering Manager,SAP Concur,United States,WA,Bellevue,22/02/04,T4,Mobile (iOS + Android),9.0,17.0,250.0,170.0,50.0,30.0,0.0
+Software Engineering Manager,JPMorgan Chase,United States,NY,New York,22/02/04,603,Distributed Systems (Back-End),10.0,20.0,176.0,170.0,6.0,0.0,0.0
+Software Engineering Manager,IBM,United States,NC,Raleigh,22/02/04,Band 9,Full Stack,5.0,13.0,169.0,169.0,0.0,0.0,0.0
+Software Engineering Manager,Spotify,United States,NY,New York,22/02/04,1,Full Stack,5.0,17.0,213.0,203.0,10.0,0.0,0.0
+Software Engineering Manager,Microsoft,United States,VA,Reston,22/02/04,66,Distributed Systems (Back-End),3.0,15.0,513.0,210.0,213.0,90.0,0.0
 Software Engineering Manager,RBC,Canada,ON,Toronto,22/02/04,PL06,Data,6.0,12.0,143.0,106.0,12.0,25.0,0.0
 Software Engineering Manager,Microsoft,United States,WA,Redmond,22/02/04,Principal EM,Full Stack,13.0,13.0,300.0,200.0,50.0,50.0,0.0
 Software Engineering Manager,Fortinet,United States,CA,Sunnyvale,22/02/04,M3,Networking,6.0,6.0,308.0,211.0,55.0,42.0,0.0

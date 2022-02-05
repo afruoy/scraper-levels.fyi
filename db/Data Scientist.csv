@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,IBM,United States,NY,New York,22/02/05,Band 8,Digital Sales,2.0,6.0,191.0,191.0,0.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/05,L5,Machine Learning,3.0,12.0,256.0,156.0,100.0,0.0,0.0
+Data Scientist,Ford Motor,United States,MI,Dearborn,22/02/05,L6,Data Science,0.0,3.0,131.0,120.0,0.0,11.0,0.0
+Data Scientist,LendingClub,United States,CA,San Francisco,22/02/04,L4,DATA,0.0,3.0,211.0,169.0,22.0,20.0,0.0
+Data Scientist,Autodesk,United States,WA,Seattle,22/02/04,P2,ML/AI,0.0,0.0,170.0,122.0,23.0,25.0,0.0
+Data Scientist,Capgemini,India,KA,Bangalore,22/02/04,B1,"Data Science, Python Developer",2.0,2.0,11.0,11.0,0.0,0.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/04,L6,AWS,5.0,5.0,400.0,160.0,240.0,0.0,0.0
 Data Scientist,General Dynamics Mission Systems,United States,AZ,Scottsdale,22/02/04,HEAT64,ML / AI,5.0,5.0,113.0,108.0,0.0,5.0,0.0
 Data Scientist,General Motors,United States,TX,Austin,22/02/04,L5,AI/ML,0.0,0.0,77.0,70.0,0.0,7.0,0.0

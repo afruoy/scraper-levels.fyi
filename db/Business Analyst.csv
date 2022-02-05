@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Raymond James,United States,CO,Denver,22/02/05,21,"Business Analyst, Technical Analyst",3.0,11.0,145.0,129.0,8.0,8.0,0.0
+Business Analyst,Adobe,United States,NY,New York,22/02/04,P30,Business,3.0,7.0,150.0,120.0,10.0,20.0,0.0
+Business Analyst,Accenture,United States,VA,Arlington,22/02/04,11,Operations,0.0,1.0,87.0,80.0,0.0,7.0,0.0
+Business Analyst,Sandia National Labs,United States,NM,Albuquerque,22/02/04,Member,General,3.0,6.0,77.0,76.0,0.0,1.0,0.0
+Business Analyst,Amazon,United States,WA,Seattle,22/02/04,L4,General,0.0,0.0,94.0,67.0,11.0,16.0,0.0
+Business Analyst,Capital One,United States,VA,West McLean,22/02/04,L2,Acquisitions,1.0,1.0,110.0,100.0,0.0,10.0,0.0
 Business Analyst,Boeing,United States,WA,Everett,22/02/04,4,General,8.0,8.0,125.0,118.0,0.0,7.0,0.0
 Business Analyst,Accenture,United States,CA,Los Angeles,22/02/04,L9,Salesforce,2.0,5.0,132.0,125.0,0.0,7.0,0.0
 Business Analyst,Blackbaud,United States,SC,Charleston,22/02/03,Staff,Financial Edge NXT,1.0,5.0,83.0,75.0,8.0,0.0,0.0

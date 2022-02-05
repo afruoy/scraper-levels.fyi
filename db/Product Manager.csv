@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Highspot,United States,WA,Seattle,22/02/05,Senior,Product,1.0,10.0,223.0,188.0,35.0,0.0,0.0
+Product Manager,Citi,United States,NY,New York,22/02/05,C14,Product,11.0,13.0,245.0,190.0,0.0,55.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/05,Senior Product Manager,Product,5.0,10.0,220.0,150.0,70.0,0.0,0.0
+Product Manager,Amazon Web Services,United States,CA,Palo Alto,22/02/04,6,Product,2.0,7.0,228.0,156.0,53.0,19.0,0.0
+Product Manager,Convoy,United States,WA,Seattle,22/02/04,T6,Product,2.0,10.0,410.0,195.0,205.0,10.0,0.0
+Product Manager,Grubhub,United States,NY,New York,22/02/04,1,Product,1.0,1.0,400.0,200.0,200.0,0.0,0.0
+Product Manager,Micron Technology,United States,ID,Boise,22/02/04,M1,Product,10.0,10.0,184.0,138.0,30.0,16.0,0.0
+Product Manager,Groupon,United States,IL,Chicago,22/02/04,SDE 3,Product,0.0,15.0,200.0,150.0,25.0,25.0,0.0
+Product Manager,Vanguard,United States,PA,Philadelphia,22/02/04,L1,Product,3.0,3.0,122.0,90.0,10.0,22.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/04,Product Manager 3,Product,1.0,4.0,160.0,120.0,20.0,20.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/04,64,Product,6.0,11.0,236.0,180.0,30.0,26.0,0.0
+Product Manager,Aetna,United States,NY,New York,22/02/04,Lead,Analytic,0.0,4.0,206.0,175.0,0.0,31.0,0.0
+Product Manager,American Express,United States,NY,New York,22/02/04,L30,Product,0.0,3.0,105.0,100.0,0.0,5.0,0.0
 Product Manager,Uber,Hong Kong (SAR),HK,Hong Kong,22/02/04,Senior Product Manager II,User Journey,1.0,12.0,200.0,140.0,32.0,28.0,0.0
 Product Manager,Facebook,United States,CA,Fremont,22/02/04,L5 Product Manager,Product,0.0,12.0,367.0,210.0,125.0,32.0,0.0
 Product Manager,Amazon,United States,CA,Sunnyvale,22/02/04,L6,Technical,8.0,10.0,293.0,168.0,125.0,0.0,0.0

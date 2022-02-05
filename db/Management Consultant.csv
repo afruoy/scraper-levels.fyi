@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Ernst and Young,United States,IL,Chicago,22/02/05,Manager,TSE,3.0,10.0,245.0,215.0,0.0,30.0,0.0
+Management Consultant,ZS,Germany,HE,Frankfurt,22/02/05,Manager,General,0.0,13.0,187.0,140.0,0.0,47.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,22/02/04,Senior Manager,IT,10.0,17.0,209.0,199.0,0.0,10.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,22/02/04,Manager,workday,2.0,5.0,148.0,141.0,1.0,6.0,0.0
+Management Consultant,BCG,United States,DC,Washington,22/02/04,Consultant,Healthcare,0.0,2.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/02/04,Senior Consultant,General,6.0,6.0,160.0,145.0,0.0,15.0,0.0
+Management Consultant,McKinsey,United States,OH,Cleveland,22/02/04,Business Analyst,Generalist,0.0,0.0,130.0,100.0,0.0,30.0,0.0
 Management Consultant,Accenture,United States,DC,Washington,22/02/04,L8,Consulting,0.0,7.0,163.0,155.0,1.0,7.0,0.0
 Management Consultant,IBM,United States,DC,Washington,22/02/03,Band 8,IBM Consulting | Data & Technology Transformation,8.0,8.0,142.0,142.0,0.0,0.0,0.0
 Management Consultant,Oliver Wyman,United States,NY,New York,22/02/03,Senior Consultant,General,1.0,3.0,130.0,110.0,0.0,20.0,0.0
