@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Bank of America,United States,NC,Charlotte,22/02/06,B4,Marketing campaign management,4.0,10.0,134.0,124.0,3.0,7.0,0.0
+Marketing,Johnson & Johnson,United States,NJ,Skillman,22/02/06,25,CPG Brand Management,0.0,0.0,70.0,65.0,0.0,5.0,0.0
+Marketing,Bolt,United States,CA,San Francisco,22/02/05,L3,General,3.0,4.0,120.0,109.0,6.0,5.0,0.0
+Marketing,Hulu,United States,CA,Santa Monica,22/02/05,L3,Social Media,4.0,5.0,103.0,72.0,0.0,31.0,0.0
 Marketing,Facebook,United States,CA,Los Angeles,22/02/05,IC6,Business,5.0,13.0,334.0,220.0,70.0,44.0,0.0
 Marketing,Amazon,United States,CA,Los Angeles,22/02/04,L6,marketing,1.0,7.0,201.0,140.0,37.0,24.0,0.0
 Marketing,Amazon,United States,WA,Seattle,22/02/04,L7,Hardware,7.0,10.0,277.0,160.0,117.0,0.0,0.0

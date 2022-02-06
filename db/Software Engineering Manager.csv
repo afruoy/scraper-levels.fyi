@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Autodesk,United States,CA,San Francisco,22/02/06,M1,Data,5.0,13.0,210.0,160.0,30.0,20.0,0.0
+Software Engineering Manager,Amazon,United States,TX,Dallas,22/02/06,L5 SDM,Security,1.0,9.0,278.0,148.0,100.0,30.0,0.0
+Software Engineering Manager,Tenable,Ireland,DN,Dublin,22/02/06,L5,Security,3.0,13.0,150.0,106.0,28.0,16.0,0.0
+Software Engineering Manager,Capital One,United States,TX,Plano,22/02/05,Manager,API Development (Back-End),5.0,9.0,193.0,170.0,11.0,12.0,0.0
 Software Engineering Manager,Citi,United States,NJ,Jersey City,22/02/05,C13,Full Stack,10.0,20.0,223.0,185.0,0.0,38.0,0.0
 Software Engineering Manager,Esri,United States,CA,Redlands,22/02/05,L5,Management,15.0,17.0,251.0,213.0,25.0,13.0,0.0
 Software Engineering Manager,Expedia,United States,TX,Austin,22/02/05,M,API Development (Back-End),4.0,15.0,300.0,235.0,65.0,0.0,0.0

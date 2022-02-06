@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Amazon,United States,WA,Seattle,22/02/06,L4,Amazon Air,0.0,0.0,86.0,67.0,11.0,8.0,0.0
+Business Analyst,Facebook,Singapore,SG,Singapore,22/02/06,IC4,Global ops,1.0,5.0,111.0,92.0,9.0,10.0,0.0
+Business Analyst,Capital One,United States,DC,Washington,22/02/06,Sr Associate,general,1.0,1.0,111.0,105.0,0.0,6.0,0.0
+Business Analyst,JPMorgan Chase,United States,NY,New York,22/02/05,502,General,1.0,1.0,80.0,75.0,0.0,5.0,0.0
 Business Analyst,Nike,United States,OR,Portland,22/02/05,L4,Finance,10.0,13.0,249.0,170.0,45.0,34.0,0.0
 Business Analyst,Raymond James,United States,CO,Denver,22/02/05,21,"Business Analyst, Technical Analyst",3.0,11.0,145.0,129.0,8.0,8.0,0.0
 Business Analyst,Adobe,United States,NY,New York,22/02/04,P30,Business,3.0,7.0,150.0,120.0,10.0,20.0,0.0

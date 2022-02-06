@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Activision,United States,CA,Santa Monica,22/02/06,L7,Product,2.0,10.0,144.0,130.0,0.0,14.0,0.0
+Product Manager,American Express,United States,NY,New York,22/02/06,B35,Product,7.0,13.0,201.0,145.0,15.0,41.0,0.0
+Product Manager,Figma,United States,CA,San Francisco,22/02/06,L5,Product,1.0,5.0,250.0,200.0,50.0,0.0,0.0
+Product Manager,Raytheon,United States,IA,Cedar Rapids,22/02/06,P2,Technical,2.0,4.0,97.0,95.0,0.0,2.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/06,59,Product,0.0,0.0,214.0,121.0,43.0,50.0,0.0
+Product Manager,IBM,United States,TX,Dallas,22/02/06,Advisory Offering Manager,Product,3.0,5.0,148.0,148.0,0.0,0.0,0.0
+Product Manager,Navi,India,KA,Bangalore,22/02/05,L3,Product,1.0,2.0,44.0,40.0,2.0,2.0,0.0
+Product Manager,Salesforce,United States,WA,Seattle,22/02/05,Director,Product,4.0,9.0,334.0,220.0,70.0,44.0,0.0
+Product Manager,Cloudflare,United States,CA,San Francisco,22/02/05,L5,Enterprise,0.0,12.0,250.0,200.0,50.0,0.0,0.0
+Product Manager,Delivery Hero,Germany,BE,Berlin,22/02/05,L6,Product,3.0,12.0,143.0,109.0,34.0,0.0,0.0
+Product Manager,Salesforce,United Kingdom,EN,London,22/02/05,Director,Product,6.0,18.0,353.0,213.0,97.0,43.0,0.0
+Product Manager,Walmart Global Tech,United States,NJ,Hoboken,22/02/05,x5,Product,2.0,4.0,296.0,180.0,80.0,36.0,0.0
 Product Manager,Cisco,United States,CA,San Jose,22/02/05,G12,Networking,15.0,16.0,306.0,181.0,80.0,45.0,0.0
 Product Manager,Expedia,United States,WA,Seattle,22/02/05,O,Product,15.0,17.0,395.0,275.0,60.0,60.0,0.0
 Product Manager,Highspot,United States,WA,Seattle,22/02/05,Senior,Product,1.0,10.0,223.0,188.0,35.0,0.0,0.0
