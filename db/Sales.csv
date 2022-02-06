@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Microsoft,Australia,NS,Sydney,22/02/06,59,Cloud,4.0,7.0,119.0,70.0,3.0,46.0,0.0
 Sales,Amazon,United States,DC,Washington,22/02/05,L7,AWS,9.0,25.0,710.0,160.0,330.0,220.0,0.0
 Sales,Salesforce,United States,CA,San Francisco,22/02/05,L4,Tableau,0.0,10.0,220.0,150.0,5.0,65.0,0.0
 Sales,GitHub,India,HR,Gurgaon,22/02/05,9,Sales,2.0,9.0,124.0,80.0,24.0,20.0,0.0

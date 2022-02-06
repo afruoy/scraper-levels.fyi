@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Infineon Technologies,Germany,BY,Munich,22/02/06,Staff,Quality Assurance,4.0,4.0,87.0,80.0,0.0,7.0,0.0
+Hardware Engineer,ASML,United States,CA,San Diego,22/02/06,9,Hardware,4.0,4.0,163.0,130.0,3.0,30.0,0.0
+Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/06,Grade 9,Analog,10.0,15.0,250.0,170.0,40.0,40.0,0.0
+Hardware Engineer,Qualcomm,United States,CA,San Diego,22/02/06,Engineer,Verification,0.0,0.0,140.0,103.0,16.0,21.0,0.0
 Hardware Engineer,Apple,United States,CA,Cupertino,22/02/05,ICT3,Display Module Process Engineer,0.0,0.0,199.0,152.0,27.0,20.0,0.0
 Hardware Engineer,Apple,United States,CA,Cupertino,22/02/05,ICT5,Imaging,4.0,4.0,530.0,210.0,290.0,30.0,0.0
 Hardware Engineer,Intel,United States,TX,Austin,22/02/05,Grade 7,ASIC Design,6.0,6.0,150.0,130.0,10.0,10.0,0.0

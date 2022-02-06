@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,Singapore,SG,Singapore,22/02/06,Product Manager,Product,8.0,8.0,145.0,120.0,25.0,0.0,0.0
+Product Manager,Comscore,United States,NY,New York,22/02/06,L7,Product,2.0,18.0,441.0,315.0,63.0,63.0,0.0
+Product Manager,Amazon,United Kingdom,EN,London,22/02/06,Director,Product,8.0,15.0,450.0,185.0,255.0,10.0,0.0
+Product Manager,Wayfair,United States,TX,Austin,22/02/06,L4,Product,5.0,10.0,275.0,165.0,90.0,20.0,0.0
+Product Manager,VMware,United States,CA,Palo Alto,22/02/06,P6,Product,3.0,13.0,317.0,218.0,55.0,44.0,0.0
 Product Manager,Activision,United States,CA,Santa Monica,22/02/06,L7,Product,2.0,10.0,144.0,130.0,0.0,14.0,0.0
 Product Manager,American Express,United States,NY,New York,22/02/06,B35,Product,7.0,13.0,201.0,145.0,15.0,41.0,0.0
 Product Manager,Figma,United States,CA,San Francisco,22/02/06,L5,Product,1.0,5.0,250.0,200.0,50.0,0.0,0.0
