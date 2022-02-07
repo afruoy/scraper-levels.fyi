@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Compass,United States,MA,Boston,22/02/07,IC2,Computer vision,1.0,3.0,210.0,170.0,30.0,10.0,0.0
+Data Scientist,Bosch Global,Germany,BW,Stuttgart,22/02/07,EG14,Deep Learning,0.0,1.0,103.0,90.0,0.0,13.0,0.0
+Data Scientist,Optum,United States,CA,San Diego,22/02/07,L1,rotational,1.0,1.0,130.0,100.0,30.0,0.0,0.0
+Data Scientist,Raymond James,United States,FL,Tampa,22/02/07,0,Finance,1.0,1.0,100.0,100.0,0.0,0.0,0.0
+Data Scientist,Ubisoft,Canada,QC,Montreal,22/02/07,L3,Machine Learning,1.0,4.0,90.0,85.0,0.0,5.0,0.0
+Data Scientist,Shopee,Singapore,SG,Singapore,22/02/07,senior,ML,3.0,3.0,101.0,74.0,15.0,12.0,0.0
+Data Scientist,Realtor.com,United States,MA,Boston,22/02/07,L6,Marketing,1.0,13.0,350.0,200.0,110.0,40.0,0.0
+Data Scientist,GSK,United Kingdom,EN,London,22/02/07,6,General,2.0,5.0,145.0,110.0,15.0,20.0,0.0
+Data Scientist,Flipkart,India,KA,Bangalore,22/02/06,10,General,3.0,3.0,82.0,63.0,10.0,9.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/06,L6,General,4.0,4.0,270.0,160.0,110.0,0.0,0.0
 Data Scientist,Expedia,United States,WA,Seattle,22/02/06,M,General,12.0,18.0,188.0,180.0,8.0,0.0,0.0
 Data Scientist,Relativity,United States,IL,Chicago,22/02/06,L6,General,1.0,12.0,360.0,220.0,120.0,20.0,0.0

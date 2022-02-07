@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Booz Allen Hamilton,United States,VA,Mc Lean,22/02/07,Lead Associate,Communications,16.0,22.0,162.0,162.0,0.0,0.0,0.0
+Marketing,Amazon,United States,NY,New York,22/02/07,L6,General,2.0,5.0,183.0,142.0,23.0,18.0,0.0
+Marketing,Cisco,United States,CT,Hartford,22/02/07,G10,General,2.0,8.0,171.0,123.0,30.0,18.0,0.0
 Marketing,Facebook,United States,CA,Menlo Park,22/02/06,IC4,Consumer,1.0,5.0,180.0,145.0,20.0,15.0,0.0
 Marketing,Bank of America,United States,NC,Charlotte,22/02/06,B4,Marketing campaign management,4.0,10.0,134.0,124.0,3.0,7.0,0.0
 Marketing,Johnson & Johnson,United States,NJ,Skillman,22/02/06,25,CPG Brand Management,0.0,0.0,70.0,65.0,0.0,5.0,0.0

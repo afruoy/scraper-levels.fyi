@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Stealth,United Kingdom,EN,London,22/02/07,4,Technical,1.0,9.0,153.0,140.0,3.0,10.0,0.0
+Recruiter,Facebook,United States,TX,Dallas,22/02/07,IC3,University,0.0,3.0,120.0,100.0,10.0,10.0,0.0
+Recruiter,ByteDance,United States,NY,New York,22/02/07,1,Technical,1.0,3.0,100.0,80.0,0.0,20.0,0.0
+Recruiter,Twilio,United States,NC,Raleigh,22/02/06,L4,Technical,0.0,6.0,160.0,137.0,23.0,0.0,0.0
 Recruiter,Facebook,United States,TX,Austin,22/02/06,IC5,Technical,0.0,5.0,198.0,150.0,25.0,23.0,0.0
 Recruiter,Microsoft,United States,TX,Dallas,22/02/05,59,Technical,3.0,3.0,95.0,85.0,2.0,8.0,0.0
 Recruiter,Google,United States,CA,San Francisco,22/02/05,L4,Technical,2.0,5.0,200.0,130.0,45.0,25.0,0.0

@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Google,United States,WA,Seattle,22/02/07,Senior Manager,Distributed Systems (Back-End),4.0,20.0,855.0,280.0,475.0,100.0,0.0
+Software Engineering Manager,Capital One,United States,VA,Richmond,22/02/07,Senior Manager,Full Stack,11.0,20.0,293.0,214.0,49.0,30.0,0.0
+Software Engineering Manager,Expedia,United Kingdom,EN,London,22/02/07,O,Full Stack,10.0,16.0,210.0,125.0,60.0,25.0,0.0
+Software Engineering Manager,Expedia,United States,WA,Seattle,22/02/07,M,Full Stack,15.0,20.0,285.0,210.0,75.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,CA,San Diego,22/02/07,L5 SDM,Full Stack,1.0,15.0,305.0,155.0,150.0,0.0,0.0
+Software Engineering Manager,IBM,United States,TX,Houston,22/02/07,Band 10,Distributed Systems (Back-End),13.0,13.0,211.0,175.0,35.0,1.0,0.0
+Software Engineering Manager,Chewy,United States,MA,Boston,22/02/07,7,Web Development (Front-End),1.0,26.0,260.0,182.0,60.0,18.0,0.0
+Software Engineering Manager,Apple,United States,CA,Cupertino,22/02/07,ICT5,Systems Software,8.0,28.0,630.0,270.0,325.0,35.0,0.0
+Software Engineering Manager,Wells Fargo,United States,NJ,Summit,22/02/07,L2,Data,1.0,16.0,240.0,195.0,20.0,25.0,0.0
+Software Engineering Manager,RBC,Canada,ON,Toronto,22/02/07,PL07,Full Stack,3.0,10.0,111.0,98.0,0.0,13.0,0.0
+Software Engineering Manager,Tata Consultancy Services,United States,UT,Salt Lake City,22/02/06,Consultant,Distributed Systems (Back-End),15.0,15.0,135.0,120.0,0.0,15.0,0.0
+Software Engineering Manager,LinkedIn,United States,CA,Sunnyvale,22/02/06,Manager,Distributed Systems (Back-End),4.0,10.0,480.0,225.0,220.0,35.0,0.0
 Software Engineering Manager,Adobe,United States,CA,San Jose,22/02/06,M4,DevOps,4.0,16.0,430.0,250.0,140.0,40.0,0.0
 Software Engineering Manager,Qualys,United States,CA,San Francisco,22/02/06,L2,Production,10.0,20.0,320.0,200.0,100.0,20.0,0.0
 Software Engineering Manager,Capgemini,United States,TX,Dallas,22/02/06,L4,Distributed Systems (Back-End),1.0,10.0,150.0,130.0,0.0,20.0,0.0

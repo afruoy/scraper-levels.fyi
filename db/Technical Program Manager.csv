@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Oracle,India,KA,Bangalore,22/02/07,IC,OCI,1.0,12.0,51.0,43.0,8.0,0.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/07,L7,AWS,0.0,20.0,450.0,160.0,30.0,260.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/07,65,Azure,0.0,11.0,285.0,200.0,45.0,40.0,0.0
 Technical Program Manager,Northrop Grumman,United States,CO,Colorado Springs,22/02/06,1,Spacecraft,5.0,5.0,121.0,120.0,0.0,1.0,0.0
 Technical Program Manager,Benevity,Canada,ON,Toronto,22/02/06,L2,General,1.0,3.0,55.0,51.0,0.0,4.0,0.0
 Technical Program Manager,Google,United States,WA,Seattle,22/02/06,L5,Product engineering,7.0,20.0,300.0,180.0,80.0,40.0,0.0

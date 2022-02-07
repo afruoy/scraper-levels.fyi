@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Startup,United States,MA,Cambridge,22/02/06,L1,Analog,0.0,0.0,81.0,79.0,0.0,2.0,0.0
 Hardware Engineer,Infineon Technologies,Germany,BY,Munich,22/02/06,Staff,Quality Assurance,4.0,4.0,87.0,80.0,0.0,7.0,0.0
 Hardware Engineer,ASML,United States,CA,San Diego,22/02/06,9,Hardware,4.0,4.0,163.0,130.0,3.0,30.0,0.0
 Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/06,Grade 9,Analog,10.0,15.0,250.0,170.0,40.0,40.0,0.0

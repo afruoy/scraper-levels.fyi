@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,VA,Arlington,22/02/07,Manager,Systems Integration,12.0,15.0,161.0,151.0,0.0,10.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,22/02/07,Manager,Data governance,14.0,16.0,105.0,99.0,0.0,6.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,22/02/07,Consultant,Digital Producer,0.0,6.0,106.0,106.0,0.0,0.0,0.0
+Management Consultant,Amazon,United States,VA,Herndon,22/02/07,L6,General,2.0,15.0,254.0,154.0,80.0,20.0,0.0
+Management Consultant,ZS,United States,CA,San Francisco,22/02/06,Consultant,General,6.0,6.0,195.0,175.0,0.0,20.0,0.0
+Management Consultant,PwC,United States,TX,Dallas,22/02/06,Director,"Digital Solutions, Transformation and Product Development",8.0,18.0,265.0,240.0,0.0,25.0,0.0
 Management Consultant,PwC,United States,DC,Washington,22/02/06,Senior Associate,Deals,0.0,7.0,160.0,160.0,0.0,0.0,0.0
 Management Consultant,Amazon,Finland,ES,Helsinki,22/02/06,L5,Professional Services,1.0,21.0,108.0,89.0,13.0,6.0,0.0
 Management Consultant,Ernst and Young,United States,NY,New York,22/02/06,Manager,FSO,8.0,10.0,155.0,150.0,0.0,5.0,0.0

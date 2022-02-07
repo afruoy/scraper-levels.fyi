@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Doximity,United States,CA,San Francisco,22/02/07,L1,Product,1.0,1.0,210.0,105.0,100.0,5.0,0.0
+Product Manager,Publicis Sapient,United States,CO,Denver,22/02/07,Senior Associate,Product,4.0,6.0,90.0,90.0,0.0,0.0,0.0
+Product Manager,Klarna,Germany,BE,Berlin,22/02/07,L4,Product,2.0,5.0,86.0,86.0,0.0,0.0,0.0
+Product Manager,Salesforce,United States,IL,Chicago,22/02/07,Product Manager,Internal,0.0,10.0,213.0,175.0,12.0,26.0,0.0
+Product Manager,Micron Technology,United States,ID,Boise,22/02/07,M4,Technical,5.0,20.0,525.0,300.0,125.0,100.0,0.0
+Product Manager,Airbnb,United States,CA,San Francisco,22/02/07,L6,Product,1.0,7.0,425.0,220.0,150.0,55.0,0.0
+Product Manager,Achievers,Canada,ON,Toronto,22/02/07,L3,Product,1.0,3.0,95.0,95.0,0.0,0.0,0.0
+Product Manager,Dell Technologies,United States,CA,Santa Clara,22/02/07,I10,Product,4.0,12.0,221.0,188.0,8.0,25.0,0.0
+Product Manager,Amazon,United States,CA,Los Angeles,22/02/07,Product Manager,Technical,0.0,3.0,157.0,125.0,19.0,13.0,0.0
+Product Manager,Oracle,United States,CA,Redwood City,22/02/07,IC,Product,0.0,5.0,222.0,135.0,57.0,30.0,0.0
+Product Manager,Cisco,United States,CA,San Jose,22/02/06,G12,Product,16.0,16.0,321.0,191.0,80.0,50.0,0.0
+Product Manager,Capgemini,United States,TX,Austin,22/02/06,B2,Internal,6.0,6.0,90.0,90.0,0.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/06,Principal Product Manager,Product,0.0,5.0,420.0,160.0,30.0,230.0,0.0
 Product Manager,Amazon,Singapore,SG,Singapore,22/02/06,Product Manager,Product,8.0,8.0,145.0,120.0,25.0,0.0,0.0
 Product Manager,Comscore,United States,NY,New York,22/02/06,L7,Product,2.0,18.0,441.0,315.0,63.0,63.0,0.0
 Product Manager,Amazon,United Kingdom,EN,London,22/02/06,Director,Product,8.0,15.0,450.0,185.0,255.0,10.0,0.0
