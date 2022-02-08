@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Intel,United States,OR,Portland,22/02/08,Grade 7,Manufacturing engineer,3.0,3.0,150.0,130.0,10.0,10.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/08,ICT5,Quality Assurance,1.0,15.0,390.0,230.0,125.0,35.0,0.0
+Hardware Engineer,Intel,United States,OR,Portland,22/02/08,Grade 6,SoC Design,2.0,2.0,154.0,120.0,24.0,10.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/08,ICT3,Analog,0.0,4.0,261.0,155.0,26.0,80.0,0.0
+Hardware Engineer,Nvidia,United States,CA,Santa Clara,22/02/08,IC3,ASIC Design,0.0,6.0,235.0,175.0,60.0,0.0,0.0
+Hardware Engineer,Intel,United States,OR,Hillsboro,22/02/08,Grade 6,Verification,5.0,5.0,162.0,122.0,30.0,10.0,0.0
+Hardware Engineer,HPE,United States,CO,Fort Collins,22/02/07,L4,ASIC Design,8.0,8.0,147.0,132.0,0.0,15.0,0.0
+Hardware Engineer,IBM,United States,TX,Austin,22/02/07,L4,ASIC Design,1.0,1.0,110.0,110.0,0.0,0.0,0.0
+Hardware Engineer,Squad,Ukraine,KC,Kiev,22/02/07,L5,Analog,2.0,8.0,48.0,48.0,0.0,0.0,0.0
+Hardware Engineer,AMD,United States,TX,Austin,22/02/07,L7,Validation,0.0,5.0,170.0,135.0,15.0,20.0,0.0
 Hardware Engineer,Startup,United States,MA,Cambridge,22/02/06,L1,Analog,0.0,0.0,81.0,79.0,0.0,2.0,0.0
 Hardware Engineer,Infineon Technologies,Germany,BY,Munich,22/02/06,Staff,Quality Assurance,4.0,4.0,87.0,80.0,0.0,7.0,0.0
 Hardware Engineer,ASML,United States,CA,San Diego,22/02/06,9,Hardware,4.0,4.0,163.0,130.0,3.0,30.0,0.0

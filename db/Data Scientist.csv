@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Amazon,United States,WA,Seattle,22/02/08,L5,"machine learning, personalization",4.0,5.0,217.0,126.0,91.0,0.0,0.0
+Data Scientist,Capgemini,United States,CA,Los Angeles,22/02/08,B1,General,1.0,2.0,107.0,105.0,0.0,2.0,0.0
+Data Scientist,Amazon,United States,CA,San Francisco,22/02/08,L6,Analytics,3.0,5.0,310.0,160.0,150.0,0.0,0.0
+Data Scientist,Intel,United States,OR,Portland,22/02/07,Grade 7,ML and BI,3.0,8.0,201.0,140.0,43.0,18.0,0.0
+Data Scientist,Ernst and Young,United States,NY,New York,22/02/07,Staff 2,Data Analytics,1.0,1.0,95.0,90.0,0.0,5.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/07,L6,Data Engineer,4.0,16.0,247.0,152.0,95.0,0.0,0.0
+Data Scientist,Airbnb,United States,CA,San Francisco,22/02/07,L6,Analytics,3.0,11.0,440.0,215.0,175.0,50.0,0.0
+Data Scientist,JPMorgan Chase,United States,NJ,Jersey City,22/02/07,602,ML/AI,1.0,3.0,161.0,131.0,0.0,30.0,0.0
+Data Scientist,Deloitte,United States,MA,Boston,22/02/07,L4,Strategy&Analytics,1.0,5.0,123.0,115.0,0.0,8.0,0.0
+Data Scientist,Etsy,United States,NY,Brooklyn,22/02/07,IC3,Machine Learning,2.0,2.0,230.0,165.0,50.0,15.0,0.0
+Data Scientist,Expedia,United States,WA,Seattle,22/02/07,L,Database Administration Operations,13.0,16.0,150.0,142.0,0.0,8.0,0.0
+Data Scientist,Huawei,Canada,ON,Markham,22/02/07,L4,Distributed systems,1.0,4.0,135.0,135.0,0.0,0.0,0.0
+Data Scientist,Kroger,United States,OH,Cincinnati,22/02/07,87,"Product, General",3.0,3.0,118.0,101.0,7.0,10.0,0.0
 Data Scientist,Compass,United States,MA,Boston,22/02/07,IC2,Computer vision,1.0,3.0,210.0,170.0,30.0,10.0,0.0
 Data Scientist,Bosch Global,Germany,BW,Stuttgart,22/02/07,EG14,Deep Learning,0.0,1.0,103.0,90.0,0.0,13.0,0.0
 Data Scientist,Optum,United States,CA,San Diego,22/02/07,L1,rotational,1.0,1.0,130.0,100.0,30.0,0.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Amazon,United States,CA,San Francisco,22/02/08,L6,Business Development,4.0,4.0,335.0,185.0,150.0,0.0,0.0
+Sales,Citi,United States,TX,San Antonio,22/02/08,C13,"Sales, Banking",1.0,1.0,89.0,72.0,0.0,17.0,0.0
+Sales,eBay,Italy,LO,Milano,22/02/07,26,Advertising,7.0,11.0,122.0,88.0,21.0,13.0,0.0
+Sales,Cisco,United States,NY,New York,22/02/07,L8,Appdynamics Sales Engineer,1.0,1.0,151.0,113.0,0.0,38.0,0.0
+Sales,ServiceNow,United States,CA,San Diego,22/02/07,IC1,General,1.0,1.0,84.0,52.0,0.0,32.0,0.0
 Sales,Salesforce,Singapore,SG,Singapore,22/02/07,4,Solution Pre-Sales,2.0,14.0,130.0,107.0,0.0,23.0,0.0
 Sales,Amazon,United States,VA,Herndon,22/02/07,L7,General,3.0,18.0,283.0,160.0,83.0,40.0,0.0
 Sales,Google,United States,CA,San Jose,22/02/06,L3,Sales,3.0,20.0,163.0,105.0,18.0,40.0,0.0

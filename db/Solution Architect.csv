@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Capital One,United States,NY,New York,22/02/08,Senior Manager,Application Architecture,4.0,25.0,237.0,213.0,0.0,24.0,0.0
+Solution Architect,Palo Alto Networks,United States,CA,San Francisco,22/02/08,SE2,Security,8.0,23.0,280.0,250.0,30.0,0.0,0.0
+Solution Architect,Booz Allen Hamilton,United States,DC,Washington,22/02/07,Principal,DevOps,15.0,20.0,245.0,190.0,15.0,40.0,0.0
+Solution Architect,Ernst and Young,United States,IL,Chicago,22/02/07,Senior,Microsoft,2.0,8.0,145.0,140.0,0.0,5.0,0.0
 Solution Architect,Microsoft,United Kingdom,EN,London,22/02/07,64,Data,1.0,13.0,205.0,155.0,25.0,25.0,0.0
 Solution Architect,BDO,United States,IL,Oak Brook,22/02/07,Manager,DevOps,9.0,9.0,164.0,134.0,0.0,30.0,0.0
 Solution Architect,IBM,United States,MI,Ann Arbor,22/02/07,Band 9,Data,5.0,20.0,170.0,165.0,5.0,0.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,IBM,United States,NC,Raleigh,22/02/08,B8,Analytics and AI,7.0,7.0,141.0,141.0,0.0,0.0,0.0
+Management Consultant,Guidehouse,United States,DC,Washington,22/02/08,Manager,Consulting,3.0,12.0,146.0,134.0,0.0,12.0,0.0
+Management Consultant,ZS Associates,United States,NY,New York,22/02/07,Manager,Healthcare,8.0,8.0,250.0,210.0,0.0,40.0,0.0
+Management Consultant,Palo Alto Networks,United States,CA,Santa Clara,22/02/07,Principal,Strategy,1.0,13.0,400.0,240.0,100.0,60.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/02/07,Analyst,"Strategy, Federal",2.0,2.0,85.0,81.0,0.0,4.0,0.0
 Management Consultant,Deloitte,United States,VA,Arlington,22/02/07,Manager,Systems Integration,12.0,15.0,161.0,151.0,0.0,10.0,0.0
 Management Consultant,Deloitte,Canada,ON,Toronto,22/02/07,Manager,Data governance,14.0,16.0,105.0,99.0,0.0,6.0,0.0
 Management Consultant,Accenture,United States,DC,Washington,22/02/07,Consultant,Digital Producer,0.0,6.0,106.0,106.0,0.0,0.0,0.0

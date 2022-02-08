@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Capital One,United States,NY,New York,22/02/08,Manager,Risk Management,4.0,8.0,189.0,174.0,0.0,15.0,0.0
+Business Analyst,Amazon,United States,TX,Dallas,22/02/08,L6,AWS,0.0,7.0,218.0,160.0,30.0,28.0,20.0
+Business Analyst,Fivetran,United States,CA,San Francisco,22/02/07,D1,Analytics,1.0,9.0,392.0,217.0,175.0,0.0,0.0
+Business Analyst,TD bank,United States,ME,Portland,22/02/07,L9,Quality Control,4.0,4.0,87.0,79.0,0.0,8.0,0.0
 Business Analyst,Deloitte,India,TS,Hyderabad,22/02/07,L1,General,0.0,0.0,10.0,8.0,0.0,2.0,0.0
 Business Analyst,Bloomberg,United States,NY,New York,22/02/07,ANALYST,SAP,4.0,12.0,189.0,163.0,0.0,26.0,0.0
 Business Analyst,Zalando,Germany,BE,Berlin,22/02/07,C6,General,3.0,5.0,63.0,63.0,0.0,0.0,0.0
