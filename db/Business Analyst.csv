@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Capital One,United States,TX,Plano,22/02/08,Entry,Auto,0.0,0.0,88.0,80.0,2.0,6.0,0.0
 Business Analyst,Capital One,United States,NY,New York,22/02/08,Manager,Risk Management,4.0,8.0,189.0,174.0,0.0,15.0,0.0
 Business Analyst,Amazon,United States,TX,Dallas,22/02/08,L6,AWS,0.0,7.0,218.0,160.0,30.0,28.0,20.0
 Business Analyst,Fivetran,United States,CA,San Francisco,22/02/07,D1,Analytics,1.0,9.0,392.0,217.0,175.0,0.0,0.0

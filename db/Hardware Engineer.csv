@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Arm,United States,TX,Austin,22/02/08,Grade 3,Validation,4.0,4.0,132.0,120.0,0.0,12.0,0.0
+Hardware Engineer,Apple,United States,TX,Austin,22/02/08,ICT2,Quality Assurance,0.0,0.0,141.0,110.0,11.0,20.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/08,ICT5,ASIC Design,8.0,11.0,690.0,240.0,400.0,50.0,0.0
+Hardware Engineer,Amazon,United States,CA,Sunnyvale,22/02/08,L7,ASIC Design,8.0,8.0,440.0,185.0,255.0,0.0,0.0
 Hardware Engineer,Intel,United States,OR,Portland,22/02/08,Grade 7,Manufacturing engineer,3.0,3.0,150.0,130.0,10.0,10.0,0.0
 Hardware Engineer,Apple,United States,CA,Cupertino,22/02/08,ICT5,Quality Assurance,1.0,15.0,390.0,230.0,125.0,35.0,0.0
 Hardware Engineer,Intel,United States,OR,Portland,22/02/08,Grade 6,SoC Design,2.0,2.0,154.0,120.0,24.0,10.0,0.0

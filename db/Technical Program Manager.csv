@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,VA,Herndon,22/02/08,L5,Availability,4.0,8.0,196.0,120.0,32.0,44.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/08,L6,General,2.0,10.0,230.0,152.0,58.0,20.0,0.0
+Technical Program Manager,WHOOP,United States,MA,Boston,22/02/08,L5,Product,0.0,8.0,230.0,170.0,60.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/02/08,62,General,0.0,6.0,222.0,157.0,40.0,25.0,0.0
+Technical Program Manager,Amazon,United States,CA,Sunnyvale,22/02/08,L6,Devices,8.0,20.0,270.0,160.0,110.0,0.0,0.0
+Technical Program Manager,Facebook,United States,WA,Seattle,22/02/08,IC6,Infrastructure,1.0,21.0,392.0,210.0,140.0,42.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/08,L5,Analytics,1.0,4.0,185.0,140.0,30.0,15.0,0.0
 Technical Program Manager,JPMorgan Chase,United States,NY,New York,22/02/08,Associate,General,0.0,2.0,115.0,100.0,0.0,15.0,0.0
 Technical Program Manager,Amazon,United States,FL,Orlando,22/02/08,L5,tpm,1.0,17.0,187.0,145.0,21.0,21.0,0.0
 Technical Program Manager,Google,United States,WA,Seattle,22/02/08,L5,Security,3.0,10.0,389.0,168.0,189.0,32.0,0.0

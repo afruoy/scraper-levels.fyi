@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Amazon,United States,NY,New York,22/02/08,L5,SI partners,4.0,7.0,375.0,120.0,55.0,200.0,0.0
+Sales,Facebook,United States,NY,New York,22/02/08,IC5,General,4.0,8.0,200.0,160.0,30.0,10.0,0.0
+Sales,Salesforce,United States,TX,Dallas,22/02/08,L3,BDR,0.0,3.0,80.0,55.0,0.0,25.0,0.0
 Sales,Amazon,United States,CA,San Francisco,22/02/08,L6,Business Development,4.0,4.0,335.0,185.0,150.0,0.0,0.0
 Sales,Citi,United States,TX,San Antonio,22/02/08,C13,"Sales, Banking",1.0,1.0,89.0,72.0,0.0,17.0,0.0
 Sales,eBay,Italy,LO,Milano,22/02/07,26,Advertising,7.0,11.0,122.0,88.0,21.0,13.0,0.0

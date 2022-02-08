@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Wise,United States,NY,New York,22/02/08,L3,Distributed Systems (Back-End),3.0,12.0,225.0,195.0,30.0,0.0,0.0
+Software Engineering Manager,Automation Anywhere,India,KA,Bangalore,22/02/08,M6,ML / AI,2.0,21.0,170.0,135.0,4.0,31.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/08,L7,Full Stack,2.0,26.0,600.0,160.0,300.0,140.0,0.0
+Software Engineering Manager,Adobe,United States,CA,San Jose,22/02/08,Engg Director,Full Stack,0.0,20.0,1.0,325.0,600.0,98.0,0.0
 Software Engineering Manager,Capital One,United States,VA,Mc Lean,22/02/08,Senior Manager,ML / AI,2.0,5.0,255.0,225.0,10.0,20.0,0.0
 Software Engineering Manager,Pinterest,United States,CA,San Francisco,22/02/08,L6,ML / AI,0.0,15.0,604.0,244.0,260.0,100.0,0.0
 Software Engineering Manager,Apple,United States,CA,Cupertino,22/02/08,ICT5,iOS,2.0,15.0,720.0,220.0,400.0,100.0,0.0

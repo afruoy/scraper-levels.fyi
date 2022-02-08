@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Dell Technologies,United States,IL,Chicago,22/02/08,I7,Product,3.0,10.0,130.0,120.0,0.0,10.0,0.0
+Product Manager,Amazon,United Kingdom,EN,London,22/02/08,Senior Product Manager,Product,4.0,6.0,138.0,93.0,45.0,0.0,0.0
+Product Manager,Kiwi.com,Czech Republic,JM,Brno,22/02/08,L4,Consumer,0.0,4.0,45.0,45.0,0.0,0.0,0.0
+Product Manager,Amazon,United Kingdom,SC,Edinburgh,22/02/08,Senior Product Manager,Technical,4.0,8.0,220.0,140.0,80.0,0.0,0.0
+Product Manager,Wayfair,Germany,BE,Berlin,22/02/08,L4,Product,0.0,10.0,167.0,117.0,40.0,10.0,0.0
+Product Manager,Amazon,United States,CA,Sunnyvale,22/02/08,Senior Product Manager,Product,0.0,18.0,400.0,175.0,200.0,25.0,0.0
+Product Manager,Capital One,United States,VA,Richmond,22/02/08,Senior Manager,Full Stack,10.0,10.0,190.0,170.0,0.0,20.0,0.0
+Product Manager,ZipRecruiter,United States,CA,Los Angeles,22/02/08,L2,Consumer,1.0,4.0,405.0,175.0,195.0,35.0,0.0
+Product Manager,Snowflake,United States,CA,Dublin,22/02/08,IC6,Product,1.0,20.0,707.0,247.0,400.0,60.0,0.0
 Product Manager,PayPal,Sweden,ST,Stockholm,22/02/08,T25,Product,5.0,8.0,75.0,59.0,10.0,6.0,0.0
 Product Manager,IBM,United States,TX,Austin,22/02/08,Associate Offering Manager,Product,1.0,3.0,133.0,118.0,5.0,10.0,0.0
 Product Manager,Walmart,United States,CA,San Bruno,22/02/08,L6,Product,1.0,8.0,400.0,240.0,100.0,60.0,0.0

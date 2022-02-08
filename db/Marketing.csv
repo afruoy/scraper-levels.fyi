@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Microsoft,United States,GA,Atlanta,22/02/08,61,Cloud Marketing,0.0,5.0,137.0,111.0,15.0,11.0,0.0
+Marketing,ByteDance,Singapore,SG,Singapore,22/02/08,2,Sales Enablement,2.0,8.0,87.0,60.0,12.0,15.0,0.0
+Marketing,Facebook,United States,CA,Los Angeles,22/02/08,IC4,Marketing Manager,1.0,6.0,166.0,133.0,20.0,13.0,0.0
+Marketing,Stitch Fix,United States,CA,San Francisco,22/02/08,M1,"creative, marketing,",3.0,9.0,223.0,164.0,59.0,0.0,0.0
 Marketing,Indeed,United States,TX,Austin,22/02/08,L1,product marketing,2.0,2.0,108.0,90.0,8.0,10.0,0.0
 Marketing,Salesforce,United States,IN,Indianapolis,22/02/08,II,Social media,1.0,8.0,104.0,104.0,0.0,0.0,0.0
 Marketing,Amazon,United States,WA,Seattle,22/02/08,L6,pmm,5.0,9.0,198.0,133.0,65.0,0.0,0.0
