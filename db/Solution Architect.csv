@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Cisco,Canada,ON,Toronto,22/02/09,Grade 11,Networking,15.0,20.0,172.0,120.0,30.0,22.0,0.0
+Solution Architect,Salesforce,United States,CA,San Francisco,22/02/09,8,Production,10.0,10.0,180.0,156.0,0.0,24.0,0.0
+Solution Architect,Publicis Sapient,India,HR,Gurgaon,22/02/09,L2,Mobile (iOS + Android),2.0,16.0,80.0,67.0,0.0,13.0,0.0
+Solution Architect,Oracle,United States,TX,Dallas,22/02/08,IC,Full Stack,1.0,15.0,150.0,130.0,0.0,20.0,0.0
+Solution Architect,Michelin,United States,NC,Charlotte,22/02/08,L4,Salesforce,2.0,9.0,160.0,145.0,0.0,15.0,0.0
+Solution Architect,VMware,United States,CA,San Francisco,22/02/08,L1,Cloud,0.0,0.0,112.0,89.0,0.0,23.0,0.0
+Solution Architect,Amazon,United States,GA,Atlanta,22/02/08,L5,Full Stack,1.0,10.0,220.0,135.0,45.0,40.0,0.0
+Solution Architect,Adobe,United States,NY,New York,22/02/08,5,Web Development (Front-End),1.0,16.0,281.0,204.0,26.0,51.0,0.0
+Solution Architect,Microsoft,United States,IL,Chicago,22/02/08,63,Technical Account Manager,0.0,8.0,195.0,160.0,19.0,16.0,0.0
+Solution Architect,Cognizant,India,WB,Kolkata,22/02/08,SA,Distributed Systems (Back-End),2.0,11.0,25.0,24.0,0.0,1.0,0.0
+Solution Architect,Whatfix,India,KA,Bangalore,22/02/08,Entry,Web Development (Front-End),0.0,0.0,12.0,11.0,0.0,1.0,0.0
 Solution Architect,Microsoft,United States,MN,Minneapolis,22/02/08,65,Cloud,6.0,27.0,308.0,184.0,70.0,54.0,0.0
 Solution Architect,ANZ,Australia,VI,Melbourne,22/02/08,4.2,ML / AI,1.0,11.0,147.0,147.0,0.0,0.0,0.0
 Solution Architect,Amazon,United States,TX,Houston,22/02/08,L5,Architecture,2.0,15.0,210.0,158.0,52.0,0.0,0.0

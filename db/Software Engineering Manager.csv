@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Zebra Technologies,United States,CA,San Jose,22/02/09,18,Web Development (Front-End),2.0,22.0,282.0,215.0,17.0,50.0,0.0
+Software Engineering Manager,Amazon,United States,TN,Nashville,22/02/09,L6 SDM,API Development (Back-End),2.0,13.0,301.0,153.0,88.0,60.0,0.0
+Software Engineering Manager,JPMorgan Chase,United States,TX,Houston,22/02/09,VP,API Development (Back-End),1.0,17.0,165.0,145.0,0.0,20.0,0.0
+Software Engineering Manager,Amazon,Canada,ON,Toronto,22/02/09,L6 SDM,Full Stack,0.0,16.0,259.0,160.0,55.0,44.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/08,L5 SDM,Data,0.0,20.0,421.0,160.0,158.0,103.0,0.0
+Software Engineering Manager,Sonder,United States,CA,San Francisco,22/02/08,P4,Mobile (iOS + Android),4.0,9.0,305.0,205.0,100.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,CA,San Jose,22/02/08,Director,Full Stack,7.0,20.0,1.0,185.0,915.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/08,Senior SDM,Financial Systems,4.0,11.0,520.0,158.0,362.0,0.0,0.0
+Software Engineering Manager,Sony,United States,CA,Los Angeles,22/02/08,Senior,Full Stack,10.0,20.0,260.0,190.0,0.0,70.0,0.0
+Software Engineering Manager,Bloomberg,United Kingdom,EN,London,22/02/08,M2,Full Stack,11.0,15.0,360.0,280.0,0.0,80.0,0.0
+Software Engineering Manager,Microsoft,India,KA,Bengaluru,22/02/08,64,ML / AI,5.0,10.0,128.0,80.0,40.0,8.0,0.0
+Software Engineering Manager,TD Securities,Canada,ON,Toronto,22/02/08,L11,Distributed Systems (Back-End),10.0,12.0,160.0,125.0,0.0,35.0,0.0
+Software Engineering Manager,Charter Communications,United States,CO,Greenwood Village,22/02/08,P1,Mobile (iOS + Android),3.0,10.0,176.0,160.0,0.0,16.0,0.0
 Software Engineering Manager,Wise,United States,NY,New York,22/02/08,L3,Distributed Systems (Back-End),3.0,12.0,225.0,195.0,30.0,0.0,0.0
 Software Engineering Manager,Automation Anywhere,India,KA,Bangalore,22/02/08,M6,ML / AI,2.0,21.0,170.0,135.0,4.0,31.0,0.0
 Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/08,L7,Full Stack,2.0,26.0,600.0,160.0,300.0,140.0,0.0

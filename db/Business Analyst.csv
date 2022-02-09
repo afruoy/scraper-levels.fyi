@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Northrop Grumman,United States,CA,Redondo Beach,22/02/09,L2,Powerbi,1.0,1.0,83.0,83.0,0.0,0.0,0.0
+Business Analyst,Amazon,United States,NY,New York,22/02/09,L4,General,0.0,3.0,160.0,125.0,25.0,10.0,0.0
+Business Analyst,Wayfair,United States,MA,Boston,22/02/09,L3,Advanced Analytics and Insights,3.0,3.0,166.0,124.0,30.0,12.0,0.0
+Business Analyst,Capital One,United States,VA,West McLean,22/02/09,Manager,Cyber,4.0,8.0,157.0,144.0,0.0,13.0,0.0
+Business Analyst,Amazon,United States,CA,San Francisco,22/02/09,L6,General,2.0,5.0,141.0,113.0,20.0,8.0,0.0
+Business Analyst,Amazon,Germany,NW,Cologne,22/02/08,L5,Analyst,2.0,5.0,94.0,74.0,20.0,0.0,0.0
+Business Analyst,Facebook,United States,NY,New York,22/02/08,IC4,People analytics,2.0,6.0,183.0,143.0,25.0,15.0,0.0
+Business Analyst,Splunk,United States,IL,Chicago,22/02/08,4,Customer Success,1.0,6.0,174.0,134.0,20.0,20.0,0.0
+Business Analyst,BuzzFeed,United States,NY,New York,22/02/08,L3,general,0.0,1.0,73.0,73.0,0.0,0.0,0.0
+Business Analyst,FedEx,United States,TN,Collierville,22/02/08,L1,Pricing,0.0,0.0,72.0,67.0,0.0,5.0,0.0
+Business Analyst,Google,United States,NY,New York,22/02/08,L4,General,0.0,4.0,194.0,150.0,21.0,23.0,0.0
 Business Analyst,Capital One,United States,TX,Plano,22/02/08,Entry,Auto,0.0,0.0,88.0,80.0,2.0,6.0,0.0
 Business Analyst,Capital One,United States,NY,New York,22/02/08,Manager,Risk Management,4.0,8.0,189.0,174.0,0.0,15.0,0.0
 Business Analyst,Amazon,United States,TX,Dallas,22/02/08,L6,AWS,0.0,7.0,218.0,160.0,30.0,28.0,20.0

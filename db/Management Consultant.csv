@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Protiviti,United States,PA,Philadelphia,22/02/09,Associate Director,Cybersecurity,6.0,12.0,230.0,195.0,0.0,35.0,0.0
+Management Consultant,BCG,United States,IL,Chicago,22/02/09,Project Leader,General,3.0,7.0,320.0,210.0,0.0,110.0,0.0
+Management Consultant,PwC,United States,NY,New York,22/02/08,Senior Associate,Strategy,3.0,3.0,134.0,116.0,0.0,18.0,0.0
+Management Consultant,Cerner,United States,IL,Chicago,22/02/08,2,SCM,1.0,2.0,80.0,80.0,0.0,0.0,0.0
+Management Consultant,Deloitte,United States,GA,Atlanta,22/02/08,Senior Manager,Senior Manager,5.0,15.0,301.0,246.0,0.0,55.0,0.0
+Management Consultant,Deloitte,Canada,ON,Toronto,22/02/08,Manager,Technology,4.0,4.0,103.0,91.0,0.0,12.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,22/02/08,Associate,Financial Services,0.0,0.0,95.0,85.0,0.0,10.0,0.0
+Management Consultant,Ernst and Young,United States,NC,Charlotte,22/02/08,Senior Manager,Digital Strategy,8.0,13.0,230.0,210.0,0.0,20.0,0.0
+Management Consultant,IBM,United States,NY,New York,22/02/08,L3,Digital Strategy,4.0,4.0,160.0,160.0,0.0,0.0,0.0
 Management Consultant,IBM,United States,NC,Raleigh,22/02/08,B8,Analytics and AI,7.0,7.0,141.0,141.0,0.0,0.0,0.0
 Management Consultant,Guidehouse,United States,DC,Washington,22/02/08,Manager,Consulting,3.0,12.0,146.0,134.0,0.0,12.0,0.0
 Management Consultant,ZS Associates,United States,NY,New York,22/02/07,Manager,Healthcare,8.0,8.0,250.0,210.0,0.0,40.0,0.0

@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Verkada,United States,CA,San Mateo,22/02/09,L1,Technical,1.0,2.0,118.0,105.0,13.0,0.0,0.0
+Recruiter,Intel,United States,OR,Hillsboro,22/02/09,Grade 7,Technical,3.0,3.0,189.0,152.0,15.0,22.0,0.0
+Recruiter,Stitch Fix,United States,CA,Los Angeles,22/02/09,L2,Technical,3.0,4.0,136.0,120.0,16.0,0.0,0.0
+Recruiter,TrueCar,United States,CA,Los Angeles,22/02/08,Senior,Corporate 1,2.0,6.0,133.0,118.0,0.0,15.0,0.0
+Recruiter,Google,United States,TX,Austin,22/02/08,L3,recruiter,1.0,4.0,130.0,100.0,20.0,10.0,0.0
+Recruiter,Salesforce,United States,DC,Washington,22/02/08,L5,Operations,3.0,3.0,111.0,101.0,0.0,10.0,0.0
 Recruiter,Dataiku,France,IL,Paris,22/02/08,L7,Technical,1.0,12.0,98.0,70.0,10.0,18.0,0.0
 Recruiter,Amazon,United States,MA,Springfield,22/02/08,L5,Sales,3.0,16.0,123.0,84.0,31.0,8.0,0.0
 Recruiter,Amazon,United States,WA,Seattle,22/02/07,L5,Technical,1.0,6.0,120.0,92.0,3.0,25.0,0.0

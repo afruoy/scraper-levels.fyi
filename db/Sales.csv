@@ -1,4 +1,12 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Salesforce,United States,TX,Dallas,22/02/09,L5,Mid Market-Tech,1.0,10.0,231.0,103.0,25.0,103.0,0.0
+Sales,Amazon,United States,WA,Seattle,22/02/09,L4,Consumables,1.0,4.0,103.0,80.0,3.0,20.0,0.0
+Sales,Insight Enterprises,United States,CA,San Francisco,22/02/08,L3,IT Sales,1.0,22.0,400.0,50.0,0.0,350.0,0.0
+Sales,Amperity,United States,WA,Seattle,22/02/08,L1,General,2.0,8.0,300.0,150.0,0.0,150.0,0.0
+Sales,Siemens Energy,United States,NC,Charlotte,22/02/08,7,Power Generation,6.0,6.0,98.0,87.0,0.0,11.0,0.0
+Sales,Hulu,United States,CA,Los Angeles,22/02/08,Senior Analyst,Inventory Analytics,0.0,4.0,112.0,88.0,15.0,9.0,0.0
+Sales,Dell Technologies,United States,TX,Austin,22/02/08,L1,General,1.0,1.0,82.0,82.0,0.0,0.0,0.0
+Sales,Intel,France,IL,Paris,22/02/08,85,Processors,10.0,15.0,150.0,100.0,20.0,30.0,0.0
 Sales,Amazon,United States,NY,New York,22/02/08,L5,SI partners,4.0,7.0,375.0,120.0,55.0,200.0,0.0
 Sales,Facebook,United States,NY,New York,22/02/08,IC5,General,4.0,8.0,200.0,160.0,30.0,10.0,0.0
 Sales,Salesforce,United States,TX,Dallas,22/02/08,L3,BDR,0.0,3.0,80.0,55.0,0.0,25.0,0.0

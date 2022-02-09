@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Amazon,United States,CA,Los Angeles,22/02/09,L5,Selling partner support,0.0,8.0,165.0,140.0,25.0,0.0,0.0
+Marketing,eHealth,United States,CA,Sacramento,22/02/09,Associate,Content,3.0,5.0,92.0,84.0,0.0,8.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,22/02/08,L6,Merchant Services,3.0,7.0,122.0,86.0,36.0,0.0,0.0
+Marketing,LinkedIn,United States,CA,San Francisco,22/02/08,IC4,Marketing,1.0,8.0,191.0,150.0,18.0,23.0,0.0
 Marketing,Microsoft,United States,GA,Atlanta,22/02/08,61,Cloud Marketing,0.0,5.0,137.0,111.0,15.0,11.0,0.0
 Marketing,ByteDance,Singapore,SG,Singapore,22/02/08,2,Sales Enablement,2.0,8.0,87.0,60.0,12.0,15.0,0.0
 Marketing,Facebook,United States,CA,Los Angeles,22/02/08,IC4,Marketing Manager,1.0,6.0,166.0,133.0,20.0,13.0,0.0

@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Facebook,United States,CA,Menlo Park,22/02/09,IC5,General,0.0,10.0,319.0,190.0,100.0,29.0,0.0
+Data Scientist,Intel,United States,OR,Hillsboro,22/02/09,Grade 8,semiconductor,6.0,6.0,230.0,153.0,47.0,30.0,0.0
+Data Scientist,Deloitte,United States,FL,Orlando,22/02/09,L3,General,1.0,1.0,59.0,59.0,0.0,0.0,0.0
+Data Scientist,Amazon,United States,WA,Bellevue,22/02/09,L5,General,1.0,1.0,183.0,154.0,20.0,9.0,0.0
+Data Scientist,Intuit,United States,CA,Mountain View,22/02/09,Senior DS,AI/ML,0.0,4.0,234.0,160.0,50.0,24.0,0.0
+Data Scientist,Google,United States,MA,Boston,22/02/08,L4,General,0.0,0.0,278.0,168.0,85.0,25.0,0.0
+Data Scientist,Charles Schwab,United States,CA,San Francisco,22/02/08,58,Data Science,2.0,4.0,160.0,146.0,0.0,14.0,0.0
+Data Scientist,PayPal,India,KA,Bangalore,22/02/08,T24,General,1.0,7.0,73.0,45.0,23.0,5.0,0.0
+Data Scientist,LinkedIn,United States,CA,Sunnyvale,22/02/08,L3,marketing,3.0,4.0,197.0,150.0,37.0,10.0,0.0
+Data Scientist,KPMG,Portugal,LI,Lisbon,22/02/08,S2,Data Analytics,1.0,5.0,34.0,31.0,0.0,3.0,0.0
 Data Scientist,Microsoft,United States,CA,Mountain View,22/02/08,61,ML/AI,0.0,0.0,222.0,154.0,50.0,18.0,0.0
 Data Scientist,Discover,United States,IL,Chicago,22/02/08,L5,General,0.0,4.0,129.0,120.0,0.0,9.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/08,L4,General,0.0,2.0,180.0,140.0,26.0,14.0,0.0

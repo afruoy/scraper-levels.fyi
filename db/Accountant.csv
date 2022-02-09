@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Ernst and Young,United States,NJ,Iselin,22/02/09,Staff 1,General,0.0,0.0,67.0,67.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,CA,San Diego,22/02/08,Staff 1,Auditor,0.0,0.0,65.0,65.0,0.0,0.0,0
+Accountant,Ernst and Young,United States,CA,Los Angeles,22/02/08,Staff 2,Financial Services,1.0,1.0,74.0,72.0,0.0,2.0,0
 Accountant,Ernst and Young,United States,CA,San Jose,22/02/07,Staff I,General,1.0,1.0,70.0,70.0,0.0,0.0,0
 Accountant,HP,United States,TX,Houston,22/02/07,L2,Tax & Treasury,0.0,1.0,76.0,68.0,0.0,8.0,0
 Accountant,John Deere,United States,IL,Moline,22/02/07,L8,Operations Group Analyst,14.0,14.0,135.0,105.0,0.0,30.0,0

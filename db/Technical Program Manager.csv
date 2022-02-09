@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Booz Allen Hamilton,United States,DC,Washington,22/02/09,L5,Aerospace,20.0,22.0,211.0,172.0,6.0,33.0,0.0
+Technical Program Manager,The New York Times Company,United States,NY,New York,22/02/09,L3,Backend,2.0,8.0,149.0,135.0,0.0,14.0,0.0
+Technical Program Manager,E*TRADE,United States,IL,Chicago,22/02/08,Senior Staff,Mobile Application,4.0,4.0,130.0,110.0,0.0,20.0,0.0
+Technical Program Manager,Apple,United States,CA,Sunnyvale,22/02/08,ICT4,Infrastructure,1.0,10.0,220.0,170.0,40.0,10.0,0.0
+Technical Program Manager,Amazon,Canada,ON,Toronto,22/02/08,L7,General,8.0,14.0,308.0,140.0,168.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/08,65,General,0.0,15.0,440.0,215.0,100.0,125.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/08,63,Hardware Strategy,0.0,11.0,218.0,162.0,28.0,28.0,0.0
 Technical Program Manager,Amazon,United States,VA,Herndon,22/02/08,L5,Availability,4.0,8.0,196.0,120.0,32.0,44.0,0.0
 Technical Program Manager,Amazon,United States,WA,Seattle,22/02/08,L6,General,2.0,10.0,230.0,152.0,58.0,20.0,0.0
 Technical Program Manager,WHOOP,United States,MA,Boston,22/02/08,L5,Product,0.0,8.0,230.0,170.0,60.0,0.0,0.0
