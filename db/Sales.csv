@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Criteo,United States,NY,New York,22/02/09,2,General,3.0,4.0,125.0,100.0,0.0,25.0,0.0
 Sales,Salesforce,United States,TX,Dallas,22/02/09,L5,Mid Market-Tech,1.0,10.0,231.0,103.0,25.0,103.0,0.0
 Sales,Amazon,United States,WA,Seattle,22/02/09,L4,Consumables,1.0,4.0,103.0,80.0,3.0,20.0,0.0
 Sales,Insight Enterprises,United States,CA,San Francisco,22/02/08,L3,IT Sales,1.0,22.0,400.0,50.0,0.0,350.0,0.0

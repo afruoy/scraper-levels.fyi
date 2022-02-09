@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Starbucks,United States,WA,Seattle,22/02/09,25,Project Management,5.0,13.0,151.0,129.0,12.0,10.0,0.0
+Marketing,TripAdvisor,United States,NY,New York,22/02/09,L1,General,1.0,1.0,88.0,75.0,5.0,8.0,0.0
 Marketing,Amazon,United States,CA,Los Angeles,22/02/09,L5,Selling partner support,0.0,8.0,165.0,140.0,25.0,0.0,0.0
 Marketing,eHealth,United States,CA,Sacramento,22/02/09,Associate,Content,3.0,5.0,92.0,84.0,0.0,8.0,0.0
 Marketing,Shopify,Canada,ON,Toronto,22/02/08,L6,Merchant Services,3.0,7.0,122.0,86.0,36.0,0.0,0.0

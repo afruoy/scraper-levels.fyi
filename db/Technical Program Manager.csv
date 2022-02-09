@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,IL,Chicago,22/02/09,L4,Technical Support,3.0,3.0,67.0,63.0,4.0,0.0,0.0
+Technical Program Manager,Twilio,United States,CA,Los Angeles,22/02/09,L3,General,0.0,5.0,257.0,169.0,88.0,0.0,0.0
 Technical Program Manager,Booz Allen Hamilton,United States,DC,Washington,22/02/09,L5,Aerospace,20.0,22.0,211.0,172.0,6.0,33.0,0.0
 Technical Program Manager,The New York Times Company,United States,NY,New York,22/02/09,L3,Backend,2.0,8.0,149.0,135.0,0.0,14.0,0.0
 Technical Program Manager,E*TRADE,United States,IL,Chicago,22/02/08,Senior Staff,Mobile Application,4.0,4.0,130.0,110.0,0.0,20.0,0.0

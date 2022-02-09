@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Google,United States,CA,San Francisco,22/02/09,L5,General,5.0,10.0,150.0,130.0,20.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,22/02/09,L5,Accountant,2.0,5.0,115.0,80.0,35.0,0.0,0
+Accountant,Amazon,United States,WA,Seattle,22/02/09,L5,Accountant,2.0,5.0,92.0,80.0,12.0,0.0,0
+Accountant,Google,United States,GA,Atlanta,22/02/09,L3,general,0.0,0.0,118.0,87.0,18.0,13.0,0
+Accountant,Facebook,United States,CA,Menlo Park,22/02/09,IC5,Tax,1.0,10.0,225.0,165.0,35.0,25.0,0
 Accountant,Ernst and Young,United States,NJ,Iselin,22/02/09,Staff 1,General,0.0,0.0,67.0,67.0,0.0,0.0,0
 Accountant,Ernst and Young,United States,CA,San Diego,22/02/08,Staff 1,Auditor,0.0,0.0,65.0,65.0,0.0,0.0,0
 Accountant,Ernst and Young,United States,CA,Los Angeles,22/02/08,Staff 2,Financial Services,1.0,1.0,74.0,72.0,0.0,2.0,0

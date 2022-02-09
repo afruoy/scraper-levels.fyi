@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Ford,United States,MI,Detroit,22/02/09,L6,Product,2.0,10.0,180.0,160.0,0.0,20.0,0.0
+Product Manager,Google,United Kingdom,EN,London,22/02/09,Product Manager 2,Product,2.0,5.0,222.0,128.0,70.0,24.0,0.0
+Product Manager,Canva,Australia,NS,Sydney,22/02/09,10,Product,1.0,10.0,190.0,150.0,40.0,0.0,0.0
+Product Manager,Amazon,United Kingdom,EN,London,22/02/09,Senior Product Manager,Technical,0.0,13.0,177.0,117.0,40.0,20.0,0.0
+Product Manager,PayPal,Luxembourg,LU,Luxembourg,22/02/09,T27,Compliance,4.0,16.0,245.0,135.0,45.0,65.0,0.0
+Product Manager,Electronic Arts,Canada,BC,Vancouver,22/02/09,20,Product,3.0,3.0,140.0,95.0,30.0,15.0,0.0
+Product Manager,Salesforce,United States,CA,San Francisco,22/02/09,Senior Product Manager,Product,0.0,5.0,300.0,200.0,70.0,30.0,0.0
+Product Manager,Cvent,United States,DC,Washington,22/02/09,L1,Product,0.0,0.0,87.0,82.0,0.0,5.0,0.0
+Product Manager,Walmart Global Tech,United States,CA,San Bruno,22/02/09,x8,Consumer,5.0,20.0,542.0,262.0,200.0,80.0,0.0
+Product Manager,Microsoft Corporation,United States,WA,Redmond,22/02/09,65,Technical,13.0,17.0,303.0,203.0,55.0,45.0,0.0
 Product Manager,Amazon,United States,NY,New York,22/02/09,Senior Product Manager,Technical,0.0,9.0,395.0,190.0,18.0,187.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/09,Senior Product Manager,Product,1.0,9.0,209.0,144.0,41.0,24.0,0.0
 Product Manager,Amazon,United States,OR,Portland,22/02/09,Senior Product Manager,Technical,8.0,8.0,338.0,160.0,96.0,82.0,0.0

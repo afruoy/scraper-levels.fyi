@@ -1,4 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Rally Health,United States,CA,San Francisco,22/02/09,M5,General,4.0,10.0,315.0,225.0,50.0,40.0,0.0
+Data Scientist,Yandex,Russia,MC,Moscow,22/02/09,G14,General,1.0,2.0,24.0,22.0,0.0,2.0,0.0
+Data Scientist,TD bank,Canada,ON,Toronto,22/02/09,L09,@machine Learning,0.0,0.0,83.0,75.0,0.0,8.0,0.0
+Data Scientist,Booz Allen Hamilton,United States,DC,Washington,22/02/09,Senior consultant,Visualization,2.0,3.0,92.0,92.0,0.0,0.0,0.0
+Data Scientist,Sberbank,Russia,MC,Moscow,22/02/09,9,Credit scoring,1.0,2.0,28.0,25.0,0.0,3.0,0.0
+Data Scientist,Apple,United States,CA,San Francisco,22/02/09,ICT4,General,2.0,7.0,500.0,225.0,243.0,32.0,0.0
+Data Scientist,Santander Bank,United States,MA,Boston,22/02/09,L4,Customer Analytics,0.0,1.0,142.0,130.0,0.0,12.0,0.0
+Data Scientist,Amazon,United States,MA,Boston,22/02/09,L4,Robotics,0.0,1.0,157.0,130.0,16.0,11.0,0.0
+Data Scientist,Amazon,India,TS,Hyderabad,22/02/09,L5,AI/ML,0.0,9.0,62.0,43.0,12.0,7.0,0.0
+Data Scientist,Huawei,Canada,ON,Toronto,22/02/09,17,#Engineer,1.0,4.0,137.0,118.0,0.0,19.0,0.0
+Data Scientist,Nvidia,United States,NJ,Hoboken,22/02/09,IC3,Data,0.0,3.0,230.0,180.0,50.0,0.0,0.0
 Data Scientist,Facebook,United States,CA,Menlo Park,22/02/09,IC5,General,0.0,10.0,319.0,190.0,100.0,29.0,0.0
 Data Scientist,Intel,United States,OR,Hillsboro,22/02/09,Grade 8,semiconductor,6.0,6.0,230.0,153.0,47.0,30.0,0.0
 Data Scientist,Deloitte,United States,FL,Orlando,22/02/09,L3,General,1.0,1.0,59.0,59.0,0.0,0.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Goldman Sachs,United States,NY,New York,22/02/09,Vice President,Cloud,9.0,12.0,280.0,165.0,15.0,100.0,0.0
+Software Engineering Manager,Amazon,United States,AZ,Phoenix,22/02/09,Senior SDM,Full Stack,6.0,7.0,291.0,151.0,140.0,0.0,0.0
+Software Engineering Manager,Bentley Systems,United States,PA,Exton,22/02/09,L7,Full Stack,11.0,11.0,113.0,103.0,0.0,10.0,0.0
+Software Engineering Manager,Spotify,United States,NY,New York,22/02/09,1,Full Stack,6.0,14.0,186.0,175.0,11.0,0.0,0.0
+Software Engineering Manager,Whirlpool,United States,MI,Benton Harbor,22/02/09,L6,API Development (Back-End),3.0,11.0,155.0,129.0,0.0,26.0,0.0
 Software Engineering Manager,Zebra Technologies,United States,CA,San Jose,22/02/09,18,Web Development (Front-End),2.0,22.0,282.0,215.0,17.0,50.0,0.0
 Software Engineering Manager,Amazon,United States,TN,Nashville,22/02/09,L6 SDM,API Development (Back-End),2.0,13.0,301.0,153.0,88.0,60.0,0.0
 Software Engineering Manager,JPMorgan Chase,United States,TX,Houston,22/02/09,VP,API Development (Back-End),1.0,17.0,165.0,145.0,0.0,20.0,0.0
