@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Square,United States,CA,San Francisco,22/02/10,L6,General,1.0,15.0,609.0,190.0,404.0,15.0,0.0
+Technical Program Manager,Workday,United States,CA,Pleasanton,22/02/10,P3,IT,5.0,7.0,208.0,125.0,73.0,10.0,0.0
+Technical Program Manager,American Express,United States,NY,New York,22/02/10,B35,Financing platform,7.0,10.0,165.0,145.0,5.0,15.0,0.0
 Technical Program Manager,Google,United States,CA,San Francisco,22/02/10,L5,strategy,5.0,8.0,310.0,180.0,90.0,40.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/02/10,L4,Security,2.0,6.0,258.0,154.0,73.0,31.0,0.0
 Technical Program Manager,Concentrix,United States,OR,Portland,22/02/10,Senior,Delivery,0.0,15.0,149.0,145.0,0.0,4.0,0.0

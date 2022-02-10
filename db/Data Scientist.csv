@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Expedia,Switzerland,GE,Geneva,22/02/10,L,Recommender systems,3.0,3.0,161.0,150.0,10.0,1.0,0.0
+Data Scientist,Facebook,United Kingdom,EN,London,22/02/10,IC5,Data,1.0,8.0,175.0,120.0,40.0,15.0,0.0
+Data Scientist,Shopify,United States,MA,Boston,22/02/10,L7,Data,1.0,10.0,290.0,210.0,80.0,0.0,0.0
+Data Scientist,Apple,Singapore,SG,Singapore,22/02/10,ICT3,ML AI,2.0,2.0,117.0,77.0,30.0,10.0,0.0
+Data Scientist,Capital One,United States,NY,New York,22/02/10,Principal Associate,Modeling & Analytics,2.0,2.0,194.0,180.0,0.0,14.0,0.0
+Data Scientist,RBC,Canada,ON,Toronto,22/02/10,08,Cyber Reporting,3.0,3.0,122.0,100.0,10.0,12.0,0.0
+Data Scientist,Facebook,United States,NY,New York,22/02/10,IC4,Product,0.0,2.0,244.0,160.0,60.0,24.0,0.0
+Data Scientist,IBM,United States,NY,Armonk,22/02/10,Band 6,General,0.0,0.0,140.0,125.0,0.0,15.0,0.0
+Data Scientist,Walmart Global Tech,United States,CA,Sunnyvale,22/02/10,L3,General,0.0,0.0,176.0,130.0,25.0,21.0,0.0
 Data Scientist,Zillow,United States,WA,Seattle,22/02/10,P4,ML,4.0,4.0,267.0,180.0,87.0,0.0,0.0
 Data Scientist,Walmart Global Tech,United States,TX,Austin,22/02/10,75,ML,5.0,8.0,233.0,132.0,75.0,26.0,0.0
 Data Scientist,Intel,India,TS,Hyderabad,22/02/10,Grade 8,ML,0.0,7.0,76.0,49.0,16.0,11.0,0.0

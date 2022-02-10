@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,India,HR,Gurgaon,22/02/10,Manager,SAP,0.0,15.0,58.0,50.0,0.0,8.0,0.0
+Management Consultant,Slalom,United States,GA,Atlanta,22/02/10,Managing Consultant,Strategy,1.0,5.0,145.0,135.0,0.0,10.0,0.0
+Management Consultant,Deloitte,United States,IL,Chicago,22/02/10,Senior Consultant,Senior Consultant,6.0,6.0,155.0,125.0,0.0,30.0,0.0
+Management Consultant,Amazon,United States,TX,Austin,22/02/10,L7,Sales,1.0,20.0,840.0,550.0,290.0,0.0,0.0
 Management Consultant,Coinbase,United States,CA,San Francisco,22/02/09,IC6,Strategy,0.0,5.0,333.0,181.0,125.0,27.0,0.0
 Management Consultant,Accenture,United States,IL,Chicago,22/02/09,Consultant,Talent & Organization,8.0,8.0,117.0,112.0,0.0,5.0,0.0
 Management Consultant,Deloitte,United States,NY,New York,22/02/09,Manager,Business Applications,0.0,8.0,185.0,185.0,0.0,0.0,0.0
