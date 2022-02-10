@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Designer,Google,United States,WA,Seattle,22/02/10,L3,User Experience (UX),1.0,1.0,171.0,118.0,31.0,22.0,0.0
+Product Designer,Intuit,United States,CA,Mountain View,22/02/10,L6,User Experience (UX),3.0,11.0,243.0,175.0,35.0,33.0,0.0
+Product Designer,ServiceNow,United States,CA,San Diego,22/02/10,IC4,User Experience (UX),2.0,8.0,237.0,154.0,60.0,23.0,0.0
+Product Designer,Twitter,United States,CA,San Francisco,22/02/09,L6,User Experience (UX),2.0,8.0,425.0,220.0,150.0,55.0,0.0
+Product Designer,Amazon,United States,WA,Seattle,22/02/09,L5,Topology,0.0,6.0,134.0,106.0,15.0,13.0,0.0
+Product Designer,Microsoft,United States,WA,Redmond,22/02/09,63,User Experience (UX),5.0,7.0,196.0,159.0,19.0,18.0,0.0
 Product Designer,Microsoft,United States,WA,Seattle,22/02/09,65,User Experience (UX),1.0,12.0,305.0,205.0,50.0,50.0,0.0
 Product Designer,IBM,United States,CA,San Jose,22/02/09,Band 8,User Experience (UX),3.0,3.0,172.0,172.0,0.0,0.0,0.0
 Product Designer,Analog Devices,India,KA,Bangalore,22/02/09,E13,Semiconductor digital design,18.0,20.0,140.0,70.0,35.0,35.0,0.0

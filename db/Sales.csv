@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Splunk,United States,TX,Dallas,22/02/10,Senior,Enterprise Software,3.0,12.0,320.0,160.0,0.0,160.0,0.0
+Sales,Google,United States,CA,San Francisco,22/02/10,L2,Mobile Apps,2.0,3.0,137.0,84.0,18.0,35.0,0.0
+Sales,Amazon,United States,TX,Austin,22/02/09,L5,Amazon Busines,2.0,8.0,203.0,92.0,82.0,29.0,0.0
+Sales,Lumen,United States,CO,Denver,22/02/09,L6,Sales,5.0,20.0,260.0,170.0,10.0,80.0,0.0
 Sales,Criteo,United States,NY,New York,22/02/09,2,General,3.0,4.0,125.0,100.0,0.0,25.0,0.0
 Sales,Salesforce,United States,TX,Dallas,22/02/09,L5,Mid Market-Tech,1.0,10.0,231.0,103.0,25.0,103.0,0.0
 Sales,Amazon,United States,WA,Seattle,22/02/09,L4,Consumables,1.0,4.0,103.0,80.0,3.0,20.0,0.0

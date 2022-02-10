@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,NI,United States,TX,Austin,22/02/10,Principal,FPGA Design,13.0,13.0,140.0,120.0,10.0,10.0,0.0
+Hardware Engineer,Intuitive,United States,CA,Sunnyvale,22/02/10,L4,RTL Design,0.0,8.0,252.0,180.0,45.0,27.0,0.0
+Hardware Engineer,Bose,United States,MA,Boston,22/02/10,IC3,Embedded Systems,3.0,7.0,140.0,125.0,0.0,15.0,0.0
+Hardware Engineer,Intel,United States,WA,Seattle,22/02/10,Grade 8,process,4.0,4.0,222.0,150.0,50.0,22.0,0.0
+Hardware Engineer,Microchip Technology,United States,AZ,Chandler,22/02/10,Staff,Verification,10.0,15.0,173.0,126.0,27.0,20.0,0.0
+Hardware Engineer,Cirrus Logic,United States,TX,Austin,22/02/10,L3,ASIC Design,6.0,6.0,168.0,130.0,27.0,11.0,0.0
+Hardware Engineer,Amazon,United States,CA,Irvine,22/02/09,L6,SoC Design,0.0,9.0,355.0,160.0,195.0,0.0,0.0
+Hardware Engineer,AMD,United States,CA,Santa Clara,22/02/09,L6,Hardware Engineer,0.0,3.0,216.0,160.0,40.0,16.0,0.0
+Hardware Engineer,Facebook,United States,CA,Sunnyvale,22/02/09,E5,ASIC Design,0.0,10.0,350.0,200.0,80.0,70.0,0.0
+Hardware Engineer,Northrop Grumman,United States,AZ,Chandler,22/02/09,T3,Circuit Designer,3.0,5.0,97.0,97.0,0.0,0.0,0.0
+Hardware Engineer,Intel,United States,CA,Sacramento,22/02/09,Grade 6,Verification,6.0,6.0,163.0,126.0,25.0,12.0,0.0
+Hardware Engineer,Intel,United States,OR,Portland,22/02/09,Grade 8,SoC Design,8.0,8.0,234.0,165.0,40.0,29.0,0.0
+Hardware Engineer,IBM,United States,TX,Austin,22/02/09,L5,SoC Design,2.0,2.0,110.0,110.0,0.0,0.0,0.0
 Hardware Engineer,Dell Technologies,Taiwan,TP,Taipei,22/02/09,I8,Quality Assurance,5.0,15.0,80.0,70.0,0.0,10.0,0.0
 Hardware Engineer,Ciena,Canada,ON,Ottawa,22/02/09,M4,Hardware,5.0,10.0,150.0,115.0,20.0,15.0,0.0
 Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/09,Grade 7,SoC Design,4.0,4.0,212.0,154.0,39.0,19.0,0.0

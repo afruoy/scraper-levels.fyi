@@ -1,4 +1,18 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Uber,United States,CA,San Francisco,22/02/10,Product Manager II,Consumer,3.0,8.0,293.0,170.0,100.0,23.0,0.0
+Product Manager,Xero,Australia,NS,Sydney,22/02/10,M4,Product,1.0,15.0,160.0,140.0,20.0,0.0,0.0
+Product Manager,MongoDB,United States,NY,New York,22/02/10,PM,Product,1.0,4.0,240.0,150.0,60.0,30.0,0.0
+Product Manager,Bain,United States,NY,New York,22/02/10,1,Product,1.0,2.0,91.0,80.0,0.0,11.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/10,Principal Product Manager,Product,8.0,12.0,660.0,160.0,500.0,0.0,0.0
+Product Manager,Splunk,United States,WA,Seattle,22/02/10,P3,Enterprise,1.0,10.0,253.0,175.0,60.0,18.0,15.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/10,Principal Product Manager,Technical,5.0,14.0,324.0,155.0,169.0,0.0,0.0
+Product Manager,IBM,United States,NY,New York,22/02/09,Program Director,Technical,10.0,10.0,342.0,272.0,50.0,20.0,0.0
+Product Manager,Alaska Airlines,United States,WA,Seattle,22/02/09,AP1,Product,1.0,17.0,170.0,155.0,0.0,15.0,0.0
+Product Manager,Zynga,United States,CA,San Francisco,22/02/09,L3,Product,0.0,7.0,227.0,160.0,43.0,24.0,0.0
+Product Manager,Amazon,United States,CA,San Francisco,22/02/09,Principal Product Manager,Product,6.0,16.0,488.0,180.0,308.0,0.0,0.0
+Product Manager,Amazon,United States,IL,Chicago,22/02/09,Senior Product Manager,Product,4.0,4.0,230.0,130.0,100.0,0.0,0.0
+Product Manager,Zillow,United States,CA,San Francisco,22/02/09,P4,User Journey,0.0,5.0,205.0,145.0,30.0,30.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/09,Senior Director / VP,Product,17.0,20.0,986.0,380.0,500.0,106.0,0.0
 Product Manager,Ford,United States,MI,Detroit,22/02/09,L6,Product,2.0,10.0,180.0,160.0,0.0,20.0,0.0
 Product Manager,Google,United Kingdom,EN,London,22/02/09,Product Manager 2,Product,2.0,5.0,222.0,128.0,70.0,24.0,0.0
 Product Manager,Canva,Australia,NS,Sydney,22/02/09,10,Product,1.0,10.0,190.0,150.0,40.0,0.0,0.0
