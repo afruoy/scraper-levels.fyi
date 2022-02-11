@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Amazon,United States,WA,Seattle,22/02/11,L5,Amazon,1.0,9.0,250.0,155.0,50.0,45.0,0.0
+Data Scientist,Morgan Stanley,United States,NY,New York,22/02/11,Associate,Data Science,0.0,0.0,120.0,115.0,0.0,5.0,0.0
+Data Scientist,eBay,United States,WA,Bellevue,22/02/11,27,Data Science,2.0,10.0,319.0,239.0,40.0,40.0,0.0
+Data Scientist,Ibotta,United States,CO,Denver,22/02/11,l4,general,2.0,2.0,104.0,100.0,2.0,2.0,0.0
 Data Scientist,Meta,United States,NY,New York,22/02/11,L5,Product Analytics,4.0,5.0,350.0,190.0,120.0,40.0,0.0
 Data Scientist,Fifth Third Bank,United States,OH,Columbus,22/02/11,AVP,General,4.0,7.0,150.0,125.0,0.0,25.0,0.0
 Data Scientist,Pinterest,United States,CA,San Francisco,22/02/11,L3,General Data scientist new grad,0.0,0.0,181.0,150.0,18.0,13.0,0.0

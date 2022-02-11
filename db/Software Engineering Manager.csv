@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Vanguard,United States,NC,Charlotte,22/02/11,T03,Full Stack,23.0,23.0,178.0,128.0,0.0,50.0,0.0
+Software Engineering Manager,PayPal,United States,CA,Los Angeles,22/02/11,T27,Data,2.0,16.0,393.0,213.0,150.0,30.0,0.0
+Software Engineering Manager,Delivery Hero,Germany,BE,Berlin,22/02/11,M2,API Development (Back-End),5.0,11.0,167.0,127.0,40.0,0.0,0.0
+Software Engineering Manager,Walmart Global Tech,India,KA,Bangalore,22/02/11,L5,Data,2.0,12.0,103.0,60.0,28.0,15.0,0.0
+Software Engineering Manager,Mastercard,Canada,BC,Vancouver,22/02/11,L6,API Development (Back-End),3.0,21.0,127.0,112.0,0.0,15.0,0.0
+Software Engineering Manager,upGrad,India,MH,Mumbai,22/02/11,G5,Web Development (Front-End),3.0,8.0,50.0,45.0,0.0,5.0,0.0
 Software Engineering Manager,Veracode,United States,MA,Burlington,22/02/11,1,Security,3.0,20.0,189.0,172.0,0.0,17.0,0.0
 Software Engineering Manager,Facebook,United States,NY,New York,22/02/11,M2,Distributed Systems (Back-End),0.0,12.0,999.0,299.0,625.0,75.0,0.0
 Software Engineering Manager,Vizient,United States,TX,Irving,22/02/10,M2,Full Stack,3.0,15.0,224.0,188.0,0.0,36.0,0.0

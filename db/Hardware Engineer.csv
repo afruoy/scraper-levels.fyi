@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Cisco,United States,CA,San Jose,22/02/11,Grade 8,ASIC Design,6.0,10.0,300.0,170.0,100.0,30.0,0.0
+Hardware Engineer,Intel,United States,OR,Hillsboro,22/02/11,Grade 8,Validation,10.0,10.0,193.0,136.0,36.0,21.0,0.0
+Hardware Engineer,AMD,United States,CA,Santa Clara,22/02/11,L7,SoC Design,2.0,7.0,245.0,165.0,40.0,40.0,0.0
 Hardware Engineer,AMD,Canada,ON,Markham,22/02/11,Sr,Validation,3.0,3.0,100.0,86.0,4.0,10.0,0.0
 Hardware Engineer,Xilinx,United States,CA,San Jose,22/02/10,E7,Security,1.0,10.0,271.0,170.0,81.0,20.0,0.0
 Hardware Engineer,Waymo,United States,CA,Mountain View,22/02/10,L5,Optics,4.0,6.0,439.0,208.0,180.0,51.0,0.0

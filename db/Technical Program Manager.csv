@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Atos,France,PR,Nice,22/02/11,4,General,2.0,11.0,56.0,56.0,0.0,0.0,0.0
+Technical Program Manager,Google,United States,IL,Chicago,22/02/11,L3,UX,1.0,3.0,150.0,150.0,0.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/11,63,Security,3.0,9.0,230.0,180.0,20.0,30.0,0.0
 Technical Program Manager,Amazon,United States,WA,Seattle,22/02/11,L6,App development,1.0,4.0,257.0,160.0,63.0,34.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/11,65,Azure,15.0,20.0,310.0,215.0,55.0,40.0,0.0
 Technical Program Manager,Nexthink,United States,MA,Boston,22/02/11,L3,Customer Marketing,3.0,3.0,145.0,135.0,0.0,10.0,0.0

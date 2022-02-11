@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,CA,San Francisco,22/02/11,Senior Manager,Strategy,10.0,15.0,340.0,260.0,0.0,80.0,0.0
+Management Consultant,Deloitte,United States,NY,New York,22/02/11,Consultant,Anaplan,0.0,3.0,135.0,125.0,0.0,10.0,0.0
+Management Consultant,Shopee,Thailand,BM,Bangkok,22/02/11,L14,General,1.0,6.0,120.0,100.0,0.0,20.0,0.0
+Management Consultant,McKinsey,United States,NY,New York,22/02/11,Associate Principal,General,7.0,10.0,510.0,240.0,0.0,270.0,0.0
 Management Consultant,Accenture,United States,NY,New York,22/02/11,Consultant,Utilities: Transmission & Distribution,2.0,2.0,129.0,126.0,0.0,3.0,0.0
 Management Consultant,McKinsey,United States,CA,San Francisco,22/02/11,Associate,Growth Strategy,1.0,5.0,210.0,175.0,0.0,35.0,0.0
 Management Consultant,Workday,United States,CA,San Francisco,22/02/11,P4,Software,4.0,6.0,182.0,110.0,50.0,22.0,0.0

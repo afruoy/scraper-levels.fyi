@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Mediacorp,Singapore,SG,Singapore,22/02/11,L8,Data Analytics,1.0,6.0,46.0,40.0,0.0,6.0,0.0
+Business Analyst,Amazon,United States,WA,Seattle,22/02/11,L5,Analytics,0.0,4.0,161.0,121.0,20.0,20.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/02/10,L5,Data,2.0,4.0,130.0,94.0,34.0,2.0,0.0
 Business Analyst,LinkedIn,United Kingdom,EN,London,22/02/10,l3,international,2.0,3.0,103.0,80.0,15.0,8.0,0.0
 Business Analyst,Google,United States,CA,Sunnyvale,22/02/10,L4,Trust and Safety,0.0,5.0,225.0,149.0,53.0,23.0,0.0

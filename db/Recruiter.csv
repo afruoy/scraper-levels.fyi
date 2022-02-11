@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Google,United States,NY,New York,22/02/11,L4,People operations,1.0,5.0,173.0,133.0,20.0,20.0,0.0
+Recruiter,LegalZoom,United States,CA,Irvine,22/02/11,L14,Recruiter,1.0,8.0,201.0,165.0,20.0,16.0,0.0
 Recruiter,Uber,United States,TX,Dallas,22/02/11,L3,Recruitment,0.0,4.0,82.0,70.0,3.0,9.0,0.0
 Recruiter,Randstad,Canada,BC,Vancouver,22/02/11,L2,Technical,4.0,5.0,35.0,35.0,0.0,0.0,0.0
 Recruiter,Visa,United States,CA,San Francisco,22/02/10,L5,Finance,1.0,4.0,113.0,105.0,0.0,8.0,0.0
