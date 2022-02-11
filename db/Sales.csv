@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Amazon,United States,NY,New York,22/02/11,L6,General,0.0,13.0,343.0,176.0,33.0,134.0,0.0
+Sales,Amazon,United States,MA,Boston,22/02/10,L6,General,3.0,20.0,170.0,135.0,35.0,0.0,0.0
+Sales,Amazon,United States,VA,Arlington,22/02/10,L4,General,1.0,1.0,105.0,84.0,13.0,8.0,0.0
+Sales,Amazon,United States,WA,Seattle,22/02/10,L4,B2B,0.0,1.0,136.0,83.0,32.0,21.0,0.0
+Sales,Microsoft,Australia,NS,Sydney,22/02/10,61,Commercial sales,3.0,10.0,183.0,110.0,10.0,63.0,0.0
 Sales,LinkedIn,United States,CA,San Francisco,22/02/10,RM1,Account Management,0.0,5.0,200.0,95.0,5.0,100.0,0.0
 Sales,Splunk,United States,TX,Dallas,22/02/10,Senior,Enterprise Software,3.0,12.0,320.0,160.0,0.0,160.0,0.0
 Sales,Google,United States,CA,San Francisco,22/02/10,L2,Mobile Apps,2.0,3.0,137.0,84.0,18.0,35.0,0.0

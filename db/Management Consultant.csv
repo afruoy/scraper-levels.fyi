@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Accenture,United States,NY,New York,22/02/11,Consultant,Utilities: Transmission & Distribution,2.0,2.0,129.0,126.0,0.0,3.0,0.0
+Management Consultant,McKinsey,United States,CA,San Francisco,22/02/11,Associate,Growth Strategy,1.0,5.0,210.0,175.0,0.0,35.0,0.0
+Management Consultant,Workday,United States,CA,San Francisco,22/02/11,P4,Software,4.0,6.0,182.0,110.0,50.0,22.0,0.0
+Management Consultant,AlixPartners,United States,NY,New York,22/02/10,Director,General,5.0,13.0,494.0,260.0,44.0,190.0,0.0
+Management Consultant,NTT DATA,United States,NC,Charlotte,22/02/10,L1,general,1.0,1.0,74.0,74.0,0.0,0.0,0.0
+Management Consultant,PwC,United States,CA,San Francisco,22/02/10,Director,MD,7.0,10.0,250.0,210.0,0.0,40.0,0.0
 Management Consultant,Deloitte,India,HR,Gurgaon,22/02/10,Manager,SAP,0.0,15.0,58.0,50.0,0.0,8.0,0.0
 Management Consultant,Slalom,United States,GA,Atlanta,22/02/10,Managing Consultant,Strategy,1.0,5.0,145.0,135.0,0.0,10.0,0.0
 Management Consultant,Deloitte,United States,IL,Chicago,22/02/10,Senior Consultant,Senior Consultant,6.0,6.0,155.0,125.0,0.0,30.0,0.0

@@ -1,4 +1,14 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Designer,Thumbtack,United States,CA,San Francisco,22/02/11,L6,User Research,4.0,7.0,170.0,160.0,10.0,0.0,0.0
+Product Designer,Unity Technologies,United States,WA,Bellevue,22/02/11,IC7,User Experience (UX),1.0,4.0,357.0,177.0,180.0,0.0,0.0
+Product Designer,JPMorgan Chase,United States,CA,Palo Alto,22/02/11,L1,User Experience (UX),0.0,1.0,125.0,115.0,0.0,10.0,0.0
+Product Designer,West Monroe,United States,CA,Los Angeles,22/02/11,L4,User Experience (UX),1.0,7.0,160.0,145.0,0.0,15.0,0.0
+Product Designer,MongoDB,United States,NY,New York,22/02/10,L2,User Research,1.0,1.0,140.0,110.0,30.0,0.0,0.0
+Product Designer,Capital One,United States,IL,Chicago,22/02/10,Principal Associate,ML / AI,1.0,3.0,138.0,130.0,0.0,8.0,0.0
+Product Designer,Fidelity,United States,MA,Boston,22/02/10,L1,User Experience (UX),0.0,0.0,85.0,85.0,0.0,0.0,0.0
+Product Designer,Salesforce,United States,DC,Washington,22/02/10,L5,User Experience (UX),2.0,4.0,107.0,97.0,0.0,10.0,0.0
+Product Designer,Splunk,United States,CA,San Francisco,22/02/10,L5,Data,5.0,10.0,433.0,210.0,180.0,43.0,0.0
+Product Designer,Capital One,United States,VA,West McLean,22/02/10,L4,User Experience (UX),1.0,20.0,149.0,149.0,0.0,0.0,0.0
 Product Designer,Goldman Sachs,United States,NY,New York,22/02/10,Analyst,User Experience (UX),1.0,1.0,123.0,110.0,0.0,13.0,0.0
 Product Designer,Groupon,United States,NY,New York,22/02/10,SDE 3,User Experience (UX),1.0,4.0,154.0,125.0,19.0,10.0,0.0
 Product Designer,Google,United States,WA,Seattle,22/02/10,L3,User Experience (UX),1.0,1.0,171.0,118.0,31.0,22.0,0.0

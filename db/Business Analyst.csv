@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Amazon,United States,WA,Seattle,22/02/10,L5,Data,2.0,4.0,130.0,94.0,34.0,2.0,0.0
+Business Analyst,LinkedIn,United Kingdom,EN,London,22/02/10,l3,international,2.0,3.0,103.0,80.0,15.0,8.0,0.0
+Business Analyst,Google,United States,CA,Sunnyvale,22/02/10,L4,Trust and Safety,0.0,5.0,225.0,149.0,53.0,23.0,0.0
 Business Analyst,Barclays,United States,NY,New York,22/02/10,VP,Equity,3.0,10.0,240.0,180.0,0.0,60.0,0.0
 Business Analyst,Slalom,United States,WA,Seattle,22/02/10,Consultant,Data,1.0,3.0,148.0,139.0,0.0,9.0,0.0
 Business Analyst,Klarna,United Kingdom,EN,London,22/02/10,L4,Data Analytics,0.0,5.0,127.0,115.0,12.0,0.0,0.0

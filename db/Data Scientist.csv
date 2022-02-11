@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Meta,United States,NY,New York,22/02/11,L5,Product Analytics,4.0,5.0,350.0,190.0,120.0,40.0,0.0
+Data Scientist,Fifth Third Bank,United States,OH,Columbus,22/02/11,AVP,General,4.0,7.0,150.0,125.0,0.0,25.0,0.0
+Data Scientist,Pinterest,United States,CA,San Francisco,22/02/11,L3,General Data scientist new grad,0.0,0.0,181.0,150.0,18.0,13.0,0.0
+Data Scientist,Shopify,United States,WA,Seattle,22/02/11,L6,General,1.0,6.0,202.0,160.0,42.0,0.0,0.0
+Data Scientist,Robinhood,United States,CA,Menlo Park,22/02/10,L3,ML,1.0,8.0,460.0,220.0,200.0,40.0,0.0
+Data Scientist,Citi,United States,FL,Tampa,22/02/10,C13,NLP,2.0,4.0,150.0,145.0,0.0,5.0,0.0
+Data Scientist,Fiserv,United States,GA,Atlanta,22/02/10,4,payments,5.0,13.0,124.0,120.0,1.0,3.0,0.0
+Data Scientist,Capital One,United States,NY,New York,22/02/10,Principal Associate,Risk Modeling,2.0,4.0,173.0,164.0,0.0,9.0,0.0
+Data Scientist,Ugam,United States,NY,New York,22/02/10,Associate,General,0.0,3.0,120.0,120.0,0.0,0.0,0.0
+Data Scientist,Discord,United States,CA,San Francisco,22/02/10,L4,Analytics,0.0,3.0,251.0,180.0,51.0,20.0,0.0
+Data Scientist,HP,United States,KS,Shawnee,22/02/10,5,General,0.0,7.0,207.0,180.0,4.0,23.0,0.0
+Data Scientist,Shopify,Canada,BC,Kelowna,22/02/10,L5,General,3.0,3.0,88.0,78.0,10.0,0.0,0.0
+Data Scientist,Google,United States,CA,Mountain View,22/02/10,L4,General,0.0,0.0,266.0,175.0,65.0,26.0,0.0
 Data Scientist,Expedia,Switzerland,GE,Geneva,22/02/10,L,Recommender systems,3.0,3.0,161.0,150.0,10.0,1.0,0.0
 Data Scientist,Facebook,United Kingdom,EN,London,22/02/10,IC5,Data,1.0,8.0,175.0,120.0,40.0,15.0,0.0
 Data Scientist,Shopify,United States,MA,Boston,22/02/10,L7,Data,1.0,10.0,290.0,210.0,80.0,0.0,0.0

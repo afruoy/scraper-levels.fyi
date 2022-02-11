@@ -1,4 +1,23 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Microsoft,United States,WA,Redmond,22/02/11,63,Operations,2.0,25.0,207.0,160.0,22.0,25.0,0.0
+Product Manager,American Express,United States,NY,New York,22/02/11,B35,Product,3.0,5.0,135.0,125.0,0.0,10.0,0.0
+Product Manager,Microsoft,United States,WA,Redmond,22/02/11,63,Consumer,4.0,4.0,288.0,167.0,94.0,27.0,0.0
+Product Manager,JPMorgan Chase,United States,OH,Columbus,22/02/10,Senior Associate,Product,3.0,3.0,89.0,82.0,0.0,7.0,0.0
+Product Manager,Microsoft,United States,NY,New York,22/02/10,59,Product,0.0,0.0,201.0,121.0,43.0,37.0,0.0
+Product Manager,Microsoft,United States,GA,Atlanta,22/02/10,62,User Journey,0.0,2.0,193.0,135.0,33.0,25.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/10,Principal Product Manager,Technical,8.0,13.0,401.0,160.0,241.0,0.0,0.0
+Product Manager,Veeva Systems,United States,NY,New York,22/02/10,L7,Product,2.0,10.0,175.0,145.0,30.0,0.0,0.0
+Product Manager,Facebook,United States,CA,San Francisco,22/02/10,L6 Product Manager,Growth,5.0,9.0,485.0,225.0,220.0,40.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/10,61,Internal,3.0,3.0,180.0,130.0,35.0,15.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/10,Product Manager 1,Product,7.0,17.0,436.0,211.0,184.0,41.0,0.0
+Product Manager,Google,United States,WA,Seattle,22/02/10,Product Manager 2,Enterprise,1.0,5.0,320.0,170.0,120.0,30.0,0.0
+Product Manager,Workday,United States,CA,Pleasanton,22/02/10,P2,Product,4.0,4.0,151.0,116.0,35.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/10,Principal Product Manager,Technical,10.0,13.0,450.0,160.0,290.0,0.0,0.0
+Product Manager,Salesforce,United States,WA,Seattle,22/02/10,Senior Product Manager,Services,2.0,12.0,291.0,145.0,125.0,21.0,0.0
+Product Manager,Visa,United States,CO,Highland,22/02/10,L1,Product,1.0,1.0,92.0,80.0,10.0,2.0,0.0
+Product Manager,Target,United States,MN,Minneapolis,22/02/10,L6,Product,3.0,11.0,170.0,155.0,0.0,15.0,0.0
+Product Manager,iManage,United States,IL,Chicago,22/02/10,L4,Technical,1.0,10.0,130.0,120.0,0.0,10.0,0.0
+Product Manager,TripleLift,United States,NY,New York,22/02/10,Senior,Product,1.0,8.0,254.0,185.0,50.0,19.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/10,Senior Product Manager,Consumer,3.0,12.0,208.0,151.0,57.0,0.0,0.0
 Product Manager,Zappos.com,United States,NV,Las Vegas,22/02/10,L5,Enterprise,2.0,15.0,124.0,124.0,0.0,0.0,0.0
 Product Manager,FIS,United Kingdom,EN,London,22/02/10,L1,Technical,2.0,2.0,91.0,91.0,0.0,0.0,0.0

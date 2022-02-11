@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Amazon,United States,IL,Chicago,22/02/11,L4,Distributed Systems (Back-End),1.0,5.0,94.0,94.0,0.0,0.0,0.0
+Solution Architect,Amazon,United Kingdom,EN,Cambridge,22/02/10,L7,Site Reliability (SRE),5.0,15.0,264.0,150.0,114.0,0.0,0.0
+Solution Architect,Amazon,United States,WA,Seattle,22/02/10,L6,IoT,8.0,11.0,190.0,150.0,40.0,0.0,0.0
+Solution Architect,Google,United States,NY,New York,22/02/10,L4,Advertising,3.0,6.0,226.0,139.0,58.0,29.0,0.0
+Solution Architect,Moveworks,United States,CA,San Francisco,22/02/10,L3,ML / AI,1.0,4.0,500.0,180.0,250.0,70.0,0.0
 Solution Architect,SAP,India,HR,Gurgaon,22/02/10,T4,Distributed Systems (Back-End),13.0,15.0,42.0,34.0,3.0,5.0,0.0
 Solution Architect,Amazon,United States,TX,Houston,22/02/10,L6,Sales,2.0,20.0,265.0,155.0,110.0,0.0,0.0
 Solution Architect,Google,United States,CA,San Bruno,22/02/09,L5,Full Stack,1.0,12.0,250.0,180.0,50.0,20.0,0.0

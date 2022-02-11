@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Recruiter,Uber,United States,TX,Dallas,22/02/11,L3,Recruitment,0.0,4.0,82.0,70.0,3.0,9.0,0.0
+Recruiter,Randstad,Canada,BC,Vancouver,22/02/11,L2,Technical,4.0,5.0,35.0,35.0,0.0,0.0,0.0
+Recruiter,Visa,United States,CA,San Francisco,22/02/10,L5,Finance,1.0,4.0,113.0,105.0,0.0,8.0,0.0
+Recruiter,Bloomberg,United States,NY,New York,22/02/10,Senior,Technical,2.0,6.0,125.0,120.0,0.0,5.0,0.0
 Recruiter,Korn Ferry,United States,TX,Dallas,22/02/10,L3,Hr,3.0,5.0,100.0,100.0,0.0,0.0,0.0
 Recruiter,Amazon,United States,WA,Seattle,22/02/10,L6,UX Design,3.0,12.0,185.0,124.0,61.0,0.0,0.0
 Recruiter,GitHub,United States,CA,San Francisco,22/02/09,L2,Technical,3.0,5.0,125.0,100.0,20.0,5.0,0.0

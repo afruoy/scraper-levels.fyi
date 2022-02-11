@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/11,L6,App development,1.0,4.0,257.0,160.0,63.0,34.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/11,65,Azure,15.0,20.0,310.0,215.0,55.0,40.0,0.0
+Technical Program Manager,Nexthink,United States,MA,Boston,22/02/11,L3,Customer Marketing,3.0,3.0,145.0,135.0,0.0,10.0,0.0
+Technical Program Manager,Tata Consultancy Services,United States,DE,Wilmington,22/02/10,Associate consultant,General,6.0,13.0,180.0,165.0,0.0,15.0,0.0
+Technical Program Manager,Walmart Global Tech,United States,AR,Bentonville,22/02/10,Director,Global Tech,4.0,15.0,221.0,147.0,30.0,44.0,0.0
 Technical Program Manager,Square,United States,CA,San Francisco,22/02/10,L6,General,1.0,15.0,609.0,190.0,404.0,15.0,0.0
 Technical Program Manager,Workday,United States,CA,Pleasanton,22/02/10,P3,IT,5.0,7.0,208.0,125.0,73.0,10.0,0.0
 Technical Program Manager,American Express,United States,NY,New York,22/02/10,B35,Financing platform,7.0,10.0,165.0,145.0,5.0,15.0,0.0
