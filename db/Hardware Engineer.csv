@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Micron Technology,United States,ID,Boise,22/02/12,M3,Quality Assurance,15.0,15.0,405.0,202.0,108.0,95.0,0.0
+Hardware Engineer,BAE Systems,United States,TX,Austin,22/02/12,L2,Verification,1.0,2.0,82.0,82.0,0.0,0.0,0.0
+Hardware Engineer,IBM,United States,TX,Austin,22/02/12,Band 6,Verification,2.0,2.0,96.0,96.0,0.0,0.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/12,ICT5,Analog,7.0,10.0,400.0,205.0,160.0,35.0,0.0
+Hardware Engineer,Cruise,United States,CA,San Francisco,22/02/11,L3,Self Driving,1.0,3.0,190.0,130.0,40.0,20.0,0.0
+Hardware Engineer,PACCAR,United States,WA,Kirkland,22/02/11,23,Embedded Systems,1.0,1.0,79.0,79.0,0.0,0.0,0.0
+Hardware Engineer,Intel,United States,MA,Hudson,22/02/11,Grade 6,Verification,5.0,5.0,161.0,116.0,34.0,11.0,0.0
 Hardware Engineer,Cisco,United States,CA,San Jose,22/02/11,Grade 8,ASIC Design,6.0,10.0,300.0,170.0,100.0,30.0,0.0
 Hardware Engineer,Intel,United States,OR,Hillsboro,22/02/11,Grade 8,Validation,10.0,10.0,193.0,136.0,36.0,21.0,0.0
 Hardware Engineer,AMD,United States,CA,Santa Clara,22/02/11,L7,SoC Design,2.0,7.0,245.0,165.0,40.0,40.0,0.0

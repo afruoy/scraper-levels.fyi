@@ -1,4 +1,16 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,ASML,United States,CT,Wilton,22/02/12,L2,Product,5.0,5.0,121.0,100.0,8.0,13.0,0.0
+Product Manager,Amazon,United States,VA,Alexandria,22/02/12,6,Technical,1.0,6.0,193.0,130.0,33.0,30.0,0.0
+Product Manager,Facebook,United Kingdom,EN,London,22/02/12,L7 Product Manager,Product,5.0,15.0,1.0,235.0,750.0,70.0,0.0
+Product Manager,Verily,United States,CO,Boulder,22/02/11,L5,Product,1.0,7.0,255.0,180.0,50.0,25.0,0.0
+Product Manager,Microsoft,United States,MA,Cambridge,22/02/11,61,Product,3.0,3.0,173.0,136.0,16.0,21.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/11,Principal Product Manager,Consumer,6.0,8.0,383.0,160.0,223.0,0.0,0.0
+Product Manager,Microsoft,United States,CA,Mountain View,22/02/11,64,Enterprise,0.0,12.0,375.0,200.0,120.0,55.0,125.0
+Product Manager,Bankers Healthcare Group,United States,FL,Fort Lauderdale,22/02/11,3,Operations,4.0,6.0,111.0,95.0,0.0,16.0,0.0
+Product Manager,Amazon,Canada,BC,Vancouver,22/02/11,Senior Product Manager,Product,4.0,11.0,153.0,115.0,27.0,11.0,0.0
+Product Manager,ExxonMobil,United States,TX,Houston,22/02/11,24,Full Stack,3.0,3.0,112.0,112.0,0.0,0.0,0.0
+Product Manager,CarMax,United States,VA,Richmond,22/02/11,Manager,Product,2.0,2.0,156.0,130.0,13.0,13.0,0.0
+Product Manager,CarMax,United States,VA,Richmond,22/02/11,Senior Product Manager,Consumer,5.0,5.0,200.0,154.0,23.0,23.0,0.0
 Product Manager,Facebook,United States,CA,Menlo Park,22/02/11,L5 Product Manager,Consumer,5.0,9.0,270.0,180.0,70.0,20.0,0.0
 Product Manager,Thales,United States,TX,Austin,22/02/11,L3,Product,13.0,13.0,166.0,145.0,0.0,21.0,0.0
 Product Manager,Microsoft,United States,WA,Redmond,22/02/11,59,Product,0.0,0.0,178.0,113.0,30.0,35.0,0.0

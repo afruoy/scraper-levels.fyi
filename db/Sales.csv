@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Cadence Design Systems,United States,CA,San Jose,22/02/12,L6,Sales,8.0,20.0,260.0,225.0,0.0,35.0,0.0
+Sales,Amazon,United States,NY,New York,22/02/12,L5,Advertising,1.0,10.0,186.0,138.0,38.0,10.0,0.0
+Sales,Infosys,United States,NY,New York,22/02/11,7,Applied AI Lead,3.0,21.0,250.0,185.0,0.0,65.0,0.0
+Sales,Amazon,United States,WA,Seattle,22/02/11,L7,"Retail, e-commerce",4.0,10.0,300.0,160.0,140.0,0.0,0.0
+Sales,Amazon,United States,WA,Seattle,22/02/11,L4,Global Sales,2.0,4.0,120.0,67.0,36.0,17.0,0.0
+Sales,Snowflake,United States,NY,New York,22/02/11,IC3,Sales,2.0,15.0,310.0,190.0,60.0,60.0,0.0
 Sales,Microsoft,United States,TX,Dallas,22/02/11,59,Azure,0.0,0.0,148.0,80.0,3.0,65.0,0.0
 Sales,Expedia,United States,WA,Seattle,22/02/11,N,Account Management,3.0,8.0,195.0,170.0,25.0,0.0,0.0
 Sales,Walmart,United States,CA,Los Angeles,22/02/11,190,General,4.0,19.0,395.0,115.0,0.0,280.0,0.0

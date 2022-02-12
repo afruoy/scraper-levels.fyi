@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/12,L6,AWS,8.0,12.0,260.0,150.0,110.0,0.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/12,62,Engineering,7.0,7.0,178.0,148.0,15.0,15.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/11,L6,TPM,3.0,12.0,215.0,160.0,25.0,30.0,0.0
+Technical Program Manager,Capital One,United States,CA,San Francisco,22/02/11,Director,Agile,3.0,18.0,269.0,211.0,20.0,38.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Seattle,22/02/11,64,Azure,9.0,9.0,223.0,178.0,14.0,31.0,0.0
 Technical Program Manager,Atos,France,PR,Nice,22/02/11,4,General,2.0,11.0,56.0,56.0,0.0,0.0,0.0
 Technical Program Manager,Google,United States,IL,Chicago,22/02/11,L3,UX,1.0,3.0,150.0,150.0,0.0,0.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/11,63,Security,3.0,9.0,230.0,180.0,20.0,30.0,0.0

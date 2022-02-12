@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Solution Architect,Cloudera,United States,VA,Reston,22/02/11,IC3,Data,0.0,5.0,214.0,162.0,23.0,29.0,0.0
+Solution Architect,American Express,United States,AZ,Phoenix,22/02/11,L3,Payments,3.0,10.0,150.0,110.0,20.0,20.0,0.0
 Solution Architect,Microsoft,Australia,NS,Sydney,22/02/11,62,Distributed Systems (Back-End),3.0,12.0,174.0,135.0,9.0,30.0,0.0
 Solution Architect,Amazon,United States,IL,Chicago,22/02/11,L4,Distributed Systems (Back-End),1.0,5.0,94.0,94.0,0.0,0.0,0.0
 Solution Architect,Amazon,United Kingdom,EN,Cambridge,22/02/10,L7,Site Reliability (SRE),5.0,15.0,264.0,150.0,114.0,0.0,0.0

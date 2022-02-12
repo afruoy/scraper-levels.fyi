@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,DoorDash,United States,NY,New York,22/02/11,E4,Strategy & Operations,1.0,3.0,144.0,127.0,17.0,0.0,0.0
+Business Analyst,Amazon,United States,WA,Seattle,22/02/11,L6,General,2.0,4.0,148.0,100.0,18.0,30.0,0.0
+Business Analyst,NatWest Group,India,HR,Gurgaon,22/02/11,B7,General,1.0,3.0,25.0,15.0,0.0,10.0,0.0
+Business Analyst,Asana,United States,CA,San Francisco,22/02/11,L4,Sales Operations,1.0,6.0,170.0,150.0,20.0,0.0,0.0
+Business Analyst,Microsoft,United States,WA,Seattle,22/02/11,61,General,2.0,4.0,140.0,117.0,13.0,10.0,0.0
+Business Analyst,Wayfair,Germany,BE,Berlin,22/02/11,L2,Operations,2.0,2.0,48.0,43.0,1.0,4.0,0.0
+Business Analyst,Capital One,United States,VA,West McLean,22/02/11,Senior Director,Finance,16.0,16.0,330.0,250.0,40.0,40.0,0.0
 Business Analyst,Mediacorp,Singapore,SG,Singapore,22/02/11,L8,Data Analytics,1.0,6.0,46.0,40.0,0.0,6.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/02/11,L5,Analytics,0.0,4.0,161.0,121.0,20.0,20.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/02/10,L5,Data,2.0,4.0,130.0,94.0,34.0,2.0,0.0

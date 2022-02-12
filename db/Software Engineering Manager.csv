@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Axon,United States,WA,Seattle,22/02/12,L8,Full Stack,2.0,5.0,282.0,179.0,85.0,18.0,0.0
+Software Engineering Manager,Capital One,United States,VA,Vienna,22/02/12,Manager,Full Stack,7.0,18.0,220.0,204.0,0.0,16.0,0.0
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/02/12,TL,Distributed Systems (Back-End),7.0,7.0,374.0,285.0,0.0,89.0,0.0
+Software Engineering Manager,VMware,United States,CA,Palo Alto,22/02/11,M7,Security,2.0,25.0,1.0,340.0,900.0,170.0,0.0
+Software Engineering Manager,Amazon,India,DL,Delhi,22/02/11,Senior SDM,Full Stack,3.0,16.0,212.0,123.0,89.0,0.0,0.0
+Software Engineering Manager,WeWork,United States,NY,New York,22/02/11,L3,Full Stack,3.0,3.0,154.0,135.0,5.0,14.0,0.0
+Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/02/11,Senior SDM,Networking,6.0,14.0,875.0,265.0,610.0,0.0,0.0
+Software Engineering Manager,Shopify,Canada,ON,Toronto,22/02/11,L7,Data,1.0,15.0,295.0,150.0,125.0,20.0,0.0
+Software Engineering Manager,Google,Switzerland,ZH,Zurich,22/02/11,Manager (L6),Site Reliability (SRE),0.0,8.0,344.0,242.0,54.0,48.0,0.0
 Software Engineering Manager,Vanguard,United States,NC,Charlotte,22/02/11,T03,Full Stack,23.0,23.0,178.0,128.0,0.0,50.0,0.0
 Software Engineering Manager,PayPal,United States,CA,Los Angeles,22/02/11,T27,Data,2.0,16.0,393.0,213.0,150.0,30.0,0.0
 Software Engineering Manager,Delivery Hero,Germany,BE,Berlin,22/02/11,M2,API Development (Back-End),5.0,11.0,167.0,127.0,40.0,0.0,0.0
