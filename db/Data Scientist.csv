@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Paycom,United States,OK,Oklahoma City,22/02/12,L2,Data science,2.0,3.0,121.0,100.0,20.0,1.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/12,L5,Data Scientist,2.0,10.0,266.0,158.0,73.0,35.0,0.0
+Data Scientist,Uber,United States,CA,San Francisco,22/02/12,3,hi,0.0,4.0,146.0,125.0,10.0,11.0,0.0
+Data Scientist,Lyft,United States,NY,New York,22/02/12,T5,Algorithms,3.0,6.0,400.0,200.0,200.0,0.0,0.0
 Data Scientist,Shopify,Canada,ON,Toronto,22/02/12,L5,General,0.0,3.0,127.0,98.0,25.0,4.0,0.0
 Data Scientist,DiDi,United States,CA,San Francisco,22/02/12,D7,General,0.0,5.0,260.0,160.0,75.0,25.0,0.0
 Data Scientist,eBay,United States,WA,Seattle,22/02/12,L3,Marketing,1.0,1.0,150.0,100.0,40.0,10.0,0.0

@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Ernst and Young,United States,DC,Washington,22/02/12,Consultant,People consulting,1.0,1.0,92.0,88.0,0.0,4.0,0.0
+Management Consultant,Deloitte,United States,DC,Washington,22/02/12,Consultant,Enterprise & Performance,1.0,4.0,113.0,100.0,0.0,13.0,0.0
 Management Consultant,Deloitte Advisory,United States,CA,San Francisco,22/02/12,Consultant,General,3.0,3.0,82.0,82.0,0.0,0.0,0.0
 Management Consultant,Deloitte,United States,NY,New York,22/02/11,Senior Consultant,Salesforce,6.0,6.0,180.0,160.0,0.0,20.0,0.0
 Management Consultant,Deloitte,United States,VA,Arlington,22/02/11,Analyst,GPS Strategy & Analytics,1.0,1.0,86.0,86.0,0.0,0.0,0.0
