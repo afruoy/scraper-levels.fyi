@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,BASF,Germany,RP,Ludwigshafen Am Rhein,22/02/13,Junior,"Optimization, Game Theory",2.0,2.0,74.0,59.0,0.0,15.0,0.0
+Data Scientist,Canva,Australia,NS,Sydney,22/02/13,B2,Engineering,1.0,5.0,103.0,75.0,20.0,8.0,0.0
+Data Scientist,Nvidia,United States,CA,Santa Clara,22/02/13,IC5,General,1.0,15.0,290.0,200.0,90.0,0.0,0.0
+Data Scientist,AT&T,United States,WA,Seattle,22/02/13,L6,data,4.0,4.0,185.0,145.0,0.0,40.0,0.0
 Data Scientist,Yahoo,United States,CA,Sunnyvale,22/02/13,IC4,Ads,3.0,11.0,270.0,185.0,60.0,25.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/13,L5,General,2.0,7.0,293.0,189.0,51.0,53.0,0.0
 Data Scientist,Google,United States,CA,San Francisco,22/02/12,L10,General,18.0,20.0,10.0,2.5,6.0,1.5,0.0

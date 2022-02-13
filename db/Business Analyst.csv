@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Citi,India,KA,Bengaluru,22/02/13,C11,Marketing,6.0,6.0,44.0,41.0,0.0,3.0,0.0
+Business Analyst,Deloitte,United States,IL,Chicago,22/02/13,Analyst,Applied AI,0.0,2.0,104.0,92.0,0.0,12.0,0.0
 Business Analyst,Daimler,United States,OR,Portland,22/02/13,L5,Business,3.0,10.0,102.0,96.0,0.0,6.0,0.0
 Business Analyst,Stripe,United States,CA,San Francisco,22/02/13,L4,General,1.0,12.0,352.0,220.0,88.0,44.0,0.0
 Business Analyst,TD bank,Canada,ON,Toronto,22/02/13,L7,Finance / Accounting,1.0,2.0,48.0,44.0,1.0,3.0,0.0

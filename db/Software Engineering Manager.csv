@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Amazon,India,KA,Bengaluru,22/02/13,L6 SDM,Distributed Systems (Back-End),1.0,18.0,148.0,86.0,37.0,25.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Seattle,22/02/13,Principal EM,ML / AI,21.0,22.0,360.0,213.0,96.0,51.0,0.0
 Software Engineering Manager,Nutanix,India,KA,Bangalore,22/02/13,Senior Engineering Manager,Distributed Systems (Back-End),5.0,11.0,180.0,110.0,70.0,0.0,0.0
 Software Engineering Manager,Uber,United States,CA,San Francisco,22/02/13,Director,Full Stack,3.0,15.0,950.0,310.0,540.0,100.0,0.0
 Software Engineering Manager,Fidelity Investments,United States,TX,Dallas,22/02/13,8,Architect,8.0,25.0,320.0,170.0,50.0,100.0,0.0

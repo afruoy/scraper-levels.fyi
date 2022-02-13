@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Bloomberg,United Kingdom,EN,London,22/02/13,Product manager,Product,10.0,10.0,180.0,145.0,0.0,35.0,0.0
+Product Manager,Atlassian,India,KA,Bengaluru,22/02/13,P6,Product,1.0,14.0,120.0,90.0,15.0,15.0,0.0
+Product Manager,HERE Technologies,Germany,BE,Berlin,22/02/13,L3,Product,7.0,14.0,148.0,115.0,15.0,18.0,0.0
+Product Manager,Adobe,United States,CA,San Jose,22/02/13,P4,Testing (SDET),2.0,8.0,285.0,180.0,75.0,30.0,0.0
+Product Manager,Facebook,United States,WA,Seattle,22/02/13,Director,Consumer,5.0,9.0,1.0,307.0,1.0,90.0,0.0
 Product Manager,Autodesk,United States,CA,San Francisco,22/02/13,l3,Product,2.0,5.0,170.0,130.0,30.0,10.0,0.0
 Product Manager,Facebook,United States,WA,Seattle,22/02/13,L7 Product Manager,Product,0.0,23.0,775.0,260.0,450.0,65.0,82.5
 Product Manager,Microsoft,United States,NJ,Princeton,22/02/13,59,Consumer,1.0,1.0,179.0,121.0,33.0,25.0,0.0
