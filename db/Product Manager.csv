@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Autodesk,United States,CA,San Francisco,22/02/13,l3,Product,2.0,5.0,170.0,130.0,30.0,10.0,0.0
+Product Manager,Facebook,United States,WA,Seattle,22/02/13,L7 Product Manager,Product,0.0,23.0,775.0,260.0,450.0,65.0,82.5
+Product Manager,Microsoft,United States,NJ,Princeton,22/02/13,59,Consumer,1.0,1.0,179.0,121.0,33.0,25.0,0.0
+Product Manager,Dell Technologies,United States,TX,Austin,22/02/13,I9,Product,0.0,8.0,219.0,180.0,12.0,27.0,0.0
+Product Manager,Goldman Sachs,United States,NY,New York,22/02/13,L5,Product,4.0,4.0,176.0,135.0,0.0,41.0,0.0
+Product Manager,IXL Learning,United States,CA,San Mateo,22/02/12,APM,Product,0.0,1.0,115.0,115.0,0.0,0.0,0.0
 Product Manager,Citi,Hong Kong (SAR),HK,Hong Kong,22/02/12,C10,Consumer,1.0,1.0,55.0,51.0,0.0,4.0,0.0
 Product Manager,JPMorgan Chase,United States,NY,New York,22/02/12,602,Product,1.0,4.0,150.0,135.0,0.0,15.0,0.0
 Product Manager,VMware,United States,MA,Boston,22/02/12,M3,Product,3.0,8.0,226.0,176.0,20.0,30.0,0.0

@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Boeing,United States,WA,Everett,22/02/13,Level 1,General,0.0,1.0,76.0,76.0,0.0,0.0,0.0
+Mechanical Engineer,Texas Instruments,United States,TX,Dallas,22/02/12,JG30,ASIC design,20.0,25.0,276.0,184.0,32.0,60.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Seattle,22/02/12,L6,General,3.0,5.0,274.0,156.0,118.0,0.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Seattle,22/02/11,L6,Structural Products - Composites,1.0,32.0,225.0,158.0,67.0,0.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Everett,22/02/11,L3,General,6.0,6.0,109.0,106.0,0.0,3.0,0.0

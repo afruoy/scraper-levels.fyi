@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Daimler,United States,OR,Portland,22/02/13,L5,Business,3.0,10.0,102.0,96.0,0.0,6.0,0.0
+Business Analyst,Stripe,United States,CA,San Francisco,22/02/13,L4,General,1.0,12.0,352.0,220.0,88.0,44.0,0.0
+Business Analyst,TD bank,Canada,ON,Toronto,22/02/13,L7,Finance / Accounting,1.0,2.0,48.0,44.0,1.0,3.0,0.0
+Business Analyst,PwC,United Kingdom,EN,London,22/02/12,Senior Associate (Level 2),Tableau and Alteryx reporting,1.0,3.0,68.0,68.0,0.0,0.0,6.8
 Business Analyst,First Republic Bank,United States,CA,San Francisco,22/02/12,2,Ddo,5.0,5.0,100.0,90.0,0.0,10.0,0.0
 Business Analyst,DoorDash,United States,NY,New York,22/02/11,E4,Strategy & Operations,1.0,3.0,144.0,127.0,17.0,0.0,0.0
 Business Analyst,Amazon,United States,WA,Seattle,22/02/11,L6,General,2.0,4.0,148.0,100.0,18.0,30.0,0.0

@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Data Scientist,Yahoo,United States,CA,Sunnyvale,22/02/13,IC4,Ads,3.0,11.0,270.0,185.0,60.0,25.0,0.0
+Data Scientist,Amazon,United States,WA,Seattle,22/02/13,L5,General,2.0,7.0,293.0,189.0,51.0,53.0,0.0
+Data Scientist,Google,United States,CA,San Francisco,22/02/12,L10,General,18.0,20.0,10.0,2.5,6.0,1.5,0.0
+Data Scientist,Facebook,United States,CA,Menlo Park,22/02/12,IC5,General,2.0,10.0,316.0,196.0,70.0,50.0,0.0
+Data Scientist,Shopify,Canada,ON,Ottawa,22/02/12,L4,General,2.0,2.0,88.0,73.0,15.0,0.0,0.0
 Data Scientist,Paycom,United States,OK,Oklahoma City,22/02/12,L2,Data science,2.0,3.0,121.0,100.0,20.0,1.0,0.0
 Data Scientist,Amazon,United States,WA,Seattle,22/02/12,L5,Data Scientist,2.0,10.0,266.0,158.0,73.0,35.0,0.0
 Data Scientist,Uber,United States,CA,San Francisco,22/02/12,3,hi,0.0,4.0,146.0,125.0,10.0,11.0,0.0
