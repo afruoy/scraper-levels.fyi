@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,TSMC,Taiwan,TP,Hsin-chu,22/02/13,31,Package thermal simulation,4.0,4.0,67.0,31.0,0.0,36.0,0.0
+Mechanical Engineer,AstraZeneca,United States,CA,San Francisco,22/02/13,Grade D,Facilities,0.0,4.0,146.0,120.0,8.0,18.0,0.0
 Mechanical Engineer,Boeing,United States,WA,Everett,22/02/13,Level 1,General,0.0,1.0,76.0,76.0,0.0,0.0,0.0
 Mechanical Engineer,Texas Instruments,United States,TX,Dallas,22/02/12,JG30,ASIC design,20.0,25.0,276.0,184.0,32.0,60.0,0.0
 Mechanical Engineer,Amazon,United States,WA,Seattle,22/02/12,L6,General,3.0,5.0,274.0,156.0,118.0,0.0,0.0

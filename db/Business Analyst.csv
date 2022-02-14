@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,McKinsey,United States,GA,Atlanta,22/02/14,Analyst,Solutions,0.0,4.0,149.0,130.0,9.0,10.0,0.0
+Business Analyst,Amazon,United States,MA,Boston,22/02/14,L5,General,0.0,5.0,134.0,106.0,17.0,11.0,0.0
+Business Analyst,Deloitte,United States,TX,Austin,22/02/13,Analyst,General,1.0,1.0,93.0,83.0,0.0,10.0,0.0
+Business Analyst,JPMorgan Chase,United States,PA,Philadelphia,22/02/13,l7,Business Analysis,15.0,17.0,195.0,150.0,0.0,45.0,0.0
 Business Analyst,Citi,India,KA,Bengaluru,22/02/13,C11,Marketing,6.0,6.0,44.0,41.0,0.0,3.0,0.0
 Business Analyst,Deloitte,United States,IL,Chicago,22/02/13,Analyst,Applied AI,0.0,2.0,104.0,92.0,0.0,12.0,0.0
 Business Analyst,Daimler,United States,OR,Portland,22/02/13,L5,Business,3.0,10.0,102.0,96.0,0.0,6.0,0.0

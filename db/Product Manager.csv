@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Peloton,United States,NY,New York,22/02/14,L7,Consumer,2.0,7.0,308.0,210.0,98.0,0.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/14,Senior Product Manager,Product,1.0,10.0,513.0,273.0,175.0,65.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/13,Senior Product Manager,Product,3.0,9.0,195.0,132.0,32.0,31.0,0.0
+Product Manager,Amazon,United States,TX,Austin,22/02/13,Senior Product Manager,Technical,0.0,5.0,290.0,160.0,100.0,30.0,0.0
+Product Manager,Microsoft,India,KA,Bangalore,22/02/13,63,Product,6.0,10.0,68.0,49.0,14.0,5.0,0.0
 Product Manager,Bloomberg,United Kingdom,EN,London,22/02/13,Product manager,Product,10.0,10.0,180.0,145.0,0.0,35.0,0.0
 Product Manager,Atlassian,India,KA,Bengaluru,22/02/13,P6,Product,1.0,14.0,120.0,90.0,15.0,15.0,0.0
 Product Manager,HERE Technologies,Germany,BE,Berlin,22/02/13,L3,Product,7.0,14.0,148.0,115.0,15.0,18.0,0.0
