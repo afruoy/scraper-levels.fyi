@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,American Express,United States,AZ,Phoenix,22/02/14,L1,Data,7.0,14.0,180.0,150.0,0.0,30.0,0.0
+Software Engineering Manager,ServiceNow,India,TS,Hyderabad,22/02/14,IC4,Data,3.0,18.0,195.0,80.0,100.0,15.0,0.0
+Software Engineering Manager,GetYourGuide,Germany,BE,Berlin,22/02/14,7,Full Stack,4.0,10.0,155.0,120.0,35.0,0.0,0.0
+Software Engineering Manager,Gap,United States,CA,San Francisco,22/02/14,SE III,Data,3.0,15.0,185.0,165.0,0.0,20.0,0.0
 Software Engineering Manager,VMware,United States,MA,Boston,22/02/13,M4,DevOps,8.0,18.0,380.0,250.0,80.0,50.0,0.0
 Software Engineering Manager,Intel,United States,OR,Portland,22/02/13,Grade 8,Production,8.0,8.0,250.0,175.0,50.0,25.0,0.0
 Software Engineering Manager,Microsoft,Ireland,DN,Dublin,22/02/13,Principal EM,Azure,4.0,12.0,182.0,120.0,40.0,22.0,0.0

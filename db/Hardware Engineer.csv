@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Intel,India,KA,Bangalore,22/02/14,Grade 7,Verification,4.0,7.0,50.0,45.0,5.0,0.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/14,ICT3,Imaging,4.0,10.0,330.0,150.0,171.0,9.0,0.0
+Hardware Engineer,Apple,United States,CA,Cupertino,22/02/14,ICT4,Signal integrity,4.0,6.0,265.0,165.0,80.0,20.0,0.0
+Hardware Engineer,Amazon,United States,WA,Redmond,22/02/14,L5,RF,2.0,6.0,203.0,137.0,40.0,26.0,0.0
 Hardware Engineer,AMD,United States,TX,Austin,22/02/14,L5,Verification,0.0,7.0,223.0,150.0,50.0,23.0,0.0
 Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/14,Grade 8,Fab,5.0,5.0,252.0,169.0,57.0,26.0,0.0
 Hardware Engineer,Peloton,United States,WA,Woodinville,22/02/14,2,Embedded Systems,1.0,2.0,99.0,85.0,14.0,0.0,0.0
