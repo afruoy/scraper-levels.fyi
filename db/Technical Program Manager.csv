@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Oracle,United States,NY,New York,22/02/15,IC,Delivery,10.0,20.0,195.0,150.0,15.0,30.0,0.0
+Technical Program Manager,Amazon,United States,CA,Sunnyvale,22/02/15,L6,Hardware,5.0,8.0,275.0,160.0,115.0,0.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/15,63,crossplat,7.0,7.0,210.0,160.0,25.0,25.0,0.0
 Technical Program Manager,Silicon Valley Bank,United States,GA,Atlanta,22/02/15,L5,Senior,1.0,18.0,226.0,175.0,0.0,51.0,0.0
 Technical Program Manager,Google,United States,CA,Mountain View,22/02/14,L5,Release Management,11.0,11.0,332.0,190.0,90.0,52.0,0.0

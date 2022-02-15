@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Nvidia,United States,WA,Spokane,22/02/15,IC6,Infrastructure,0.0,17.0,365.0,265.0,100.0,0.0,0.0
+Product Manager,Flipkart,India,KA,Bengaluru,22/02/15,L3,Product,2.0,8.0,60.0,50.0,0.0,10.0,0.0
 Product Manager,Amazon,United States,WA,Bellevue,22/02/15,Principal Product Manager,Technical,1.0,21.0,480.0,162.0,180.0,138.0,0.0
 Product Manager,Enova International,United States,IL,Chicago,22/02/15,Senior Product Manager,Consumer,4.0,7.0,153.0,123.0,18.0,12.0,0.0
 Product Manager,Zalando,Germany,BE,Berlin,22/02/15,SC1,Product,1.0,17.0,204.0,163.0,41.0,0.0,0.0
