@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,KPMG,United States,NY,New York,22/02/15,Senior Consultant,Financial Services,3.0,3.0,145.0,125.0,0.0,20.0,0.0
+Management Consultant,Deloitte,United States,CA,Los Angeles,22/02/15,Manager,Strategy and Analytics,7.0,7.0,230.0,204.0,0.0,26.0,0.0
+Management Consultant,Accenture,United States,CA,San Francisco,22/02/15,Consultant,Venture,4.0,6.0,155.0,143.0,0.0,12.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,22/02/14,Senior Consultant,Data Analytics,0.0,3.0,130.0,125.0,0.0,5.0,0.0
+Management Consultant,PwC,United States,IL,Chicago,22/02/14,Senior Associate,Customer,2.0,6.0,179.0,164.0,0.0,15.0,0.0
 Management Consultant,Bloomberg,United States,NY,New York,22/02/14,L4,Energy,4.0,4.0,148.0,134.0,0.0,14.0,0.0
 Management Consultant,Bain,United States,MA,Boston,22/02/13,Manager,Consulting,4.0,7.0,328.0,205.0,0.0,123.0,0.0
 Management Consultant,FTI Consulting,United States,CA,Los Angeles,22/02/13,L2,Data Analyst,4.0,4.0,116.0,106.0,0.0,10.0,0.0

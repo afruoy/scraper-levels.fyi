@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/15,63,crossplat,7.0,7.0,210.0,160.0,25.0,25.0,0.0
+Technical Program Manager,Silicon Valley Bank,United States,GA,Atlanta,22/02/15,L5,Senior,1.0,18.0,226.0,175.0,0.0,51.0,0.0
+Technical Program Manager,Google,United States,CA,Mountain View,22/02/14,L5,Release Management,11.0,11.0,332.0,190.0,90.0,52.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/14,L6,Data,4.0,17.0,234.0,152.0,82.0,0.0,0.0
+Technical Program Manager,Twitter,United States,WA,Seattle,22/02/14,L6,General,1.0,8.0,310.0,185.0,88.0,37.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/14,L4,Business Development,3.0,3.0,130.0,83.0,27.0,20.0,0.0
+Technical Program Manager,Oracle,United States,PA,Philadelphia,22/02/14,IC,OCI,0.0,6.0,210.0,175.0,35.0,0.0,0.0
 Technical Program Manager,HCL Technologies,United States,NC,Raleigh,22/02/14,L6,Infrastructure,11.0,14.0,130.0,130.0,0.0,0.0,0.0
 Technical Program Manager,AMD,Canada,ON,Toronto,22/02/13,L2,Board Program,1.0,2.0,109.0,95.0,6.0,8.0,0.0
 Technical Program Manager,Amazon,United States,VA,Arlington,22/02/12,L7,General,1.0,18.0,425.0,160.0,20.0,245.0,0.0
