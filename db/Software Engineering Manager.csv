@@ -1,4 +1,19 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Adobe,United States,WA,Seattle,22/02/16,3,ML / AI,5.0,8.0,540.0,190.0,325.0,25.0,0.0
+Software Engineering Manager,Amazon,United States,VA,Arlington,22/02/16,L6 SDM,Data,2.0,9.0,300.0,160.0,140.0,0.0,0.0
+Software Engineering Manager,Lightspeed Commerce,Canada,QC,Montreal,22/02/16,L,Full Stack,3.0,15.0,135.0,122.0,13.0,0.0,0.0
+Software Engineering Manager,Amazon,United States,CA,San Francisco,22/02/16,L6 SDM,Full Stack,3.0,15.0,540.0,185.0,355.0,0.0,0.0
+Software Engineering Manager,UKG,Canada,ON,Toronto,22/02/16,M3,Full Stack,4.0,12.0,141.0,120.0,7.0,14.0,0.0
+Software Engineering Manager,Fidelity Investments,United States,NC,Raleigh,22/02/16,L8,Distributed Systems (Back-End),12.0,19.0,285.0,175.0,30.0,80.0,0.0
+Software Engineering Manager,Qualcomm,United States,CA,San Diego,22/02/16,Senior Staff,Modem,12.0,12.0,290.0,165.0,75.0,50.0,0.0
+Software Engineering Manager,Walmart Global Tech,United States,CA,Sunnyvale,22/02/15,X6,Mobile (iOS + Android),2.0,22.0,299.0,199.0,50.0,50.0,0.0
+Software Engineering Manager,Deloitte,Ireland,DN,Dublin,22/02/15,Senior Manager,Full Stack,5.0,10.0,118.0,107.0,0.0,11.0,0.0
+Software Engineering Manager,Thrasio,United States,CA,San Francisco,22/02/15,L3,Data,1.0,15.0,275.0,205.0,50.0,20.0,0.0
+Software Engineering Manager,HCL Technologies,Canada,ON,Toronto,22/02/15,3,Testing (SDET),6.0,15.0,78.0,77.0,0.0,1.0,0.0
+Software Engineering Manager,Flatiron Health,United States,NY,New York,22/02/15,E5,Full Stack,3.0,12.0,330.0,210.0,90.0,30.0,0.0
+Software Engineering Manager,Spotify,Sweden,ST,Stockholm,22/02/15,L2,Mobile (iOS + Android),6.0,11.0,133.0,93.0,40.0,0.0,0.0
+Software Engineering Manager,ING,Netherlands,NH,Amsterdam,22/02/15,11,Full Stack,4.0,10.0,96.0,96.0,0.0,0.0,0.0
+Software Engineering Manager,Square,United States,GA,Atlanta,22/02/15,L6,Android,2.0,10.0,313.0,175.0,138.0,0.0,0.0
 Software Engineering Manager,IBM,India,KA,Bangalore,22/02/15,Band 9,Distributed Systems (Back-End),1.0,15.0,80.0,77.0,0.0,3.0,0.0
 Software Engineering Manager,Intel,Israel,HA,Haifa,22/02/15,Grade 8,API Development (Back-End),15.0,15.0,265.0,155.0,70.0,40.0,0.0
 Software Engineering Manager,Amazon,United States,CA,Sunnyvale,22/02/15,L6 SDM,ML / AI,3.0,17.0,550.0,220.0,264.0,66.0,0.0
