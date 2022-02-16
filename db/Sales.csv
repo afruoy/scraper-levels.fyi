@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Zayo,United States,CO,Denver,22/02/16,Sr Director,Carrier Sales,5.0,22.0,340.0,136.0,0.0,204.0,0.0
+Sales,Twilio,United States,IL,Chicago,22/02/16,L3,General,1.0,20.0,226.0,135.0,50.0,41.0,0.0
+Sales,Oracle,United States,IL,Chicago,22/02/16,IC,Oracle Advertising,1.0,9.0,200.0,130.0,0.0,70.0,0.0
+Sales,Bloomberg,United Kingdom,EN,London,22/02/15,L3,TOMS,6.0,6.0,207.0,172.0,0.0,35.0,0.0
 Sales,Google,United States,CA,Mountain View,22/02/15,L3,Firebase,0.0,2.0,130.0,96.0,20.0,14.0,0.0
 Sales,Amazon,Spain,MD,Madrid,22/02/14,L5,General,1.0,10.0,89.0,65.0,10.0,14.0,0.0
 Sales,Amazon,United Arab Emirates,DU,Dubai,22/02/14,L6,Emerging markets,0.0,16.0,400.0,250.0,100.0,50.0,0.0

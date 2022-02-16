@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,PwC,United States,FL,Miami,22/02/16,Senior Manager,Cloud & Digital,9.0,15.0,195.0,179.0,0.0,16.0,0.0
+Management Consultant,FTI Consulting,United States,NY,New York,22/02/16,4,Restructuring,2.0,15.0,330.0,245.0,0.0,85.0,0.0
+Management Consultant,Cognizant,United Kingdom,EN,London,22/02/16,Senior Associate,Cloud,6.0,7.0,81.0,78.0,0.0,3.0,0.0
+Management Consultant,Kyndryl,United States,TX,San Antonio,22/02/15,Band 9,Automation and Cloud,2.0,10.0,184.0,174.0,0.0,10.0,0.0
 Management Consultant,Capgemini Invent,France,IL,Paris,22/02/15,Junior,Human resources,1.0,1.0,53.0,53.0,0.0,0.0,0.0
 Management Consultant,KPMG,United States,NY,New York,22/02/15,Senior Consultant,Financial Services,3.0,3.0,145.0,125.0,0.0,20.0,0.0
 Management Consultant,Deloitte,United States,CA,Los Angeles,22/02/15,Manager,Strategy and Analytics,7.0,7.0,230.0,204.0,0.0,26.0,0.0

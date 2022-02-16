@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Expedia,India,HR,Gurgaon,22/02/16,M,Senior Technical Program Manager,3.0,14.0,100.0,80.0,20.0,0.0,0.0
+Technical Program Manager,Facebook,United States,NY,New York,22/02/16,IC5,ML,0.0,15.0,300.0,210.0,60.0,30.0,0.0
+Technical Program Manager,Apple,United States,CA,San Diego,22/02/16,ICT4,Sensor Design,0.0,11.0,304.0,185.0,100.0,19.0,0.0
+Technical Program Manager,Intel,United States,OR,Portland,22/02/16,Grade 7,General,3.0,3.0,171.0,141.0,12.0,18.0,0.0
+Technical Program Manager,Intel,United States,OR,Portland,22/02/15,Grade 7,IT,3.0,3.0,171.0,141.0,12.0,18.0,0.0
+Technical Program Manager,Google,United States,CA,Mountain View,22/02/15,L5,Machine Learning,0.0,11.0,243.0,180.0,63.0,0.0,0.0
 Technical Program Manager,Oracle,United States,NY,New York,22/02/15,IC,Delivery,10.0,20.0,195.0,150.0,15.0,30.0,0.0
 Technical Program Manager,Amazon,United States,CA,Sunnyvale,22/02/15,L6,Hardware,5.0,8.0,275.0,160.0,115.0,0.0,0.0
 Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/15,63,crossplat,7.0,7.0,210.0,160.0,25.0,25.0,0.0

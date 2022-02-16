@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Accountant,Microsoft,United States,WA,Redmond,22/02/16,61,Finance,1.0,7.0,144.0,120.0,14.0,10.0,0
 Accountant,Genpact,India,RJ,Jaipur,22/02/13,L2,Accounts,1.0,5.0,5.0,4.0,0.0,1.0,0
 Accountant,Google,United States,IL,Chicago,22/02/12,L4,Accounting,0.0,6.0,159.0,116.0,26.0,17.0,0
 Accountant,Northern Trust,India,MH,Pune,22/02/12,Analyst,Trade and Settlements,1.0,1.0,4.0,3.0,0.0,1.0,0

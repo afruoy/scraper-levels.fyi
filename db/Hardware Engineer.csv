@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Raytheon,United States,MA,Boston,22/02/16,P2,DSP,3.0,4.0,95.0,89.0,0.0,6.0,0.0
+Hardware Engineer,Intel,Malaysia,PG,Penang,22/02/16,Grade 9,Embedded Systems,3.0,14.0,102.0,80.0,10.0,12.0,0.0
+Hardware Engineer,MediaTek,Taiwan,TP,Hsin-chu,22/02/16,E7,ASIC Design,2.0,2.0,115.0,49.0,0.0,66.0,0.0
+Hardware Engineer,Intel,United States,CA,Folsom,22/02/16,Grade 8,Validation,10.0,10.0,247.0,160.0,57.0,30.0,0.0
+Hardware Engineer,NXP Semiconductors,United States,TX,Austin,22/02/16,L3,Verification,0.0,4.0,179.0,140.0,25.0,14.0,10.0
+Hardware Engineer,Intel,United States,CA,Sacramento,22/02/15,Grade 11,ASIC Design,13.0,20.0,580.0,262.0,208.0,110.0,0.0
+Hardware Engineer,Google,United States,TX,Austin,22/02/15,L6,SoC Design,0.0,25.0,416.0,212.0,162.0,42.0,0.0
 Hardware Engineer,Western Digital,India,KA,Bengaluru,22/02/15,Staff Engineer,Components,2.0,10.0,43.0,37.0,3.0,3.0,0.0
 Hardware Engineer,Intel,United States,CA,Santa Clara,22/02/15,Grade 8,Validation,1.0,1.0,206.0,153.0,30.0,23.0,0.0
 Hardware Engineer,Qualcomm,United States,CA,San Diego,22/02/15,Staff,ASIC Design,3.0,14.0,225.0,165.0,40.0,20.0,0.0

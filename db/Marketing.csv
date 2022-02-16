@@ -1,8 +1,15 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Facebook,United States,CA,Menlo Park,22/02/16,IC5,BPM,3.0,9.0,272.0,167.0,80.0,25.0,0.0
+Marketing,MobileIron,United States,WA,Seattle,22/02/16,L08,General,5.0,5.0,102.0,90.0,3.0,9.0,0.0
+Marketing,Oracle,United States,CA,San Francisco,22/02/16,IC,General,2.0,2.0,82.0,82.0,0.0,0.0,0.0
+Marketing,Twilio,United States,CO,Denver,22/02/15,L3,product marketing,2.0,3.0,137.0,107.0,30.0,0.0,0.0
+Marketing,Shopify,Canada,ON,Toronto,22/02/15,L5,General,2.0,2.0,78.0,70.0,8.0,0.0,0.0
+Marketing,Square,United States,CA,San Francisco,22/02/15,L5,General,5.0,5.0,186.0,145.0,41.0,0.0,0.0
+Marketing,Audible,United States,NJ,Newark,22/02/15,L6,Marketing,11.0,13.0,205.0,145.0,60.0,0.0,0.0
 Marketing,Appian,United States,NY,New York,22/02/15,Senior Product Marketing Manager,Solutions,1.0,9.0,164.0,155.0,0.0,9.0,0.0
 Marketing,Google,United States,NY,New York,22/02/15,L5,Fiber,0.0,9.0,250.0,165.0,42.0,43.0,0.0
 Marketing,Amazon,United States,TN,Nashville,22/02/15,L4,Paid Social,1.0,4.0,91.0,75.0,9.0,7.0,0.0
-Marketing,The New York Times Company,United States,NY,New York,22/02/14,N/A,Ad Agency,5.0,10.0,82.0,82.0,0.0,0.0,0.0
+Marketing,The New York Times Company,United States,NY,New York,22/02/14,,Ad Agency,5.0,10.0,82.0,82.0,0.0,0.0,0.0
 Marketing,CIBC,Canada,ON,Toronto,22/02/14,7,Marketing,2.0,2.0,69.0,65.0,1.0,3.0,0.0
 Marketing,Afiniti,Pakistan,SD,Karachi,22/02/14,L4,Collateral and Brand Design,1.0,4.0,20.0,20.0,0.0,0.0,0.0
 Marketing,Microsoft,United States,WA,Redmond,22/02/14,64,integrated marketing,6.0,16.0,234.0,180.0,30.0,24.0,0.0

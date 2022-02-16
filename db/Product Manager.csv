@@ -1,4 +1,21 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,WA,Seattle,22/02/16,Principal Product Manager,Product,6.0,19.0,484.0,220.0,264.0,0.0,0.0
+Product Manager,JumpCloud,United States,CA,San Francisco,22/02/16,L4,Product,1.0,4.0,190.0,160.0,30.0,0.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/16,Principal Product Manager,Technical,5.0,15.0,410.0,160.0,250.0,0.0,0.0
+Product Manager,Qualcomm,United States,CA,San Diego,22/02/16,l7,Product,13.0,20.0,180.0,160.0,10.0,10.0,0.0
+Product Manager,Telstra,Australia,NS,Sydney,22/02/16,Senior Product Manager,Product,3.0,5.0,98.0,86.0,0.0,12.0,0.0
+Product Manager,Amazon,Germany,BY,Munich,22/02/16,Product Manager,Product,2.0,5.0,105.0,75.0,30.0,0.0,0.0
+Product Manager,System1,United States,CA,Los Angeles,22/02/16,L5,Consumer,3.0,6.0,228.0,132.0,80.0,16.0,0.0
+Product Manager,System1,United States,CA,Los Angeles,22/02/16,L4,Consumer,3.0,6.0,228.0,132.0,80.0,16.0,0.0
+Product Manager,Verizon,United States,TX,Dallas,22/02/16,6V,Product,12.0,12.0,154.0,120.0,10.0,24.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/15,Product Manager 2,Product,0.0,10.0,321.0,186.0,100.0,35.0,0.0
+Product Manager,ByteDance,United States,CA,Mountain View,22/02/15,2,Analytic,2.0,7.0,222.0,162.0,0.0,60.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/15,Senior Product Manager,Product,4.0,9.0,207.0,127.0,70.0,10.0,0.0
+Product Manager,Atlassian,United States,NY,New York,22/02/15,P3,User Journey,0.0,2.0,162.0,113.0,38.0,11.0,0.0
+Product Manager,American Express,United States,NY,New York,22/02/15,L6,Enterprise,5.0,14.0,160.0,150.0,0.0,10.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/15,Product Manager 1,Product,0.0,7.0,316.0,157.0,115.0,44.0,0.0
+Product Manager,Google,United States,CA,San Francisco,22/02/15,Product Manager 2,Enterprise,2.0,15.0,345.0,185.0,130.0,30.0,0.0
+Product Manager,SAP NS2,United States,MA,Boston,22/02/15,T2,Product,2.0,3.0,119.0,100.0,0.0,19.0,0.0
 Product Manager,Nvidia,United States,WA,Spokane,22/02/15,IC6,Infrastructure,0.0,17.0,365.0,265.0,100.0,0.0,0.0
 Product Manager,Flipkart,India,KA,Bengaluru,22/02/15,L3,Product,2.0,8.0,60.0,50.0,0.0,10.0,0.0
 Product Manager,Amazon,United States,WA,Bellevue,22/02/15,Principal Product Manager,Technical,1.0,21.0,480.0,162.0,180.0,138.0,0.0

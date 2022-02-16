@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Cisco,India,KA,Bengaluru,22/02/16,G12,Networking,14.0,22.0,158.0,74.0,60.0,24.0,0.0
+Software Engineering Manager,Canonical,United Kingdom,EN,London,22/02/16,Engineering Director,DevOps,0.0,15.0,160.0,160.0,0.0,0.0,0.0
+Software Engineering Manager,Capital One,United States,VA,West McLean,22/02/16,Director,Distributed Systems (Back-End),3.0,18.0,349.0,254.0,60.0,35.0,0.0
+Software Engineering Manager,Microsoft,United States,WA,Redmond,22/02/16,66,Full Stack,10.0,12.0,357.0,206.0,96.0,55.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/16,Director,Distributed Systems (Back-End),3.0,20.0,1.0,160.0,1.2,0.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/16,Senior SDM,Distributed Systems (Back-End),7.0,24.0,600.0,160.0,440.0,0.0,0.0
 Software Engineering Manager,Adobe,United States,WA,Seattle,22/02/16,3,ML / AI,5.0,8.0,540.0,190.0,325.0,25.0,0.0
 Software Engineering Manager,Amazon,United States,VA,Arlington,22/02/16,L6 SDM,Data,2.0,9.0,300.0,160.0,140.0,0.0,0.0
 Software Engineering Manager,Lightspeed Commerce,Canada,QC,Montreal,22/02/16,L,Full Stack,3.0,15.0,135.0,122.0,13.0,0.0,0.0

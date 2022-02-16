@@ -1,4 +1,8 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Mechanical Engineer,Facebook,United States,CA,Menlo Park,22/02/16,IC5,Consumer Electronics,4.0,12.0,347.0,202.0,115.0,30.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,CA,Redwood City,22/02/15,26,Hardware Design,3.0,4.0,145.0,130.0,0.0,15.0,0.0
+Mechanical Engineer,Johnson & Johnson,United States,CA,Santa Clara,22/02/15,26,Hardware Design,4.0,5.0,189.0,157.0,15.0,17.0,0.0
+Mechanical Engineer,Ford Motor,United States,MI,Dearborn,22/02/15,GSR6,Wire Harnesses,3.0,3.0,87.0,82.0,0.0,5.0,0.0
 Mechanical Engineer,Johnson & Johnson,United States,CA,Santa Clara,22/02/15,30,Hardware Design,5.0,6.0,253.0,195.0,18.0,40.0,0.0
 Mechanical Engineer,TSMC,Taiwan,TP,Hsin-chu,22/02/13,31,Package thermal simulation,4.0,4.0,67.0,31.0,0.0,36.0,0.0
 Mechanical Engineer,AstraZeneca,United States,CA,San Francisco,22/02/13,Grade D,Facilities,0.0,4.0,146.0,120.0,8.0,18.0,0.0

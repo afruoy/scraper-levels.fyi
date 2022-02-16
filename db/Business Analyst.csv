@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,PwC,Germany,BY,Munich,22/02/16,1,Analysis,2.0,3.0,54.0,52.0,0.0,2.0,0.0
+Business Analyst,Walmart,United States,CA,San Francisco,22/02/16,X3,ecommerce,0.0,3.0,129.0,110.0,1.0,18.0,40.0
+Business Analyst,Comcast,United States,GA,Atlanta,22/02/16,Manager,General,5.0,8.0,102.0,95.0,0.0,7.0,0.0
+Business Analyst,CIBC,Canada,ON,Toronto,22/02/16,1,Wealth Management/ Capital Markets,0.0,2.0,41.0,41.0,0.0,0.0,0.0
+Business Analyst,JPMorgan Chase,United States,OH,Dublin,22/02/15,L2,Testing (SDET),6.0,8.0,100.0,100.0,0.0,0.0,0.0
+Business Analyst,Amazon,United States,TX,Austin,22/02/15,L5,AMZL Last Mile,2.0,2.0,120.0,90.0,30.0,0.0,0.0
 Business Analyst,CVS Health,United States,DC,Washington,22/02/15,409,General,1.0,6.0,163.0,145.0,0.0,18.0,0.0
 Business Analyst,Salesforce,United States,CA,San Francisco,22/02/14,L4,Services,2.0,2.0,88.0,87.0,0.0,1.0,0.0
 Business Analyst,Microsoft,United States,WA,Seattle,22/02/14,61,finance,4.0,4.0,137.0,110.0,14.0,13.0,0.0
