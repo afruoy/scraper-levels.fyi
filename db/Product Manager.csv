@@ -1,4 +1,24 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Amazon,United States,NY,New York,22/02/17,Product Manager,Technical,4.0,4.0,260.0,180.0,44.0,36.0,0.0
+Product Manager,Intel,United States,OR,Hillsboro,22/02/17,Grade 11,Product,7.0,22.0,610.0,291.0,184.0,135.0,0.0
+Product Manager,Oscar Health,United States,NY,New York,22/02/17,E3,Infrastructure,3.0,5.0,210.0,180.0,5.0,25.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/17,Senior Product Manager,Product,1.0,8.0,255.0,155.0,100.0,0.0,0.0
+Product Manager,Sea,Singapore,SG,Singapore,22/02/17,Senior Associate,Product,1.0,8.0,123.0,95.0,13.0,15.0,0.0
+Product Manager,CrowdStrike,United States,CA,San Francisco,22/02/17,PM II,Technical,0.0,3.0,210.0,150.0,33.0,27.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/17,Senior Product Manager Tech,Technical,5.0,17.0,245.0,137.0,108.0,0.0,0.0
+Product Manager,Dell Technologies,United States,TX,Austin,22/02/16,L4,Product,4.0,7.0,145.0,130.0,5.0,10.0,0.0
+Product Manager,ABB,United States,TX,Dallas,22/02/16,Senior,Product,6.0,11.0,155.0,145.0,0.0,10.0,0.0
+Product Manager,Disney Streaming,United States,NY,New York,22/02/16,Senior,Product,1.0,10.0,180.0,140.0,20.0,20.0,0.0
+Product Manager,Clever Devices,United States,NY,Woodbury,22/02/16,L4,Product,4.0,4.0,155.0,140.0,0.0,15.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/16,Senior Product Manager,Product,1.0,6.0,183.0,130.0,35.0,18.0,0.0
+Product Manager,Goldman Sachs,United States,NY,New York,22/02/16,L4,Data,4.0,4.0,176.0,135.0,0.0,41.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/16,Senior Product Manager,Consumer,1.0,5.0,258.0,170.0,33.0,55.0,0.0
+Product Manager,ServiceNow,United States,CA,San Francisco,22/02/16,IC3,Product,0.0,4.0,205.0,150.0,40.0,15.0,0.0
+Product Manager,iManage,United States,IL,Chicago,22/02/16,Senior,Product,5.0,10.0,152.0,132.0,0.0,20.0,0.0
+Product Manager,Walmart Labs,United States,AR,Bentonville,22/02/16,L3,Analytic,11.0,11.0,135.0,135.0,0.0,0.0,0.0
+Product Manager,amazon,United States,WA,Seattle,22/02/16,Product Manager,Growth,0.0,5.0,225.0,165.0,35.0,25.0,0.0
+Product Manager,Comcast,United States,PA,Philadelphia,22/02/16,L7.5,Product,5.0,20.0,401.0,230.0,90.0,81.0,0.0
+Product Manager,HPI,United States,CA,Palo Alto,22/02/16,L6,Product,7.0,12.0,155.0,127.0,3.0,25.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/16,Principal Product Manager,Product,6.0,19.0,484.0,220.0,264.0,0.0,0.0
 Product Manager,JumpCloud,United States,CA,San Francisco,22/02/16,L4,Product,1.0,4.0,190.0,160.0,30.0,0.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/16,Principal Product Manager,Technical,5.0,15.0,410.0,160.0,250.0,0.0,0.0

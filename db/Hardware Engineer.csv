@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Hardware Engineer,Google,United States,TX,Austin,22/02/17,L3,Verification,0.0,3.0,212.0,136.0,56.0,20.0,0.0
+Hardware Engineer,OmniVision Technologies,United States,MI,Detroit,22/02/17,L1,Imaging,2.0,6.0,253.0,130.0,115.0,8.0,0.0
+Hardware Engineer,Microsoft,United States,WA,Redmond,22/02/17,61,FPGA Design,2.0,2.0,161.0,135.0,10.0,16.0,0.0
+Hardware Engineer,Synaptics,United States,CA,San Jose,22/02/16,L3,Verification,3.0,3.0,195.0,150.0,30.0,15.0,0.0
+Hardware Engineer,Intel,United States,OR,Hillsboro,22/02/16,Grade 6,Embedded Systems,3.0,6.0,160.0,118.0,25.0,17.0,0.0
+Hardware Engineer,Lam Research,United States,OR,Tualatin,22/02/16,L4,Product,2.0,6.0,168.0,120.0,30.0,18.0,0.0
+Hardware Engineer,Intel,India,KA,Bengaluru,22/02/16,Grade 9,Verification,6.0,19.0,105.0,87.0,18.0,0.0,0.0
 Hardware Engineer,Raytheon,United States,MA,Boston,22/02/16,P2,DSP,3.0,4.0,95.0,89.0,0.0,6.0,0.0
 Hardware Engineer,Intel,Malaysia,PG,Penang,22/02/16,Grade 9,Embedded Systems,3.0,14.0,102.0,80.0,10.0,12.0,0.0
 Hardware Engineer,MediaTek,Taiwan,TP,Hsin-chu,22/02/16,E7,ASIC Design,2.0,2.0,115.0,49.0,0.0,66.0,0.0

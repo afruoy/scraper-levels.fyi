@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Business Analyst,Wells Fargo,United States,NC,Charlotte,22/02/17,B5,Business Analyst,3.0,9.0,125.0,115.0,0.0,10.0,0.0
+Business Analyst,ExxonMobil,Hungary,BU,Budapest,22/02/17,CL23,Controllers,4.0,6.0,26.0,23.0,0.0,3.0,0.0
+Business Analyst,Accenture,United States,IL,Chicago,22/02/16,L10,Life Sciences,2.0,2.0,89.0,87.0,0.0,2.0,0.0
+Business Analyst,Accenture,Canada,QC,Montreal,22/02/16,L11,CDP,1.0,1.0,71.0,70.0,0.0,1.0,0.0
+Business Analyst,UnitedHealth Group,United States,WA,Seattle,22/02/16,27,Healthcare,1.0,5.0,107.0,102.0,0.0,5.0,0.0
 Business Analyst,PwC,Germany,BY,Munich,22/02/16,1,Analysis,2.0,3.0,54.0,52.0,0.0,2.0,0.0
 Business Analyst,Walmart,United States,CA,San Francisco,22/02/16,X3,ecommerce,0.0,3.0,129.0,110.0,1.0,18.0,40.0
 Business Analyst,Comcast,United States,GA,Atlanta,22/02/16,Manager,General,5.0,8.0,102.0,95.0,0.0,7.0,0.0

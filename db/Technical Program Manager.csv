@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Facebook,United States,NY,New York,22/02/17,IC5,operation,0.0,8.0,207.0,160.0,23.0,24.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/17,63,Azure,5.0,5.0,220.0,160.0,40.0,20.0,0.0
+Technical Program Manager,JPMorgan Chase,United States,NJ,Jersey City,22/02/17,Vice president,General,8.0,20.0,190.0,170.0,0.0,20.0,0.0
+Technical Program Manager,Amazon,United States,TX,Dallas,22/02/16,L5,TPM,3.0,22.0,180.0,150.0,10.0,20.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/16,64,software engineering,13.0,17.0,234.0,180.0,30.0,24.0,0.0
+Technical Program Manager,Microsoft,United States,WA,Redmond,22/02/16,62,Supply Chain Engineering,7.0,9.0,189.0,158.0,16.0,15.0,0.0
+Technical Program Manager,Salesforce,United States,WA,Seattle,22/02/16,6,Web App,3.0,20.0,209.0,160.0,30.0,19.0,0.0
 Technical Program Manager,Expedia,India,HR,Gurgaon,22/02/16,M,Senior Technical Program Manager,3.0,14.0,100.0,80.0,20.0,0.0,0.0
 Technical Program Manager,Facebook,United States,NY,New York,22/02/16,IC5,ML,0.0,15.0,300.0,210.0,60.0,30.0,0.0
 Technical Program Manager,Apple,United States,CA,San Diego,22/02/16,ICT4,Sensor Design,0.0,11.0,304.0,185.0,100.0,19.0,0.0

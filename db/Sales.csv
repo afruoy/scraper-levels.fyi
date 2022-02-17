@@ -1,4 +1,6 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Mastercard,United States,NY,Purchase,22/02/16,L4,Data & Services,15.0,25.0,300.0,200.0,30.0,70.0,0.0
+Sales,Amazon,United States,CA,Los Angeles,22/02/16,L6,Sales,3.0,15.0,580.0,145.0,200.0,235.0,0.0
 Sales,Zayo,United States,CO,Denver,22/02/16,Sr Director,Carrier Sales,5.0,22.0,340.0,136.0,0.0,204.0,0.0
 Sales,Twilio,United States,IL,Chicago,22/02/16,L3,General,1.0,20.0,226.0,135.0,50.0,41.0,0.0
 Sales,Oracle,United States,IL,Chicago,22/02/16,IC,Oracle Advertising,1.0,9.0,200.0,130.0,0.0,70.0,0.0

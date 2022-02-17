@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,JPMorgan Chase,United States,OH,Ohio City,22/02/17,602,Performance,0.0,5.0,112.0,105.0,0.0,7.0,0.0
+Management Consultant,Accenture,United States,DC,Washington,22/02/16,Analyst,Federal,1.0,1.0,87.0,82.0,0.0,5.0,0.0
+Management Consultant,Ernst and Young,Sweden,ST,Stockholm,22/02/16,C1,Consulting,0.0,0.0,49.0,49.0,0.0,0.0,0.0
+Management Consultant,Deloitte Consulting,United States,IL,Chicago,22/02/16,L1,Strategy,0.0,0.0,105.0,90.0,0.0,15.0,0.0
+Management Consultant,McKinsey & Company,United States,NY,New York,22/02/16,Manager,Consulting,6.0,6.0,300.0,200.0,0.0,100.0,0.0
+Management Consultant,Ernst and Young,United States,NY,New York,22/02/16,Manager,Wealth and Asset Management,6.0,8.0,153.0,150.0,0.0,3.0,0.0
 Management Consultant,PwC,United States,FL,Miami,22/02/16,Senior Manager,Cloud & Digital,9.0,15.0,195.0,179.0,0.0,16.0,0.0
 Management Consultant,FTI Consulting,United States,NY,New York,22/02/16,4,Restructuring,2.0,15.0,330.0,245.0,0.0,85.0,0.0
 Management Consultant,Cognizant,United Kingdom,EN,London,22/02/16,Senior Associate,Cloud,6.0,7.0,81.0,78.0,0.0,3.0,0.0
