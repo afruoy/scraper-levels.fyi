@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Amazon,United States,TN,Nashville,22/02/17,L6 SDM,Full Stack,2.0,16.0,280.0,160.0,120.0,0.0,0.0
+Software Engineering Manager,Twilio,United States,TX,Austin,22/02/17,L5,Distributed Systems (Back-End),5.0,12.0,542.0,192.0,350.0,0.0,0.0
+Software Engineering Manager,Capital Group,United States,CA,Los Angeles,22/02/17,Vice President,Full Stack,2.0,20.0,900.0,300.0,0.0,600.0,0.0
+Software Engineering Manager,Facebook,United States,CA,Menlo Park,22/02/17,M1,Full Stack,6.0,9.0,790.0,240.0,500.0,50.0,0.0
+Software Engineering Manager,Slalom Build,United States,IL,Chicago,22/02/17,L7,Full Stack,10.0,17.0,289.0,214.0,0.0,75.0,0.0
+Software Engineering Manager,Capital One,United States,VA,Arlington,22/02/17,Senior Manager,ML / AI,2.0,14.0,267.0,230.0,15.0,22.0,0.0
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/02/17,TL,Distributed Systems (Back-End),15.0,15.0,394.0,300.0,0.0,94.0,0.0
 Software Engineering Manager,HERE Technologies,United States,CA,Oceanside,22/02/17,JG 10,API Development (Back-End),8.0,20.0,210.0,160.0,40.0,10.0,0.0
 Software Engineering Manager,iCIMS,United States,NJ,Holmdel,22/02/17,1,Full Stack,4.0,4.0,134.0,120.0,0.0,14.0,0.0
 Software Engineering Manager,Nylas,Canada,ON,Toronto,22/02/17,D1,Distributed Systems (Back-End),1.0,8.0,215.0,180.0,35.0,0.0,0.0

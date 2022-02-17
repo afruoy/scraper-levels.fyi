@@ -1,4 +1,9 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,Wells Fargo,United States,CA,San Francisco,22/02/17,L5,Product,10.0,16.0,270.0,200.0,20.0,50.0,0.0
+Product Manager,Capital One,United States,TX,Dallas,22/02/17,Senior Product Manager,Product,7.0,12.0,185.0,165.0,0.0,20.0,0.0
+Product Manager,Amazon,United States,WA,Seattle,22/02/17,Senior Product Manager,Technical,7.0,20.0,250.0,150.0,100.0,0.0,0.0
+Product Manager,Visa,United States,CA,San Francisco,22/02/17,Senior Manager,Product,4.0,4.0,264.0,195.0,39.0,30.0,0.0
+Product Manager,U.S. Bank,United States,MN,Minneapolis,22/02/17,15,Technical,5.0,17.0,132.0,110.0,0.0,22.0,0.0
 Product Manager,Amazon,United States,NY,New York,22/02/17,Product Manager,Technical,4.0,4.0,260.0,180.0,44.0,36.0,0.0
 Product Manager,Intel,United States,OR,Hillsboro,22/02/17,Grade 11,Product,7.0,22.0,610.0,291.0,184.0,135.0,0.0
 Product Manager,Oscar Health,United States,NY,New York,22/02/17,E3,Infrastructure,3.0,5.0,210.0,180.0,5.0,25.0,0.0
