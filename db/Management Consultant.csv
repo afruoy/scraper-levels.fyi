@@ -1,4 +1,10 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Management Consultant,Deloitte,United States,GA,Atlanta,22/02/18,Consultant,General,1.0,4.0,125.0,120.0,0.0,5.0,0.0
+Management Consultant,Capgemini,United States,TX,Houston,22/02/18,C1,SAP,5.0,5.0,103.0,100.0,0.0,3.0,0.0
+Management Consultant,Deloitte,United States,VA,Arlington,22/02/18,Senior Consultant,Consulting,1.0,5.0,141.0,131.0,0.0,10.0,0.0
+Management Consultant,o9 Solutions,United States,TX,Dallas,22/02/17,L1,Supply chain,1.0,2.0,93.0,88.0,0.0,5.0,0.0
+Management Consultant,Microsoft,United Kingdom,EN,London,22/02/17,66,Business Development,5.0,15.0,320.0,204.0,41.0,75.0,0.0
+Management Consultant,IBM,United States,VA,Fairfax,22/02/17,8,general,0.0,25.0,184.0,184.0,0.0,0.0,0.0
 Management Consultant,KPMG,United States,VA,Mc Lean,22/02/17,Senior Consultant,Project Manager,5.0,5.0,115.0,109.0,0.0,6.0,0.0
 Management Consultant,Deloitte,United States,IL,Chicago,22/02/17,Senior Consultant,GPS Strategy,6.0,6.0,166.0,145.0,0.0,21.0,0.0
 Management Consultant,JPMorgan Chase,United States,OH,Ohio City,22/02/17,602,Performance,0.0,5.0,112.0,105.0,0.0,7.0,0.0

@@ -1,4 +1,5 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Sales,Oracle,United States,TX,Austin,22/02/18,IC,Oracle Cloud Infrastructure,0.0,20.0,400.0,225.0,75.0,100.0,0.0
 Sales,Mastercard,United States,NY,Purchase,22/02/16,L4,Data & Services,15.0,25.0,300.0,200.0,30.0,70.0,0.0
 Sales,Amazon,United States,CA,Los Angeles,22/02/16,L6,Sales,3.0,15.0,580.0,145.0,200.0,235.0,0.0
 Sales,Zayo,United States,CO,Denver,22/02/16,Sr Director,Carrier Sales,5.0,22.0,340.0,136.0,0.0,204.0,0.0

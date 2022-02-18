@@ -1,4 +1,17 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Product Manager,ZipRecruiter,United States,CA,Palo Alto,22/02/18,Director,Product,1.0,8.0,571.0,242.0,275.0,54.0,0.0
+Product Manager,Capital One,United States,VA,Richmond,22/02/18,Manager,Technical,3.0,5.0,174.0,150.0,0.0,24.0,0.0
+Product Manager,American Express,United States,AZ,Phoenix,22/02/17,B35,Product,3.0,3.0,176.0,140.0,0.0,36.0,0.0
+Product Manager,Zendesk,United States,CA,San Francisco,22/02/17,L4,Product,3.0,8.0,308.0,215.0,78.0,15.0,0.0
+Product Manager,Amazon,United States,NY,New York,22/02/17,Senior Product Manager,Advertising,1.0,6.0,222.0,180.0,0.0,42.0,0.0
+Product Manager,Podium,United States,UT,Lehi,22/02/17,Senior,Product,1.0,10.0,210.0,180.0,20.0,10.0,0.0
+Product Manager,Microsoft,United States,WA,Seattle,22/02/17,63,Product,6.0,6.0,199.0,154.0,30.0,15.0,0.0
+Product Manager,Palo Alto Networks,United States,CA,San Francisco,22/02/17,T9,Networking,1.0,4.0,232.0,170.0,25.0,37.0,0.0
+Product Manager,T-Mobile,United States,WA,Seattle,22/02/17,L7,Product,0.0,15.0,222.0,172.0,15.0,35.0,0.0
+Product Manager,Meta,United States,CA,San Francisco,22/02/17,5,Enterprise,0.0,3.0,263.0,185.0,50.0,28.0,0.0
+Product Manager,Genpact,India,UP,Noida,22/02/17,4C,Infrastructure,5.0,10.0,17.0,15.0,0.0,2.0,0.0
+Product Manager,Goldman Sachs,United States,NY,New York,22/02/17,Vice President,Product,3.0,18.0,335.0,215.0,16.0,104.0,0.0
+Product Manager,League,Canada,ON,Toronto,22/02/17,APM,Product,1.0,1.0,71.0,71.0,0.0,0.0,0.0
 Product Manager,Wells Fargo,United States,CA,San Francisco,22/02/17,L5,Product,10.0,16.0,270.0,200.0,20.0,50.0,0.0
 Product Manager,Capital One,United States,TX,Dallas,22/02/17,Senior Product Manager,Product,7.0,12.0,185.0,165.0,0.0,20.0,0.0
 Product Manager,Amazon,United States,WA,Seattle,22/02/17,Senior Product Manager,Technical,7.0,20.0,250.0,150.0,100.0,0.0,0.0

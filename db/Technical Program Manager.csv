@@ -1,4 +1,11 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Technical Program Manager,Ingram Micro,United States,SC,Greenville,22/02/18,1,"ERP, software application",1.0,10.0,90.0,90.0,0.0,0.0,0.0
+Technical Program Manager,Google,United States,CA,San Francisco,22/02/18,L4,General,5.0,5.0,272.0,160.0,78.0,34.0,0.0
+Technical Program Manager,Amazon,United States,WA,Seattle,22/02/17,L6,general,9.0,9.0,246.0,141.0,105.0,0.0,0.0
+Technical Program Manager,Capgemini,United States,GA,Atlanta,22/02/17,C2,General,2.0,6.0,148.0,142.0,0.0,6.0,0.0
+Technical Program Manager,Nordstrom,United States,WA,Seattle,22/02/17,L17,TPM,1.0,8.0,207.0,165.0,0.0,42.0,0.0
+Technical Program Manager,Amazon,Canada,BC,Vancouver,22/02/17,L6,General,2.0,17.0,169.0,115.0,37.0,17.0,0.0
+Technical Program Manager,Disney,United States,NY,New York,22/02/17,P3,"Partnerships, EMEA",2.0,4.0,172.0,129.0,39.0,4.0,0.0
 Technical Program Manager,Google,Poland,MZ,Warsaw,22/02/17,L5,Cloud,0.0,8.0,94.0,61.0,24.0,9.0,0.0
 Technical Program Manager,Visa,United States,TX,Austin,22/02/17,L6.5,Program Management,4.0,12.0,153.0,125.0,15.0,13.0,0.0
 Technical Program Manager,Hewlett Packard Enterprise,Taiwan,TP,Taipei,22/02/17,M12,General,6.0,15.0,83.0,73.0,0.0,10.0,0.0

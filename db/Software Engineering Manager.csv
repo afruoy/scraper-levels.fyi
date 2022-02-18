@@ -1,4 +1,13 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Software Engineering Manager,Bloomberg,United States,NY,New York,22/02/18,Team Lead,Distributed Systems (Back-End),5.0,7.0,300.0,250.0,0.0,50.0,0.0
+Software Engineering Manager,Amazon,United States,WA,Seattle,22/02/18,L6 SDM,Distributed Systems (Back-End),6.0,8.0,358.0,158.0,200.0,0.0,0.0
+Software Engineering Manager,Atlassian,United States,TX,Austin,22/02/17,M3,Security,0.0,4.0,271.0,170.0,75.0,26.0,0.0
+Software Engineering Manager,Intuit,United States,CA,San Diego,22/02/17,M3,DevOps,3.0,30.0,490.0,228.0,200.0,62.0,0.0
+Software Engineering Manager,OVHcloud,Canada,QC,Montreal,22/02/17,L6,Site Reliability (SRE),3.0,20.0,151.0,130.0,1.0,20.0,0.0
+Software Engineering Manager,Booking.com,United Kingdom,EN,London,22/02/17,EM,Mobile (iOS + Android),2.0,12.0,179.0,143.0,20.0,16.0,0.0
+Software Engineering Manager,PayPal,India,TN,Chennai,22/02/17,T26,Full Stack,0.0,13.0,91.0,65.0,16.0,10.0,0.0
+Software Engineering Manager,Dolby Laboratories,United States,CA,San Francisco,22/02/17,M4,Testing (SDET),10.0,15.0,295.0,215.0,45.0,35.0,0.0
+Software Engineering Manager,Google,United States,CA,Sunnyvale,22/02/17,Manager (L6),API Development (Back-End),2.0,20.0,505.0,231.0,213.0,61.0,0.0
 Software Engineering Manager,Amazon,United States,TN,Nashville,22/02/17,L6 SDM,Full Stack,2.0,16.0,280.0,160.0,120.0,0.0,0.0
 Software Engineering Manager,Twilio,United States,TX,Austin,22/02/17,L5,Distributed Systems (Back-End),5.0,12.0,542.0,192.0,350.0,0.0,0.0
 Software Engineering Manager,Capital Group,United States,CA,Los Angeles,22/02/17,Vice President,Full Stack,2.0,20.0,900.0,300.0,0.0,600.0,0.0

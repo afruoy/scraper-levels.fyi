@@ -1,4 +1,7 @@
 Job,Company,Country,Region,City,Date,Level,Tag,Years Comp,Years Xp,Compensation,Base,Stock,Bonus,Nego Gain
+Marketing,Microsoft,United States,WA,Seattle,22/02/18,62,Internal and Executive Communications,0.0,10.0,180.0,130.0,10.0,40.0,0.0
+Marketing,HubSpot,United States,MA,Boston,22/02/18,L3,Consiltant,0.0,5.0,90.0,90.0,0.0,0.0,0.0
+Marketing,Disney Streaming,United States,NY,New York,22/02/17,Associate,Marketing,2.0,4.0,79.0,75.0,0.0,4.0,0.0
 Marketing,Robinhood,United States,CA,San Francisco,22/02/17,L4,Communications,1.0,8.0,235.0,170.0,45.0,20.0,0.0
 Marketing,Microsoft,United States,WA,Redmond,22/02/17,66,Marketing,8.0,21.0,337.0,206.0,90.0,41.0,0.0
 Marketing,Facebook,United States,CA,Menlo Park,22/02/16,IC5,BPM,3.0,9.0,272.0,167.0,80.0,25.0,0.0
