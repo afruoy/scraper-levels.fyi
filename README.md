@@ -26,7 +26,7 @@ Basic web-scraping.
 	* [Chromedriver](https://chromedriver.chromium.org/)
 * Scraping with : 
     * [BeautifulSoup4](https://en.wikipedia.org/wiki/Beautiful_Soup_\(HTML_parser\))
-    * [Requests-html](https://docs.python-requests.org/projects/requests-html/en/latest/) (not anymore)
+    * [Requests-html](https://docs.python-requests.org/projects/requests-html/en/latest/)
 * Ongoing updating on a RaspberryPi 3B with : 
 	* [Keychain](https://www.funtoo.org/Keychain)
 	* [Cron](https://en.wikipedia.org/wiki/Cron)
