@@ -28,8 +28,8 @@ Basic web-scraping.
     * [BeautifulSoup4](https://en.wikipedia.org/wiki/Beautiful_Soup_\(HTML_parser\))
     * [Requests-html](https://docs.python-requests.org/projects/requests-html/en/latest/)
 * Ongoing updating on a RaspberryPi 3B with : 
-	* [Keychain](https://www.funtoo.org/Keychain)
-	* [Cron](https://en.wikipedia.org/wiki/Cron)
+	* [Keychain](https://www.funtoo.org/Keychain) for the SSH keys.
+	* [Cron](https://en.wikipedia.org/wiki/Cron) for the job scheduling.
 
 ### What to do next?
 
