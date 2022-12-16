@@ -46,4 +46,4 @@ Basic web-scraping.
 
 ### Is it illegal?
 
-Nothing suggests it in the [robots.txt](https://www.levels.fyi/robots.txt) file or in the [T&Cs](https://www.levels.fyi/about/terms.html) page, as long as this repo stays private.
+Nothing suggests it in the [robots.txt](https://www.levels.fyi/robots.txt) file or in the [T&Cs](https://www.levels.fyi/about/terms.html) page.
